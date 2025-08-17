@@ -63,9 +63,19 @@ document.addEventListener("DOMContentLoaded", async () => {
 
     // Validar con plantilla
     const plantilla = await (await fetch('data/plantilla-quiz.json')).json();
-    if (!data.titulo || !data.preguntas || data.preguntas.length !== 15) {
-      return status.textContent = 'Error: El quiz debe tener 15 preguntas y un título.';
-    }
+   // ✅ Ahora (flexible)
+if (!data.titulo || !data.preguntas || data.preguntas.length === 0) {
+  return status.textContent = 'Error: El quiz debe tener un título y al menos una pregunta.';
+}
+
+// Opcional: advertencia si hay muy pocas o demasiadas
+if (data.preguntas.length < 5) {
+  status.textContent = 'Advertencia: Este quiz tiene solo ' + data.preguntas.length + ' preguntas. Se recomiendan al menos 5.';
+} else if (data.preguntas.length > 30) {
+  status.textContent = 'Advertencia: Más de 30 preguntas puede ser demasiado extenso.';
+} else {
+  status.textContent = '';
+}
 
     // Guardar en localStorage o en servidor (aquí simulamos)
     const quizzesGuardados = JSON.parse(localStorage.getItem('quizzes') || '[]');
