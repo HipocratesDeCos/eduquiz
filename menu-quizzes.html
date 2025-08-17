@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Quizzes - Categoría</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body class="menu-body">
+  <header>
+    <button id="back-btn" class="btn-back">
+      <img src="assets/icons/arrow-back.svg" alt="Volver">
+    </button>
+    <h1 id="categoria-titulo">Cargando...</h1>
+  </header>
+
+  <main class="quizzes-list">
+    <!-- Quizzes se cargan dinámicamente -->
+  </main>
+
+  <section class="upload-section">
+    <h3>Subir Nuevo Quiz (Profesor)</h3>
+    <div id="drop-area" class="drop-area">
+      <p>Arrastra y suelta un archivo .json aquí</p>
+      <input type="file" id="file-input" accept=".json" hidden />
+    </div>
+    <button id="upload-btn" class="btn-primary">Subir archivo</button>
+    <p id="upload-status"></p>
+  </section>
+
+  <script src="js/quizzes.js"></script>
+</body>
+</html>
