@@ -1,0 +1,12 @@
+[
+  {
+    "id": "contabilidad-financiera",
+    "nombre": "CONTABILIDAD FINANCIERA",
+    "imagen": "assets/images/contabilidad.jpg"
+  },
+  {
+    "id": "derecho-empresarial",
+    "nombre": "DERECHO EMPRESARIAL",
+    "imagen": "assets/images/derecho.jpg"
+  }
+]
