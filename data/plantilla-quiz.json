@@ -1,0 +1,18 @@
+{
+  "titulo": "Nombre del Quiz",
+  "descripcion": "Breve descripción",
+  "preguntas": [
+    {
+      "aprendizaje": "Texto de 150-200 palabras explicando el concepto...",
+      "pregunta": "¿Cuál es la fórmula del activo?",
+      "opciones": [
+        "Activo = Pasivo + Patrimonio",
+        "Pasivo = Activo + Patrimonio",
+        "Patrimonio = Activo - Ingresos",
+        "Activo = Ingresos - Gastos"
+      ],
+      "correcta": 0,
+      "explicacion": "El activo es igual al pasivo más el patrimonio neto, según la ecuación fundamental de la contabilidad."
+    }
+  ]
+}
