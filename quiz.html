@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Quiz Interactivo</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body class="quiz-body">
+  <header>
+    <button id="btn-inicio" class="btn-sm">Inicio</button>
+    <button id="btn-menu" class="btn-sm">Otro Quiz</button>
+    <div class="progress-bar">
+      <div id="progress" style="width: 0%"></div>
+    </div>
+  </header>
+
+  <main id="quiz-container">
+    <!-- Pregunta actual -->
+    <div id="pregunta-seccion">
+      <div id="texto-aprendizaje"></div>
+      <h2 id="pregunta-texto"></h2>
+      <div id="respuestas" class="respuestas-grid"></div>
+      <div class="actions">
+        <button id="btn-validar" class="btn-primary">Validar Respuesta</button>
+        <span id="saber-mas" class="saber-mas">Saber más</span>
+      </div>
+    </div>
+  </main>
+
+  <!-- Modal Saber Más -->
+  <div id="modal" class="modal">
+    <div class="modal-content">
+      <span class="close">&times;</span>
+      <h3>Explicación Detallada</h3>
+      <p id="explicacion-extra"></p>
+    </div>
+  </div>
+
+  <!-- Pantalla Final -->
+  <div id="final-screen" class="final-screen" style="display: none">
+    <h2>¡Quiz Finalizado!</h2>
+    <p id="resultado-final"></p>
+    <p id="frase-motivadora"></p>
+    <div id="logros-desbloqueados"></div>
+    <button id="reiniciar-quiz" class="btn-primary">Repetir Quiz</button>
+    <button id="volver-menu" class="btn-secondary">Volver al Menú</button>
+  </div>
+
+  <script src="js/quiz-engine.js"></script>
+</body>
+</html>
