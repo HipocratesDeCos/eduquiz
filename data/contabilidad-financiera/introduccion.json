@@ -1,0 +1,19 @@
+{
+  "titulo": "Introducción a la Contabilidad",
+  "descripcion": "Primeros conceptos clave",
+  "preguntas": [
+    {
+      "aprendizaje": "La contabilidad financiera es la rama de la contabilidad que se encarga de registrar, clasificar y resumir las transacciones económicas de una empresa con el fin de presentar información financiera a terceros interesados, como inversores, acreedores y autoridades fiscales. Su objetivo principal es elaborar estados financieros como el balance general, la cuenta de resultados y el estado de flujos de efectivo. Esta información debe cumplir con normas contables como las NIIF o los principios contables generalmente aceptados (PCGA). La contabilidad financiera se basa en el principio de partida doble, donde cada transacción afecta al menos dos cuentas. Es fundamental para evaluar la salud financiera de una empresa.",
+      "pregunta": "¿Cuál es la ecuación fundamental de la contabilidad?",
+      "opciones": [
+        "Activo = Pasivo + Patrimonio Neto",
+        "Pasivo = Activo - Ingresos",
+        "Patrimonio = Activo + Pasivo",
+        "Ingresos = Gastos + Utilidad"
+      ],
+      "correcta": 0,
+      "explicacion": "La ecuación fundamental es Activo = Pasivo + Patrimonio Neto. Representa la estructura del balance general."
+    }
+    // ... 14 preguntas más
+  ]
+}
