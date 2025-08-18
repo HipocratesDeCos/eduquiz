@@ -1,36 +1,29 @@
-// js/quiz-engine.js
-
 document.addEventListener("DOMContentLoaded", () => {
-  // === 1. Intentar cargar el quiz desde localStorage
   const quizDataStr = localStorage.getItem('quizData');
   let quiz = null;
 
   if (!quizDataStr) {
-    alert('Error: No se encontró el contenido del quiz. Por favor, vuelve a subirlo.');
-    console.error('No se encontró quizData en localStorage');
-    return (window.location.href = 'menu-quizzes.html');
+    alert('Error: No se encontró el contenido del quiz.');
+    return window.location.href = 'menu-quizzes.html';
   }
 
   try {
     quiz = JSON.parse(quizDataStr);
   } catch (e) {
-    alert('Error: El contenido del quiz está corrupto. Vuelve a subir el archivo.');
-    console.error('Error al parsear quizData:', e);
-    return (window.location.href = 'menu-quizzes.html');
+    alert('Error: El contenido del quiz está corrupto.');
+    console.error(e);
+    return window.location.href = 'menu-quizzes.html';
   }
 
   if (!quiz.preguntas || !Array.isArray(quiz.preguntas) || quiz.preguntas.length === 0) {
     alert('Error: El quiz no tiene preguntas válidas.');
-    console.error('Quiz sin preguntas:', quiz);
-    return (window.location.href = 'menu-quizzes.html');
+    return window.location.href = 'menu-quizzes.html';
   }
 
-  // === 2. Variables del quiz
   let currentQ = 0;
   let respuestas = [];
   const totalPreguntas = quiz.preguntas.length;
 
-  // === 3. Elementos del DOM
   const textoAprendizaje = document.getElementById('texto-aprendizaje');
   const preguntaTexto = document.getElementById('pregunta-texto');
   const respuestasGrid = document.getElementById('respuestas');
@@ -38,28 +31,15 @@ document.addEventListener("DOMContentLoaded", () => {
   const saberMas = document.getElementById('saber-mas');
   const progress = document.getElementById('progress');
 
-  // === 4. Función: Actualizar progreso
-  const actualizarProgreso = () => {
-    const porcentaje = (currentQ / totalPreguntas) * 100;
-    progress.style.width = `${porcentaje}%`;
-  };
-
-  // === 5. Función: Mostrar pregunta
   const mostrarPregunta = () => {
     const q = quiz.preguntas[currentQ];
 
-    // Aseguramos que los campos existan
-    textoAprendizaje.textContent = q.intro || q.introduccion || q.aprendizaje || 'No hay texto de repaso disponible.';
-    preguntaTexto.textContent = q.question || q.pregunta || 'Pregunta no disponible.';
+    textoAprendizaje.textContent = q.intro;
+    preguntaTexto.textContent = q.question;
 
-    // Limpiar opciones
     respuestasGrid.innerHTML = '';
-
-    const opciones = Array.isArray(q.options) ? q.options : [];
-    if (opciones.length === 0) {
-      respuestasGrid.innerHTML = '<p>No hay opciones disponibles.</p>';
-    } else {
-      opciones.forEach((opc, i) => {
+    if (q.options && q.options.length > 0) {
+      q.options.forEach((opc, i) => {
         const btn = document.createElement('button');
         btn.className = 'respuesta-btn';
         btn.textContent = opc;
@@ -72,35 +52,26 @@ document.addEventListener("DOMContentLoaded", () => {
       });
     }
 
-    // Mostrar número de pregunta
-    const header = preguntaTexto;
     const numEl = document.createElement('div');
     numEl.className = 'pregunta-num';
     numEl.textContent = `Pregunta ${currentQ + 1} de ${totalPreguntas}`;
-    header.parentNode.insertBefore(numEl, header);
+    preguntaTexto.parentNode.insertBefore(numEl, preguntaTexto);
 
-    // Mostrar botones
     btnValidar.style.display = 'block';
     btnValidar.disabled = false;
     saberMas.style.display = 'inline';
 
-    // Ocultar pantalla final
     document.getElementById('final-screen').style.display = 'none';
   };
 
-  // === 6. Validar respuesta
   btnValidar.addEventListener('click', () => {
     const selectedBtn = document.querySelector('.respuesta-btn.selected');
-    if (!selectedBtn) {
-      alert('Selecciona una respuesta');
-      return;
-    }
+    if (!selectedBtn) return alert('Selecciona una respuesta');
 
     const selectedIndex = parseInt(selectedBtn.dataset.index);
     const correctIndices = Array.isArray(q.correct) ? q.correct : [q.correct];
     const esCorrecta = correctIndices.includes(selectedIndex);
 
-    // Marcar respuestas
     document.querySelectorAll('.respuesta-btn').forEach((btn, i) => {
       if (correctIndices.includes(i)) {
         btn.classList.add('correcta');
@@ -109,20 +80,15 @@ document.addEventListener("DOMContentLoaded", () => {
       }
     });
 
-    // Guardar respuesta
     respuestas.push(esCorrecta);
 
-    // Desactivar botón
     btnValidar.style.display = 'none';
 
-    // Saber más
-    const saberMasText = q.saber_mas || q.explicacion || '<p>No hay explicación adicional disponible.</p>';
     saberMas.onclick = () => {
-      document.getElementById('explicacion-extra').innerHTML = saberMasText;
+      document.getElementById('explicacion-extra').innerHTML = q.saber_mas;
       document.getElementById('modal').style.display = 'flex';
     };
 
-    // Avanzar o finalizar
     if (currentQ < totalPreguntas - 1) {
       setTimeout(() => {
         currentQ++;
@@ -134,25 +100,11 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 
-  // === 7. Modal "Saber más"
-  document.querySelector('.close').onclick = () => {
-    document.getElementById('modal').style.display = 'none';
-  };
-  window.onclick = (e) => {
-    if (e.target === document.getElementById('modal')) {
-      document.getElementById('modal').style.display = 'none';
-    }
+  const actualizarProgreso = () => {
+    const porcentaje = (currentQ / totalPreguntas) * 100;
+    progress.style.width = `${porcentaje}%`;
   };
 
-  // === 8. Navegación
-  document.getElementById('btn-inicio').onclick = () => {
-    window.location.href = 'index.html';
-  };
-  document.getElementById('btn-menu').onclick = () => {
-    window.location.href = 'menu-quizzes.html';
-  };
-
-  // === 9. Pantalla final
   const finalizarQuiz = () => {
     const aciertos = respuestas.filter(r => r).length;
     const porcentaje = (aciertos / totalPreguntas) * 100;
@@ -184,7 +136,6 @@ document.addEventListener("DOMContentLoaded", () => {
     document.getElementById('final-screen').style.display = 'block';
   };
 
-  // === 10. Botones finales
   document.getElementById('reiniciar-quiz').onclick = () => {
     currentQ = 0;
     respuestas = [];
@@ -196,7 +147,24 @@ document.addEventListener("DOMContentLoaded", () => {
     window.location.href = 'menu-quizzes.html';
   };
 
-  // === 11. Iniciar
+  document.getElementById('btn-inicio').onclick = () => {
+    window.location.href = 'index.html';
+  };
+
+  document.getElementById('btn-menu').onclick = () => {
+    window.location.href = 'menu-quizzes.html';
+  };
+
+  document.querySelector('.close').onclick = () => {
+    document.getElementById('modal').style.display = 'none';
+  };
+
+  window.onclick = (e) => {
+    if (e.target === document.getElementById('modal')) {
+      document.getElementById('modal').style.display = 'none';
+    }
+  };
+
   mostrarPregunta();
   actualizarProgreso();
 });
