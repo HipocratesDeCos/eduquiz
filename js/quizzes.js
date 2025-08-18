@@ -5,17 +5,26 @@ document.addEventListener("DOMContentLoaded", async () => {
   if (!categoriaId) return window.location.href = 'index.html';
 
   // Cargar título de la categoría
-  const categorias = await (await fetch('data/categorias.json')).json();
-  const categoria = categorias.find(c => c.id === categoriaId);
+  let categoria;
+  try {
+    const res = await fetch('data/categorias.json');
+    const categorias = await res.json();
+    categoria = categorias.find(c => c.id === categoriaId);
+    if (!categoria) throw new Error('Categoría no encontrada');
+  } catch (e) {
+    console.error('Error al cargar categorías:', e);
+    alert('No se pudo cargar la categoría.');
+    return window.location.href = 'index.html';
+  }
+
   document.getElementById('categoria-titulo').textContent = categoria.nombre;
 
-  // Lista de quizzes (estáticos + dinámicos)
   const quizzesList = document.querySelector('.quizzes-list');
-  quizzesList.innerHTML = ''; // Limpiar
+  quizzesList.innerHTML = '';
 
-  // === 1. Cargar quizzes estáticos desde el servidor (ej: data/contabilidad-financiera/*.json)
+  // === 1. Cargar quizzes estáticos (ej: data/contabilidad-financiera/*.json)
   try {
-    // Simulamos que hay un archivo índice (en producción, esto vendría de un servidor o se genera)
+    // Simulamos lista de quizzes estáticos (puedes cambiar esto por un JSON real o API)
     const quizzesEstaticos = [
       { file: 'introduccion.json', title: 'Introducción al PGC' }
     ];
@@ -31,10 +40,10 @@ document.addEventListener("DOMContentLoaded", async () => {
       quizzesList.appendChild(btn);
     });
   } catch (e) {
-    console.warn('No hay quizzes estáticos disponibles.');
+    console.warn('No se pudieron cargar quizzes estáticos:', e);
   }
 
-  // === 2. Cargar quizzes subidos por el profesor (desde localStorage)
+  // === 2. Cargar quizzes subidos (desde localStorage)
   const quizzesGuardados = JSON.parse(localStorage.getItem('quizzes') || '[]');
   const quizzesDeEstaCategoria = quizzesGuardados.filter(q => q.categoria === categoriaId);
 
@@ -43,9 +52,8 @@ document.addEventListener("DOMContentLoaded", async () => {
     btn.className = 'quiz-btn slide-in';
     btn.textContent = qData.data.titulo;
     btn.onclick = () => {
-      // Guardar el quiz completo en localStorage para que quiz.html lo cargue
       localStorage.setItem('quizData', JSON.stringify(qData.data));
-      localStorage.setItem('quizFile', `subido/${qData.data.titulo}.json`); // nombre simulado
+      localStorage.setItem('quizFile', `subido/${encodeURIComponent(qData.data.titulo)}.json`);
       window.location.href = 'quiz.html';
     };
     quizzesList.appendChild(btn);
@@ -58,70 +66,78 @@ document.addEventListener("DOMContentLoaded", async () => {
   const status = document.getElementById('upload-status');
 
   dropArea.addEventListener('click', () => fileInput.click());
-  dropArea.addEventListener('dragover', e => {
-    e.preventDefault();
-    dropArea.classList.add('highlight');
+  ['dragover', 'dragenter'].forEach(eventName => {
+    dropArea.addEventListener(eventName, e => {
+      e.preventDefault();
+      dropArea.classList.add('highlight');
+    });
   });
-  dropArea.addEventListener('dragleave', () => dropArea.classList.remove('highlight'));
+  ['dragleave', 'dragend'].forEach(eventName => {
+    dropArea.addEventListener(eventName, () => {
+      dropArea.classList.remove('highlight');
+    });
+  });
   dropArea.addEventListener('drop', e => {
     e.preventDefault();
     dropArea.classList.remove('highlight');
-    fileInput.files = e.dataTransfer.files;
+    if (e.dataTransfer.files.length) {
+      fileInput.files = e.dataTransfer.files;
+    }
   });
 
   uploadBtn.addEventListener('click', async () => {
     const file = fileInput.files[0];
     if (!file) return alert('Selecciona un archivo .json');
 
-    let data;
+    let rawData;
     try {
-      const json = await file.text();
-      data = JSON.parse(json);
+      const text = await file.text();
+      rawData = JSON.parse(text);
     } catch (e) {
       return status.textContent = 'Error: Archivo JSON inválido.';
     }
 
-    // Validar campos obligatorios
-    const titulo = data.titulo || data.title;
-    const preguntas = data.preguntas || data.questions;
+    // Normalizar campos
+    const titulo = rawData.titulo || rawData.title;
+    const preguntas = rawData.preguntas || rawData.questions;
 
-    if (!titulo || !preguntas || preguntas.length === 0) {
+    if (!titulo || !preguntas || !Array.isArray(preguntas) || preguntas.length === 0) {
       return status.textContent = 'Error: El quiz debe tener un título y al menos una pregunta.';
     }
 
-    // Normalizar el objeto
     const quizValido = {
-      titulo: titulo,
-      descripcion: data.descripcion || '',
-      preguntas: preguntas.map(p => ({
-        intro: p.intro || p.introduccion || '',
-        question: p.question || p.pregunta || '',
-        options: p.options || p.opciones || [],
-        correct: Array.isArray(p.correct) ? p.correct : [p.correct],
-        saber_mas: p.saber_mas || p.explicacion || ''
-      }))
+      titulo,
+      descripcion: rawData.descripcion || rawData.description || '',
+      preguntas: preguntas.map(p => {
+        const intro = p.intro || p.introduccion || p.aprendizaje || 'Texto de repaso no disponible.';
+        const question = p.question || p.pregunta || 'Pregunta no disponible.';
+        const options = Array.isArray(p.options || p.opciones) ? (p.options || p.opciones) : [];
+        const correct = Array.isArray(p.correct) ? p.correct : (typeof p.correct === 'number' ? [p.correct] : []);
+        const saber_mas = p.saber_mas || p.explicacion || p['Saber más'] || '<p>No hay explicación adicional disponible.</p>';
+
+        return { intro, question, options, correct, saber_mas };
+      })
     };
 
     // Guardar en localStorage
-    const quizzesGuardados = JSON.parse(localStorage.getItem('quizzes') || '[]');
-    quizzesGuardados.push({ categoria: categoriaId, data: quizValido });
-    localStorage.setItem('quizzes', JSON.stringify(quizzesGuardados));
+    const updatedQuizzes = [...quizzesGuardados, { categoria: categoriaId, data: quizValido }];
+    localStorage.setItem('quizzes', JSON.stringify(updatedQuizzes));
 
-    // Añadir inmediatamente a la lista (sin recargar)
+    // Añadir inmediatamente a la lista
     const btn = document.createElement('button');
     btn.className = 'quiz-btn slide-in';
     btn.textContent = quizValido.titulo;
     btn.onclick = () => {
       localStorage.setItem('quizData', JSON.stringify(quizValido));
-      localStorage.setItem('quizFile', `subido/${quizValido.titulo}.json`);
+      localStorage.setItem('quizFile', `subido/${encodeURIComponent(quizValido.titulo)}.json`);
       window.location.href = 'quiz.html';
     };
     quizzesList.appendChild(btn);
 
-    status.textContent = `✅ Quiz "${quizValido.titulo}" subido y visible.`;
+    status.textContent = `✅ "${quizValido.titulo}" subido y listo.`;
     setTimeout(() => status.textContent = '', 3000);
 
-    // Limpiar input
+    // Limpiar
     fileInput.value = '';
   });
 });
