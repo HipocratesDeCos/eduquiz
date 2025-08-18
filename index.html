@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Formación Quiz</title>
+  <title>Formación Interactiva</title>
   <link rel="stylesheet" href="css/styles.css" />
 </head>
 <body class="index-body">
@@ -13,31 +13,9 @@
   </header>
 
   <main class="category-grid">
-    <!-- Las categorías se cargan dinámicamente -->
+    <!-- Categorías cargadas dinámicamente -->
   </main>
 
   <script src="js/main.js"></script>
-  <script>
-    // Cargar categorías desde JSON
-    document.addEventListener("DOMContentLoaded", async () => {
-      const res = await fetch('data/categorias.json');
-      const categorias = await res.json();
-
-      const grid = document.querySelector('.category-grid');
-      categorias.forEach(cat => {
-        const card = document.createElement('div');
-        card.className = 'category-card';
-        card.innerHTML = `
-          <img src="${cat.imagen}" alt="${cat.nombre}">
-          <div class="category-name">${cat.nombre}</div>
-        `;
-        card.onclick = () => {
-          localStorage.setItem('categoriaActual', cat.id);
-          window.location.href = 'menu-quizzes.html';
-        };
-        grid.appendChild(card);
-      });
-    });
-  </script>
 </body>
 </html>
