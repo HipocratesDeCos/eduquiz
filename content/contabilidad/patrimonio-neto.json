@@ -1,0 +1,186 @@
+{
+  "title": "Patrimonio Neto: Capital, Reservas y Resultados",
+  "description": "Quiz avanzado sobre el patrimonio neto: capital social, ampliaciones, reservas, subvenciones, resultados y políticas de reparto.",
+  "questions": [
+    {
+      "intro": "El patrimonio neto representa la diferencia entre el activo y el pasivo de una empresa. Está formado por el capital social, las reservas, las subvenciones, y el resultado del ejercicio. Es una sección clave del balance, ya que refleja los fondos propios y la solvencia a largo plazo. El capital social es la aportación inicial de los socios, mientras que las reservas son acumulaciones de beneficios no distribuidos. Las subvenciones pueden aumentar el patrimonio si son no reintegrables. Es fundamental distinguir entre el capital suscrito, desembolsado y pendiente de desembolsar, y cumplir con los requisitos legales mínimos de desembolso (25% del nominal más prima de emisión).",
+      "question": "1. ¿Cuál es el desembolso mínimo obligatorio en una ampliación de capital según la Ley de Sociedades de Capital?",
+      "options": [
+        "El 10% del valor nominal",
+        "El 25% del valor nominal más la totalidad de la prima de emisión",
+        "El 50% del valor nominal",
+        "La totalidad del capital en el momento de la ampliación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Según la <u>Ley de Sociedades de Capital</u>, en una ampliación de capital, el desembolso mínimo es del <strong>25% del valor nominal</strong> de las acciones nuevas, <strong>más la totalidad de la prima de emisión</strong>, si la hubiera.</p><p>Este requisito asegura que los nuevos fondos aportados tengan una base sólida y evita la creación de capital ficticio.</p><p>Por ejemplo: Si se emiten acciones de 1€ nominal a 3€ (prima de 2€), se debe desembolsar al menos 0,25€ (25% del nominal) + 2€ (prima) = 2,25€ por acción.</p>"
+    },
+    {
+      "intro": "El capital social es el conjunto de aportaciones realizadas por los socios para constituir la empresa. Puede aumentarse mediante ampliaciones o reducirse en casos excepcionales. Existen diferentes tipos de aportaciones: dinerarias, no dinerarias, y aportaciones en especie. Cada tipo tiene un tratamiento contable específico. Además, el capital puede estar suscrito, desembolsado o pendiente de desembolsar. Es fundamental mantener un registro claro para cumplir con la legalidad y garantizar la transparencia ante terceros.",
+      "question": "2. ¿Qué cuenta se utiliza para registrar el capital social desembolsado?",
+      "options": [
+        "(100) Capital social",
+        "(101) Capital pendiente de desembolsar",
+        "(112) Reservas voluntarias",
+        "(102) Capital no desembolsado"
+      ],
+      "correct": [0],
+      "saber_mas": "<p>La cuenta <u>(100) Capital social</u> registra el capital desembolsado por los socios.</p><p>La cuenta <strong>(101)</strong> se usa para el capital suscrito pero no desembolsado.</p><p>Al realizar el desembolso, se pasa de (101) a (100):<br>(101) Capital pendiente de desembolsar 25.000<br>&nbsp;&nbsp;&nbsp;&nbsp;a (100) Capital social 25.000</p><p>Este movimiento no genera ingreso, ya que es una aportación patrimonial.</p>"
+    },
+    {
+      "intro": "Las ampliaciones de capital permiten a la empresa obtener nuevos recursos para financiar proyectos. Pueden hacerse con derecho de suscripción preferente (DSP) o sin él. El DSP permite a los socios antiguos mantener su porcentaje de propiedad. El valor teórico del derecho se calcula en función del valor de las acciones antes y después de la ampliación. Vender el DSP puede compensar la pérdida de valor de las acciones antiguas.",
+      "question": "3. ¿Cómo se calcula el valor teórico del derecho de suscripción preferente?",
+      "options": [
+        "VT - VE",
+        "(VT - VE) / (N + 1)",
+        "(VT - VE) / N",
+        "VE - VT"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>valor teórico del derecho de suscripción (VTD)</u> se calcula como:<br><strong>VTD = (VT - VE) / (N + 1)</strong></p><p>Donde:<br><strong>VT</strong> = Valor teórico antes de la ampliación<br><strong>VE</strong> = Precio de emisión de nuevas acciones<br><strong>N</strong> = Relación de derechos necesarios (antiguas/nuevas)</p><p>Por ejemplo: VT = 28€, VE = 20€, N = 4 (1 nueva por 4 antiguas)<br>VTD = (28 - 20) / (4 + 1) = 8 / 5 = 1,60€</p>"
+    },
+    {
+      "intro": "Las reservas son acumulaciones de beneficios que la empresa decide no repartir. Pueden ser legales (obligatorias por ley) o voluntarias (decisión del órgano social). Las reservas legales se forman con el 10% del beneficio neto hasta alcanzar el 20% del capital social. Las voluntarias las decide la junta. Ambas fortalecen el patrimonio neto y mejoran la solvencia. Las reservas no pueden distribuirse como dividendos, salvo en casos de reducción de capital.",
+      "question": "4. ¿Qué porcentaje del beneficio neto debe destinarse a reserva legal hasta alcanzar el 20% del capital social?",
+      "options": [
+        "5%",
+        "10%",
+        "15%",
+        "20%"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Según el <u>Código de Comercio</u>, el 10% del beneficio neto del ejercicio debe destinarse a <strong>reserva legal</strong> hasta que su saldo alcance el 20% del capital social.</p><p>Una vez alcanzado ese límite, la dotación es voluntaria.</p><p>Se registra:<br>(129) Resultado del ejercicio 10.000<br>&nbsp;&nbsp;&nbsp;&nbsp;a (113) Reserva legal 10.000</p><p>Esta reserva refuerza la estabilidad financiera de la empresa.</p>"
+    },
+    {
+      "intro": "Las subvenciones pueden recibir financiación pública o privada. Según el PGC, si son no reintegrables y cumplen condiciones, se valoran al valor razonable y se imputan a resultados. Pueden financiar explotación, gastos específicos o activos. Las subvenciones para activos se imputan de forma sistemática durante su vida útil. Es crucial diferenciar entre subvenciones reintegrables (pasivo) y no reintegrables (patrimonio neto).",
+      "question": "5. ¿Dónde se registra una subvención no reintegrable para financiar una inversión en maquinaria?",
+      "options": [
+        "(131) Subvenciones oficiales de capital",
+        "(740) Subvenciones oficiales a la explotación",
+        "(572) Bancos",
+        "Todas las anteriores"
+      ],
+      "correct": [3],
+      "saber_mas": "<p>Una subvención no reintegrable para activos se registra:<br>(572) Bancos 50.000<br>&nbsp;&nbsp;&nbsp;&nbsp;a (131) Subvenciones oficiales de capital 50.000</p><p>Posteriormente, se imputa a resultados de forma progresiva:<br>(131) Subvenciones oficiales de capital 5.000<br>&nbsp;&nbsp;&nbsp;&nbsp;a (740) Subvenciones oficiales a la explotación 5.000</p><p>Este sistema evita reconocer todo el ingreso en un solo ejercicio.</p>"
+    },
+    {
+      "intro": "El resultado del ejercicio es el beneficio o pérdida del periodo. Al final del ejercicio, se cierran todas las cuentas de ingresos y gastos, y el saldo se traslada a la cuenta (129) Resultado del ejercicio. Este saldo puede destinarse a reservas, dividendos o dejarse en resultados pendientes de aplicación. Es fundamental para conocer la rentabilidad y decidir políticas de reparto. El resultado positivo aumenta el patrimonio neto; el negativo lo reduce.",
+      "question": "6. ¿Qué ocurre con el saldo de la cuenta (129) Resultado del ejercicio al final del ejercicio?",
+      "options": [
+        "Se deja en la cuenta indefinidamente",
+        "Se transfiere a (112) Reservas voluntarias o (119) Resultados pendientes de aplicación",
+        "Se convierte en ingreso del siguiente ejercicio",
+        "Se elimina del balance"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Al cierre del ejercicio, el saldo de (129) se traslada a:<br><strong>(119) Resultados pendientes de aplicación</strong> (temporal)<br>O directamente a:<br><strong>(112) Reservas voluntarias</strong> o <strong>(113) Reserva legal</strong>.</p><p>Asiento:<br>Si hay beneficio:<br>(129) Resultado del ejercicio 50.000<br>&nbsp;&nbsp;&nbsp;&nbsp;a (119) Resultados pendientes de aplicación 50.000</p><p>Este saldo luego se destina a reservas o dividendos.</p>"
+    },
+    {
+      "intro": "Las ampliaciones de capital con prima de emisión generan un superávit sobre el valor nominal de las acciones. Esta prima se registra en la cuenta (103) y forma parte del patrimonio neto. No puede distribuirse como dividendo, pero puede usarse para absorber pérdidas o aumentar el capital. Es una fuente importante de financiación interna sin deuda.",
+      "question": "7. ¿Dónde se registra la prima de emisión en una ampliación de capital?",
+      "options": [
+        "(100) Capital social",
+        "(103) Prima de emisión",
+        "(112) Reservas voluntarias",
+        "(740) Subvenciones"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>prima de emisión</u> se registra en la cuenta <strong>(103)</strong>.</p><p>Ejemplo: Emisión de 10.000 acciones a 3€ (nominal 1€):<br>(572) Bancos 30.000<br>&nbsp;&nbsp;&nbsp;&nbsp;a (100) Capital social 10.000<br>&nbsp;&nbsp;&nbsp;&nbsp;a (103) Prima de emisión 20.000</p><p>La prima forma parte del patrimonio neto pero no del capital social nominal.</p>"
+    },
+    {
+      "intro": "El fondo de comercio positivo surge cuando una empresa adquiere otra por un precio superior al valor razonable de su patrimonio neto. Se registra como activo intangible y se amortiza sistemáticamente. Es un activo no corriente que refleja la reputación, clientela y otros factores intangibles. Su deterioro debe evaluarse anualmente. Es clave en las combinaciones de negocios.",
+      "question": "8. ¿Cómo se calcula el fondo de comercio en una combinación de negocios?",
+      "options": [
+        "Activo - Pasivo",
+        "Coste de adquisición - Valor razonable del patrimonio neto",
+        "Capital social + Reservas",
+        "Beneficio neto / Número de acciones"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>fondo de comercio</u> se calcula como:<br><strong>Coste de adquisición - Valor razonable del patrimonio neto</strong></p><p>Por ejemplo: Compra por 100.000€ de una empresa con patrimonio neto de 86.000€.<br>Fondo de comercio = 100.000 - 86.000 = 14.000€</p><p>Se registra:<br>(200) Fondo de comercio 14.000<br>&nbsp;&nbsp;&nbsp;&nbsp;a (100) Capital social (ajuste) 14.000</p><p>Es un activo intangible amortizable.</p>"
+    },
+    {
+      "intro": "Las reducciones de capital permiten devolver fondos a los socios o eliminar pérdidas. Pueden ser con reducción de desembolso (devolución de aportaciones) o sin ella (para absorber pérdidas). Requieren justificación legal y aprobación de la junta. Son menos comunes que las ampliaciones, pero útiles en situaciones de sobrecapitalización o pérdidas acumuladas.",
+      "question": "9. ¿Para qué puede utilizarse una reducción de capital sin devolución de aportaciones?",
+      "options": [
+        "Para aumentar las reservas",
+        "Para absorber pérdidas acumuladas",
+        "Para repartir dividendos",
+        "Para comprar acciones del mercado"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Una <u>reducción de capital sin devolución</u> se usa para:<br><strong>Absorber pérdidas acumuladas</strong> del patrimonio neto.</p><p>Asiento:<br>(100) Capital social 50.000<br>&nbsp;&nbsp;&nbsp;&nbsp;a (119) Resultados pendientes de aplicación 50.000</p><p>No hay salida de efectivo. Solo se ajusta el patrimonio neto.</p><p>Requiere justificación y aprobación legal.</p>"
+    },
+    {
+      "intro": "El valor teórico de las acciones es un indicador del valor patrimonial por acción. Se calcula dividiendo el patrimonio neto entre el número de acciones. Es útil para valorar empresas, tomar decisiones de inversión o evaluar el impacto de una ampliación. No coincide necesariamente con la cotización de mercado, que incluye expectativas futuras.",
+      "question": "10. ¿Cómo se calcula el valor teórico de una acción?",
+      "options": [
+        "Capital social / Número de acciones",
+        "Patrimonio neto / Número de acciones",
+        "Beneficio neto / Número de acciones",
+        "Activo total / Número de acciones"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>valor teórico (VT)</u> de una acción es:<br><strong>Patrimonio Neto / Número de Acciones</strong></p><p>Por ejemplo: Patrimonio neto = 500.000€, 100.000 acciones.<br>VT = 500.000 / 100.000 = 5€ por acción.</p><p>Este valor es patrimonial, no de mercado. Una acción puede cotizar a más o menos según expectativas.</p>"
+    },
+    {
+      "intro": "Las subvenciones condicionadas se reconocen como pasivo hasta que se cumplen las condiciones. Si no se cumplen, deben reintegrarse. Solo cuando hay certeza razonable de cumplimiento y recepción, pueden trasladarse al patrimonio neto. Es un tratamiento conservador que evita reconocer ingresos inciertos.",
+      "question": "11. ¿Qué tratamiento contable tiene una subvención que aún no cumple condiciones?",
+      "options": [
+        "Se registra como ingreso inmediato",
+        "Se registra como pasivo",
+        "Se ignora hasta que se cumplan las condiciones",
+        "Se registra como reserva voluntaria"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Una subvención <u>condicionada</u> se registra como <strong>pasivo</strong> hasta que se cumplan las condiciones.</p><p>Asiento:<br>(572) Bancos 60.000<br>&nbsp;&nbsp;&nbsp;&nbsp;a (525) Pasivo por subvención condicionada 60.000</p><p>Al cumplirse las condiciones:<br>(525) Pasivo por subvención condicionada 60.000<br>&nbsp;&nbsp;&nbsp;&nbsp;a (131) Subvenciones oficiales de capital 60.000</p><p>Evita reconocer ingresos antes de tiempo.</p>"
+    },
+    {
+      "intro": "Las reservas estatutarias se crean por decisión de los estatutos sociales. Son similares a las voluntarias, pero su dotación o uso puede estar regulada en los estatutos. Refuerzan la estabilidad financiera y pueden usarse para financiar crecimiento interno. No pueden distribuirse como dividendos.",
+      "question": "12. ¿Qué tipo de reserva se crea por decisión de los estatutos sociales?",
+      "options": [
+        "Reserva legal",
+        "Reserva voluntaria",
+        "Reserva estatutaria",
+        "Reserva para acciones propias"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>La <u>reserva estatutaria</u> se crea por decisión de los <strong>estatutos sociales</strong>.</p><p>Es similar a la voluntaria, pero su régimen puede estar regulado en los estatutos (dotación mínima, uso específico, etc.).</p><p>Forma parte del patrimonio neto y se registra en cuentas del grupo 11.</p><p>No puede distribuirse como dividendo.</p>"
+    },
+    {
+      "intro": "El resultado del ejercicio puede destinarse a diferentes fines: reservas, dividendos, o dejarse pendiente. La junta general decide el destino. Es importante no repartir más de lo que se ha ganado, para no empobrecer la empresa. El principio de prudencia exige mantener un equilibrio entre remunerar a los socios y fortalecer la estructura financiera.",
+      "question": "13. ¿Cuál es la cantidad máxima que puede repartirse como dividendo sin empobrecer la empresa?",
+      "options": [
+        "El beneficio neto del ejercicio",
+        "El beneficio neto más reservas",
+        "Cualquier cantidad que decida la junta",
+        "Solo el 50% del beneficio"
+      ],
+      "correct": [0],
+      "saber_mas": "<p>La empresa puede repartir como dividendo <strong>hasta el beneficio neto del ejercicio</strong>, siempre que no tenga pérdidas acumuladas.</p><p>Repartir más implicaría devolver aportaciones de capital, lo que equivale a empobrecer la empresa.</p><p>La junta puede decidir repartir menos y destinar parte a reservas.</p><p>Es una decisión estratégica de política de dividendos.</p>"
+    },
+    {
+      "intro": "Las aportaciones no dinerarias incluyen bienes, derechos o servicios aportados como capital. Deben valorarse al valor razonable y ser independientemente tasados si superan cierto umbral. Son útiles para aportar activos estratégicos, pero requieren mayor control para evitar sobrevaloraciones.",
+      "question": "14. ¿Qué requisito debe cumplir una aportación no dineraria de gran valor?",
+      "options": [
+        "Ser aprobada por el consejo",
+        "Ser tasada por un experto independiente",
+        "Tener factura emitida",
+        "No puede superar el 10% del capital"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Las aportaciones no dinerarias de valor significativo deben ser <u>tasadas por un experto independiente</u> para garantizar objetividad.</p><p>Además, deben valorarse al <strong>valor razonable</strong> en la fecha de aportación.</p><p>Asiento:<br>(217) Maquinaria 100.000<br>&nbsp;&nbsp;&nbsp;&nbsp;a (100) Capital social 100.000</p><p>Protege a la empresa y a los demás socios.</p>"
+    },
+    {
+      "intro": "El patrimonio neto puede verse afectado por cambios en subvenciones, ajustes de valor, o decisiones de reparto. Es dinámico y debe gestionarse con criterios de sostenibilidad. Un patrimonio neto sólido permite afrontar crisis, financiar crecimiento y mantener la confianza de inversores y acreedores.",
+      "question": "15. ¿Qué efecto tiene un beneficio neto sobre el patrimonio neto?",
+      "options": [
+        "Lo reduce",
+        "Lo aumenta",
+        "No tiene efecto",
+        "Lo convierte en pasivo"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>beneficio neto</u> <strong>aumenta</strong> el patrimonio neto.</p><p>Al cerrar cuentas:<br>(7) Ingresos a (129)<br>(6) Gastos a (129)<br>Saldo de (129) = Beneficio → se traslada a (119) o reservas.</p><p>Es la principal fuente de crecimiento del patrimonio neto a lo largo del tiempo.</p><p>Las pérdidas lo reducen.</p>"
+    }
+  ]
+}
