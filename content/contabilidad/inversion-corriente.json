@@ -1,127 +1,186 @@
 {
-  "title": "Contabilidad Intermedia - Inversiones Corrientes y Activos Circulantes",
-  "description": "Temas avanzados sobre inversiones corrientes, existencias, créditos comerciales, factoring, deterioro de valor y operaciones con proveedores y clientes.",
+  "title": "Inversiones Corrientes: Existencias, Créditos y Operaciones a Corto Plazo",
+  "description": "Quiz avanzado sobre activos circulantes, gestión de existencias, créditos comerciales, factoring, confirming y periodificaciones.",
   "questions": [
     {
-      "intro": "Las inversiones corrientes incluyen activos que se espera convertir en efectivo en menos de un año.",
-      "question": "¿Cuáles de los siguientes forman parte del activo corriente según el PGC? (Selecciona todas las correctas)",
+      "intro": "Las inversiones corrientes son activos que la empresa espera convertir en efectivo, vender o consumir en un plazo inferior a un año. Forman parte del activo corriente y son esenciales para la liquidez y el funcionamiento diario de la empresa. Entre ellas destacan las existencias, los créditos comerciales (clientes), los efectos en cartera, los anticipos a proveedores y las inversiones financieras a corto plazo. Su correcta valoración y registro contable es fundamental para reflejar fielmente la situación financiera. Además, deben aplicarse criterios de prudencia, como el deterioro de valor cuando exista riesgo de impago o pérdida de valor en existencias. Este conjunto de activos debe gestionarse con precisión para evitar problemas de tesorería o sobrevaloraciones que distorsionen las cuentas anuales.",
+      "question": "1. ¿Cuál de los siguientes activos NO se clasifica como inversión corriente?",
       "options": [
-        "Existencias (grupo 3)",
-        "Deudores comerciales (grupo 4)",
-        "Inversiones financieras a corto plazo (grupo 5)",
-        "Activos no corrientes mantenidos para la venta"
-      ],
-      "correct": [0, 1, 2, 3],
-      "saber_mas": "<p>El <strong>activo corriente</strong> incluye:</p><ul><li><strong>Existencias</strong> (grupo 3): mercaderías, materias primas, productos terminados.</li><li><strong>Deudores comerciales</strong> (grupo 4): clientes, efectos comerciales en cartera.</li><li><strong>Inversiones financieras a corto plazo</strong> (grupo 5): valores negociables, depósitos a menos de 12 meses.</li><li><strong>Activos no corrientes mantenidos para la venta</strong>: aunque sean no corrientes, se reclasifican al corriente si se espera venderlos en menos de un año.</li></ul><p>Están todos incluidos en el <strong>activo corriente</strong>.</p>"
-    },
-    {
-      "intro": "Los anticipos a proveedores son pagos anticipados por compras futuras.",
-      "question": "¿Cómo se contabiliza el pago de un anticipo de 16.940€ (IVA incluido) para asegurar un suministro de materias primas?",
-      "options": [
-        "Cargo a (407) Anticipos a proveedores 14.000€ y a (472) IVA soportado 2.940€",
-        "Abono a (572) Bancos 16.940€",
-        "Ambas a) y b) son correctas",
-        "Cargo a (600) Compras de mercaderías 16.940€"
+        "Mercaderías en almacén",
+        "Clientes con vencimiento a 9 meses",
+        "Maquinaria en uso",
+        "Valores representativos de deuda a corto plazo"
       ],
       "correct": [2],
-      "saber_mas": "<p>Al pagar un anticipo por una compra futura:</p><p><strong>Asiento:</strong><br>(407) Anticipos a proveedores 14.000<br>(472) Hacienda Pública, IVA soportado 2.940<br>&nbsp;&nbsp;&nbsp;&nbsp;a (572) Bancos c/c, euros 16.940</p><p>La cuenta <strong>(407)</strong> es un activo corriente. Cuando se reciba la factura, se compensará con el importe total.</p>"
+      "saber_mas": "<p>Las <u>inversiones corrientes</u> son activos que se espera convertir en efectivo en menos de un año. Incluyen existencias (grupo 3), créditos a corto plazo (grupo 4) e inversiones financieras a corto plazo (grupo 5).</p><p><strong>Ejemplo</strong>: Una empresa comercial tiene mercaderías por 50.000€, clientes por 30.000€ y letras en cartera por 10.000€. Todos son activos corrientes.</p><p>La <strong>maquinaria</strong> (cuenta 213) es un activo no corriente, ya que forma parte del inmovilizado material y tiene una vida útil superior a un año.</p>"
     },
     {
-      "intro": "Las devoluciones de compras afectan al valor de las existencias y al IVA soportado.",
-      "question": "Si se acuerda con el proveedor una rebaja del 10% por calidad inferior, sin devolución de productos, ¿qué se debe hacer?",
+      "intro": "Las existencias son bienes que la empresa mantiene para su venta, transformación o consumo en el proceso productivo. Se valoran al precio de adquisición o coste de producción, y deben ajustarse a su valor neto realizable si este es inferior. Las existencias incluyen materias primas, productos en curso, productos terminados y mercaderías. Su gestión contable requiere inventarios físicos periódicos y ajustes contables. Además, pueden surgir devoluciones, rebajas o deterioros que deben registrarse oportunamente. El PGC exige que las existencias se valoren con prudencia, evitando sobrevaloraciones que distorsionen el resultado.",
+      "question": "2. ¿Cómo se valora una existencia cuando su precio de mercado es inferior al coste?",
       "options": [
-        "Ajustar el valor de las existencias y el IVA soportado",
-        "Registrar una devolución de compras",
-        "No hacer nada, ya que no hay devolución física",
-        "Ambas a) y b) son correctas"
+        "Se mantiene al coste original",
+        "Se ajusta a su valor neto realizable",
+        "Se revalúa al valor de mercado",
+        "Se da de baja automáticamente"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Según el <u>principio de prudencia</u>, las existencias deben valorarse al <strong>menor entre coste y valor neto realizable</strong>. Si el valor de mercado desciende, se registra un deterioro.</p><p><strong>Ejemplo</strong>: Una empresa tiene productos terminados por 20.000€, pero su valor de venta esperado es 17.000€. Se registra un deterioro de 3.000€ en la cuenta (693) Pérdidas por deterioro de existencias.</p><p>Este ajuste reduce el activo y genera un gasto en la cuenta de resultados.</p>"
+    },
+    {
+      "intro": "Los créditos comerciales surgen cuando una empresa vende bienes o servicios a crédito. Deben registrarse como clientes o efectos comerciales a cobrar. Existen riesgos asociados, como el impago, por lo que se debe evaluar periódicamente el deterioro de valor. También existen operaciones de financiación como el factoring y el confirming, que permiten anticipar el cobro. El tratamiento contable depende de si son con recurso o sin recurso, y si se transmite o no el riesgo crediticio.",
+      "question": "3. ¿Qué ocurre si un efecto comercial descontado resulta impagado?",
+      "options": [
+        "La entidad financiera asume el riesgo y no hay responsabilidad",
+        "La empresa debe reintegrar el importe anticipado",
+        "Se cancela automáticamente del balance",
+        "Se convierte en ingreso extraordinario"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>En el <u>descuento de efectos con recurso</u>, la empresa cedente sigue asumiendo el riesgo de impago. Si el cliente no paga, la entidad financiera reclama el importe a la empresa.</p><p><strong>Asiento</strong>:<br>(430) Clientes 10.000<br>&nbsp;&nbsp;&nbsp;&nbsp;a (5208) Deudas por efectos descontados 10.000</p><p>Este mecanismo permite liquidez, pero no elimina el riesgo crediticio.</p>"
+    },
+    {
+      "intro": "El factoring es una operación mediante la cual una empresa cede sus créditos comerciales a una entidad financiera a cambio de liquidez inmediata. Puede ser con recurso (la empresa asume el impago) o sin recurso (la entidad asume el riesgo). Esta operación mejora la tesorería y reduce la gestión de cobros. Es especialmente útil para PYMEs con problemas de liquidez. El tratamiento contable varía según el tipo de factoring.",
+      "question": "4. ¿En qué caso el riesgo de impago lo asume la entidad factor?",
+      "options": [
+        "Factoring con recurso",
+        "Factoring sin recurso",
+        "Confirming",
+        "Descuento bancario"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>En el <u>factoring sin recurso</u>, la entidad factor adquiere el crédito y asume el riesgo de impago. Es más costoso, pero libera completamente a la empresa del riesgo.</p><p><strong>Ejemplo</strong>: Una empresa vende una factura de 50.000€ a una factora sin recurso. Recibe 48.000€ netos. Si el cliente no paga, la factora no puede reclamar.</p><p>En cambio, en el <strong>con recurso</strong>, la empresa debe reintegrar el importe si hay impago.</p>"
+    },
+    {
+      "intro": "El confirming es una modalidad de pago gestionada por el banco del cliente (deudor), que garantiza el pago al proveedor. A diferencia del factoring, quien asume el riesgo es el banco del deudor, no del acreedor. Es una herramienta de financiación segura para los proveedores, ya que el cobro está garantizado incluso antes del vencimiento. Mejora la cadena de suministro y la liquidez de los proveedores.",
+      "question": "5. ¿Quién asume el riesgo de impago en una operación de confirming?",
+      "options": [
+        "El proveedor",
+        "El cliente",
+        "El banco del cliente",
+        "Nadie, porque no hay riesgo"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>En el <u>confirming</u>, el <strong>banco del cliente</strong> (deudor) se compromete a pagar al proveedor. El riesgo de impago lo asume la entidad financiera, no el proveedor.</p><p><strong>Proceso</strong>:<br>1. El cliente ordena mercancía.<br>2. El proveedor entrega y emite factura.<br>3. El banco del cliente garantiza el pago.<br>4. El proveedor puede cobrar anticipadamente.</p><p>Es ideal para empresas con clientes solventes pero plazos largos de pago.</p>"
+    },
+    {
+      "intro": "Los anticipos a proveedores son pagos realizados por adelantado por compras futuras. Se registran como un activo corriente en la cuenta (407). Cuando se recibe la mercancía, se compensa con la factura. Si no se entrega, puede convertirse en un crédito o pérdida. Es importante separar el IVA soportado del importe neto, ya que este último puede recuperarse si no se entrega el bien.",
+      "question": "6. ¿Cómo se registra el pago de un anticipo de 12.600€ (IVA incluido) a un proveedor?",
+      "options": [
+        "Cargo a (600) Compras 10.500€ y a (472) IVA 2.100€",
+        "Cargo a (407) Anticipos a proveedores 10.500€ y a (472) IVA 2.100€",
+        "Cargo a (572) Bancos 12.600€",
+        "Ambas b) y c) son correctas"
       ],
       "correct": [3],
-      "saber_mas": "<p>Una <strong>rebaja en el precio</strong> tras la compra (por calidad, descuento retroactivo, etc.) se contabiliza como una <strong>devolución de compras</strong>, aunque no se devuelva físicamente el producto.</p><p>Se debe:</p><ul><li>Reducir el valor de las <strong>existencias</strong> (cuenta 608)</li><li>Reducir el <strong>IVA soportado</strong> (cuenta 472)</li></ul><p>Ejemplo: Si el importe inicial era 2.050€ + 430,50€ IVA, una rebaja del 30% implica:</p><p>(608) Devoluciones de compras 615<br>(472) IVA soportado 129,15<br>&nbsp;&nbsp;&nbsp;&nbsp;a (400) Proveedores 744,15</p>"
+      "saber_mas": "<p>Al pagar un anticipo, se registra:<br>(407) Anticipos a proveedores 10.500<br>(472) IVA soportado 2.100<br>&nbsp;&nbsp;&nbsp;&nbsp;a (572) Bancos 12.600</p><p>La cuenta (407) es un <u>activo corriente</u>. Cuando se reciba la factura, se compensará con el total.</p><p>Si no se recibe la mercancía, se puede reclamar el anticipo o registrar una pérdida.</p>"
     },
     {
-      "intro": "El factoring permite anticipar el cobro de créditos comerciales.",
-      "question": "¿Cuál es la diferencia principal entre factoring con recurso y sin recurso?",
+      "intro": "Las devoluciones de compras o ventas afectan al valor de las existencias y al IVA. Pueden ser físicas (devolución de mercancía) o económicas (rebaja de precio sin devolución). En ambos casos, deben ajustarse las cuentas de compras, existencias e IVA soportado o repercutido. Es crucial mantener un registro claro para evitar errores en la declaración del IVA.",
+      "question": "7. ¿Qué se debe hacer si se acuerda una rebaja del 15% por calidad inferior sin devolución física?",
       "options": [
-        "En el factoring con recurso, el riesgo de impago lo asume la empresa cedente",
-        "En el factoring sin recurso, el riesgo de impago lo asume la entidad factor",
-        "El factoring sin recurso es más caro",
+        "No hacer nada",
+        "Registrar una devolución de compras",
+        "Ajustar solo el IVA",
+        "Ambas b) y c) son correctas"
+      ],
+      "correct": [3],
+      "saber_mas": "<p>Una <u>rebaja económica</u> se contabiliza como una <strong>devolución de compras</strong>, aunque no haya devolución física.</p><p><strong>Asiento</strong>:<br>(608) Devoluciones de compras 1.500<br>(472) IVA soportado 315<br>&nbsp;&nbsp;&nbsp;&nbsp;a (400) Proveedores 1.815</p><p>Esto ajusta tanto el valor de las existencias como el IVA recuperable.</p>"
+    },
+    {
+      "intro": "El deterioro de créditos ocurre cuando existe riesgo de impago por parte de un cliente. Debe estimarse al final del ejercicio y registrarse como un gasto. Puede ser individual (por cliente) o colectivo (por porcentajes). La reversión es posible si mejora la situación del deudor. Este ajuste cumple con el principio de prudencia y evita sobrevalorar el activo.",
+      "question": "8. ¿Dónde se registra el deterioro de valor de un cliente de dudoso cobro?",
+      "options": [
+        "En (490) Deterioro de valor de créditos comerciales",
+        "En (694) Pérdidas por deterioro",
+        "En (436) Clientes de dudoso cobro",
         "Todas las anteriores"
       ],
       "correct": [3],
-      "saber_mas": "<p><strong>Factoring con recurso</strong>: si el cliente no paga, la empresa cedente debe devolver el dinero a la entidad. El riesgo lo sigue asumiendo la empresa.</p><p><strong>Factoring sin recurso</strong>: la entidad factor asume el riesgo de impago. Es más seguro para la empresa, pero más costoso.</p><p>En ambos casos, la empresa recibe liquidez anticipada, pero solo en el caso <em>sin recurso</em> se elimina completamente el riesgo crediticio.</p>"
+      "saber_mas": "<p>El deterioro se registra:<br>1. En <u>(694)</u> como gasto en la cuenta de resultados.<br>2. En <u>(490)</u> como reducción del activo.<br>3. En <u>(436)</u> si se reclasifica el cliente.</p><p><strong>Ejemplo</strong>: Cliente por 10.000€ con riesgo alto. Se estima deterioro de 3.000€.</p><p>(694) Pérdidas por deterioro 3.000<br>&nbsp;&nbsp;&nbsp;&nbsp;a (490) Deterioro de valor 3.000</p>"
     },
     {
-      "intro": "Los efectos comerciales descontados generan intereses y comisiones.",
-      "question": "¿Cómo se registra el descuento de un efecto comercial de 20.000€ con intereses de 170€ y comisiones de 40€?",
+      "intro": "Las periodificaciones son ajustes contables que reflejan ingresos o gastos que pertenecen a un ejercicio pero se pagan o cobran en otro. Las periodificaciones de activo (gastos anticipados) y pasivo (ingresos anticipados) aseguran la correspondencia entre ingresos y gastos. Son esenciales para cumplir con el principio de devengo.",
+      "question": "9. Un alquiler cobrado por adelantado de 12.000€, ¿dónde se registra?",
       "options": [
-        "Cargo a (572) Bancos 19.790€, (665) Intereses 170€, (626) Servicios bancarios 40€, y abono a (5208) Deudas por efectos descontados 20.000€",
-        "Cargo a (4311) Efectos descontados 20.000€ y abono a (4310) Efectos en cartera 20.000€",
-        "Ambas a) y b) son correctas",
-        "Solo se registra el cobro neto en bancos"
-      ],
-      "correct": [2],
-      "saber_mas": "<p>Al descontar un efecto comercial, se realizan dos asientos:</p><p><strong>1. Traslado del efecto a la entidad financiera:</strong><br>(4311) Efectos comerciales descontados 20.000<br>&nbsp;&nbsp;&nbsp;&nbsp;a (4310) Efectos comerciales en cartera 20.000</p><p><strong>2. Recepción del importe neto:</strong><br>(572) Bancos c/c 19.790<br>(665) Intereses por descuento 170<br>(626) Servicios bancarios 40<br>&nbsp;&nbsp;&nbsp;&nbsp;a (5208) Deudas por efectos descontados 20.000</p><p>Si el efecto es impagado, se reclama al cliente y se cancela la deuda con la entidad.</p>"
-    },
-    {
-      "intro": "El deterioro de créditos comerciales se reconoce cuando hay riesgo de impago.",
-      "question": "¿Cómo se registra la estimación de un deterioro de 110.000€ en créditos por operaciones comerciales?",
-      "options": [
-        "Cargo a (694) Pérdidas por deterioro y abono a (490) Deterioro de valor",
-        "Cargo a (490) Deterioro de valor y abono a (430) Clientes",
-        "Cargo a (436) Clientes de dudoso cobro y abono a (430) Clientes",
-        "Todas las anteriores pueden ser correctas según el caso"
+        "En (705) Arrendamientos",
+        "En (567) Ingresos anticipados",
+        "En (572) Bancos",
+        "Todas las anteriores"
       ],
       "correct": [3],
-      "saber_mas": "<p>Existen dos enfoques para el deterioro de créditos:</p><p><strong>1. Por saldo individual:</strong><br>Si un cliente específico está en riesgo:<br>(436) Clientes de dudoso cobro 100.000<br>&nbsp;&nbsp;&nbsp;&nbsp;a (430) Clientes 100.000<br>(694) Pérdidas por deterioro 110.000<br>&nbsp;&nbsp;&nbsp;&nbsp;a (490) Deterioro de valor 110.000</p><p><strong>2. Por saldo conjunto (porcentajes):</strong><br>Se estima un porcentaje sobre el total de créditos.</p><p>En ambos casos, se reconoce una <strong>pérdida en PyG</strong> y una <strong>reducción del activo</strong>.</p>"
+      "saber_mas": "<p>El cobro anticipado se registra:<br>(572) Bancos 12.000<br>&nbsp;&nbsp;&nbsp;&nbsp;a (567) Ingresos anticipados 12.000</p><p>Posteriormente, se va trasladando a <u>(705)</u> mensualmente (1.000€/mes).</p><p>Es una <strong>periodificación de pasivo</strong>, ya que la empresa tiene la obligación de prestar el servicio.</p>"
     },
     {
-      "intro": "Los envases y embalajes a devolver son activos corrientes recuperables.",
-      "question": "¿Cómo se registra la entrega de envases por 302,50€ (IVA incluido) a un proveedor con derecho a devolución?",
+      "intro": "Los envases y embalajes a devolver son activos corrientes que la empresa entrega a proveedores o clientes con derecho a recuperación. Se registran en cuentas como (406) o (436). Si no se devuelven, se convierten en compras o ventas. Es importante separar el IVA, ya que puede recuperarse si se devuelve el envase.",
+      "question": "10. ¿Cómo se registra la entrega de envases por 302,50€ (IVA incluido) a un proveedor?",
       "options": [
-        "Cargo a (406) Envases a devolver y abono a (400) Proveedores",
-        "Cargo a (602) Compras y abono a (572) Bancos",
-        "Cargo a (400) Proveedores y abono a (406) Envases a devolver",
-        "No se contabiliza hasta que se devuelvan"
+        "Cargo a (602) Compras 250€",
+        "Cargo a (406) Envases a devolver 250€",
+        "Cargo a (472) IVA soportado 52,50€",
+        "b) y c) son correctas"
       ],
-      "correct": [0],
-      "saber_mas": "<p>Los <strong>envases y embalajes a devolver</strong> (cuenta 406) son un activo corriente. Al recibir mercancía con envases:</p><p>(406) Envases y embalajes a devolver 250<br>(472) IVA soportado 52,50<br>&nbsp;&nbsp;&nbsp;&nbsp;a (400) Proveedores 302,50</p><p>Al devolverlos, se cancela la cuenta 406. Si no se devuelven, se convierten en compra (602).</p>"
+      "correct": [3],
+      "saber_mas": "<p>Al recibir mercancía con envases:<br>(406) Envases a devolver 250<br>(472) IVA soportado 52,50<br>&nbsp;&nbsp;&nbsp;&nbsp;a (400) Proveedores 302,50</p><p>Si se devuelven, se cancela (406). Si no, se registra como compra en (602).</p><p>Es un <u>activo corriente recuperable</u>.</p>"
     },
     {
-      "intro": "Las periodificaciones afectan al activo o pasivo por pagos o cobros anticipados.",
-      "question": "Un ingreso anticipado por servicios futuros, ¿es una periodificación de activo o pasivo?",
+      "intro": "Las subidas de valor en existencias pueden revertir deterioros previos, pero solo hasta el límite del valor contable original. Esto aplica solo si el aumento es real y sostenible. La reversión se registra como ingreso en (790). Es una excepción al principio de irrevocabilidad de las pérdidas, permitida por el PGC en casos específicos.",
+      "question": "11. ¿Qué ocurre si el valor de unas existencias deterioradas recupera su valor?",
       "options": [
-        "Periodificación de activo",
-        "Periodificación de pasivo",
-        "No es una periodificación",
-        "Es un ingreso inmediato"
-      ],
-      "correct": [1],
-      "saber_mas": "<p>Un <strong>ingreso anticipado</strong> (por ejemplo, alquiler recibido por adelantado) es un <strong>pasivo</strong>, porque la empresa tiene la obligación de prestar el servicio en el futuro.</p><p>Se registra en cuentas como <strong>(567) Ingresos anticipados</strong> (pasivo corriente).</p><p>Conforme se presta el servicio, se va trasladando a ingresos (70x).</p>"
-    },
-    {
-      "intro": "El confirming es una modalidad de pago gestionada por el banco del cliente.",
-      "question": "En una operación de confirming, ¿quién asume el riesgo de impago del cliente?",
-      "options": [
-        "El proveedor",
-        "El banco del cliente",
-        "El cliente",
-        "Ninguno, porque el pago está garantizado"
+        "No se puede revertir el deterioro",
+        "Se puede revertir hasta el valor contable original",
+        "Se revalúa libremente",
+        "Se registra como plusvalía en patrimonio"
       ],
       "correct": [1],
-      "saber_mas": "<p>En el <strong>confirming</strong>, el banco del <strong>cliente</strong> (deudor) se compromete a pagar al proveedor en la fecha de vencimiento.</p><p>El proveedor cede su crédito al banco, que lo paga directamente. El riesgo de impago lo asume el banco del cliente, no el proveedor.</p><p>Es una forma segura para el proveedor de asegurar el cobro, incluso antes del vencimiento.</p>"
+      "saber_mas": "<p>El PGC permite <u>revertir el deterioro</u> si mejora el valor de mercado, pero solo hasta el <strong>coste original</strong>.</p><p><strong>Ejemplo</strong>: Existencia por 10.000€, deteriorada a 7.000€. Si sube a 9.000€, se puede revertir 2.000€.</p><p>Se registra:<br>(790) Reversión del deterioro 2.000<br>&nbsp;&nbsp;&nbsp;&nbsp;a (39) Deterioro de existencias 2.000</p>"
     },
     {
-      "intro": "Las subidas de valor de existencias pueden revertir deterioros anteriores.",
-      "question": "Si el valor de mercado de unas existencias aumenta tras un deterioro previo, ¿qué se debe hacer?",
+      "intro": "Los créditos por operaciones comerciales incluyen clientes, efectos en cartera y anticipos a clientes. Deben evaluarse anualmente por deterioro. El deterioro puede ser individual o colectivo. Las empresas deben aplicar políticas de provisión claras y consistentes para cumplir con las normas contables.",
+      "question": "12. ¿Qué tipo de deterioro se aplica a un cliente con riesgo específico de impago?",
       "options": [
-        "Aumentar el valor de las existencias",
-        "Revertir el deterioro reconocido anteriormente",
-        "No hacer nada, porque las existencias no pueden revalorizarse",
-        "Reconocer una plusvalía en patrimonio"
+        "Deterioro colectivo",
+        "Deterioro individual",
+        "Deterioro por saldo conjunto",
+        "Ninguno"
       ],
       "correct": [1],
-      "saber_mas": "<p>Según el PGC, si el valor de mercado de unas existencias <strong>recupera</strong> tras un deterioro, se puede <strong>revertir</strong> la pérdida anterior, pero <strong>hasta el límite del valor contable original</strong>.</p><p>La reversión se registra en <strong>(790) Reversión del deterioro de existencias</strong>.</p><p>Esto no aplica a activos no corrientes, donde la reversión está más restringida.</p>"
+      "saber_mas": "<p>El <u>deterioro individual</u> se aplica a créditos con riesgo específico, como un cliente en concurso.</p><p>Se evalúa caso por caso y requiere justificación.</p><p>El <strong>deterioro colectivo</strong> se aplica por grupos homogéneos (ej. todos los clientes con vencimiento > 180 días).</p>"
+    },
+    {
+      "intro": "El descuento de efectos es una operación bancaria que permite anticipar el cobro de letras o pagarés. Genera intereses y comisiones. El tratamiento contable depende de si es con recurso o no. Es una herramienta común de gestión de tesorería, pero implica costes financieros.",
+      "question": "13. ¿Dónde se registran los intereses por descuento de efectos?",
+      "options": [
+        "En (761) Ingresos financieros",
+        "En (665) Intereses de deudas",
+        "En (626) Servicios bancarios",
+        "Todas las anteriores"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Los intereses por descuento son un <u>gasto financiero</u> que se registra en (665).</p><p><strong>Asiento</strong>:<br>(572) Bancos 9.800<br>(665) Intereses por descuento 200<br>&nbsp;&nbsp;&nbsp;&nbsp;a (5208) Deudas por efectos descontados 10.000</p><p>Es un costo de financiación a corto plazo.</p>"
+    },
+    {
+      "intro": "La gestión de tesorería requiere un equilibrio entre liquidez y rentabilidad. Las inversiones a corto plazo, como depósitos o valores negociables, permiten rentabilizar excedentes. Deben clasificarse correctamente según el modelo de negocio y los flujos contractuales.",
+      "question": "14. ¿Qué criterio determina la clasificación de un activo financiero a corto plazo?",
+      "options": [
+        "Su cotización en bolsa",
+        "El modelo de negocio y los flujos contractuales",
+        "Su vencimiento",
+        "Su rentabilidad"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Según el PGC, la clasificación depende del <u>modelo de negocio</u> y del <u>test SPPI</u> (flujos de efectivo solo intereses y principal).</p><p>Un activo puede estar a corto plazo pero clasificarse a coste amortizado si se mantiene hasta vencimiento.</p><p>Es clave para la valoración y presentación en balances.</p>"
+    },
+    {
+      "intro": "La correcta clasificación de activos y pasivos corrientes es esencial para el balance de situación. Un activo es corriente si se espera convertir en efectivo en menos de un año. Esto incluye existencias, créditos, inversiones a corto y activos no corrientes mantenidos para la venta.",
+      "question": "15. ¿Cuál de los siguientes se reclasifica como corriente aunque sea no corriente?",
+      "options": [
+        "Maquinaria en uso",
+        "Activo no corriente mantenido para la venta",
+        "Fondo de comercio",
+        "Préstamo a largo plazo"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>activo no corriente mantenido para la venta</u> se reclasifica como corriente si se espera venderlo en menos de 12 meses.</p><p>Debe cumplir criterios de disponibilidad inmediata y precio razonable.</p><p>Es una excepción importante en la presentación del balance.</p>"
     }
-  ],
-  "saber_mas_final": "<p><strong>Este contenido se basa en el Plan General de Contabilidad (PGC) español</strong>, especialmente en las normas de valoración del activo corriente, créditos comerciales, existencias y operaciones de financiación a corto plazo.</p><p>Las inversiones corrientes son fundamentales para la liquidez de la empresa y deben gestionarse con precisión contable.</p><p>Este JSON puede integrarse en una aplicación web educativa, sistema LMS o dashboard de contabilidad financiera.</p>"
+  ]
 }
