@@ -115,4 +115,58 @@
     },
     {
       "question": "11. ¿Qué indica un ROE muy alto?",
-      "
+      "options": [
+        "Baja rentabilidad",
+        "Alto endeudamiento",
+        "Mala gestión de activos",
+        "Bajo margen neto"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>ROE muy alto</u> puede deberse a <strong>alto endeudamiento</strong> (efecto apalancamiento).</p><p>Aunque la rentabilidad sea buena, el riesgo financiero también aumenta.</p><p>Debe analizarse junto con ROA y estructura del pasivo.</p><p>No siempre indica buena gestión operativa.</p>"
+    },
+    {
+      "question": "12. ¿Qué es el resultado de actividades ordinarias?",
+      "options": [
+        "Solo ingresos por ventas",
+        "Resultado de explotación más financiero",
+        "Beneficio neto",
+        "Margen bruto"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>resultado de actividades ordinarias</u> incluye todos los ingresos y gastos de la actividad principal y financiera.</p><p>Excluye partidas extraordinarias.</p><p>Da una visión estable de la rentabilidad recurrente.</p><p>Es clave para proyecciones futuras.</p>"
+    },
+    {
+      "question": "13. ¿Qué ratio combina margen y rotación?",
+      "options": [
+        "ROE",
+        "ROA",
+        "Autonomía",
+        "Garantía"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>ROA</u> (Return on Assets) = <strong>Resultado neto / Activo total</strong>.</p><p>Se descompone como: <strong>Margen neto × Rotación de activos</strong>.</p><p>Mide la rentabilidad sobre toda la inversión, independientemente de la financiación.</p><p>Es clave para evaluar eficiencia operativa.</p>"
+    },
+    {
+      "question": "14. ¿Qué indica una caída del margen bruto?",
+      "options": [
+        "Mayor eficiencia",
+        "Menor rentabilidad directa",
+        "Mejor control de gastos",
+        "Mayor volumen de ventas"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Una <u>caída del margen bruto</u> indica que el <strong>coste de ventas</strong> crece más rápido que las ventas.</p><p>Puede deberse a subida de precios de materias primas, descuentos, o baja escala.</p><p>Requiere análisis de precios, proveedores y productividad.</p><p>Es una señal de alerta temprana.</p>"
+    },
+    {
+      "question": "15. ¿Qué es el resultado antes de impuestos?",
+      "options": [
+        "Resultado neto + Impuestos",
+        "Resultado neto - Impuestos",
+        "Ventas - Coste de ventas",
+        "Margen bruto - Gastos"
+      ],
+      "correct": [0],
+      "saber_mas": "<p>El <u>resultado antes de impuestos</u> = <strong>Resultado de explotación + Resultado financiero</strong>.</p><p>Es la base sobre la que se calcula el impuesto sobre sociedades.</p><p>Se usa para calcular el tipo impositivo efectivo.</p><p>Es clave en análisis de rentabilidad fiscal.</p>"
+    }
+  ]
+}
