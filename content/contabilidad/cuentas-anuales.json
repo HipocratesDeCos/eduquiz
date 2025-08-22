@@ -1,0 +1,172 @@
+{
+  "title": "Presentación del Impuesto sobre Sociedades en las Cuentas Anuales",
+  "description": "Quiz sobre la presentación, información en memoria, estructura de cuentas anuales y requisitos de imagen fiel en relación con el impuesto sobre sociedades.",
+  "questions": [
+    {
+      "intro": "La presentación del impuesto sobre sociedades en las cuentas anuales debe cumplir con el principio de imagen fiel, exigido por el Código de Comercio y el Plan General de Contabilidad (PGC). Las cuentas anuales están formadas por el balance, la cuenta de resultados, el estado de cambios en el patrimonio neto, el estado de flujos de efectivo y la memoria. Cada uno de estos documentos debe reflejar fielmente la situación patrimonial, financiera y de resultados de la empresa. El impuesto sobre sociedades aparece en la cuenta de resultados como un gasto, y sus componentes (corriente y diferido) deben desglosarse. Además, la memoria debe explicar las diferencias entre el tipo efectivo y el tipo nominal, así como las principales diferencias temporarias y permanentes. La transparencia y el detalle son clave para que los usuarios de la información (inversores, acreedores, Hacienda) puedan interpretar correctamente la carga fiscal de la empresa.",
+      "question": "1. ¿Qué documentos integran las cuentas anuales según el PGC?",
+      "options": [
+        "Balance, cuenta de resultados, memoria",
+        "Balance, cuenta de resultados, estado de flujos, memoria y estado de cambios en el patrimonio neto",
+        "Balance, cuenta de resultados y memoria",
+        "Solo balance y cuenta de resultados"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Las <u>cuentas anuales</u> están formadas por cinco documentos:<br>1. <strong>Balance</strong><br>2. <strong>Cuenta de resultados</strong><br>3. <strong>Estado de cambios en el patrimonio neto</strong><br>4. <strong>Estado de flujos de efectivo</strong><br>5. <strong>Memoria</strong></p><p>Según el <u>artículo 34 del Código de Comercio</u>, deben mostrar la <strong>imagen fiel</strong> del patrimonio, situación financiera y resultados.</p><p>La memoria amplía y comenta la información de los otros estados.</p>"
+    },
+    {
+      "question": "2. ¿Dónde debe explicarse el desglose del impuesto sobre sociedades?",
+      "options": [
+        "Solo en la cuenta de resultados",
+        "En la memoria",
+        "En el balance",
+        "En el estado de flujos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>memoria</u> debe incluir un <strong>desglose detallado</strong> del impuesto sobre sociedades.</p><p>Debe explicar:<br>• Diferencias permanentes<br>• Diferencias temporarias<br>• Tipo impositivo efectivo vs. nominal<br>• Activos y pasivos por impuesto diferido</p><p>Es un requisito del <u>PGC</u> para garantizar transparencia y comprensión.</p>"
+    },
+    {
+      "question": "3. ¿Qué principio exige que las cuentas muestren la realidad económica?",
+      "options": [
+        "Principio de prudencia",
+        "Principio de devengo",
+        "Principio de empresa en funcionamiento",
+        "Principio de imagen fiel"
+      ],
+      "correct": [3],
+      "saber_mas": "<p>El <u>principio de imagen fiel</u> exige que las cuentas anuales reflejen <strong>fielmente</strong> la situación patrimonial, financiera y de resultados.</p><p>Es superior a otros principios y debe cumplirse incluso si afecta a la presentación formal.</p><p>Está recogido en el <strong>marco conceptual del PGC</strong> y en el <strong>Código de Comercio</strong>.</p><p>La empresa debe ajustar su contabilidad si no cumple este principio.</p>"
+    },
+    {
+      "question": "4. ¿Dónde se presenta el impuesto diferido en el balance?",
+      "options": [
+        "En el patrimonio neto",
+        "En el activo no corriente o pasivo no corriente",
+        "En ingresos futuros",
+        "No se presenta"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>impuesto diferido</u> se presenta:<br>• Como <strong>activo no corriente</strong> si es un activo por diferencias temporarias<br>• Como <strong>pasivo no corriente</strong> si es un pasivo por diferencias temporarias</p><p>Si parte vence en menos de 12 meses, se reclasifica al corriente.</p><p>Debe desglosarse en la memoria.</p>"
+    },
+    {
+      "question": "5. ¿Qué información debe incluirse sobre el tipo impositivo?",
+      "options": [
+        "Solo el tipo nominal",
+        "El tipo efectivo y su conciliación con el nominal",
+        "Solo el tipo aplicado en el extranjero",
+        "Ninguna, es opcional"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>memoria</u> debe incluir una <strong>conciliación</strong> entre el tipo impositivo nominal (25%) y el tipo efectivo.</p><p>Se explican las diferencias por:<br>• Diferencias permanentes<br>• Bonificaciones fiscales<br>• Tipos reducidos</p><p>Ejemplo: Tipo efectivo = 22% por deducciones en la cuota.</p><p>Es clave para analizar la eficiencia fiscal.</p>"
+    },
+    {
+      "question": "6. ¿Pueden agruparse partidas irrelevantes en las cuentas?",
+      "options": [
+        "No, todas deben detallarse",
+        "Sí, si no afectan a la imagen fiel",
+        "Solo en el balance",
+        "Solo con autorización de Hacienda"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>PGC permite agrupar partidas</u> que representen un importe <strong>irrelevante</strong> para no distorsionar la claridad.</p><p>El criterio es la <strong>importancia relativa</strong> (materialidad).</p><p>Ejemplo: Gastos menores agrupados en 'Otros gastos'.</p><p>Pero debe mantenerse la imagen fiel y la utilidad de la información.</p>"
+    },
+    {
+      "question": "7. ¿Qué es la memoria en las cuentas anuales?",
+      "options": [
+        "Un resumen ejecutivo",
+        "Un documento opcional",
+        "Un informe de auditoría",
+        "Un documento que amplía y comenta los estados"
+      ],
+      "correct": [3],
+      "saber_mas": "<p>La <u>memoria</u> es un documento obligatorio que <strong>amplía, detalla y comenta</strong> la información de los estados financieros.</p><p>Debe incluir:<br>• Políticas contables<br>• Desglose de partidas significativas<br>• Información sobre impuestos<br>• Compromisos y contingencias</p><p>Es esencial para entender el contexto de las cuentas.</p>"
+    },
+    {
+      "question": "8. ¿Qué debe hacerse si una partida es relevante?",
+      "options": [
+        "Agruparla con otras",
+        "Desglosarla en la memoria",
+        "Omitirla",
+        "Presentarla solo en el balance"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Las <u>partidas relevantes</u> deben <strong>desglosarse</strong> en la memoria, incluso si están agrupadas en los estados.</p><p>El PGC exige que la información sea <strong>clara y significativa</strong>.</p><p>Ejemplo: 'Deudas a largo plazo' debe desglosar préstamos, empréstitos, leasing, etc.</p><p>Evita ocultar información clave.</p>"
+    },
+    {
+      "question": "9. ¿Qué relación existe entre la memoria y el balance?",
+      "options": [
+        "Son independientes",
+        "La memoria sustituye al balance",
+        "La memoria complementa y explica el balance",
+        "Solo el auditor usa la memoria"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>La <u>memoria</u> y el <strong>balance</strong> forman una <strong>unidad</strong>.</p><p>El balance resume; la memoria detalla.</p><p>Hay que incluir <strong>referencias cruzadas</strong> entre ambos.</p><p>Ejemplo: La partida 'Inmovilizado material' del balance remite a una nota en la memoria con desglose por categorías.</p><p>Así se cumple con la claridad y la imagen fiel.</p>"
+    },
+    {
+      "question": "10. ¿Pueden añadirse partidas no previstas en los modelos?",
+      "options": [
+        "No, hay que seguir el modelo exactamente",
+        "Sí, si son necesarias para la imagen fiel",
+        "Solo con permiso del registro mercantil",
+        "Solo en empresas grandes"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>PGC permite añadir partidas</u> no previstas en los modelos si son necesarias para mostrar la <strong>imagen fiel</strong>.</p><p>También permite subdividir partidas.</p><p>Ejemplo: Una empresa tecnológica puede añadir 'Activos intangibles por software desarrollado'.</p><p>La flexibilidad sirve para adaptar la contabilidad a la realidad económica.</p>"
+    },
+    {
+      "question": "11. ¿Qué debe hacerse con las diferencias temporarias en la memoria?",
+      "options": [
+        "Omitirlas",
+        "Listarlas sin explicación",
+        "Explicarlas y cuantificarlas",
+        "Solo mencionarlas"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>La <u>memoria</u> debe <strong>explicar y cuantificar</strong> las principales diferencias temporarias.</p><p>Debe indicar su naturaleza (amortización, provisiones, etc.) y su impacto en el impuesto diferido.</p><p>Es un requisito para que los usuarios entiendan el origen del activo o pasivo fiscal.</p><p>La transparencia es clave en la información fiscal.</p>"
+    },
+    {
+      "question": "12. ¿Qué es la conciliación fiscal-contable?",
+      "options": [
+        "Un impuesto adicional",
+        "La relación entre resultado contable y base imponible",
+        "Un informe para Hacienda",
+        "Un ajuste en el estado de flujos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>conciliación fiscal-contable</u> muestra cómo se pasa del <strong>resultado contable</strong> al <strong>resultado fiscal</strong> (base imponible).</p><p>Incluye:<br>• Diferencias permanentes<br>• Diferencias temporarias</p><p>Es fundamental para entender el cálculo del impuesto corriente.</p><p>Debe incluirse en la memoria.</p>"
+    },
+    {
+      "question": "13. ¿Dónde se informa sobre deducciones en la cuota?",
+      "options": [
+        "Solo en la declaración fiscal",
+        "En la memoria",
+        "En el estado de flujos",
+        "No es necesario informar"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Las <u>deducciones en la cuota</u> (por I+D, empleo, etc.) deben <strong>informarse en la memoria</strong>.</p><p>Se explica su naturaleza, cuantía y base legal.</p><p>Permite a los usuarios evaluar incentivos fiscales y estrategia tributaria.</p><p>Es parte del desglose del impuesto sobre sociedades.</p>"
+    },
+    {
+      "question": "14. ¿Qué debe hacerse si una cuenta no está prevista en el modelo?",
+      "options": [
+        "Usar la más parecida",
+        "Crear una nueva con criterio de imagen fiel",
+        "Omitirla",
+        "Consultar al auditor antes de cada asiento"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Si una cuenta <strong>no está prevista</strong> pero es necesaria, debe crearse para cumplir con la <u>imagen fiel</u>.</p><p>El PGC permite adaptar la estructura a la actividad de la empresa.</p><p>Ejemplo: Una ONG puede crear 'Subvenciones oficiales de explotación' aunque no esté en el modelo estándar.</p><p>La contabilidad debe reflejar la realidad, no solo cumplir formatos.</p>"
+    },
+    {
+      "question": "15. ¿Qué principio prevalece sobre el formalismo contable?",
+      "options": [
+        "Principio de prudencia",
+        "Principio de devengo",
+        "Principio de imagen fiel",
+        "Principio de competencia"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>El <u>principio de imagen fiel</u> <strong>prevalece</strong> sobre cualquier otro principio o formalismo.</p><p>Si seguir al pie de la letra un modelo distorsiona la realidad, debe modificarse.</p><p>Está recogido en el <strong>artículo 20 del Código de Comercio</strong>.</p><p>Es la base de la calidad de la información financiera.</p>"
+    }
+  ]
+}
