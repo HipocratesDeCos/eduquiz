@@ -1,0 +1,127 @@
+{
+  "title": "Contabilidad Avanzada - Inversiones No Corrientes e Inmovilizado",
+  "description": "Temas avanzados de contabilidad financiera: inmovilizado material e intangible, inversiones no corrientes, activos financieros, amortización y deterioro.",
+  "questions": [
+    {
+      "intro": "El inmovilizado material en curso incluye trabajos no finalizados al cierre del ejercicio.",
+      "question": "¿Qué cuentas se utilizan para registrar construcciones que aún no han concluido?",
+      "options": [
+        "(231) Construcciones en curso",
+        "(211) Construcciones",
+        "(200) Investigación",
+        "(540) Inversiones financieras a corto plazo"
+      ],
+      "correct": [0],
+      "saber_mas": "<p><strong>Las cuentas del subgrupo 23</strong> registran inversiones en material que aún no están en funcionamiento:</p><ul><li><strong>231 - Construcciones en curso</strong></li><li><strong>232 - Instalaciones técnicas en montaje</strong></li><li><strong>233 - Maquinaria en montaje</strong></li><li>Se activan en el <strong>activo no corriente</strong> mientras dure la construcción.</li></ul><p>Al finalizar, se transfieren a la cuenta correspondiente del inmovilizado (por ejemplo, 211).</p>"
+    },
+    {
+      "intro": "El costo de adquisición del inmovilizado incluye todos los gastos necesarios para su puesta en funcionamiento.",
+      "question": "¿Qué elementos forman parte del precio de adquisición de una maquinaria?",
+      "options": [
+        "Precio de compra, transporte, instalación y adaptaciones necesarias",
+        "Solo el precio de factura del vendedor",
+        "Precio de compra más intereses financieros posteriores",
+        "Gastos administrativos generales de la empresa"
+      ],
+      "correct": [0],
+      "saber_mas": "<p>Según el <strong>Plan General de Contabilidad (PGC)</strong>, el costo de adquisición del inmovilizado material incluye:</p><ul><li>Precio de compra</li><li>Impuestos indirectos no recuperables</li><li>Costes directos de puesta en funcionamiento: transporte, instalación, montaje, pruebas</li><li><strong>No incluye</strong>: gastos financieros posteriores, ni generales de administración.</li></ul><p>Los gastos financieros <strong>antes de la puesta en funcionamiento</strong> sí pueden incluirse.</p>"
+    },
+    {
+      "intro": "Los activos financieros se clasifican según el modelo de negocio y los flujos contractuales.",
+      "question": "¿En qué categoría se clasifica un activo financiero cuyo objetivo es cobrar flujos contractuales de principal e intereses?",
+      "options": [
+        "A coste amortizado",
+        "A valor razonable con cambios en PyG",
+        "A valor razonable con cambios en patrimonio neto",
+        "Mantenido para negociar"
+      ],
+      "correct": [0],
+      "saber_mas": "<p>Según el <strong>test SPPI</strong> (flujos de efectivo solo intereses y principal) y el <strong>modelo de negocio</strong>:</p><ul><li><strong>Coste amortizado</strong>: si se tiene intención de mantenerlo hasta el vencimiento y los flujos son SPPI.</li><li><strong>VR + PyG</strong>: si se negocia activamente.</li><li><strong>VR + PN</strong>: si es una inversión estratégica de largo plazo en instrumentos de patrimonio.</li></ul><p>Ejemplo: obligaciones compradas para cobrar intereses anuales.</p>"
+    },
+    {
+      "intro": "La amortización del inmovilizado intangible se realiza sistemáticamente.",
+      "question": "¿Cuál de las siguientes afirmaciones sobre la amortización del inmovilizado intangible es correcta?",
+      "options": [
+        "Se amortiza solo si tiene vida útil definida",
+        "Se amortiza tanto si tiene vida útil definida como indefinida",
+        "Nunca se amortiza",
+        "Solo se deteriora, no se amortiza"
+      ],
+      "correct": [0],
+      "saber_mas": "<p>El <strong>inmovilizado intangible</strong> (grupo 20) debe:</p><ul><li><strong>Amortizarse</strong> si tiene vida útil <strong>definida</strong> (por ejemplo, patentes, software).</li><li><strong>Deteriorarse</strong> anualmente, aunque tenga vida útil indefinida (como el fondo de comercio).</li><li>Las aplicaciones informáticas (206) se amortizan como gastos de desarrollo.</li></ul><p>La amortización se registra en la cuenta 680.</p>"
+    },
+    {
+      "intro": "El deterioro de valor afecta al valor contable de los activos.",
+      "question": "¿Cómo se contabiliza el deterioro de valor de una furgoneta cuyo valor contable es 18.000€ y su valor realizable neto es 8.000€?",
+      "options": [
+        "Cargo a (791) Reversión del deterioro por 10.000€",
+        "Abono a (291) Deterioro de valor por 10.000€",
+        "Cargo a (691) Pérdidas por deterioro por 10.000€",
+        "Cargo a (211) Construcciones por 8.000€"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>El <strong>deterioro de valor</strong> se registra cuando el valor contable supera al valor recuperable (mayor entre valor en uso y valor realizable neto).</p><p>En este caso: 18.000€ - 8.000€ = 10.000€ de pérdida.</p><p><strong>Asiento:</strong><br>691) Pérdidas por deterioro del inmovilizado material 10.000<br>291) Deterioro de valor del inmovilizado material 10.000</p><p>La cuenta 291 es una cuenta de reducción del activo (subcuenta de 218).</p>"
+    },
+    {
+      "intro": "Las inversiones en empresas asociadas implican influencia significativa.",
+      "question": "¿Cuál de las siguientes NO es una vía para demostrar influencia significativa?",
+      "options": [
+        "Representación en el consejo de administración",
+        "Participación en la fijación de políticas",
+        "Transacciones relevantes entre empresas",
+        "Poseer menos del 10% de las acciones"
+      ],
+      "correct": [3],
+      "saber_mas": "<p>La <strong>influencia significativa</strong> (entre el 20% y 50% del capital) se puede demostrar mediante:</p><ul><li>Representación en el consejo</li><li>Participación en decisiones financieras</li><li>Intercambio de personal directivo</li><li>Suministro de tecnología clave</li></ul><p>Tener menos del 20% no implica automáticamente falta de influencia, pero se presume ausencia si no hay otras pruebas.</p>"
+    },
+    {
+      "intro": "Las permutas comerciales pueden generar ganancias o pérdidas.",
+      "question": "¿Cuál de las siguientes afirmaciones sobre permutas es falsa?",
+      "options": [
+        "Si los flujos de efectivo difieren, se reconoce ganancia o pérdida",
+        "Si no hay diferencia en los flujos, no se reconoce ganancia",
+        "El valor actual de los flujos de efectivo debe modificarse",
+        "Siempre se reconoce la ganancia aunque no haya diferencia en flujos"
+      ],
+      "correct": [3],
+      "saber_mas": "<p>En las <strong>permutas comerciales</strong>:</p><ul><li>Se reconoce <strong>ganancia o pérdida</strong> si hay <strong>diferencia en la configuración de flujos de efectivo</strong>.</li><li>Si los flujos son similares, <strong>no se reconoce ganancia</strong>.</li><li>El valor razonable del activo recibido se toma como base.</li></ul><p>La afirmación de que <em>siempre</em> se reconoce ganancia es falsa.</p>"
+    },
+    {
+      "intro": "Los activos financieros a valor razonable con cambios en patrimonio neto son inversiones estratégicas.",
+      "question": "¿Por qué se clasifica un activo financiero en 'valor razonable con cambios en patrimonio neto'?",
+      "options": [
+        "Porque se negocia diariamente en bolsa",
+        "Porque se mantiene para obtener dividendos y plusvalías a largo plazo",
+        "Porque se espera venderlo en menos de un año",
+        "Porque genera pérdidas que se quieren ocultar"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Esta clasificación aplica a inversiones en <strong>instrumentos de patrimonio</strong> (acciones) que:</p><ul><li>Se mantienen a <strong>largo plazo</strong></li><li>Buscan rentabilidad por dividendos y revalorización</li><li>Las <strong>plusvalías o minusvalías</strong> se registran en <strong>patrimonio neto</strong>, no en PyG</li><li>Se puede optar por transferir a PyG al desinversionar</li></ul><p>Ejemplo: compra de acciones de otra empresa como inversión estratégica.</p>"
+    },
+    {
+      "intro": "El inmovilizado intangible incluye desarrollos internos.",
+      "question": "¿Qué cuenta se utiliza para activar gastos de desarrollo de software?",
+      "options": [
+        "(200) Investigación",
+        "(206) Aplicaciones informáticas",
+        "(211) Construcciones",
+        "(231) Construcciones en curso"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Los <strong>gastos de desarrollo</strong> pueden activarse si cumplen criterios de viabilidad técnica y rentabilidad comercial.</p><p>Se registran en:</p><ul><li><strong>(206) Aplicaciones informáticas</strong></li><li>Se amortizan a lo largo de su vida útil</li><li>Las páginas web con valor estratégico también pueden incluirse</li></ul><p>Los gastos de <strong>investigación</strong> (200) siempre se gasto, salvo excepciones.</p>"
+    },
+    {
+      "intro": "Los intereses posteriores a la adquisición de activos financieros generan ingresos.",
+      "question": "¿Cómo se reconocen los intereses devengados tras la compra de un bono?",
+      "options": [
+        "Como ingreso en la cuenta de pérdidas y ganancias",
+        "Como aumento del valor del activo",
+        "Como ingreso en el patrimonio neto",
+        "Como reserva voluntaria"
+      ],
+      "correct": [0],
+      "saber_mas": "<p>Los <strong>intereses devengados</strong> tras la adquisición de activos financieros (como bonos o obligaciones) se reconocen como <strong>ingresos financieros</strong> en la cuenta de <strong>pérdidas y ganancias</strong>.</p><p>Se registran en cuentas como:</p><ul><li><strong>(761) Ingresos de valores representativos de deuda</strong></li><li><strong>(546) Intereses a corto plazo</strong></li></ul><p>Se calculan con el método del <strong>interés efectivo</strong>.</p>"
+    }
+  ],
+  "saber_mas_final": "<p><strong>Este contenido se basa en el Plan General de Contabilidad (PGC) español</strong>, especialmente en la norma de registro y valoración del inmovilizado material, intangible y financiero.</p><p>Las inversiones no corrientes son fundamentales en la estructura de activos de una empresa y deben registrarse con precisión para reflejar su verdadero valor económico.</p><p>Este JSON puede integrarse en una aplicación web educativa, sistema LMS o dashboard de contabilidad.</p>"
+}
