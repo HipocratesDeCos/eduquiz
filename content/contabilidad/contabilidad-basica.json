@@ -116,4 +116,64 @@
         "Método acelerado"
       ],
       "correct": [1],
-      "saber_mas": "<p><strong>Método de Línea Recta:</strong></p><p>Es el más <u>simple y utilizado</u> para calcular la depreciación.</p><div class='formula'
+      "saber_mas": "<p><strong>Método de Línea Recta:</strong></p><p>Es el más <u>simple y utilizado</u> para calcular la depreciación.</p><div class='formula'>Depreciación Anual = (Costo - Valor Residual) ÷ Vida Útil</div><p><strong>Ejemplo:</strong></p><ul><li>Costo del equipo: €10,000</li><li>Valor residual: €1,000</li><li>Vida útil: 5 años</li></ul><p>Depreciación anual = (€10,000 - €1,000) ÷ 5 = <strong>€1,800</strong></p><p><strong>Asiento anual:</strong><br>Débito: Gasto por depreciación €1,800<br>Crédito: Depreciación acumulada €1,800</p>"
+    },
+    {
+      "question": "¿Qué representa la depreciación acumulada en el balance?",
+      "options": [
+        "Un activo que aumenta cada año",
+        "Un pasivo hacia los propietarios",
+        "Una cuenta complementaria de activo (contracuenta)",
+        "Un gasto del período actual"
+      ],
+      "correct": [2],
+      "saber_mas": "<p><strong>Depreciación Acumulada:</strong></p><ul><li>Es una <u>cuenta complementaria de activo</u> (contracuenta)</li><li>Tiene saldo <strong>acreedor</strong> (contrario a los activos normales)</li><li>Se presenta restando del activo fijo en el balance</li><li>Representa la depreciación <u>total</u> desde la compra del activo</li></ul><p><strong>En el Balance General:</strong></p><div class='formula'>Equipos (al costo): €10,000<br>Menos: Depreciación Acumulada: (€3,600)<br>Equipos netos: €6,400</div>"
+    },
+    {
+      "intro": "El inventario puede valuarse por diferentes métodos según el flujo de costos asumido.",
+      "question": "En época de inflación, ¿qué método de valuación de inventarios produce mayor utilidad?",
+      "options": [
+        "FIFO (Primero en entrar, primero en salir)",
+        "LIFO (Último en entrar, primero en salir)", 
+        "Costo Promedio Ponderado",
+        "Todos producen la misma utilidad"
+      ],
+      "correct": [0],
+      "saber_mas": "<p><strong>Métodos de Valuación de Inventarios en Inflación:</strong></p><p><strong>FIFO (First In, First Out):</strong></p><ul><li>Se venden primero las unidades más <u>antiguas</u> (más baratas)</li><li>El inventario final tiene costos más <strong>recientes</strong> (más altos)</li><li>Produce <strong>mayor utilidad</strong> en inflación</li></ul><p><strong>LIFO (Last In, First Out):</strong></p><ul><li>Se venden primero las unidades más <u>recientes</u> (más caras)</li><li>Produce <strong>menor utilidad</strong> en inflación</li></ul><p><strong>Ejemplo con inflación:</strong></p><div class='formula'>Inventario: 100 unidades a €10 + 100 unidades a €15<br>Venta: 100 unidades<br><br>FIFO: Costo de venta = €1,000 (mayor utilidad)<br>LIFO: Costo de venta = €1,500 (menor utilidad)</div>"
+    },
+    {
+      "question": "¿Cuál es el objetivo principal de los ajustes contables al final del período?",
+      "options": [
+        "Aumentar las utilidades de la empresa",
+        "Aplicar correctamente el principio de devengado",
+        "Reducir los impuestos por pagar",
+        "Simplificar los estados financieros"
+      ],
+      "correct": [1],
+      "saber_mas": "<p><strong>Ajustes Contables al Final del Período:</strong></p><p>Su objetivo es <u>aplicar correctamente el principio de devengado</u>.</p><p><strong>Tipos de ajustes:</strong></p><ol><li><strong>Gastos acumulados:</strong> Gastos incurridos pero no registrados</li><li><strong>Ingresos acumulados:</strong> Ingresos ganados pero no registrados</li><li><strong>Gastos diferidos:</strong> Gastos pagados por adelantado</li><li><strong>Ingresos diferidos:</strong> Ingresos cobrados por adelantado</li><li><strong>Depreciación:</strong> Distribución del costo de activos fijos</li></ol><p><strong>Ejemplo de ajuste:</strong></p><div class='formula'>Salarios devengados no pagados: €2,000<br><br>Ajuste:<br>Débito: Gasto de salarios €2,000<br>Crédito: Salarios por pagar €2,000</div>"
+    },
+    {
+      "intro": "Las cuentas por cobrar representan derechos de cobro por ventas a crédito.",
+      "question": "¿Cómo se registra una estimación para cuentas incobrables de €5,000?",
+      "options": [
+        "Débito: Cuentas por cobrar / Crédito: Estimación incobrables",
+        "Débito: Gasto por incobrables / Crédito: Cuentas por cobrar", 
+        "Débito: Gasto por incobrables / Crédito: Estimación para incobrables",
+        "Débito: Estimación incobrables / Crédito: Gastos"
+      ],
+      "correct": [2],
+      "saber_mas": "<p><strong>Estimación para Cuentas Incobrables:</strong></p><p>Se usa para <u>anticipar pérdidas</u> por cuentas que no se podrán cobrar.</p><p><strong>Asiento de estimación:</strong></p><div class='formula'>Débito: Gasto por cuentas incobrables €5,000<br>Crédito: Estimación para cuentas incobrables €5,000</div><p><strong>En el Balance General:</strong></p><div class='formula'>Cuentas por cobrar: €50,000<br>Menos: Estimación para incobrables: (€5,000)<br>Cuentas por cobrar netas: €45,000</div><p><strong>Cuando se confirma una cuenta incobrable:</strong></p><div class='formula'>Débito: Estimación para cuentas incobrables<br>Crédito: Cuentas por cobrar</div><p>Nota: No afecta gastos porque ya se estimó anteriormente.</p>"
+    },
+    {
+      "question": "¿Cuál es la diferencia entre capital de trabajo y capital de trabajo neto?",
+      "options": [
+        "Son exactamente lo mismo",
+        "Capital de trabajo = Activos corrientes; Capital de trabajo neto = Activos corrientes - Pasivos corrientes", 
+        "Capital de trabajo incluye activos fijos",
+        "Capital de trabajo neto es siempre negativo"
+      ],
+      "correct": [1],
+      "saber_mas": "<p><strong>Capital de Trabajo vs Capital de Trabajo Neto:</strong></p><p><strong>Capital de Trabajo:</strong></p><ul><li>Son todos los <u>activos corrientes</u> de la empresa</li><li>Incluye: efectivo, cuentas por cobrar, inventarios, gastos pagados por adelantado</li></ul><p><strong>Capital de Trabajo Neto:</strong></p><div class='formula'>Capital de Trabajo Neto = Activos Corrientes - Pasivos Corrientes</div><p><strong>Interpretación:</strong></p><ul><li><strong>Positivo:</strong> La empresa puede cubrir sus obligaciones a corto plazo</li><li><strong>Negativo:</strong> Posibles problemas de liquidez</li></ul><p><strong>Ejemplo:</strong></p><div class='formula'>Activos corrientes: €100,000<br>Pasivos corrientes: €60,000<br><br>Capital de trabajo: €100,000<br>Capital de trabajo neto: €40,000</div>"
+    }
+  ]
+}
