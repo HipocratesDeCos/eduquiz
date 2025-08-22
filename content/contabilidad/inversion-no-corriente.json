@@ -1,127 +1,179 @@
 {
-  "title": "Contabilidad Avanzada - Inversiones No Corrientes e Inmovilizado",
-  "description": "Temas avanzados de contabilidad financiera: inmovilizado material e intangible, inversiones no corrientes, activos financieros, amortización y deterioro.",
+  "title": "Inversión No Corriente - Activos Fijos",
+  "description": "Conceptos sobre inversiones en activos no corrientes, depreciación y valoración",
   "questions": [
     {
-      "intro": "El inmovilizado material en curso incluye trabajos no finalizados al cierre del ejercicio.",
-      "question": "¿Qué cuentas se utilizan para registrar construcciones que aún no han concluido?",
+      "intro": "Los activos no corrientes son inversiones a largo plazo que generan beneficios económicos por más de un año.",
+      "question": "¿Cuáles de los siguientes son activos no corrientes? (Selecciona todas las correctas)",
       "options": [
-        "(231) Construcciones en curso",
-        "(211) Construcciones",
-        "(200) Investigación",
-        "(540) Inversiones financieras a corto plazo"
+        "Maquinaria industrial",
+        "Inventario de materias primas",
+        "Edificio de oficinas",
+        "Cuentas por cobrar a clientes"
       ],
-      "correct": [0],
-      "saber_mas": "<p><strong>Las cuentas del subgrupo 23</strong> registran inversiones en material que aún no están en funcionamiento:</p><ul><li><strong>231 - Construcciones en curso</strong></li><li><strong>232 - Instalaciones técnicas en montaje</strong></li><li><strong>233 - Maquinaria en montaje</strong></li><li>Se activan en el <strong>activo no corriente</strong> mientras dure la construcción.</li></ul><p>Al finalizar, se transfieren a la cuenta correspondiente del inmovilizado (por ejemplo, 211).</p>"
+      "correct": [0, 2],
+      "saber_mas": "<p><strong>Activos No Corrientes (Fijos):</strong></p><p>Son inversiones de <u>largo plazo</u> que proporcionan beneficios económicos por <strong>más de un año</strong>.</p><p><strong>Características principales:</strong></p><ul><li><strong>Durabilidad:</strong> Vida útil superior a un año</li><li><strong>Uso operativo:</strong> Se utilizan en las operaciones del negocio</li><li><strong>No están para la venta:</strong> Se mantienen para uso, no para vender</li></ul><p><strong>Clasificación:</strong></p><ul><li><strong>Tangibles:</strong> Terrenos, edificios, maquinaria, vehículos, equipos</li><li><strong>Intangibles:</strong> Patentes, marcas, software, goodwill</li><li><strong>Financieros:</strong> Inversiones a largo plazo en otras empresas</li></ul>"
     },
     {
-      "intro": "El costo de adquisición del inmovilizado incluye todos los gastos necesarios para su puesta en funcionamiento.",
-      "question": "¿Qué elementos forman parte del precio de adquisición de una maquinaria?",
+      "intro": "La adquisición de activos fijos puede realizarse mediante diferentes modalidades de pago.",
+      "question": "Si se compra maquinaria por €50,000 pagando €20,000 al contado y el resto a crédito, ¿cuál es el asiento correcto?",
       "options": [
-        "Precio de compra, transporte, instalación y adaptaciones necesarias",
-        "Solo el precio de factura del vendedor",
-        "Precio de compra más intereses financieros posteriores",
-        "Gastos administrativos generales de la empresa"
+        "Débito: Maquinaria €50,000 / Crédito: Efectivo €20,000, Cuentas por pagar €30,000",
+        "Débito: Efectivo €20,000, Cuentas por pagar €30,000 / Crédito: Maquinaria €50,000",
+        "Débito: Maquinaria €20,000 / Crédito: Efectivo €20,000",
+        "Débito: Gastos €50,000 / Crédito: Efectivo €20,000, Cuentas por pagar €30,000"
       ],
       "correct": [0],
-      "saber_mas": "<p>Según el <strong>Plan General de Contabilidad (PGC)</strong>, el costo de adquisición del inmovilizado material incluye:</p><ul><li>Precio de compra</li><li>Impuestos indirectos no recuperables</li><li>Costes directos de puesta en funcionamiento: transporte, instalación, montaje, pruebas</li><li><strong>No incluye</strong>: gastos financieros posteriores, ni generales de administración.</li></ul><p>Los gastos financieros <strong>antes de la puesta en funcionamiento</strong> sí pueden incluirse.</p>"
+      "saber_mas": "<p><strong>Registro de Adquisición de Activos Fijos:</strong></p><p>El activo se registra por su <u>costo total</u>, independientemente de la forma de pago.</p><div class='formula'><strong>Análisis del asiento:</strong><br>• ¿Qué entra? Maquinaria (Activo) → DÉBITO €50,000<br>• ¿Qué sale? Efectivo (Activo) → CRÉDITO €20,000<br>• ¿Qué se debe? Cuentas por pagar (Pasivo) → CRÉDITO €30,000</div><p><strong>Asiento contable:</strong></p><table border='1' style='margin: 10px 0; width: 100%;'><tr><th>Cuenta</th><th>Débito</th><th>Crédito</th></tr><tr><td>Maquinaria</td><td>€50,000</td><td>-</td></tr><tr><td>Efectivo</td><td>-</td><td>€20,000</td></tr><tr><td>Cuentas por pagar</td><td>-</td><td>€30,000</td></tr><tr><td><strong>TOTALES</strong></td><td><strong>€50,000</strong></td><td><strong>€50,000</strong></td></tr></table><p><strong>Principio importante:</strong> Los activos fijos se registran al <u>costo de adquisición</u> total.</p>"
     },
     {
-      "intro": "Los activos financieros se clasifican según el modelo de negocio y los flujos contractuales.",
-      "question": "¿En qué categoría se clasifica un activo financiero cuyo objetivo es cobrar flujos contractuales de principal e intereses?",
+      "intro": "El costo de un activo fijo incluye todos los gastos necesarios para ponerlo en condiciones de uso.",
+      "question": "¿Qué conceptos deben incluirse en el costo de adquisición de una máquina? (Selecciona todas las correctas)",
       "options": [
-        "A coste amortizado",
-        "A valor razonable con cambios en PyG",
-        "A valor razonable con cambios en patrimonio neto",
-        "Mantenido para negociar"
+        "Precio de compra",
+        "Gastos de transporte",
+        "Costos de instalación",
+        "Gastos de mantenimiento del primer año"
       ],
-      "correct": [0],
-      "saber_mas": "<p>Según el <strong>test SPPI</strong> (flujos de efectivo solo intereses y principal) y el <strong>modelo de negocio</strong>:</p><ul><li><strong>Coste amortizado</strong>: si se tiene intención de mantenerlo hasta el vencimiento y los flujos son SPPI.</li><li><strong>VR + PyG</strong>: si se negocia activamente.</li><li><strong>VR + PN</strong>: si es una inversión estratégica de largo plazo en instrumentos de patrimonio.</li></ul><p>Ejemplo: obligaciones compradas para cobrar intereses anuales.</p>"
+      "correct": [0, 1, 2],
+      "saber_mas": "<p><strong>Costo de Adquisición de Activos Fijos:</strong></p><p>Incluye <u>todos los costos necesarios</u> para poner el activo en condiciones de uso previsto.</p><p><strong>Componentes del costo:</strong></p><ol><li><strong>Precio de compra:</strong> Menos descuentos comerciales</li><li><strong>Aranceles e impuestos:</strong> No recuperables</li><li><strong>Gastos de transporte:</strong> Hasta el lugar de uso</li><li><strong>Gastos de instalación:</strong> Montaje y puesta en marcha</li><li><strong>Honorarios profesionales:</strong> Arquitectos, ingenieros</li><li><strong>Costos de prueba:</strong> Para verificar funcionamiento</li></ol><p><strong>NO se incluyen:</strong></p><ul><li>Gastos de mantenimiento rutinario</li><li>Reparaciones posteriores</li><li>Costos de capacitación de personal</li><li>Gastos administrativos generales</li></ul><div class='formula'><strong>Ejemplo:</strong><br>Precio máquina: €45,000<br>Transporte: €2,000<br>Instalación: €3,000<br>Mantenimiento 1er año: €1,500<br><br><strong>Costo a registrar: €50,000</strong><br>(El mantenimiento NO se incluye)</div>"
     },
     {
-      "intro": "La amortización del inmovilizado intangible se realiza sistemáticamente.",
-      "question": "¿Cuál de las siguientes afirmaciones sobre la amortización del inmovilizado intangible es correcta?",
+      "question": "¿Cuándo debe iniciarse la depreciación de un activo fijo?",
       "options": [
-        "Se amortiza solo si tiene vida útil definida",
-        "Se amortiza tanto si tiene vida útil definida como indefinida",
-        "Nunca se amortiza",
-        "Solo se deteriora, no se amortiza"
-      ],
-      "correct": [0],
-      "saber_mas": "<p>El <strong>inmovilizado intangible</strong> (grupo 20) debe:</p><ul><li><strong>Amortizarse</strong> si tiene vida útil <strong>definida</strong> (por ejemplo, patentes, software).</li><li><strong>Deteriorarse</strong> anualmente, aunque tenga vida útil indefinida (como el fondo de comercio).</li><li>Las aplicaciones informáticas (206) se amortizan como gastos de desarrollo.</li></ul><p>La amortización se registra en la cuenta 680.</p>"
-    },
-    {
-      "intro": "El deterioro de valor afecta al valor contable de los activos.",
-      "question": "¿Cómo se contabiliza el deterioro de valor de una furgoneta cuyo valor contable es 18.000€ y su valor realizable neto es 8.000€?",
-      "options": [
-        "Cargo a (791) Reversión del deterioro por 10.000€",
-        "Abono a (291) Deterioro de valor por 10.000€",
-        "Cargo a (691) Pérdidas por deterioro por 10.000€",
-        "Cargo a (211) Construcciones por 8.000€"
+        "Cuando se compra el activo",
+        "Cuando se recibe el activo",
+        "Cuando el activo está disponible para su uso previsto",
+        "Al final del ejercicio contable"
       ],
       "correct": [2],
-      "saber_mas": "<p>El <strong>deterioro de valor</strong> se registra cuando el valor contable supera al valor recuperable (mayor entre valor en uso y valor realizable neto).</p><p>En este caso: 18.000€ - 8.000€ = 10.000€ de pérdida.</p><p><strong>Asiento:</strong><br>691) Pérdidas por deterioro del inmovilizado material 10.000<br>291) Deterioro de valor del inmovilizado material 10.000</p><p>La cuenta 291 es una cuenta de reducción del activo (subcuenta de 218).</p>"
+      "saber_mas": "<p><strong>Inicio de la Depreciación:</strong></p><p>La depreciación debe comenzar cuando el activo esté <u>disponible para su uso previsto</u>.</p><p><strong>Criterios importantes:</strong></p><ul><li><strong>Disponibilidad:</strong> El activo puede funcionar según su propósito</li><li><strong>Ubicación:</strong> Está en el lugar donde se utilizará</li><li><strong>Condición:</strong> Se encuentra en estado operativo</li></ul><p><strong>Ejemplos prácticos:</strong></p><div class='formula'><strong>Máquina comprada en enero:</strong><br>• Entregada en febrero<br>• Instalada y probada en marzo<br>• <u>Depreciación inicia: marzo</u><br><br><strong>Edificio en construcción:</strong><br>• Obra iniciada en enero<br>• Construcción terminada en junio<br>• <u>Depreciación inicia: junio</u></div><p><strong>Nota importante:</strong> No importa cuándo se compró o pagó, sino cuándo está <strong>listo para usar</strong>.</p>"
     },
     {
-      "intro": "Las inversiones en empresas asociadas implican influencia significativa.",
-      "question": "¿Cuál de las siguientes NO es una vía para demostrar influencia significativa?",
+      "intro": "La vida útil es el período durante el cual se espera que el activo genere beneficios económicos.",
+      "question": "¿Qué factores determinan la vida útil de un activo? (Selecciona todas las correctas)",
       "options": [
-        "Representación en el consejo de administración",
-        "Participación en la fijación de políticas",
-        "Transacciones relevantes entre empresas",
-        "Poseer menos del 10% de las acciones"
+        "Uso esperado del activo",
+        "Obsolescencia tecnológica",
+        "Desgaste físico",
+        "Color del activo"
       ],
-      "correct": [3],
-      "saber_mas": "<p>La <strong>influencia significativa</strong> (entre el 20% y 50% del capital) se puede demostrar mediante:</p><ul><li>Representación en el consejo</li><li>Participación en decisiones financieras</li><li>Intercambio de personal directivo</li><li>Suministro de tecnología clave</li></ul><p>Tener menos del 20% no implica automáticamente falta de influencia, pero se presume ausencia si no hay otras pruebas.</p>"
+      "correct": [0, 1, 2],
+      "saber_mas": "<p><strong>Factores que Determinan la Vida Útil:</strong></p><p>La vida útil depende de varios factores que afectan la capacidad del activo para generar beneficios económicos.</p><p><strong>Factores físicos:</strong></p><ul><li><strong>Desgaste por uso:</strong> Deterioro por operación normal</li><li><strong>Deterioro por inactividad:</strong> Oxidación, corrosión</li><li><strong>Condiciones ambientales:</strong> Clima, humedad, temperatura</li></ul><p><strong>Factores económicos:</strong></p><ul><li><strong>Obsolescencia tecnológica:</strong> Nuevas tecnologías más eficientes</li><li><strong>Obsolescencia comercial:</strong> Cambios en la demanda</li><li><strong>Límites legales:</strong> Patentes, licencias</li></ul><p><strong>Factores operativos:</strong></p><ul><li><strong>Intensidad de uso:</strong> Horas diarias de operación</li><li><strong>Turnos de trabajo:</strong> Uso continuo vs. intermitente</li><li><strong>Mantenimiento:</strong> Cuidado y reparaciones</li></ul><div class='formula'><strong>Ejemplo:</strong><br>Una computadora puede durar físicamente 10 años,<br>pero por obsolescencia tecnológica<br>su vida útil económica es de 3-4 años</div>"
     },
     {
-      "intro": "Las permutas comerciales pueden generar ganancias o pérdidas.",
-      "question": "¿Cuál de las siguientes afirmaciones sobre permutas es falsa?",
+      "intro": "El valor residual es el importe estimado que se obtendrá por el activo al final de su vida útil.",
+      "question": "Si un vehículo cuesta €40,000, tiene una vida útil de 5 años y valor residual de €8,000, ¿cuál es la depreciación anual por línea recta?",
       "options": [
-        "Si los flujos de efectivo difieren, se reconoce ganancia o pérdida",
-        "Si no hay diferencia en los flujos, no se reconoce ganancia",
-        "El valor actual de los flujos de efectivo debe modificarse",
-        "Siempre se reconoce la ganancia aunque no haya diferencia en flujos"
-      ],
-      "correct": [3],
-      "saber_mas": "<p>En las <strong>permutas comerciales</strong>:</p><ul><li>Se reconoce <strong>ganancia o pérdida</strong> si hay <strong>diferencia en la configuración de flujos de efectivo</strong>.</li><li>Si los flujos son similares, <strong>no se reconoce ganancia</strong>.</li><li>El valor razonable del activo recibido se toma como base.</li></ul><p>La afirmación de que <em>siempre</em> se reconoce ganancia es falsa.</p>"
-    },
-    {
-      "intro": "Los activos financieros a valor razonable con cambios en patrimonio neto son inversiones estratégicas.",
-      "question": "¿Por qué se clasifica un activo financiero en 'valor razonable con cambios en patrimonio neto'?",
-      "options": [
-        "Porque se negocia diariamente en bolsa",
-        "Porque se mantiene para obtener dividendos y plusvalías a largo plazo",
-        "Porque se espera venderlo en menos de un año",
-        "Porque genera pérdidas que se quieren ocultar"
+        "€8,000",
+        "€6,400", 
+        "€7,200",
+        "€32,000"
       ],
       "correct": [1],
-      "saber_mas": "<p>Esta clasificación aplica a inversiones en <strong>instrumentos de patrimonio</strong> (acciones) que:</p><ul><li>Se mantienen a <strong>largo plazo</strong></li><li>Buscan rentabilidad por dividendos y revalorización</li><li>Las <strong>plusvalías o minusvalías</strong> se registran en <strong>patrimonio neto</strong>, no en PyG</li><li>Se puede optar por transferir a PyG al desinversionar</li></ul><p>Ejemplo: compra de acciones de otra empresa como inversión estratégica.</p>"
+      "saber_mas": "<p><strong>Cálculo de Depreciación Línea Recta:</strong></p><div class='formula'><strong>Fórmula:</strong><br>Depreciación Anual = (Costo - Valor Residual) ÷ Vida Útil</div><p><strong>Datos del problema:</strong></p><ul><li>Costo del vehículo: €40,000</li><li>Vida útil: 5 años</li><li>Valor residual: €8,000</li></ul><p><strong>Cálculo paso a paso:</strong></p><div class='formula'>1. Monto depreciable = €40,000 - €8,000 = €32,000<br>2. Depreciación anual = €32,000 ÷ 5 años = <strong>€6,400</strong></div><p><strong>Verificación:</strong></p><table border='1' style='margin: 10px 0; width: 100%;'><tr><th>Año</th><th>Depreciación</th><th>Acumulada</th><th>Valor Neto</th></tr><tr><td>0</td><td>-</td><td>-</td><td>€40,000</td></tr><tr><td>1</td><td>€6,400</td><td>€6,400</td><td>€33,600</td></tr><tr><td>2</td><td>€6,400</td><td>€12,800</td><td>€27,200</td></tr><tr><td>3</td><td>€6,400</td><td>€19,200</td><td>€20,800</td></tr><tr><td>4</td><td>€6,400</td><td>€25,600</td><td>€14,400</td></tr><tr><td>5</td><td>€6,400</td><td>€32,000</td><td>€8,000</td></tr></table>"
     },
     {
-      "intro": "El inmovilizado intangible incluye desarrollos internos.",
-      "question": "¿Qué cuenta se utiliza para activar gastos de desarrollo de software?",
+      "question": "¿Cuál es el asiento contable para registrar la depreciación anual de €6,400 de un vehículo?",
       "options": [
-        "(200) Investigación",
-        "(206) Aplicaciones informáticas",
-        "(211) Construcciones",
-        "(231) Construcciones en curso"
+        "Débito: Vehículos €6,400 / Crédito: Depreciación acumulada €6,400",
+        "Débito: Depreciación acumulada €6,400 / Crédito: Gasto por depreciación €6,400",
+        "Débito: Gasto por depreciación €6,400 / Crédito: Depreciación acumulada vehículos €6,400",
+        "Débito: Vehículos €6,400 / Crédito: Efectivo €6,400"
+      ],
+      "correct": [2],
+      "saber_mas": "<p><strong>Asiento de Depreciación:</strong></p><p>La depreciación reconoce la <u>disminución del valor</u> del activo por su uso en las operaciones.</p><p><strong>Componentes del asiento:</strong></p><ul><li><strong>Débito:</strong> Gasto por depreciación (Estado de Resultados)</li><li><strong>Crédito:</strong> Depreciación acumulada (Contracuenta de activo)</li></ul><div class='formula'><strong>Asiento mensual (€6,400 ÷ 12):</strong><br>Débito: Gasto por depreciación vehículos €533.33<br>Crédito: Depreciación acumulada vehículos €533.33</div><p><strong>En el Balance General:</strong></p><div class='formula'>ACTIVOS NO CORRIENTES<br>Vehículos (al costo): €40,000<br>Menos: Depreciación acumulada: (€6,400)<br>Vehículos netos: €33,600</div><p><strong>Características importantes:</strong></p><ul><li><strong>No reduce el efectivo:</strong> Es un gasto que no implica salida de dinero</li><li><strong>Afecta la utilidad:</strong> Reduce las ganancias del período</li><li><strong>Preserva el costo original:</strong> No se modifica la cuenta del activo</li></ul>"
+    },
+    {
+      "intro": "Existen diferentes métodos para calcular la depreciación según el patrón de consumo del activo.",
+      "question": "¿Cuál es la principal ventaja del método de depreciación de unidades producidas?",
+      "options": [
+        "Es más fácil de calcular",
+        "Relaciona la depreciación con el uso real del activo",
+        "Siempre produce menor depreciación",
+        "No requiere estimaciones"
       ],
       "correct": [1],
-      "saber_mas": "<p>Los <strong>gastos de desarrollo</strong> pueden activarse si cumplen criterios de viabilidad técnica y rentabilidad comercial.</p><p>Se registran en:</p><ul><li><strong>(206) Aplicaciones informáticas</strong></li><li>Se amortizan a lo largo de su vida útil</li><li>Las páginas web con valor estratégico también pueden incluirse</li></ul><p>Los gastos de <strong>investigación</strong> (200) siempre se gasto, salvo excepciones.</p>"
+      "saber_mas": "<p><strong>Método de Unidades Producidas:</strong></p><p>Relaciona la depreciación directamente con el <u>uso real del activo</u>, no con el paso del tiempo.</p><p><strong>Fórmula:</strong></p><div class='formula'>Depreciación por Unidad = (Costo - Valor Residual) ÷ Total Unidades Estimadas<br><br>Depreciación del Período = Depreciación por Unidad × Unidades Producidas</div><p><strong>Ejemplo práctico:</strong></p><ul><li>Máquina: €100,000</li><li>Valor residual: €10,000</li><li>Capacidad: 450,000 unidades</li></ul><div class='formula'>Depreciación por unidad = (€100,000 - €10,000) ÷ 450,000<br>= €0.20 por unidad<br><br>Si en el año se producen 50,000 unidades:<br>Depreciación anual = 50,000 × €0.20 = €10,000</div><p><strong>Ventajas:</strong></p><ul><li><strong>Más preciso:</strong> Refleja el desgaste real</li><li><strong>Variable:</strong> Depreciación alta con mucho uso, baja con poco uso</li><li><strong>Apropiado para:</strong> Maquinaria, vehículos, equipos de producción</li></ul>"
     },
     {
-      "intro": "Los intereses posteriores a la adquisición de activos financieros generan ingresos.",
-      "question": "¿Cómo se reconocen los intereses devengados tras la compra de un bono?",
+      "intro": "Las mejoras y reparaciones de activos fijos tienen tratamiento contable diferente.",
+      "question": "¿Cuándo debe capitalizarse (sumarse al costo del activo) un gasto en activo fijo?",
       "options": [
-        "Como ingreso en la cuenta de pérdidas y ganancias",
-        "Como aumento del valor del activo",
-        "Como ingreso en el patrimonio neto",
-        "Como reserva voluntaria"
+        "Siempre que se gaste dinero en el activo",
+        "Cuando aumenta la vida útil, capacidad o eficiencia del activo",
+        "Solo en el primer año de uso",
+        "Cuando el gasto sea menor a €1,000"
+      ],
+      "correct": [1],
+      "saber_mas": "<p><strong>Capitalización vs. Gasto en Activos Fijos:</strong></p><p><strong>SE CAPITALIZA (suma al activo) cuando:</strong></p><ul><li><strong>Aumenta la vida útil:</strong> Renovaciones importantes</li><li><strong>Mejora la capacidad:</strong> Ampliaciones, modificaciones</li><li><strong>Mejora la eficiencia:</strong> Actualizaciones tecnológicas</li><li><strong>Mejora la calidad:</strong> Del producto o servicio</li></ul><p><strong>SE REGISTRA COMO GASTO cuando:</strong></p><ul><li><strong>Mantenimiento rutinario:</strong> Aceite, filtros, ajustes</li><li><strong>Reparaciones menores:</strong> Que mantienen el estado original</li><li><strong>Limpieza y lubricación:</strong> Cuidado normal</li></ul><div class='formula'><strong>Ejemplo de capitalización:</strong><br>Motor original de máquina: €20,000<br>Reemplazo por motor más potente: €25,000<br><br>Asiento:<br>Débito: Maquinaria €25,000<br>Débito: Depreciación acumulada €15,000<br>Crédito: Efectivo €25,000<br>Crédito: Maquinaria €20,000<br>Ganancia: €5,000</div><p><strong>Criterio clave:</strong> Si el beneficio se extiende a <u>futuros períodos</u> → Capitalizar. Si solo beneficia el período actual → Gastos.</p>"
+    },
+    {
+      "intro": "Los activos intangibles son activos no físicos que proporcionan derechos o ventajas económicas.",
+      "question": "¿Cuáles son ejemplos de activos intangibles? (Selecciona todas las correctas)",
+      "options": [
+        "Patentes",
+        "Marcas comerciales",
+        "Software desarrollado internamente",
+        "Inventario de productos terminados"
+      ],
+      "correct": [0, 1, 2],
+      "saber_mas": "<p><strong>Activos Intangibles:</strong></p><p>Son activos <u>no físicos</u> identificables que proporcionan beneficios económicos futuros.</p><p><strong>Características:</strong></p><ul><li><strong>No tienen sustancia física</strong></li><li><strong>Son identificables:</strong> Separables o surgen de derechos</li><li><strong>Controlables:</strong> La empresa puede restringir el acceso</li><li><strong>Beneficios futuros:</strong> Generan ingresos o reducen costos</li></ul><p><strong>Tipos principales:</strong></p><ol><li><strong>Patentes:</strong> Derechos exclusivos de invención</li><li><strong>Marcas:</strong> Identificación de productos/servicios</li><li><strong>Derechos de autor:</strong> Obras literarias, artísticas</li><li><strong>Software:</strong> Programas informáticos</li><li><strong>Licencias:</strong> Permisos para operar</li><li><strong>Goodwill:</strong> Valor de la empresa como negocio en marcha</li></ol><p><strong>Amortización:</strong></p><div class='formula'>Similar a depreciación pero se llama \"amortización\"<br>Se distribuye el costo durante la vida útil<br>Vida útil máxima legal: 20 años</div>"
+    },
+    {
+      "question": "¿Cuál es la diferencia entre depreciación y amortización?",
+      "options": [
+        "No hay diferencia, son sinónimos",
+        "Depreciación se usa para activos tangibles, amortización para intangibles",
+        "Amortización es más rápida que depreciación",
+        "Solo la depreciación es deducible de impuestos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p><strong>Depreciación vs. Amortización:</strong></p><table border='1' style='margin: 10px 0; width: 100%;'><tr><th>Concepto</th><th>Depreciación</th><th>Amortización</th></tr><tr><td><strong>Aplica a:</strong></td><td>Activos tangibles</td><td>Activos intangibles</td></tr><tr><td><strong>Ejemplos:</strong></td><td>Edificios, maquinaria, vehículos</td><td>Patentes, software, marcas</td></tr><tr><td><strong>Causa:</strong></td><td>Desgaste físico, obsolescencia</td><td>Paso del tiempo, obsolescencia</td></tr><tr><td><strong>Cuenta:</strong></td><td>Depreciación acumulada</td><td>Amortización acumulada</td></tr><tr><td><strong>Vida útil:</strong></td><td>Estimación técnica</td><td>Vida legal o estimación</td></tr></table><p><strong>Similitudes:</strong></p><ul><li>Ambos distribuyen el costo en el tiempo</li><li>Son gastos que no requieren efectivo</li><li>Reducen el valor neto del activo</li><li>Se registran con asientos similares</li></ul><div class='formula'><strong>Asiento de amortización:</strong><br>Débito: Gasto por amortización<br>Crédito: Amortización acumulada</div><p><strong>Diferencia clave:</strong> La depreciación reconoce el <u>desgaste físico</u>, la amortización reconoce la <u>expiración de derechos o beneficios</u>.</p>"
+    },
+    {
+      "intro": "Los deterioros de valor ocurren cuando el valor en libros de un activo excede su valor recuperable.",
+      "question": "¿Cuándo debe reconocerse un deterioro de valor en un activo fijo?",
+      "options": [
+        "Cada año automáticamente",
+        "Cuando hay indicios de que el valor en libros puede no ser recuperable",
+        "Solo cuando se vende el activo",
+        "Únicamente por daños físicos visibles"
+      ],
+      "correct": [1],
+      "saber_mas": "<p><strong>Deterioro de Valor de Activos:</strong></p><p>Se produce cuando el <u>valor en libros</u> de un activo supera su <u>valor recuperable</u>.</p><p><strong>Indicios de deterioro:</strong></p><ul><li><strong>Externos:</strong><ul><li>Caída significativa del valor de mercado</li><li>Cambios adversos en el entorno tecnológico/legal</li><li>Incremento en tasas de interés</li></ul></li><li><strong>Internos:</strong><ul><li>Obsolescencia o daño físico</li><li>Cambios en el uso del activo</li><li>Rendimiento económico peor al esperado</li></ul></li></ul><p><strong>Proceso de evaluación:</strong></p><ol><li><strong>Identificar indicios</strong> de deterioro</li><li><strong>Calcular valor recuperable</strong> = Mayor entre:<ul><li>Valor razonable menos costos de venta</li><li>Valor de uso (flujos futuros descontados)</li></ul></li><li><strong>Comparar</strong> con valor en libros</li><li><strong>Reconocer pérdida</strong> si es necesario</li></ol><div class='formula'><strong>Asiento por deterioro:</strong><br>Débito: Pérdida por deterioro €X<br>Crédito: Deterioro acumulado activo €X</div>"
+    },
+    {
+      "intro": "La venta de activos fijos genera ganancias o pérdidas según la diferencia entre el precio de venta y el valor neto en libros.",
+      "question": "Si se vende un equipo en €15,000, que costó €30,000 y tiene depreciación acumulada de €18,000, ¿cuál es el resultado de la venta?",
+      "options": [
+        "Ganancia de €3,000",
+        "Pérdida de €3,000", 
+        "Ganancia de €15,000",
+        "No hay ganancia ni pérdida"
       ],
       "correct": [0],
-      "saber_mas": "<p>Los <strong>intereses devengados</strong> tras la adquisición de activos financieros (como bonos o obligaciones) se reconocen como <strong>ingresos financieros</strong> en la cuenta de <strong>pérdidas y ganancias</strong>.</p><p>Se registran en cuentas como:</p><ul><li><strong>(761) Ingresos de valores representativos de deuda</strong></li><li><strong>(546) Intereses a corto plazo</strong></li></ul><p>Se calculan con el método del <strong>interés efectivo</strong>.</p>"
-    }
-  ],
-  "saber_mas_final": "<p><strong>Este contenido se basa en el Plan General de Contabilidad (PGC) español</strong>, especialmente en la norma de registro y valoración del inmovilizado material, intangible y financiero.</p><p>Las inversiones no corrientes son fundamentales en la estructura de activos de una empresa y deben registrarse con precisión para reflejar su verdadero valor económico.</p><p>Este JSON puede integrarse en una aplicación web educativa, sistema LMS o dashboard de contabilidad.</p>"
-}
+      "saber_mas": "<p><strong>Venta de Activos Fijos:</strong></p><p>La ganancia o pérdida se calcula comparando el precio de venta con el <u>valor neto en libros</u>.</p><p><strong>Datos del problema:</strong></p><ul><li>Costo original: €30,000</li><li>Depreciación acumulada: €18,000</li><li>Precio de venta: €15,000</li></ul><p><strong>Cálculo paso a paso:</strong></p><div class='formula'>1. Valor neto en libros = Costo - Depreciación acumulada<br>   = €30,000 - €18,000 = €12,000<br><br>2. Resultado = Precio venta - Valor neto<br>   = €15,000 - €12,000 = €3,000 GANANCIA</div><p><strong>Asiento de la venta:</strong></p><table border='1' style='margin: 10px 0; width: 100%;'><tr><th>Cuenta</th><th>Débito</th><th>Crédito</th></tr><tr><td>Efectivo</td><td>€15,000</td><td>-</td></tr><tr><td>Depreciación acumulada</td><td>€18,000</td><td>-</td></tr><tr><td>Equipo</td><td>-</td><td>€30,000</td></tr><tr><td>Ganancia en venta</td><td>-</td><td>€3,000</td></tr></table><p><strong>Interpretación:</strong> Se obtuvo €3,000 más de lo que valía el equipo según los libros contables.</p>"
+    },
+    {
+      "intro": "Las inversiones financieras no corrientes son participaciones a largo plazo en otras entidades.",
+      "question": "¿Cuáles son motivos para realizar inversiones financieras no corrientes? (Selecciona todas las correctas)",
+      "options": [
+        "Obtener control o influencia sobre otra empresa",
+        "Generar ingresos pasivos por dividendos",
+        "Diversificar riesgos de la inversión",
+        "Mejorar la liquidez inmediata"
+      ],
+      "correct": [0, 1, 2],
+      "saber_mas": "<p><strong>Inversiones Financieras No Corrientes:</strong></p><p>Son participaciones en el patrimonio de otras entidades con intención de <u>mantenerlas a largo plazo</u>.</p><p><strong>Objetivos estratégicos:</strong></p><ol><li><strong>Control empresarial:</strong><ul><li>Mayoría de acciones (>50%)</li><li>Control de decisiones estratégicas</li><li>Creación de grupos empresariales</li></ul></li><li><strong>Influencia significativa:</strong><ul><li>Participación del 20-50%</li><li>Participación en decisiones</li><li>Representación en consejo</li></ul></li><li><strong>Inversión pasiva:</strong><ul><li>Generación de dividendos</li><li>Apreciación del valor</li><li>Diversificación de riesgos</li></ul></li></ol><p><strong>Métodos de valoración:</strong></p><ul><li><strong>Costo:</strong> Inversiones menores al 20%</li><li><strong>Participación patrimonial:</strong> 20-50% influencia significativa</li><li><strong>Consolidación:</strong> >50% control</li></ul><div class='formula'><strong>No mejora liquidez porque:</strong><br>Son inversiones a LARGO PLAZO<br>No están disponibles para operaciones corrientes</div>"
+    },
+    {
+      "question": "¿Cuál es la diferencia principal entre el método del costo y el método de participación patrimonial para inversiones?",
+      "options": [
+        "El método del costo es más exacto",
+        "En el método de participación se reconocen las utilidades de la empresa invertida sin recibirlas",
+        "El método del costo solo se usa para pérdidas",
+        "No hay diferencia práctica entre ambos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p><strong>Métodos de Valoración de Inversiones:</strong></p><p><strong>MÉTODO DEL COSTO:</strong></p><ul><li><strong>Se aplica cuando:</strong> Participación < 20% (sin influencia significativa)</li><li><strong>Registro inicial:</strong> Al costo de adquisición</li><li><strong>Ingresos:</strong> Solo cuando se reciben dividendos</li><li><strong>Valoración posterior:</strong> Costo menos deterioro</li></ul><p><strong>MÉTODO DE PARTICIPACIÓN PATRIMONIAL:</strong></p><ul><li><strong>Se aplica cuando:</strong> Participación 20-50% (influencia significativa)</li><li><strong>Registro inicial:</strong> Al costo de adquisición</li><li><strong>
