@@ -1,2 +1,0 @@
-# Asegura que los archivos .json sean reconocidos como JSON
-*.json linguist-language=JSON
