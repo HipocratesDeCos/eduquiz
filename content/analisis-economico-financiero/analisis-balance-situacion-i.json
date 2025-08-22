@@ -1,0 +1,172 @@
+{
+  "title": "Análisis del Balance de Situación I: Estructura y Solvencia",
+  "description": "Quiz sobre el análisis estructural del balance, ratios de solvencia, liquidez y diagnóstico financiero básico.",
+  "questions": [
+    {
+      "intro": "El análisis del balance de situación permite evaluar la estructura patrimonial, la solvencia y la liquidez de una empresa. A través de ratios y comparativas, se pueden identificar fortalezas y debilidades financieras. La estructura del balance se divide en activo no corriente (inmovilizado), activo corriente (circulante), patrimonio neto, pasivo no corriente y pasivo corriente. Un equilibrio adecuado entre estos componentes es clave para la estabilidad. Ratios como el fondo de maniobra, el ratio de solvencia total y el ratio de liquidez inmediata ayudan a diagnosticar la capacidad de la empresa para hacer frente a sus obligaciones. Este análisis es fundamental para gestores, inversores y acreedores.",
+      "question": "1. ¿Qué es el fondo de maniobra?",
+      "options": [
+        "La diferencia entre activo y pasivo",
+        "La diferencia entre activo corriente y pasivo corriente",
+        "La suma de patrimonio neto y pasivo no corriente",
+        "El valor del inmovilizado material"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>fondo de maniobra</u> (FM) es la diferencia entre <strong>activo corriente</strong> y <strong>pasivo corriente</strong>.</p><p>Indica la capacidad de la empresa para hacer frente a sus obligaciones a corto plazo con recursos líquidos.</p><p>FM positivo: la empresa tiene liquidez suficiente.<br>FM negativo: riesgo de insolvencia técnica.</p><p>FM = AC - PC</p>"
+    },
+    {
+      "question": "2. ¿Qué indica un ratio de solvencia total inferior a 1.5?",
+      "options": [
+        "Alta solvencia",
+        "Riesgo de insolvencia",
+        "Buena liquidez",
+        "Alto endeudamiento a largo plazo"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>ratio de solvencia total</u> = (PN + PC) / AC</p><p>Un valor <strong>inferior a 1.5</strong> indica riesgo de insolvencia, ya que el activo corriente no cubre suficientemente el pasivo exigible.</p><p>Un valor entre 1.5 y 2 es aceptable; superior a 2, muy solvente.</p><p>Refleja la capacidad de la empresa para hacer frente a todas sus deudas con todo su activo.</p>"
+    },
+    {
+      "question": "3. ¿Qué ratio mide la capacidad de pago inmediato?",
+      "options": [
+        "Fondo de maniobra",
+        "Ratio de liquidez",
+        "Ratio de liquidez inmediata",
+        "Ratio de endeudamiento"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>El <u>ratio de liquidez inmediata</u> = (Disponible + Realizable) / Pasivo corriente</p><p>Excluye existencias, ya que no son líquidas inmediatamente.</p><p>Mide si la empresa puede hacer frente a sus deudas a corto plazo sin vender inventarios.</p><p>Valor recomendado: > 0.8</p>"
+    },
+    {
+      "question": "4. ¿Qué significa un alto porcentaje de inmovilizado en el activo?",
+      "options": [
+        "Alta liquidez",
+        "Empresa intensiva en capital",
+        "Bajo riesgo financiero",
+        "Alta rotación de activos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>alto inmovilizado</u> indica que la empresa es <strong>intensiva en capital</strong> (industrial, infraestructuras).</p><p>Tiene altos costes fijos y necesita grandes inversiones.</p><p>Requiere una gestión cuidadosa de la liquidez, ya que gran parte del activo no es líquido.</p><p>Contrasta con empresas de servicios, con bajo inmovilizado.</p>"
+    },
+    {
+      "question": "5. ¿Qué es el ratio de liquidez?",
+      "options": [
+        "AC / PC",
+        "PC / AC",
+        "PN / Total pasivo",
+        "Inmovilizado / Total activo"
+      ],
+      "correct": [0],
+      "saber_mas": "<p>El <u>ratio de liquidez</u> = Activo corriente / Pasivo corriente</p><p>Mide la capacidad de la empresa para cubrir sus deudas a corto plazo con todos sus activos circulantes (incluidas existencias).</p><p>Valor recomendado: entre 1.5 y 2.</p><p>Si es < 1, riesgo de insolvencia técnica.</p>"
+    },
+    {
+      "question": "6. ¿Qué indica un fondo de maniobra negativo?",
+      "options": [
+        "Alta rentabilidad",
+        "Insolvencia técnica",
+        "Bajo endeudamiento",
+        "Alta autofinanciación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>fondo de maniobra negativo</u> (AC < PC) indica que la empresa no tiene suficientes recursos corrientes para cubrir sus deudas a corto plazo.</p><p>Es un signo de <strong>insolvencia técnica</strong>, aunque no necesariamente de quiebra inmediata.</p><p>Puede deberse a mala gestión del circulante o a financiar inmovilizado con deuda a corto.</p>"
+    },
+    {
+      "question": "7. ¿Cómo se calcula el ratio de endeudamiento?",
+      "options": [
+        "Pasivo / Patrimonio neto",
+        "Pasivo / Activo total",
+        "PC / Total pasivo",
+        "Deudas financieras / Ventas"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>ratio de endeudamiento</u> = Total pasivo / Activo total</p><p>Indica el porcentaje de la empresa financiado con deudas.</p><p>Valor recomendado: < 0.6 (60%).</p><p>Superior a 0.7, alto riesgo financiero.</p><p>Complementa el análisis de solvencia.</p>"
+    },
+    {
+      "question": "8. ¿Qué significa que el pasivo corriente supere al activo corriente?",
+      "options": [
+        "Alta liquidez",
+        "Fondo de maniobra positivo",
+        "Fondo de maniobra negativo",
+        "Solvencia total alta"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>Si <strong>PC > AC</strong>, el fondo de maniobra es negativo.</p><p>La empresa no puede cubrir sus obligaciones a corto plazo con sus recursos líquidos.</p><p>Requiere refinanciación, venta de activos o inyección de capital.</p><p>Es un riesgo financiero grave si persiste.</p>"
+    },
+    {
+      "question": "9. ¿Qué ratio mide la autonomía financiera?",
+      "options": [
+        "PN / Activo total",
+        "PN / Pasivo total",
+        "Pasivo / PN",
+        "PC / AC"
+      ],
+      "correct": [0],
+      "saber_mas": "<p>El <u>ratio de autonomía financiera</u> = Patrimonio neto / Activo total</p><p>Indica el porcentaje de la empresa financiado con fondos propios.</p><p>Valor recomendado: > 0.4 (40%).</p><p>Mayor autonomía = menor dependencia de deudas.</p>"
+    },
+    {
+      "question": "10. ¿Qué es el activo realizable?",
+      "options": [
+        "Existencias",
+        "Clientes y efectos comerciales",
+        "Bancos y caja",
+        "Inmovilizado material"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>realizable</u> incluye créditos comerciales: <strong>clientes, efectos en cartera, deudores</strong>.</p><p>Forma parte del activo corriente.</p><p>Su liquidez depende del plazo de cobro.</p><p>Es clave para la gestión de tesorería.</p>"
+    },
+    {
+      "question": "11. ¿Qué indica un ratio de liquidez muy alto?",
+      "options": [
+        "Excelente solvencia",
+        "Mala gestión de recursos",
+        "Alta rentabilidad",
+        "Bajo endeudamiento"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>ratio de liquidez > 3</u> puede indicar mala gestión: exceso de recursos líquidos no rentabilizados.</p><p>El dinero en caja o bancos genera poco o ningún rendimiento.</p><p>La empresa debería invertir en proyectos rentables o devolver deuda.</p><p>Equilibrio es clave.</p>"
+    },
+    {
+      "question": "12. ¿Qué es el pasivo exigible?",
+      "options": [
+        "Solo deudas financieras",
+        "Patrimonio neto más pasivo",
+        "Pasivo corriente más no corriente",
+        "Solo pasivo corriente"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>El <u>pasivo exigible</u> es la suma de <strong>pasivo corriente</strong> y <strong>pasivo no corriente</strong>.</p><p>Representa todas las obligaciones de la empresa.</p><p>Se compara con el activo total para calcular ratios de solvencia.</p><p>Excluye el patrimonio neto.</p>"
+    },
+    {
+      "question": "13. ¿Qué ratio mide la estructura del pasivo?",
+      "options": [
+        "PC / Total pasivo",
+        "PN / Activo",
+        "Inmovilizado / Activo",
+        "AC / PC"
+      ],
+      "correct": [0],
+      "saber_mas": "<p>El <u>ratio de estructura del pasivo</u> = Pasivo corriente / Total pasivo</p><p>Indica el porcentaje de deudas a corto plazo.</p><p>Valores altos (>50%) indican riesgo de refinanciación.</p><p>Empresas estables suelen tener más deuda a largo.</p>"
+    },
+    {
+      "question": "14. ¿Qué significa que el inmovilizado esté financiado con pasivo corriente?",
+      "options": [
+        "Gestión financiera adecuada",
+        "Riesgo de liquidez",
+        "Alta rentabilidad",
+        "Bajo endeudamiento"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Financiar <strong>inmovilizado</strong> (largo plazo) con <strong>pasivo corriente</strong> (corto plazo) genera <u>riesgo de liquidez</u>.</p><p>La empresa debe refinanciar periódicamente.</p><p>Si no puede, puede enfrentar quiebra técnica.</p><p>Lo adecuado es financiar largo con largo.</p>"
+    },
+    {
+      "question": "15. ¿Qué ratio relaciona el patrimonio neto con el pasivo?",
+      "options": [
+        "Autonomía financiera",
+        "Endeudamiento",
+        "Garantía",
+        "Solvencia total"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>El <u>ratio de garantía</u> = Patrimonio neto / Pasivo total</p><p>Indica cuánto respaldan los fondos propios a las deudas.</p><p>Valor > 1: PN > Pasivo (muy sólido)<br>Valor < 0.5: riesgo alto.</p><p>Es clave para acreedores.</p>"
+    }
+  ]
+}
