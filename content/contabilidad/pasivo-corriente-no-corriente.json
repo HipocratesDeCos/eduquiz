@@ -1,0 +1,186 @@
+{
+  "title": "Pasivo Corriente y No Corriente: Deudas, Provisiones y Obligaciones",
+  "description": "Quiz avanzado sobre pasivo corriente y no corriente: deudas con entidades de crédito, empréstitos, provisiones, leasing financiero y reestructuraciones de deuda.",
+  "questions": [
+    {
+      "intro": "El pasivo representa las obligaciones que la empresa tiene frente a terceros. Se clasifica en corriente y no corriente según su vencimiento. El pasivo corriente incluye deudas a corto plazo, proveedores, créditos comerciales, anticipos de clientes y provisiones a corto plazo. El pasivo no corriente agrupa deudas a largo plazo, empréstitos, leasing financiero y provisiones a largo plazo. Una correcta clasificación es esencial para reflejar la solvencia y estructura financiera. Las reclasificaciones anuales entre largo y corto plazo son comunes, especialmente en deudas con vencimiento en menos de 12 meses. El tratamiento contable debe seguir el principio de devengo y prudencia.",
+      "question": "1. ¿Qué criterio determina si una deuda es corriente o no corriente?",
+      "options": [
+        "El importe total de la deuda",
+        "El vencimiento: si se espera liquidar en menos de 12 meses",
+        "El tipo de interés aplicado",
+        "La entidad acreedora"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Una deuda se clasifica como <u>pasivo corriente</u> si su vencimiento es <strong>inferior a 12 meses</strong> desde la fecha del balance.</p><p>Si el vencimiento es superior, es <strong>no corriente</strong>.</p><p>Al final del ejercicio, se reclasifican las cuotas a corto plazo de deudas a largo plazo.</p><p>Ejemplo: Un préstamo de 100.000€ a 5 años con cuotas anuales. Cada año, 20.000€ pasan de (170) a (520).</p>"
+    },
+    {
+      "intro": "Las deudas con entidades de crédito son pasivos financieros que surgen por préstamos o créditos. Pueden ser a corto o largo plazo. Su registro incluye el principal, intereses devengados y comisiones. Las deudas a largo plazo deben reclasificarse anualmente al corto plazo en función de las cuotas exigibles. Es fundamental mantener un control riguroso para cumplir con covenants financieros y evitar impagos.",
+      "question": "2. ¿Cómo se reclasifica la cuota a corto plazo de un préstamo a largo plazo?",
+      "options": [
+        "Se cancela la deuda original",
+        "Se transfiere de (170) a (520)",
+        "Se registra como gasto financiero",
+        "Se convierte en capital social"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Al final del ejercicio, la cuota exigible en el siguiente año se reclasifica:<br>(170) Deudas a largo plazo con entidades de crédito<br>&nbsp;&nbsp;&nbsp;&nbsp;a (520) Deudas a corto plazo con entidades de crédito</p><p>Este ajuste no genera gasto, solo cambia la clasificación dentro del pasivo.</p><p>Es obligatorio para reflejar correctamente la liquidez exigible.</p>"
+    },
+    {
+      "intro": "Las provisiones son pasivos con vencimiento o cuantía incierta. Se reconocen cuando existe una obligación presente derivada de un hecho pasado, y es probable que se requiera una salida de recursos. Las provisiones por reestructuraciones, garantías, o responsabilidades ambientales son ejemplos comunes. Deben actualizarse por intereses efectivos si el periodo es largo. No pueden usarse como 'reservas encubiertas'.",
+      "question": "3. ¿Cuándo debe reconocerse una provisión por reestructuración?",
+      "options": [
+        "Cuando se anuncia un plan de reestructuración",
+        "Cuando existe un plan detallado y se ha comunicado a afectados",
+        "Cuando se pagan indemnizaciones",
+        "Solo si hay sentencia judicial"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Según el PGC, una <u>provisión por reestructuración</u> se reconoce solo si:<br>1. Existe un <strong>plan detallado</strong> de reestructuración.<br>2. Ha sido <strong>comunicado</strong> a los afectados.</p><p>No basta con una mera intención.</p><p>Asiento:<br>(641) Indemnizaciones 50.000<br>&nbsp;&nbsp;&nbsp;&nbsp;a (5296) Provisión a corto plazo para reestructuraciones 50.000</p>"
+    },
+    {
+      "intro": "Los empréstitos son deudas emitidas mediante títulos negociables. Pueden colocarse con prima de emisión (por encima del nominal) o con prima de reembolso (devolución por encima del nominal). Ambas afectan al costo efectivo. La diferencia entre valor de emisión y reembolso se amortiza financiera y contablemente. Son una fuente de financiación a largo plazo común en empresas cotizadas.",
+      "question": "4. ¿Qué ocurre si un empréstito se emite con prima de emisión?",
+      "options": [
+        "El costo de la deuda disminuye",
+        "El costo de la deuda aumenta",
+        "No afecta al costo",
+        "Se convierte en capital social"
+      ],
+      "correct": [0],
+      "saber_mas": "<p>La <u>prima de emisión</u> reduce el costo efectivo del empréstito porque el emisor recibe más dinero del nominal.</p><p>Ejemplo: Emisión de 100.000€ nominales a 105€ → Recibe 105.000€.</p><p>La prima (5.000€) se amortiza a lo largo de la vida del empréstito, reduciendo los intereses efectivos.</p><p>Se registra en (161) Prima de emisión de empréstitos.</p>"
+    },
+    {
+      "intro": "La actualización de provisiones por intereses efectivos es necesaria cuando el periodo de pago es largo. Este ajuste refleja el paso del tiempo y el costo financiero implícito. Se registra como gasto financiero y aumenta el saldo de la provisión. Es un ajuste de devengo que cumple con el principio de prudencia y realismo.",
+      "question": "5. ¿Cómo se contabiliza la actualización de una provisión por intereses efectivos?",
+      "options": [
+        "Cargo a (660) y abono a (5292)",
+        "Cargo a (641) y abono a (572)",
+        "Cargo a (129) y abono a (119)",
+        "No se contabiliza"
+      ],
+      "correct": [0],
+      "saber_mas": "<p>La <u>actualización por intereses</u> se registra:<br>(660) Gastos financieros por actualización de provisiones<br>&nbsp;&nbsp;&nbsp;&nbsp;a (5292) Provisión a corto plazo para otras responsabilidades</p><p>Este ajuste reconoce el costo financiero implícito en la espera del pago.</p><p>Se aplica en provisiones con vencimiento lejano (más de un año).</p>"
+    },
+    {
+      "intro": "El leasing financiero es una operación que transfiere sustancialmente todos los riesgos y beneficios de la propiedad. Se contabiliza como activo y pasivo. La empresa registra el bien en el inmovilizado y una deuda por el valor actual de las cuotas. Las cuotas se descomponen en amortización del principal e intereses financieros. Es común en vehículos, maquinaria y equipos.",
+      "question": "6. ¿Dónde se registra la deuda por un leasing financiero?",
+      "options": [
+        "(472) IVA soportado",
+        "(524) Acreedores por arrendamiento financiero a corto plazo",
+        "(170) Deudas a largo plazo",
+        "Todas las anteriores"
+      ],
+      "correct": [3],
+      "saber_mas": "<p>En un leasing financiero:<br>• La parte a corto plazo: <strong>(524)</strong><br>• La parte a largo plazo: <strong>(174)</strong><br>• El IVA soportado: <strong>(472)</strong></p><p>Asiento inicial:<br>(218) Vehículo 50.000<br>(472) IVA soportado 10.500<br>&nbsp;&nbsp;&nbsp;&nbsp;a (524) 10.000<br>&nbsp;&nbsp;&nbsp;&nbsp;a (174) 50.500</p><p>Las cuotas posteriores amortizan el principal e intereses.</p>"
+    },
+    {
+      "intro": "Las reestructuraciones de deuda implican cambios en condiciones originales: plazo, tipo de interés, capital. Pueden surgir por dificultades financieras. Si se modifican sustancialmente, se extingue la deuda original y se reconoce una nueva. La diferencia puede generar beneficios o pérdidas. Es clave evaluar si la modificación es sustancial o no.",
+      "question": "7. ¿Qué ocurre si una deuda se reestructura con alivio sustancial del capital?",
+      "options": [
+        "Se mantiene la deuda original",
+        "Se extingue la deuda y se reconoce una nueva",
+        "Se registra como ingreso extraordinario",
+        "No requiere contabilización"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Si la modificación es <u>sustancial</u> (cambio > 10% en flujos), se considera una <strong>extinción de la deuda original</strong>.</p><p>Se cancela la deuda antigua y se reconoce una nueva.</p><p>La diferencia puede generar:<br>• <strong>Beneficio</strong> si se reduce el pasivo (ej. condonación de capital)<br>• <strong>Pérdida</strong> si se aumenta</p><p>Se registra en (778) o (678).</p>"
+    },
+    {
+      "intro": "Las provisiones para otras responsabilidades incluyen obligaciones por litigios, garantías, multas o responsabilidades ambientales. Deben ser probables y medibles razonablemente. No pueden crearse para futuros gastos operativos. Su actualización por intereses es obligatoria si el periodo es largo. Son pasivos reales, no reservas.",
+      "question": "8. ¿Qué tipo de obligación requiere una provisión aunque no exista sentencia?",
+      "options": [
+        "Una multa administrativa probable",
+        "Un gasto de publicidad futuro",
+        "Una posible pérdida en bolsa",
+        "Una promesa de donación"
+      ],
+      "correct": [0],
+      "saber_mas": "<p>Si existe una <u>obligación presente</u> por un hecho pasado y es <strong>probable</strong> que genere salida de recursos, se debe provisionar.</p><p>Ejemplo: Una empresa demandada con alta probabilidad de pérdida.</p><p>Asiento:<br>(678) Pérdidas por litigios 30.000<br>&nbsp;&nbsp;&nbsp;&nbsp;a (5292) Provisión para otras responsabilidades 30.000</p><p>No se provisionan gastos futuros o contingencias remotas.</p>"
+    },
+    {
+      "intro": "El pasivo por subvenciones condicionadas surge cuando se recibe dinero con obligaciones futuras. Se registra como pasivo hasta que se cumplen las condiciones. Si no se cumplen, debe reintegrarse. Solo al cumplirse puede trasladarse al patrimonio neto. Es un tratamiento conservador que evita reconocer ingresos inciertos.",
+      "question": "9. ¿Cómo se registra una subvención recibida con condiciones pendientes?",
+      "options": [
+        "Como ingreso inmediato",
+        "Como pasivo",
+        "Como reserva legal",
+        "Como capital social"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Una <u>subvención condicionada</u> se registra como <strong>pasivo</strong>:<br>(572) Bancos 60.000<br>&nbsp;&nbsp;&nbsp;&nbsp;a (525) Pasivo por subvención condicionada 60.000</p><p>Al cumplirse las condiciones:<br>(525) Pasivo por subvención condicionada 60.000<br>&nbsp;&nbsp;&nbsp;&nbsp;a (131) Subvenciones oficiales de capital 60.000</p><p>Evita reconocer ingresos antes de tiempo.</p>"
+    },
+    {
+      "intro": "La amortización de la deuda en leasing financiero se realiza mediante el método del interés efectivo. Cada cuota se descompone en amortización del principal e intereses. Los intereses son gastos financieros; la amortización reduce el pasivo. Este método refleja correctamente el costo financiero a lo largo del tiempo.",
+      "question": "10. ¿Cómo se descompone una cuota de leasing financiero?",
+      "options": [
+        "Solo amortización del principal",
+        "Solo intereses financieros",
+        "Amortización del principal e intereses",
+        "Solo IVA"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>La cuota de leasing se divide en:<br>• <strong>Intereses financieros</strong>: gasto en (664)<br>• <strong>Amortización del principal</strong>: reducción de (524) y (174)</p><p>Asiento:<br>(664) Intereses de deudas 2.000<br>(524) Acreedores leasing 8.000<br>&nbsp;&nbsp;&nbsp;&nbsp;a (572) Bancos 10.000</p><p>El método del interés efectivo asegura una carga financiera constante.</p>"
+    },
+    {
+      "intro": "Las deudas con vencimiento a largo plazo pero exigibles antes de 12 meses deben reclasificarse al pasivo corriente. Esta reclasificación es obligatoria, incluso si la empresa planea refinanciar. Solo si hay acuerdo formal de refinanciación antes del balance, puede mantenerse como no corriente.",
+      "question": "11. ¿Qué ocurre si una deuda a largo plazo vence en 8 meses?",
+      "options": [
+        "Se mantiene en (170)",
+        "Se reclasifica a (520)",
+        "Se cancela automáticamente",
+        "Se convierte en patrimonio neto"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Una deuda con vencimiento <u>inferior a 12 meses</u> debe reclasificarse al <strong>pasivo corriente</strong>, aunque fuera contratada a largo plazo.</p><p>Asiento:<br>(170) Deudas a largo plazo 100.000<br>&nbsp;&nbsp;&nbsp;&nbsp;a (520) Deudas a corto plazo 100.000</p><p>Es una norma de presentación para reflejar obligaciones exigibles.</p>"
+    },
+    {
+      "intro": "Las provisiones por garantías comerciales se crean cuando se venden productos con garantía legal o comercial. El importe se estima según experiencia histórica. Debe actualizarse periódicamente. No pueden usarse para cubrir garantías futuras no relacionadas con ventas pasadas. Son un pasivo real derivado de la actividad comercial.",
+      "question": "12. ¿Cómo se estima la provisión por garantías comerciales?",
+      "options": [
+        "Al 10% de las ventas",
+        "Según experiencia histórica de averías",
+        "Al 50% del precio de venta",
+        "Solo si hay reclamación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La provisión por garantías se estima <u>razonablemente</u> basándose en:<br>• <strong>Experiencia histórica</strong> de reparaciones<br>• <strong>Tipo de producto</strong><br>• <strong>Periodo de garantía</strong></p><p>Asiento:<br>(679) Gastos por garantías 5.000<br>&nbsp;&nbsp;&nbsp;&nbsp;a (5291) Provisión por garantías 5.000</p><p>Debe revisarse anualmente y ajustarse si cambia la estimación.</p>"
+    },
+    {
+      "intro": "Los efectos comerciales impagados generan obligaciones con entidades financieras si estaban descontados. La empresa debe reintegrar el importe anticipado y asumir comisiones. Se registra como deuda con la entidad y, si no se recupera de cliente, como pérdida. Es un riesgo clave en operaciones de descuento con recurso.",
+      "question": "13. ¿Qué ocurre si un efecto comercial descontado resulta impagado?",
+      "options": [
+        "La entidad financiera asume la pérdida",
+        "La empresa debe reintegrar el importe",
+        "Se cancela sin contabilización",
+        "Se convierte en ingreso"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>En descuento <u>con recurso</u>, la empresa debe <strong>reintegrar</strong> el importe anticipado:<br>(4315) Efectos impagados 20.000<br>&nbsp;&nbsp;&nbsp;&nbsp;a (4311) Efectos descontados 20.000<br>(5208) Deudas por efectos descontados 20.000<br>&nbsp;&nbsp;&nbsp;&nbsp;a (572) Bancos 20.000</p><p>Si el cliente no paga, la empresa asume la pérdida.</p>"
+    },
+    {
+      "intro": "Las deudas subordinadas tienen menor prioridad en el caso de liquidación. Pueden emitirse con condiciones especiales. Su tratamiento contable es similar al de otras deudas, pero con clasificación específica. Son comunes en grupos empresariales o en reestructuraciones.",
+      "question": "14. ¿Qué caracteriza a una deuda subordinada?",
+      "options": [
+        "Tiene prioridad en el cobro",
+        "Tiene menor prioridad en caso de liquidación",
+        "No genera intereses",
+        "Se convierte automáticamente en capital"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Una <u>deuda subordinada</u> tiene <strong>menor prioridad</strong> que otras deudas en caso de liquidación.</p><p>Se registra en cuentas específicas como (175).</p><p>Es común en:<br>• Inversiones entre empresas del grupo<br>• Reestructuraciones financieras<br>• Operaciones con inversores estratégicos</p><p>No puede exigir el pago antes que otras deudas.</p>"
+    },
+    {
+      "intro": "La refinanciación de deudas a corto plazo permite mantenerlas como no corrientes si hay acuerdo formal antes del balance. Sin ese acuerdo, deben reclasificarse al corriente. Es una excepción importante para empresas con liquidez ajustada. El acuerdo debe ser vinculante y detallar condiciones.",
+      "question": "15. ¿Cuándo puede mantenerse una deuda a corto plazo como no corriente?",
+      "options": [
+        "Siempre que la empresa lo desee",
+        "Si hay acuerdo formal de refinanciación antes del balance",
+        "Si no se ha reclasificado aún",
+        "Nunca"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Una deuda a corto plazo puede mantenerse como <u>no corriente</u> si:<br>• Existe un <strong>acuerdo formal</strong> de refinanciación<br>• El acuerdo está vigente <strong>antes de la fecha del balance</strong></p><p>Sin este acuerdo, debe reclasificarse obligatoriamente al corriente.</p><p>Evita distorsionar la liquidez real de la empresa.</p>"
+    }
+  ]
+}
