@@ -1,1 +1,172 @@
-
+{
+  "title": "Introducción a la Contabilidad y Estados Financieros",
+  "description": "Quiz sobre los fundamentos de la contabilidad, principios contables, activo, pasivo, patrimonio neto, y estructura de los estados financieros básicos.",
+  "questions": [
+    {
+      "intro": "La contabilidad es el sistema de información que registra, clasifica, resume y comunica los hechos económicos y financieros de una empresa. Su objetivo principal es proporcionar información útil para la toma de decisiones a inversores, acreedores, gestores y administraciones. Los estados financieros básicos incluyen el balance de situación, la cuenta de pérdidas y ganancias, el estado de cambios en el patrimonio neto, el estado de flujos de efectivo y la memoria. Estos documentos deben cumplir con principios contables como el devengo, la prudencia, la imagen fiel y la empresa en funcionamiento. El Plan General de Contabilidad (PGC) establece el marco normativo en España. La correcta comprensión de estos conceptos es esencial para interpretar la situación patrimonial, financiera y de resultados de cualquier organización.",
+      "question": "1. ¿Cuál de los siguientes principios contables exige que los gastos se imputen al ejercicio al que corresponden, independientemente del pago?",
+      "options": [
+        "Principio de prudencia",
+        "Principio de devengo",
+        "Principio de empresa en funcionamiento",
+        "Principio de registro"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>principio de devengo</u> exige que ingresos y gastos se imputen al ejercicio en que se originan, no cuando se cobran o pagan.</p><p>Por ejemplo: una empresa paga en enero el alquiler de diciembre. Ese gasto pertenece al ejercicio anterior.</p><p>Este principio es fundamental para que la <strong>cuenta de resultados</strong> refleje fielmente la actividad del periodo.</p>"
+    },
+    {
+      "question": "2. ¿Qué estado financiero muestra la situación patrimonial de una empresa en una fecha determinada?",
+      "options": [
+        "Cuenta de pérdidas y ganancias",
+        "Estado de flujos de efectivo",
+        "Balance de situación",
+        "Estado de cambios en el patrimonio neto"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>El <u>balance de situación</u> es un estado estático que muestra el <strong>activo</strong>, <strong>pasivo</strong> y <strong>patrimonio neto</strong> de la empresa en una fecha concreta.</p><p>Sigue la ecuación fundamental: <strong>Activo = Pasivo + Patrimonio Neto</strong>.</p><p>Es clave para evaluar la solvencia, liquidez y estructura financiera de la empresa.</p>"
+    },
+    {
+      "question": "3. ¿Qué representa el patrimonio neto?",
+      "options": [
+        "La suma de activos y pasivos",
+        "La diferencia entre activo y pasivo",
+        "El total de ingresos del ejercicio",
+        "El capital social más reservas"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>patrimonio neto</u> es la diferencia entre el <strong>activo</strong> y el <strong>pasivo</strong> de la empresa.</p><p>Representa los fondos propios o derechos de los socios sobre el activo.</p><p>Incluye: capital social, reservas, resultados pendientes de aplicación y subvenciones.</p><p>Es un indicador clave de la estabilidad financiera.</p>"
+    },
+    {
+      "question": "4. ¿Dónde se registra el resultado del ejercicio al final del periodo?",
+      "options": [
+        "En el activo corriente",
+        "En el pasivo no corriente",
+        "En el patrimonio neto",
+        "En ingresos futuros"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>Al final del ejercicio, el saldo de la cuenta de resultados se traslada a <strong>(129) Resultado del ejercicio</strong>, que forma parte del <u>patrimonio neto</u>.</p><p>Este saldo puede destinarse a reservas, dividendos o dejarse pendiente.</p><p>El resultado positivo aumenta el patrimonio neto; el negativo lo reduce.</p>"
+    },
+    {
+      "question": "5. ¿Qué principio exige que las cuentas anuales reflejen la realidad económica de la empresa?",
+      "options": [
+        "Principio de prudencia",
+        "Principio de imagen fiel",
+        "Principio de registro",
+        "Principio de competencia"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>principio de imagen fiel</u> es el más importante del marco conceptual del PGC.</p><p>Obliga a que las cuentas anuales muestren fielmente la situación patrimonial, financiera y de resultados.</p><p>Prevalece sobre cualquier otro principio o formalismo contable.</p><p>Está recogido en el artículo 20 del Código de Comercio.</p>"
+    },
+    {
+      "question": "6. ¿Cómo se valoran las existencias según el PGC?",
+      "options": [
+        "Siempre al precio de mercado",
+        "Al menor entre coste y valor neto realizable",
+        "Solo al coste de adquisición",
+        "Al valor razonable"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Las <u>existencias</u> se valoran al <strong>menor entre coste y valor neto realizable</strong>.</p><p>El coste incluye precio de compra, transporte, y otros gastos necesarios para su puesta a disposición.</p><p>Si el valor de mercado baja, se registra un deterioro en (693).</p><p>Aplica el principio de prudencia.</p>"
+    },
+    {
+      "question": "7. ¿Qué significa que una empresa esté en funcionamiento?",
+      "options": [
+        "Que tiene beneficios",
+        "Que no tiene deudas",
+        "Que se espera que continúe su actividad en el futuro previsible",
+        "Que está cotizando en bolsa"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>El <u>principio de empresa en funcionamiento</u> asume que la empresa continuará su actividad en el futuro previsible.</p><p>Por tanto, los activos no se valoran al valor de liquidación, sino al valor de uso.</p><p>Es clave para la amortización, deterioro y clasificación de activos y pasivos.</p><p>Si no se cumple, debe revelarse en la memoria.</p>"
+    },
+    {
+      "question": "8. ¿Qué cuenta se utiliza para registrar el capital social desembolsado?",
+      "options": [
+        "(100) Capital social",
+        "(101) Capital pendiente de desembolsar",
+        "(112) Reservas voluntarias",
+        "(129) Resultado del ejercicio"
+      ],
+      "correct": [0],
+      "saber_mas": "<p>La cuenta <u>(100) Capital social</u> registra el capital ya desembolsado por los socios.</p><p>La cuenta (101) se usa para el capital suscrito pero no desembolsado.</p><p>Al realizar el desembolso:<br>(101) Capital pendiente de desembolsar<br>&nbsp;&nbsp;&nbsp;&nbsp;a (100) Capital social</p><p>No genera ingreso, es una aportación patrimonial.</p>"
+    },
+    {
+      "question": "9. ¿Qué es el activo no corriente?",
+      "options": [
+        "Bienes que se espera convertir en efectivo en menos de un año",
+        "Bienes destinados a la venta en el curso normal de la actividad",
+        "Bienes que se mantienen para uso en la producción o administración",
+        "Solo maquinaria y edificios"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>El <u>activo no corriente</u> incluye activos que se mantienen para uso en la producción, suministro o administración, con vida útil superior a un año.</p><p>Comprende:<br>• Inmovilizado material<br>• Inmovilizado intangible<br>• Inversiones financieras a largo plazo<br>• Activos por impuesto diferido</p><p>No se espera su conversión en efectivo en el corto plazo.</p>"
+    },
+    {
+      "question": "10. ¿Qué es el pasivo corriente?",
+      "options": [
+        "Deudas que vencen en más de un año",
+        "Deudas que vencen en menos de un año",
+        "Solo préstamos bancarios",
+        "Provisiones a largo plazo"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>pasivo corriente</u> incluye obligaciones que vencen en menos de 12 meses desde la fecha del balance.</p><p>Ejemplos:<br>• Proveedores<br>• Deudas con entidades de crédito a corto plazo<br>• Impuestos a pagar<br>• Anticipos de clientes</p><p>Es clave para evaluar la liquidez de la empresa.</p>"
+    },
+    {
+      "question": "11. ¿Qué estado financiero muestra los flujos de efectivo de explotación, inversión y financiación?",
+      "options": [
+        "Balance",
+        "Cuenta de resultados",
+        "Estado de flujos de efectivo",
+        "Memoria"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>El <u>estado de flujos de efectivo</u> muestra cómo cambia el efectivo durante el ejercicio por tres actividades:<br>• <strong>Explotación</strong>: operaciones principales<br>• <strong>Inversión</strong>: compra/venta de activos<br>• <strong>Financiación</strong>: deudas, capital, dividendos</p><p>Es clave para analizar la generación de liquidez.</p>"
+    },
+    {
+      "question": "12. ¿Qué es el resultado de explotación?",
+      "options": [
+        "Ingresos totales menos gastos financieros",
+        "Ingresos por actividades ordinarias menos gastos operativos",
+        "Beneficio neto antes de impuestos",
+        "Margen bruto"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>resultado de explotación</u> (o beneficio antes de intereses e impuestos - BAII) mide la rentabilidad de la actividad principal.</p><p>Se calcula:<br>ventas netas - coste de ventas - gastos de personal - amortizaciones - otros gastos operativos</p><p>Es un indicador clave de eficiencia operativa.</p>"
+    },
+    {
+      "question": "13. ¿Qué significa que una cuenta esté en pérdidas?",
+      "options": [
+        "Que tiene más deudas que activos",
+        "Que el pasivo supera al patrimonio neto",
+        "Que el resultado del ejercicio es negativo",
+        "Que la empresa debe cerrar"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>Una empresa está en <u>pérdidas</u> cuando el <strong>resultado del ejercicio</strong> (129) es negativo.</p><p>Esto reduce el patrimonio neto.</p><p>No implica necesariamente quiebra, pero requiere atención si es reiterado.</p><p>Las pérdidas pueden compensarse con beneficios futuros o reservas.</p>"
+    },
+    {
+      "question": "14. ¿Qué principio evita la sobrevaloración de activos y la infravaloración de pasivos?",
+      "options": [
+        "Principio de devengo",
+        "Principio de prudencia",
+        "Principio de registro",
+        "Principio de empresa en funcionamiento"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>principio de prudencia</u> exige no sobrevalorar activos ni infravalorar pasivos.</p><p>Ante la incertidumbre, se elige la opción que menor beneficio arroje.</p><p>Ejemplos:<br>• Deterioro de créditos<br>• Valoración de existencias al menor valor<br>• Provisiones por riesgos</p><p>Es clave para la fiabilidad de las cuentas.</p>"
+    },
+    {
+      "question": "15. ¿Qué documento complementa y amplía la información de los estados financieros?",
+      "options": [
+        "Balance",
+        "Cuenta de resultados",
+        "Memoria",
+        "Estado de flujos"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>La <u>memoria</u> es un documento obligatorio que <strong>amplía, detalla y comenta</strong> la información de los estados financieros.</p><p>Debe incluir:<br>• Políticas contables<br>• Desgloses de partidas<br>• Información sobre riesgos y contingencias<br>• Compromisos</p><p>Es esencial para entender el contexto de las cuentas.</p>"
+    }
+  ]
+}
