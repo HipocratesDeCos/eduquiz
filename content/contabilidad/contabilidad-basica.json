@@ -1,0 +1,119 @@
+{
+  "title": "Contabilidad Básica - Fundamentos",
+  "description": "Principios fundamentales de la contabilidad y ecuación contable",
+  "questions": [
+    {
+      "intro": "La contabilidad es el sistema de información que mide, registra y comunica información financiera.",
+      "question": "¿Cuál es la ecuación contable básica?",
+      "options": [
+        "Activo = Pasivo + Patrimonio",
+        "Activo + Pasivo = Patrimonio", 
+        "Patrimonio = Activo + Pasivo",
+        "Activo = Patrimonio - Pasivo"
+      ],
+      "correct": [0],
+      "saber_mas": "<p><strong>La ecuación contable fundamental</strong> es la base de toda la contabilidad por partida doble.</p><div class='formula'><strong>ACTIVO = PASIVO + PATRIMONIO</strong></div><p>Esta ecuación debe <u>mantenerse siempre en equilibrio</u> después de cada transacción contable.</p><ul><li><strong>Activo:</strong> Recursos controlados por la empresa</li><li><strong>Pasivo:</strong> Obligaciones con terceros</li><li><strong>Patrimonio:</strong> Derechos de los propietarios</li></ul>"
+    },
+    {
+      "intro": "Los estados financieros son informes que muestran la situación financiera de una empresa.",
+      "question": "¿Cuáles son los estados financieros básicos? (Selecciona todas las correctas)",
+      "options": [
+        "Balance General",
+        "Estado de Resultados",
+        "Estado de Flujo de Efectivo", 
+        "Estado de Cambios en el Patrimonio"
+      ],
+      "correct": [0, 1, 2, 3],
+      "saber_mas": "<p><strong>Los cuatro estados financieros básicos:</strong></p><p><strong>1. Balance General:</strong> Situación financiera en un momento específico</p><p><strong>2. Estado de Resultados:</strong> Ingresos y gastos durante un período</p><p><strong>3. Estado de Flujo de Efectivo:</strong> Entradas y salidas de efectivo</p><p><strong>4. Estado de Cambios en el Patrimonio:</strong> Variaciones en el patrimonio</p>"
+    },
+    {
+      "question": "¿Qué principio establece que los ingresos se registran cuando se ganan?",
+      "options": [
+        "Principio de Costo Histórico",
+        "Principio de Devengado",
+        "Principio de Consistencia",
+        "Principio de Materialidad"
+      ],
+      "correct": [1],
+      "saber_mas": "<p><strong>El Principio de Devengado</strong> establece que:</p><ul><li>Los <u>ingresos</u> se reconocen cuando se <strong>ganan</strong></li><li>Los <u>gastos</u> se reconocen cuando se <strong>incurren</strong></li><li>Independientemente del momento de cobro o pago</li></ul><div class='formula'>Ejemplo: Venta a crédito se registra al momento de la venta, no del cobro</div>"
+    },
+    {
+      "intro": "El ciclo contable son los pasos que se siguen para registrar las transacciones comerciales.",
+      "question": "¿Cuál es el orden correcto del ciclo contable?",
+      "options": [
+        "Transacción → Asiento → Mayor → Balance de Comprobación → Estados Financieros",
+        "Asiento → Transacción → Mayor → Estados Financieros → Balance",
+        "Mayor → Asiento → Transacción → Balance → Estados Financieros",
+        "Transacción → Mayor → Asiento → Balance → Estados Financieros"
+      ],
+      "correct": [0],
+      "saber_mas": "<p><strong>El Ciclo Contable paso a paso:</strong></p><ol><li><strong>Identificar la transacción:</strong> Determinar si es un evento contable</li><li><strong>Preparar el asiento:</strong> Aplicar partida doble en el diario</li><li><strong>Pasar al mayor:</strong> Transferir al libro mayor</li><li><strong>Balance de comprobación:</strong> Verificar que débitos = créditos</li><li><strong>Estados financieros:</strong> Preparar informes finales</li></ol>"
+    },
+    {
+      "question": "En la partida doble, cada transacción afecta:",
+      "options": [
+        "Solo una cuenta",
+        "Máximo dos cuentas",
+        "Al menos dos cuentas",
+        "Siempre tres cuentas"
+      ],
+      "correct": [2],
+      "saber_mas": "<p><strong>La Partida Doble</strong> es el fundamento de la contabilidad moderna:</p><ul><li>Cada transacción afecta <u>al menos dos cuentas</u></li><li>Los débitos siempre deben <strong>igualar</strong> a los créditos</li><li>Una cuenta se <strong>debita</strong> y otra se <strong>acredita</strong></li></ul><div class='formula'>DÉBITOS = CRÉDITOS (siempre)</div><p>Ejemplo: Compra de inventario con efectivo afecta 2 cuentas:<br>• Débito: Inventarios<br>• Crédito: Efectivo</p>"
+    },
+    {
+      "intro": "Las cuentas se clasifican según su naturaleza y función en los estados financieros.",
+      "question": "¿Cuáles cuentas aumentan con débito? (Selecciona todas las correctas)",
+      "options": [
+        "Activos",
+        "Gastos", 
+        "Pasivos",
+        "Ingresos"
+      ],
+      "correct": [0, 1],
+      "saber_mas": "<p><strong>Reglas de débito y crédito:</strong></p><table border='1' style='width:100%; margin: 10px 0;'><tr><th>Tipo de Cuenta</th><th>Aumenta con</th><th>Disminuye con</th></tr><tr><td><strong>Activos</strong></td><td>Débito</td><td>Crédito</td></tr><tr><td><strong>Pasivos</strong></td><td>Crédito</td><td>Débito</td></tr><tr><td><strong>Patrimonio</strong></td><td>Crédito</td><td>Débito</td></tr><tr><td><strong>Ingresos</strong></td><td>Crédito</td><td>Débito</td></tr><tr><td><strong>Gastos</strong></td><td>Débito</td><td>Crédito</td></tr></table>"
+    },
+    {
+      "question": "El Balance General muestra:",
+      "options": [
+        "Los ingresos y gastos de un período",
+        "La situación financiera en un momento específico",
+        "Los flujos de efectivo del período",
+        "Las utilidades retenidas únicamente"
+      ],
+      "correct": [1],
+      "saber_mas": "<p><strong>El Balance General</strong> es como una <u>fotografía financiera</u> de la empresa:</p><ul><li><strong>Momento específico:</strong> No es un período, es una fecha</li><li><strong>Estructura:</strong> Activos = Pasivos + Patrimonio</li><li><strong>Clasificación:</strong><ul><li>Activos: Corrientes y No corrientes</li><li>Pasivos: Corrientes y No corrientes</li><li>Patrimonio: Capital, reservas, utilidades retenidas</li></ul></li></ul><p>También se conoce como <strong>Estado de Situación Financiera</strong>.</p>"
+    },
+    {
+      "intro": "Los asientos contables registran las transacciones usando la partida doble.",
+      "question": "En el asiento: 'Se compra mercancía por €1,000 en efectivo', ¿cuál es el registro correcto?",
+      "options": [
+        "Débito: Inventarios €1,000 / Crédito: Efectivo €1,000",
+        "Débito: Efectivo €1,000 / Crédito: Inventarios €1,000",
+        "Débito: Gastos €1,000 / Crédito: Efectivo €1,000",
+        "Débito: Inventarios €1,000 / Crédito: Cuentas por pagar €1,000"
+      ],
+      "correct": [0],
+      "saber_mas": "<p><strong>Análisis del asiento contable:</strong></p><div class='formula'>Compra de mercancía por €1,000 en efectivo</div><p><strong>Análisis:</strong></p><ul><li><u>¿Qué entra?</u> Inventarios (Activo) → Se DEBITA</li><li><u>¿Qué sale?</u> Efectivo (Activo) → Se ACREDITA</li></ul><p><strong>Asiento:</strong></p><table border='1' style='margin: 10px 0;'><tr><th>Cuenta</th><th>Débito</th><th>Crédito</th></tr><tr><td>Inventarios</td><td>€1,000</td><td>-</td></tr><tr><td>Efectivo</td><td>-</td><td>€1,000</td></tr></table>"
+    },
+    {
+      "question": "¿Cuál es la diferencia entre gastos y costos?",
+      "options": [
+        "No hay diferencia, son sinónimos",
+        "Los gastos se relacionan con la producción, los costos con la administración",
+        "Los costos se relacionan con la producción, los gastos con actividades no productivas",
+        "Los costos son mayores que los gastos"
+      ],
+      "correct": [2],
+      "saber_mas": "<p><strong>Diferencia entre Costos y Gastos:</strong></p><p><strong>COSTOS:</strong></p><ul><li>Relacionados directamente con la <u>producción</u></li><li>Se incorporan al valor del producto</li><li>Ejemplos: Materia prima, mano de obra directa, costos indirectos de fabricación</li></ul><p><strong>GASTOS:</strong></p><ul><li>Relacionados con actividades <u>no productivas</u></li><li>Se registran directamente en el estado de resultados</li><li>Ejemplos: Gastos administrativos, de ventas, financieros</li></ul><div class='formula'>Costo = Se capitaliza en el producto<br>Gasto = Se registra inmediatamente como reducción de utilidades</div>"
+    },
+    {
+      "intro": "La depreciación distribuye el costo de un activo fijo a lo largo de su vida útil.",
+      "question": "¿Cuál es el método de depreciación más común?",
+      "options": [
+        "Método de unidades producidas",
+        "Método de línea recta",
+        "Método de suma de dígitos",
+        "Método acelerado"
+      ],
+      "correct": [1],
+      "saber_mas": "<p><strong>Método de Línea Recta:</strong></p><p>Es el más <u>simple y utilizado</u> para calcular la depreciación.</p><div class='formula'
