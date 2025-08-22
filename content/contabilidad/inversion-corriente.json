@@ -1,0 +1,127 @@
+{
+  "title": "Contabilidad Intermedia - Inversiones Corrientes y Activos Circulantes",
+  "description": "Temas avanzados sobre inversiones corrientes, existencias, créditos comerciales, factoring, deterioro de valor y operaciones con proveedores y clientes.",
+  "questions": [
+    {
+      "intro": "Las inversiones corrientes incluyen activos que se espera convertir en efectivo en menos de un año.",
+      "question": "¿Cuáles de los siguientes forman parte del activo corriente según el PGC? (Selecciona todas las correctas)",
+      "options": [
+        "Existencias (grupo 3)",
+        "Deudores comerciales (grupo 4)",
+        "Inversiones financieras a corto plazo (grupo 5)",
+        "Activos no corrientes mantenidos para la venta"
+      ],
+      "correct": [0, 1, 2, 3],
+      "saber_mas": "<p>El <strong>activo corriente</strong> incluye:</p><ul><li><strong>Existencias</strong> (grupo 3): mercaderías, materias primas, productos terminados.</li><li><strong>Deudores comerciales</strong> (grupo 4): clientes, efectos comerciales en cartera.</li><li><strong>Inversiones financieras a corto plazo</strong> (grupo 5): valores negociables, depósitos a menos de 12 meses.</li><li><strong>Activos no corrientes mantenidos para la venta</strong>: aunque sean no corrientes, se reclasifican al corriente si se espera venderlos en menos de un año.</li></ul><p>Están todos incluidos en el <strong>activo corriente</strong>.</p>"
+    },
+    {
+      "intro": "Los anticipos a proveedores son pagos anticipados por compras futuras.",
+      "question": "¿Cómo se contabiliza el pago de un anticipo de 16.940€ (IVA incluido) para asegurar un suministro de materias primas?",
+      "options": [
+        "Cargo a (407) Anticipos a proveedores 14.000€ y a (472) IVA soportado 2.940€",
+        "Abono a (572) Bancos 16.940€",
+        "Ambas a) y b) son correctas",
+        "Cargo a (600) Compras de mercaderías 16.940€"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>Al pagar un anticipo por una compra futura:</p><p><strong>Asiento:</strong><br>(407) Anticipos a proveedores 14.000<br>(472) Hacienda Pública, IVA soportado 2.940<br>&nbsp;&nbsp;&nbsp;&nbsp;a (572) Bancos c/c, euros 16.940</p><p>La cuenta <strong>(407)</strong> es un activo corriente. Cuando se reciba la factura, se compensará con el importe total.</p>"
+    },
+    {
+      "intro": "Las devoluciones de compras afectan al valor de las existencias y al IVA soportado.",
+      "question": "Si se acuerda con el proveedor una rebaja del 10% por calidad inferior, sin devolución de productos, ¿qué se debe hacer?",
+      "options": [
+        "Ajustar el valor de las existencias y el IVA soportado",
+        "Registrar una devolución de compras",
+        "No hacer nada, ya que no hay devolución física",
+        "Ambas a) y b) son correctas"
+      ],
+      "correct": [3],
+      "saber_mas": "<p>Una <strong>rebaja en el precio</strong> tras la compra (por calidad, descuento retroactivo, etc.) se contabiliza como una <strong>devolución de compras</strong>, aunque no se devuelva físicamente el producto.</p><p>Se debe:</p><ul><li>Reducir el valor de las <strong>existencias</strong> (cuenta 608)</li><li>Reducir el <strong>IVA soportado</strong> (cuenta 472)</li></ul><p>Ejemplo: Si el importe inicial era 2.050€ + 430,50€ IVA, una rebaja del 30% implica:</p><p>(608) Devoluciones de compras 615<br>(472) IVA soportado 129,15<br>&nbsp;&nbsp;&nbsp;&nbsp;a (400) Proveedores 744,15</p>"
+    },
+    {
+      "intro": "El factoring permite anticipar el cobro de créditos comerciales.",
+      "question": "¿Cuál es la diferencia principal entre factoring con recurso y sin recurso?",
+      "options": [
+        "En el factoring con recurso, el riesgo de impago lo asume la empresa cedente",
+        "En el factoring sin recurso, el riesgo de impago lo asume la entidad factor",
+        "El factoring sin recurso es más caro",
+        "Todas las anteriores"
+      ],
+      "correct": [3],
+      "saber_mas": "<p><strong>Factoring con recurso</strong>: si el cliente no paga, la empresa cedente debe devolver el dinero a la entidad. El riesgo lo sigue asumiendo la empresa.</p><p><strong>Factoring sin recurso</strong>: la entidad factor asume el riesgo de impago. Es más seguro para la empresa, pero más costoso.</p><p>En ambos casos, la empresa recibe liquidez anticipada, pero solo en el caso <em>sin recurso</em> se elimina completamente el riesgo crediticio.</p>"
+    },
+    {
+      "intro": "Los efectos comerciales descontados generan intereses y comisiones.",
+      "question": "¿Cómo se registra el descuento de un efecto comercial de 20.000€ con intereses de 170€ y comisiones de 40€?",
+      "options": [
+        "Cargo a (572) Bancos 19.790€, (665) Intereses 170€, (626) Servicios bancarios 40€, y abono a (5208) Deudas por efectos descontados 20.000€",
+        "Cargo a (4311) Efectos descontados 20.000€ y abono a (4310) Efectos en cartera 20.000€",
+        "Ambas a) y b) son correctas",
+        "Solo se registra el cobro neto en bancos"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>Al descontar un efecto comercial, se realizan dos asientos:</p><p><strong>1. Traslado del efecto a la entidad financiera:</strong><br>(4311) Efectos comerciales descontados 20.000<br>&nbsp;&nbsp;&nbsp;&nbsp;a (4310) Efectos comerciales en cartera 20.000</p><p><strong>2. Recepción del importe neto:</strong><br>(572) Bancos c/c 19.790<br>(665) Intereses por descuento 170<br>(626) Servicios bancarios 40<br>&nbsp;&nbsp;&nbsp;&nbsp;a (5208) Deudas por efectos descontados 20.000</p><p>Si el efecto es impagado, se reclama al cliente y se cancela la deuda con la entidad.</p>"
+    },
+    {
+      "intro": "El deterioro de créditos comerciales se reconoce cuando hay riesgo de impago.",
+      "question": "¿Cómo se registra la estimación de un deterioro de 110.000€ en créditos por operaciones comerciales?",
+      "options": [
+        "Cargo a (694) Pérdidas por deterioro y abono a (490) Deterioro de valor",
+        "Cargo a (490) Deterioro de valor y abono a (430) Clientes",
+        "Cargo a (436) Clientes de dudoso cobro y abono a (430) Clientes",
+        "Todas las anteriores pueden ser correctas según el caso"
+      ],
+      "correct": [3],
+      "saber_mas": "<p>Existen dos enfoques para el deterioro de créditos:</p><p><strong>1. Por saldo individual:</strong><br>Si un cliente específico está en riesgo:<br>(436) Clientes de dudoso cobro 100.000<br>&nbsp;&nbsp;&nbsp;&nbsp;a (430) Clientes 100.000<br>(694) Pérdidas por deterioro 110.000<br>&nbsp;&nbsp;&nbsp;&nbsp;a (490) Deterioro de valor 110.000</p><p><strong>2. Por saldo conjunto (porcentajes):</strong><br>Se estima un porcentaje sobre el total de créditos.</p><p>En ambos casos, se reconoce una <strong>pérdida en PyG</strong> y una <strong>reducción del activo</strong>.</p>"
+    },
+    {
+      "intro": "Los envases y embalajes a devolver son activos corrientes recuperables.",
+      "question": "¿Cómo se registra la entrega de envases por 302,50€ (IVA incluido) a un proveedor con derecho a devolución?",
+      "options": [
+        "Cargo a (406) Envases a devolver y abono a (400) Proveedores",
+        "Cargo a (602) Compras y abono a (572) Bancos",
+        "Cargo a (400) Proveedores y abono a (406) Envases a devolver",
+        "No se contabiliza hasta que se devuelvan"
+      ],
+      "correct": [0],
+      "saber_mas": "<p>Los <strong>envases y embalajes a devolver</strong> (cuenta 406) son un activo corriente. Al recibir mercancía con envases:</p><p>(406) Envases y embalajes a devolver 250<br>(472) IVA soportado 52,50<br>&nbsp;&nbsp;&nbsp;&nbsp;a (400) Proveedores 302,50</p><p>Al devolverlos, se cancela la cuenta 406. Si no se devuelven, se convierten en compra (602).</p>"
+    },
+    {
+      "intro": "Las periodificaciones afectan al activo o pasivo por pagos o cobros anticipados.",
+      "question": "Un ingreso anticipado por servicios futuros, ¿es una periodificación de activo o pasivo?",
+      "options": [
+        "Periodificación de activo",
+        "Periodificación de pasivo",
+        "No es una periodificación",
+        "Es un ingreso inmediato"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <strong>ingreso anticipado</strong> (por ejemplo, alquiler recibido por adelantado) es un <strong>pasivo</strong>, porque la empresa tiene la obligación de prestar el servicio en el futuro.</p><p>Se registra en cuentas como <strong>(567) Ingresos anticipados</strong> (pasivo corriente).</p><p>Conforme se presta el servicio, se va trasladando a ingresos (70x).</p>"
+    },
+    {
+      "intro": "El confirming es una modalidad de pago gestionada por el banco del cliente.",
+      "question": "En una operación de confirming, ¿quién asume el riesgo de impago del cliente?",
+      "options": [
+        "El proveedor",
+        "El banco del cliente",
+        "El cliente",
+        "Ninguno, porque el pago está garantizado"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>En el <strong>confirming</strong>, el banco del <strong>cliente</strong> (deudor) se compromete a pagar al proveedor en la fecha de vencimiento.</p><p>El proveedor cede su crédito al banco, que lo paga directamente. El riesgo de impago lo asume el banco del cliente, no el proveedor.</p><p>Es una forma segura para el proveedor de asegurar el cobro, incluso antes del vencimiento.</p>"
+    },
+    {
+      "intro": "Las subidas de valor de existencias pueden revertir deterioros anteriores.",
+      "question": "Si el valor de mercado de unas existencias aumenta tras un deterioro previo, ¿qué se debe hacer?",
+      "options": [
+        "Aumentar el valor de las existencias",
+        "Revertir el deterioro reconocido anteriormente",
+        "No hacer nada, porque las existencias no pueden revalorizarse",
+        "Reconocer una plusvalía en patrimonio"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Según el PGC, si el valor de mercado de unas existencias <strong>recupera</strong> tras un deterioro, se puede <strong>revertir</strong> la pérdida anterior, pero <strong>hasta el límite del valor contable original</strong>.</p><p>La reversión se registra en <strong>(790) Reversión del deterioro de existencias</strong>.</p><p>Esto no aplica a activos no corrientes, donde la reversión está más restringida.</p>"
+    }
+  ],
+  "saber_mas_final": "<p><strong>Este contenido se basa en el Plan General de Contabilidad (PGC) español</strong>, especialmente en las normas de valoración del activo corriente, créditos comerciales, existencias y operaciones de financiación a corto plazo.</p><p>Las inversiones corrientes son fundamentales para la liquidez de la empresa y deben gestionarse con precisión contable.</p><p>Este JSON puede integrarse en una aplicación web educativa, sistema LMS o dashboard de contabilidad financiera.</p>"
+}
