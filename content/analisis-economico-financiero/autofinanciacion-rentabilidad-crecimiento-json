@@ -1,0 +1,172 @@
+{
+  "title": "Rentabilidad, Autofinanciación y Crecimiento Sostenible",
+  "description": "Quiz avanzado sobre ratios de rentabilidad (ROE, ROA), autofinanciación, fondos generados por la actividad y tasas de crecimiento sostenible.",
+  "questions": [
+    {
+      "intro": "La rentabilidad de una empresa no se mide solo por el beneficio obtenido, sino por la eficiencia con la que se utilizan los recursos. Los ratios de rentabilidad como el ROE (Return on Equity) y el ROA (Return on Assets) permiten evaluar el rendimiento sobre el patrimonio neto y sobre el activo total. La autofinanciación, por otro lado, mide la capacidad de la empresa para generar fondos propios a través de su actividad, sin necesidad de recurrir a aportaciones externas. Incluye la autofinanciación de enriquecimiento (beneficios retenidos) y la de mantenimiento (amortizaciones). El crecimiento sostenible combina rentabilidad, política de reparto y estructura financiera para determinar hasta qué punto puede crecer la empresa sin desequilibrar su estructura. Este análisis es clave para inversores, gestores y analistas financieros.",
+      "question": "1. ¿Qué mide el ROE (Return on Equity)?",
+      "options": [
+        "La rentabilidad sobre el activo total",
+        "La rentabilidad sobre el patrimonio neto",
+        "La rentabilidad sobre las ventas",
+        "La rentabilidad sobre el pasivo"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>ROE</u> (Return on Equity) = <strong>Resultado neto / Patrimonio neto medio</strong>.</p><p>Mide la rentabilidad generada para los socios.</p><p>Es un indicador clave de eficiencia en el uso del capital propio.</p><p>Se puede descomponer mediante el modelo DuPont: ROE = Margen neto × Rotación de activos × Apalancamiento financiero.</p>"
+    },
+    {
+      "question": "2. ¿Cómo se calcula el ROA (Return on Assets)?",
+      "options": [
+        "Resultado neto / Pasivo total",
+        "Resultado neto / Activo total",
+        "Ventas / Activo total",
+        "Resultado de explotación / Patrimonio neto"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>ROA</u> (Return on Assets) = <strong>Resultado neto / Activo total medio</strong>.</p><p>Mide la rentabilidad sobre toda la inversión, independientemente de cómo esté financiada.</p><p>Es útil para comparar empresas con diferentes estructuras de capital.</p><p>ROA alto indica buena gestión operativa y eficiencia en el uso de activos.</p>"
+    },
+    {
+      "question": "3. ¿Qué es la autofinanciación de enriquecimiento?",
+      "options": [
+        "La amortización del inmovilizado",
+        "La revalorización del activo",
+        "Los beneficios retenidos en la empresa",
+        "La subvención recibida del Estado"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>La <u>autofinanciación de enriquecimiento</u> proviene de los <strong>beneficios no distribuidos</strong> (dividendos).</p><p>Estos fondos se reinvierten en la empresa, aumentando el patrimonio neto.</p><p>Es una fuente interna de financiación que no genera deuda ni dilución de capital.</p><p>Clave para el crecimiento sostenible.</p>"
+    },
+    {
+      "question": "4. ¿Qué es la autofinanciación de mantenimiento?",
+      "options": [
+        "La venta de activos",
+        "La amortización del inmovilizado",
+        "El aumento de capital",
+        "La reducción de costes"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>autofinanciación de mantenimiento</u> proviene de la <strong>amortización del inmovilizado</strong>.</p><p>Representa la recuperación del valor de los activos a lo largo del tiempo.</p><p>Los fondos generados permiten reponer activos al final de su vida útil.</p><p>Es esencial para mantener la capacidad productiva sin necesidad de financiación externa.</p>"
+    },
+    {
+      "question": "5. ¿Cuál es la fórmula del crecimiento sostenible?",
+      "options": [
+        "ROE × (1 - Tasa de reparto)",
+        "ROA × Endeudamiento",
+        "Margen neto × Rotación de activos",
+        "ROE × Tasa de reparto"
+      ],
+      "correct": [0],
+      "saber_mas": "<p>El <u>crecimiento sostenible</u> = <strong>ROE × (1 - Tasa de reparto)</strong>.</p><p>Indica la tasa máxima a la que puede crecer la empresa sin alterar su estructura financiera.</p><p>Depende de su rentabilidad y de su política de dividendos.</p><p>Si crece más, necesitará más financiación externa.</p>"
+    },
+    {
+      "question": "6. ¿Qué indica una tasa de reparto del 60%?",
+      "options": [
+        "La empresa retiene el 60% de sus beneficios",
+        "La empresa distribuye el 60% de sus beneficios como dividendos",
+        "La autofinanciación es del 60%",
+        "El ROE es del 60%"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>tasa de reparto</u> indica el porcentaje de beneficios que se distribuyen como dividendos.</p><p>Una tasa del 60% significa que el 60% del beneficio neto se paga a los socios.</p><p>El 40% restante se retiene (autofinanciación de enriquecimiento).</p><p>Empresas en crecimiento suelen tener tasas de reparto bajas.</p>"
+    },
+    {
+      "question": "7. ¿Qué es el modelo DuPont?",
+      "options": [
+        "Un método de amortización",
+        "Una descomposición del ROE en tres componentes",
+        "Un ratio de liquidez",
+        "Un sistema de valoración de activos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>modelo DuPont</u> descompone el ROE en:<br>ROE = <strong>Margen neto × Rotación de activos × Apalancamiento</strong></p><p>Permite analizar qué factor impulsa la rentabilidad:</p><ul><li>¿Buena gestión de costes? (margen)</li><li>¿Eficiencia en activos? (rotación)</li><li>¿Uso de deuda? (apalancamiento)</li></ul><p>Es una herramienta clave de diagnóstico financiero.</p>"
+    },
+    {
+      "question": "8. ¿Qué ocurre si el crecimiento real supera al crecimiento sostenible?",
+      "options": [
+        "La empresa mejora su solvencia",
+        "La empresa necesita más financiación externa",
+        "La autofinanciación aumenta automáticamente",
+        "El ROE disminuye"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Si el <u>crecimiento real</u> supera al <strong>sostenible</strong>, la empresa necesita más recursos de los que genera internamente.</p><p>Debe recurrir a financiación externa: deuda, capital o provisiones.</p><p>Si no puede obtenerla, enfrenta riesgo de liquidez o quiebra técnica.</p><p>El crecimiento sostenible es un límite financiero real.</p>"
+    },
+    {
+      "question": "9. ¿Qué mide la rotación de activos?",
+      "options": [
+        "Cuánto beneficio se obtiene por euro invertido",
+        "Cuánto se vende por cada euro de activo",
+        "Cuánto se endeuda la empresa",
+        "Cuánto se retiene de beneficios"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>rotación de activos</u> = <strong>Ventas netas / Activo total medio</strong>.</p><p>Mide la eficiencia con la que se utilizan los activos para generar ventas.</p><p>Valor alto: buena gestión de recursos.</p><p>Complementa el ROA: ROA = Margen neto × Rotación.</p>"
+    },
+    {
+      "question": "10. ¿Qué es el apalancamiento financiero?",
+      "options": [
+        "La relación entre activo y pasivo",
+        "La relación entre patrimonio neto y pasivo",
+        "La relación entre activo y patrimonio neto",
+        "La relación entre ventas y beneficio"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>El <u>apalancamiento financiero</u> = <strong>Activo total / Patrimonio neto</strong>.</p><p>Indica cuánto se financia con deuda respecto a fondos propios.</p><p>Mayor apalancamiento → mayor riesgo, pero también mayor ROE si la rentabilidad supera al coste de la deuda.</p><p>Parte clave del modelo DuPont.</p>"
+    },
+    {
+      "question": "11. ¿Qué indica un ROA bajo y un ROE alto?",
+      "options": [
+        "Buena gestión operativa",
+        "Alto endeudamiento",
+        "Baja rotación de activos",
+        "Alta autofinanciación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>ROA bajo</u> indica mala eficiencia operativa.</p><p>Un <u>ROE alto</u> sugiere buen rendimiento para los socios.</p><p>Esta combinación se debe a <strong>alto apalancamiento</strong> (mucho endeudamiento).</p><p>El ROE se infla con deuda, pero aumenta el riesgo financiero.</p><p>Requiere análisis cuidadoso.</p>"
+    },
+    {
+      "question": "12. ¿Qué es la autofinanciación total?",
+      "options": [
+        "Solo beneficios retenidos",
+        "Solo amortizaciones",
+        "Amortizaciones más beneficios retenidos",
+        "Venta de activos más subvenciones"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>La <u>autofinanciación total</u> = <strong>Autofinanciación de mantenimiento + de enriquecimiento</strong>.</p><p>Es decir: <strong>Amortizaciones + Beneficios retenidos</strong>.</p><p>Representa los fondos generados internamente por la empresa.</p><p>Es clave para la independencia financiera y el crecimiento sin deuda.</p>"
+    },
+    {
+      "question": "13. ¿Qué ocurre si una empresa tiene ROE negativo?",
+      "options": [
+        "Es muy rentable",
+        "Tiene pérdidas",
+        "No tiene deudas",
+        "Su autofinanciación es alta"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>ROE negativo</u> indica que la empresa tiene <strong>pérdidas</strong> y destruye valor para los socios.</p><p>Reduce el patrimonio neto.</p><p>Puede deberse a mala gestión, caída de ventas o altos costes financieros.</p><p>Si persiste, puede llevar a fondos propios negativos.</p>"
+    },
+    {
+      "question": "14. ¿Qué ratio mide la eficiencia operativa y la gestión de costes?",
+      "options": [
+        "ROE",
+        "Margen neto",
+        "Rotación de activos",
+        "Autonomía financiera"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>margen neto</u> = <strong>Resultado neto / Ventas netas</strong>.</p><p>Mide cuánto beneficio se obtiene por cada euro de venta.</p><p>Refleja la eficiencia en la gestión de costes y precios.</p><p>Es un indicador clave de rentabilidad operativa.</p>"
+    },
+    {
+      "question": "15. ¿Por qué es importante el equilibrio entre crecimiento y rentabilidad?",
+      "options": [
+        "Para maximizar dividendos",
+        "Para evitar desequilibrios financieros",
+        "Para reducir impuestos",
+        "Para aumentar el número de empleados"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>crecimiento sin rentabilidad</u> consume recursos sin generar valor.</p><p>El <u>exceso de rentabilidad sin crecimiento</u> limita el potencial.</p><p>El equilibrio permite crecer de forma <strong>sostenible</strong>, financiándose internamente y manteniendo la estabilidad.</p><p>Es clave para la supervivencia a largo plazo.</p>"
+    }
+  ]
+}
