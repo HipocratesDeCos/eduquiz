@@ -1,0 +1,186 @@
+{
+  "title": "La Elasticidad y su Aplicación",
+  "description": "Quiz sobre elasticidad precio de la demanda, elasticidad ingreso, elasticidad cruzada, elasticidad precio de la oferta y su aplicación en políticas económicas.",
+  "questions": [
+    {
+      "intro": "La elasticidad mide la sensibilidad de una variable a cambios en otra. En economía, la elasticidad precio de la demanda mide cuánto cambia la cantidad demandada de un bien cuando cambia su precio. Se calcula como el porcentaje de cambio en la cantidad dividido por el porcentaje de cambio en el precio. Si el valor absoluto es mayor que 1, la demanda es elástica; si es menor que 1, es inelástica. Este concepto es clave para entender cómo los cambios de precio afectan los ingresos totales y para diseñar políticas fiscales y de precios.",
+      "question": "1. ¿Qué mide la elasticidad precio de la demanda?",
+      "options": [
+        "La sensibilidad del ingreso a cambios en el precio",
+        "La sensibilidad de la cantidad demandada a cambios en el precio",
+        "La sensibilidad de la oferta a cambios en el precio",
+        "La sensibilidad del costo a cambios en la producción"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>elasticidad precio de la demanda</u> mide cuánto cambia la <strong>cantidad demandada</strong> cuando cambia el <strong>precio</strong> del bien.</p><p>Se calcula como: <strong>%ΔQ / %ΔP</strong>.</p><p>Si |elasticidad| > 1: demanda <strong>elástica</strong>.<br>Si |elasticidad| < 1: demanda <strong>inelástica</strong>.</p>"
+    },
+    {
+      "intro": "La demanda es elástica cuando la cantidad demandada responde significativamente a cambios en el precio. Esto suele ocurrir en bienes con muchos sustitutos, como marcas de refrescos o viajes en avión. Cuando la demanda es elástica, una subida de precio reduce los ingresos totales, ya que la caída en cantidad supera el aumento en precio por unidad.",
+      "question": "2. ¿Qué caracteriza a una demanda elástica?",
+      "options": [
+        "La cantidad demandada cambia poco ante cambios de precio",
+        "La cantidad demandada cambia mucho ante cambios de precio",
+        "El precio no afecta la cantidad",
+        "La oferta es constante"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Una demanda <u>elástica</u> significa que la cantidad demandada <strong>cambia mucho</strong> ante pequeños cambios de precio.</p><p>Suele ocurrir en bienes con muchos sustitutos (refrescos, viajes).</p><p>En este caso, una subida de precio <strong>reduce los ingresos totales</strong>.</p>"
+    },
+    {
+      "intro": "La demanda es inelástica cuando la cantidad demandada responde poco a cambios en el precio. Esto ocurre en bienes necesarios sin buenos sustitutos, como medicinas, gasolina o sal. Cuando la demanda es inelástica, una subida de precio aumenta los ingresos totales, ya que el aumento en precio por unidad supera la pequeña caída en cantidad.",
+      "question": "3. ¿Qué caracteriza a una demanda inelástica?",
+      "options": [
+        "La cantidad demandada cambia mucho ante cambios de precio",
+        "La cantidad demandada cambia poco ante cambios de precio",
+        "El precio no afecta la cantidad",
+        "La oferta es infinita"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Una demanda <u>inelástica</u> significa que la cantidad demandada <strong>cambia poco</strong> ante cambios de precio.</p><p>Suele ocurrir en bienes necesarios sin buenos sustitutos (medicinas, gasolina).</p><p>En este caso, una subida de precio <strong>aumenta los ingresos totales</strong>.</p>"
+    },
+    {
+      "intro": "La elasticidad ingreso de la demanda mide cómo cambia la cantidad demandada cuando cambia el ingreso del consumidor. Si es positiva, el bien es normal; si es negativa, es inferior. Bienes de lujo tienen elasticidad ingreso alta (mayor que 1), lo que significa que la demanda crece más rápido que el ingreso.",
+      "question": "4. ¿Qué indica una elasticidad ingreso de la demanda positiva?",
+      "options": [
+        "Que el bien es inferior",
+        "Que el bien es normal",
+        "Que el bien es de lujo",
+        "Que el bien no se consume"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>elasticidad ingreso de la demanda</u> mide cómo cambia la cantidad demandada ante cambios en el ingreso.</p><p>Si es <strong>positiva</strong>: bien <strong>normal</strong> (demanda aumenta con ingreso).</p><p>Si es <strong>negativa</strong>: bien <strong>inferior</strong> (demanda disminuye con ingreso).</p><p>Bienes de lujo: elasticidad > 1.</p>"
+    },
+    {
+      "intro": "La elasticidad cruzada de la demanda mide cómo cambia la demanda de un bien cuando cambia el precio de otro. Si es positiva, los bienes son sustitutos; si es negativa, son complementarios. Por ejemplo, si sube el precio de la mantequilla y aumenta la demanda de margarina, la elasticidad cruzada es positiva.",
+      "question": "5. ¿Qué indica una elasticidad cruzada positiva?",
+      "options": [
+        "Que los bienes son complementarios",
+        "Que los bienes son sustitutos",
+        "Que los bienes son independientes",
+        "Que el ingreso ha aumentado"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>elasticidad cruzada de la demanda</u> mide cómo cambia la demanda de un bien ante cambios en el precio de otro.</p><p>Si es <strong>positiva</strong>: bienes <strong>sustitutos</strong> (mantequilla y margarina).</p><p>Si es <strong>negativa</strong>: bienes <strong>complementarios</strong> (coches y gasolina).</p><p>Si es cero: bienes independientes.</p>"
+    },
+    {
+      "intro": "La elasticidad precio de la oferta mide cuánto cambia la cantidad ofrecida cuando cambia el precio del bien. Depende del tiempo: a corto plazo, la oferta es más inelástica (dificultad para aumentar producción); a largo plazo, más elástica (pueden construirse fábricas, contratar más trabajadores). También depende de la capacidad de producción y de los costos marginales.",
+      "question": "6. ¿Qué determina la elasticidad precio de la oferta?",
+      "options": [
+        "Solo el precio del bien",
+        "El tiempo disponible y la capacidad de producción",
+        "La preferencia de los consumidores",
+        "El ingreso de los consumidores"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>elasticidad precio de la oferta</u> mide la sensibilidad de la cantidad ofrecida al precio.</p><p>Depende del <strong>tiempo</strong>: a corto plazo es más inelástica; a largo plazo más elástica.</p><p>También depende de la <strong>capacidad de producción</strong> y de los <strong>costos marginales</strong>.</p>"
+    },
+    {
+      "intro": "Si la demanda es inelástica, una subida de precio aumenta los ingresos totales. Esto se debe a que el aumento en el ingreso por unidad vendida supera la pequeña caída en la cantidad vendida. Este principio es clave para empresas que venden bienes necesarios, como farmacéuticas o servicios públicos.",
+      "question": "7. ¿Qué ocurre con los ingresos totales si sube el precio y la demanda es inelástica?",
+      "options": [
+        "Disminuyen",
+        "Aumentan",
+        "Permanecen constantes",
+        "Se vuelven negativos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Si la demanda es <u>inelástica</u>, una subida de precio <strong>aumenta los ingresos totales</strong>.</p><p>El aumento en el ingreso por unidad supera la pequeña caída en la cantidad vendida.</p><p>Ejemplo: subir el precio de un medicamento esencial.</p>"
+    },
+    {
+      "intro": "Si la demanda es elástica, una subida de precio disminuye los ingresos totales. Esto se debe a que la caída en la cantidad vendida es proporcionalmente mayor que el aumento en el precio por unidad. Las empresas deben ser cautelosas al subir precios en mercados con muchos sustitutos.",
+      "question": "8. ¿Qué ocurre con los ingresos totales si sube el precio y la demanda es elástica?",
+      "options": [
+        "Aumentan",
+        "Disminuyen",
+        "Permanecen constantes",
+        "Se vuelven positivos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Si la demanda es <u>elástica</u>, una subida de precio <strong>disminuye los ingresos totales</strong>.</p><p>La caída en la cantidad vendida es proporcionalmente mayor que el aumento en el precio por unidad.</p><p>Ejemplo: subir el precio de una marca de refresco con muchos competidores.</p>"
+    },
+    {
+      "intro": "La elasticidad arco se usa cuando se calcula la elasticidad entre dos puntos de una curva, usando promedios para evitar resultados asimétricos. Es más precisa que la elasticidad puntual cuando los cambios son grandes. La fórmula promedia los valores iniciales y finales de precio y cantidad.",
+      "question": "9. ¿Qué es la elasticidad arco?",
+      "options": [
+        "Elasticidad en un solo punto",
+        "Elasticidad calculada entre dos puntos usando promedios",
+        "Elasticidad medida solo en el eje X",
+        "Elasticidad de la oferta a corto plazo"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>elasticidad arco</u> se calcula entre dos puntos de una curva.</p><p>Usa los <strong>valores promedio</strong> de precio y cantidad para evitar asimetría.</p><p>Es más precisa que la elasticidad puntual cuando los cambios son grandes.</p><p>Fórmula: (%ΔQ) / (%ΔP), con promedios.</p>"
+    },
+    {
+      "intro": "Los bienes de lujo tienen alta elasticidad ingreso: su demanda crece más rápido que el ingreso. Por ejemplo, si el ingreso sube un 10% y la demanda de cruceros sube un 20%, la elasticidad ingreso es 2. Son sensibles a ciclos económicos y su consumo disminuye en recesiones.",
+      "question": "10. ¿Qué caracteriza a un bien de lujo?",
+      "options": [
+        "Elasticidad ingreso negativa",
+        "Elasticidad ingreso entre 0 y 1",
+        "Elasticidad ingreso mayor que 1",
+        "Elasticidad precio inelástica"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>Un <u>bien de lujo</u> tiene <strong>elasticidad ingreso mayor que 1</strong>.</p><p>Su demanda crece más rápido que el ingreso.</p><p>Ejemplo: cruceros, joyas, coches de gama alta.</p><p>Son sensibles a recesiones económicas.</p>"
+    },
+    {
+      "intro": "Los bienes necesarios tienen baja elasticidad precio de la demanda. Aunque suba el precio, los consumidores siguen comprando cantidades similares porque no pueden prescindir de ellos. Ejemplos: alimentos básicos, medicinas, servicios públicos. Esto los hace candidatos para impuestos indirectos.",
+      "question": "11. ¿Qué tipo de bienes suelen tener demanda inelástica?",
+      "options": [
+        "Bienes de lujo",
+        "Bienes necesarios",
+        "Bienes con muchos sustitutos",
+        "Modas pasajeras"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Los <u>bienes necesarios</u> (alimentos básicos, medicinas) tienen <strong>demanda inelástica</strong>.</p><p>Aunque suba el precio, los consumidores siguen comprando cantidades similares.</p><p>Por eso, los gobiernos a veces los gravan con impuestos (como el IVA).</p>"
+    },
+    {
+      "intro": "La elasticidad de la oferta a corto plazo es menor que a largo plazo. A corto plazo, las empresas no pueden aumentar fácilmente la producción (fábricas llenas, trabajadores limitados). A largo plazo, pueden construir nuevas instalaciones, contratar más personal o adoptar nueva tecnología.",
+      "question": "12. ¿Cómo cambia la elasticidad de la oferta con el tiempo?",
+      "options": [
+        "Siempre es constante",
+        "Aumenta a largo plazo",
+        "Disminuye a largo plazo",
+        "No depende del tiempo"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>elasticidad de la oferta</u> es <strong>menor a corto plazo</strong> y <strong>mayor a largo plazo</strong>.</p><p>A corto plazo: capacidad limitada.<br>A largo plazo: pueden construir fábricas, contratar más trabajadores.</p><p>Por eso, los precios suben más en el corto plazo ante shocks.</p>"
+    },
+    {
+      "intro": "Si la elasticidad precio de la demanda es -0.5, significa que una subida del 10% en el precio reduce la cantidad demandada en un 5%. La demanda es inelástica (|0.5| < 1). Una subida de precio aumentaría los ingresos totales.",
+      "question": "13. ¿Qué significa una elasticidad precio de la demanda de -0.5?",
+      "options": [
+        "Demanda elástica",
+        "Demanda inelástica",
+        "Demanda unitaria",
+        "Oferta perfectamente elástica"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Una elasticidad de <strong>-0.5</strong> significa que una subida del 10% en el precio reduce la cantidad en un 5%.</p><p>Como |elasticidad| = 0.5 < 1, la demanda es <strong>inelástica</strong>.</p><p>Una subida de precio <strong>aumenta los ingresos totales</strong>.</p>"
+    },
+    {
+      "intro": "La elasticidad unitaria ocurre cuando el porcentaje de cambio en la cantidad demandada es igual al porcentaje de cambio en el precio. En este caso, los ingresos totales no cambian ante variaciones de precio. La curva de demanda tiene una forma específica donde el ingreso total es constante a lo largo de ella.",
+      "question": "14. ¿Qué ocurre con los ingresos totales si la demanda tiene elasticidad unitaria y sube el precio?",
+      "options": [
+        "Aumentan",
+        "Disminuyen",
+        "Permanecen constantes",
+        "Se vuelven cero"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>Si la demanda tiene <u>elasticidad unitaria</u> (|elasticidad| = 1), los <strong>ingresos totales no cambian</strong> ante cambios de precio.</p><p>El aumento en el ingreso por unidad se compensa exactamente con la caída en la cantidad vendida.</p><p>El ingreso total es constante a lo largo de esa curva de demanda.</p>"
+    },
+    {
+      "intro": "Las políticas de control de precios, como los precios máximos (topes) o mínimos (salarios mínimos), pueden crear desequilibrios si están por debajo o por encima del equilibrio. Un precio máximo bajo genera escasez; un precio mínimo alto genera exceso de oferta. La elasticidad de la oferta y la demanda determina la magnitud de estos efectos.",
+      "question": "15. ¿Qué efecto tiene un precio máximo por debajo del equilibrio?",
+      "options": [
+        "Exceso de oferta",
+        "Escasez",
+        "Equilibrio estable",
+        "Aumento de la oferta"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>precio máximo</u> (tope) por debajo del equilibrio crea <strong>escasez</strong>.</p><p>La cantidad demandada supera a la ofrecida.</p><p>Los consumidores no pueden comprar todo lo que desean.</p><p>Este desequilibrio puede llevar a colas, racionamiento o mercados negros.</p>"
+    }
+  ]
+}
