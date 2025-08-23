@@ -15,6 +15,7 @@
       "saber_mas": "<p>El <u>margen bruto</u> = <strong>Ventas netas - Coste de ventas</strong>.</p><p>Mide la rentabilidad directa de la actividad principal.</p><p>Un margen bruto bajo puede indicar altos costes de producción o baja capacidad de fijación de precios.</p><p>Es el primer paso en el análisis de rentabilidad.</p>"
     },
     {
+      "intro": "El resultado de explotación (BAII) se calcula restando del margen bruto los gastos operativos: personal, servicios, amortizaciones, etc. Mide la rentabilidad de la actividad principal, sin considerar financiación ni impuestos. Es clave para comparar empresas del mismo sector. Un BAII negativo indica problemas en la actividad principal.",
       "question": "2. ¿Cómo se calcula el resultado de explotación?",
       "options": [
         "Margen bruto - Gastos financieros",
@@ -26,6 +27,7 @@
       "saber_mas": "<p>El <u>resultado de explotación</u> (BAII) = <strong>Margen bruto - Gastos operativos</strong>.</p><p>Incluye: gastos de personal, servicios externos, amortizaciones, otros gastos.</p><p>Mide la rentabilidad de la actividad principal, sin considerar financiación ni impuestos.</p><p>Clave para comparar empresas del mismo sector.</p>"
     },
     {
+      "intro": "El resultado financiero es la diferencia entre ingresos y gastos financieros. Incluye intereses, dividendos, ganancias por activos financieros, etc. Un resultado financiero negativo indica altos costes de deuda. Es clave para analizar la estructura de financiación. No debe confundirse con el resultado de explotación.",
       "question": "3. ¿Qué es el resultado financiero?",
       "options": [
         "Ingresos por ventas",
@@ -37,6 +39,7 @@
       "saber_mas": "<p>El <u>resultado financiero</u> = <strong>Ingresos financieros - Gastos financieros</strong>.</p><p>Incluye intereses, dividendos, ganancias por activos financieros, etc.</p><p>Un resultado financiero negativo indica altos costes de deuda.</p><p>Es clave para analizar la estructura de financiación.</p>"
     },
     {
+      "intro": "El resultado neto es el beneficio final después de todos los gastos, incluidos financieros e impuestos. Se traslada a (129) Resultado del ejercicio y luego a reservas o dividendos. Es el indicador final de rentabilidad para los socios. Se usa en ratios como ROE y margen neto. Puede ser positivo (beneficio) o negativo (pérdida).",
       "question": "4. ¿Qué representa el resultado neto?",
       "options": [
         "Beneficio antes de intereses e impuestos",
@@ -48,6 +51,7 @@
       "saber_mas": "<p>El <u>resultado neto</u> es el beneficio final después de todos los gastos, incluidos financieros e impuestos.</p><p>Se traslada a (129) Resultado del ejercicio y luego a reservas o dividendos.</p><p>Es el indicador final de rentabilidad para los socios.</p><p>Se usa en ratios como ROE y margen neto.</p>"
     },
     {
+      "intro": "El margen neto mide cuánto beneficio se obtiene por cada euro de venta. Se calcula como Resultado Neto / Ventas. Valor alto: buena gestión de costes y precios. Permite comparar rentabilidad entre empresas de distinto tamaño. Es clave para el análisis de rentabilidad y debe analizarse junto con la rotación de activos.",
       "question": "5. ¿Cómo se calcula el margen neto?",
       "options": [
         "Resultado neto / Ventas",
@@ -59,6 +63,7 @@
       "saber_mas": "<p>El <u>margen neto</u> = <strong>Resultado neto / Ventas netas</strong>.</p><p>Indica cuánto beneficio se obtiene por cada euro de venta.</p><p>Valor alto: buena gestión de costes y precios.</p><p>Permite comparar rentabilidad entre empresas de distinto tamaño.</p>"
     },
     {
+      "intro": "Un resultado de explotación negativo indica que la actividad principal no es rentable. Los ingresos no cubren los costes operativos. Puede deberse a altos gastos, baja demanda o mala gestión. Aunque haya ingresos financieros, la base operativa es débil. Requiere análisis urgente para mejorar eficiencia.",
       "question": "6. ¿Qué indica un resultado de explotación negativo?",
       "options": [
         "Alta rentabilidad financiera",
@@ -70,6 +75,7 @@
       "saber_mas": "<p>Un <u>resultado de explotación negativo</u> indica que la actividad principal no es rentable.</p><p>Los ingresos no cubren los costes operativos.</p><p>Puede deberse a altos gastos, baja demanda o mala gestión.</p><p>Aunque haya ingresos financieros, la base operativa es débil.</p>"
     },
     {
+      "intro": "El BAII (Beneficio Antes de Intereses e Impuestos) es igual al resultado de explotación. Permite comparar empresas con diferentes estructuras de financiación e impositivas. Es clave en análisis de valoración y ratios como ROA. Se calcula: ventas - costes operativos. Es un indicador de eficiencia operativa.",
       "question": "7. ¿Qué es el BAII?",
       "options": [
         "Beneficio antes de impuestos",
@@ -81,6 +87,7 @@
       "saber_mas": "<p>El <u>BAII</u> (Beneficio Antes de Intereses e Impuestos) es igual al <strong>resultado de explotación</strong>.</p><p>Permite comparar empresas con diferentes estructuras de financiación e impositivas.</p><p>Es clave en análisis de valoración y ratios como ROA.</p><p>Se calcula: ventas - costes operativos.</p>"
     },
     {
+      "intro": "El impuesto sobre sociedades se presenta en la partida de impuestos sobre beneficios, después del resultado antes de impuestos. Forma parte del resultado después de impuestos. No es un gasto operativo ni financiero. Su correcto cálculo es clave para la imagen fiel del resultado.",
       "question": "8. ¿Dónde se presenta el impuesto sobre sociedades?",
       "options": [
         "En ingresos financieros",
@@ -92,6 +99,7 @@
       "saber_mas": "<p>El <u>impuesto sobre beneficios</u> es una partida de la cuenta de resultados que incluye impuesto corriente y diferido.</p><p>Se presenta después del resultado antes de impuestos.</p><p>Forma parte del <strong>resultado después de impuestos</strong>.</p><p>No es un gasto operativo ni financiero.</p>"
     },
     {
+      "intro": "El ROE (Return on Equity) mide la rentabilidad sobre los fondos de los socios. Se calcula como Resultado Neto / Patrimonio Neto. Valor alto: buena eficiencia en el uso del capital. Es clave para inversores y análisis de valor. Puede deberse a apalancamiento financiero, no solo a buena gestión operativa.",
       "question": "9. ¿Qué ratio mide la rentabilidad sobre recursos propios?",
       "options": [
         "ROA",
@@ -103,6 +111,7 @@
       "saber_mas": "<p>El <u>ROE</u> (Return on Equity) = <strong>Resultado neto / Patrimonio neto</strong>.</p><p>Mide la rentabilidad generada sobre los fondos de los socios.</p><p>Valor alto: buena eficiencia en el uso del capital.</p><p>Es clave para inversores y análisis de valor.</p>"
     },
     {
+      "intro": "La rotación de activos mide cuán eficientemente se utilizan los activos para generar ventas. Se calcula como Ventas / Activo Total. Valor alto: buena gestión de recursos. Complementa el ROA: ROA = Margen neto × Rotación de activos. Es clave para evaluar eficiencia operativa.",
       "question": "10. ¿Qué es la rotación de activos?",
       "options": [
         "Ventas / Patrimonio neto",
@@ -114,6 +123,7 @@
       "saber_mas": "<p>La <u>rotación de activos</u> = <strong>Ventas netas / Activo total medio</strong>.</p><p>Mide cuán eficientemente se utilizan los activos para generar ventas.</p><p>Valor alto: buena gestión de recursos.</p><p>Complementa el ROA: ROA = Margen neto × Rotación de activos.</p>"
     },
     {
+      "intro": "Un ROE muy alto puede deberse a alto endeudamiento (efecto apalancamiento). Aunque la rentabilidad sea buena, el riesgo financiero también aumenta. Debe analizarse junto con ROA y estructura del pasivo. No siempre indica buena gestión operativa, sino posible exceso de apalancamiento.",
       "question": "11. ¿Qué indica un ROE muy alto?",
       "options": [
         "Baja rentabilidad",
@@ -125,6 +135,7 @@
       "saber_mas": "<p>Un <u>ROE muy alto</u> puede deberse a <strong>alto endeudamiento</strong> (efecto apalancamiento).</p><p>Aunque la rentabilidad sea buena, el riesgo financiero también aumenta.</p><p>Debe analizarse junto con ROA y estructura del pasivo.</p><p>No siempre indica buena gestión operativa.</p>"
     },
     {
+      "intro": "El resultado de actividades ordinarias incluye todos los ingresos y gastos de la actividad principal y financiera. Excluye partidas extraordinarias. Da una visión estable de la rentabilidad recurrente. Es clave para proyecciones futuras y análisis de sostenibilidad del beneficio.",
       "question": "12. ¿Qué es el resultado de actividades ordinarias?",
       "options": [
         "Solo ingresos por ventas",
@@ -136,6 +147,7 @@
       "saber_mas": "<p>El <u>resultado de actividades ordinarias</u> incluye todos los ingresos y gastos de la actividad principal y financiera.</p><p>Excluye partidas extraordinarias.</p><p>Da una visión estable de la rentabilidad recurrente.</p><p>Es clave para proyecciones futuras.</p>"
     },
     {
+      "intro": "El ROA (Return on Assets) mide la rentabilidad sobre toda la inversión, independientemente de la financiación. Se descompone como: Margen neto × Rotación de activos. Es clave para evaluar eficiencia operativa. Valor alto: buena gestión de activos. Complementa el ROE.",
       "question": "13. ¿Qué ratio combina margen y rotación?",
       "options": [
         "ROE",
@@ -147,6 +159,7 @@
       "saber_mas": "<p>El <u>ROA</u> (Return on Assets) = <strong>Resultado neto / Activo total</strong>.</p><p>Se descompone como: <strong>Margen neto × Rotación de activos</strong>.</p><p>Mide la rentabilidad sobre toda la inversión, independientemente de la financiación.</p><p>Es clave para evaluar eficiencia operativa.</p>"
     },
     {
+      "intro": "Una caída del margen bruto indica que el coste de ventas crece más rápido que las ventas. Puede deberse a subida de precios de materias primas, descuentos, o baja escala. Requiere análisis de precios, proveedores y productividad. Es una señal de alerta temprana sobre la rentabilidad directa.",
       "question": "14. ¿Qué indica una caída del margen bruto?",
       "options": [
         "Mayor eficiencia",
@@ -158,6 +171,7 @@
       "saber_mas": "<p>Una <u>caída del margen bruto</u> indica que el <strong>coste de ventas</strong> crece más rápido que las ventas.</p><p>Puede deberse a subida de precios de materias primas, descuentos, o baja escala.</p><p>Requiere análisis de precios, proveedores y productividad.</p><p>Es una señal de alerta temprana.</p>"
     },
     {
+      "intro": "El resultado antes de impuestos es la base sobre la que se calcula el impuesto sobre sociedades. Se calcula como Resultado de explotación + Resultado financiero. Es clave en análisis de rentabilidad fiscal. Se usa para calcular el tipo impositivo efectivo y comparar con el nominal.",
       "question": "15. ¿Qué es el resultado antes de impuestos?",
       "options": [
         "Resultado neto + Impuestos",
