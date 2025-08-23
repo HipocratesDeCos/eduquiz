@@ -1,0 +1,186 @@
+{
+  "title": "Pensar como un Economista",
+  "description": "Quiz sobre el método científico en economía, modelos económicos, frontera de posibilidades de producción, costos de oportunidad y economía positiva vs. normativa.",
+  "questions": [
+    {
+      "intro": "Los economistas usan el método científico: observan fenómenos, formulan teorías, recopilan datos y prueban sus hipótesis. A diferencia de otras ciencias, no pueden hacer experimentos controlados fácilmente, por lo que dependen de datos históricos y naturales. Formulan modelos simplificados del mundo real, ignorando detalles irrelevantes para enfocarse en relaciones clave. Estos modelos, como el diagrama del flujo circular o la frontera de posibilidades de producción, ayudan a entender cómo funciona la economía.",
+      "question": "1. ¿Qué método utilizan los economistas para desarrollar teorías?",
+      "options": [
+        "Intuición pura",
+        "Método científico: observación, teoría, datos",
+        "Adivinación",
+        "Tradición"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Los <u>economistas</u> usan el <strong>método científico</strong>: observan fenómenos, formulan teorías, recopilan datos y prueban hipótesis.</p><p>A diferencia de otras ciencias, dependen de datos históricos y naturales, no de experimentos controlados.</p><p>Formulan modelos simplificados para entender relaciones clave.</p>"
+    },
+    {
+      "intro": "Los supuestos simplifican la realidad para hacer los modelos manejables. Por ejemplo, asumir 'ceteris paribus' (todo lo demás constante) permite analizar el efecto de una sola variable. Aunque los supuestos parezcan irreales, si el modelo predice bien, es útil. La clave es elegir supuestos que no distorsionen las conclusiones.",
+      "question": "2. ¿Por qué usan los economistas supuestos en sus modelos?",
+      "options": [
+        "Para hacer los modelos más complejos",
+        "Para simplificar la realidad y centrarse en lo esencial",
+        "Para ocultar información",
+        "Por tradición"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Los <u>supuestos</u> simplifican la realidad para hacer los modelos manejables.</p><p>Por ejemplo: 'ceteris paribus' (todo lo demás constante) permite analizar el efecto de una sola variable.</p><p>Si el modelo predice bien, el supuesto es útil, aunque parezca irreales.</p>"
+    },
+    {
+      "intro": "El diagrama del flujo circular es un modelo simple que muestra cómo los hogares y empresas interactúan en dos mercados: el de bienes y servicios y el de factores de producción. Los hogares venden factores (trabajo, capital) a las empresas y compran bienes. Las empresas venden bienes y pagan factores. Este modelo ilustra la interdependencia en la economía.",
+      "question": "3. ¿Qué muestra el diagrama del flujo circular?",
+      "options": [
+        "El ciclo del agua",
+        "La interacción entre hogares y empresas en los mercados",
+        "El crecimiento de las plantas",
+        "La estructura del gobierno"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>diagrama del flujo circular</u> muestra cómo <strong>hogares</strong> y <strong>empresas</strong> interactúan en dos mercados:</p><ul><li><strong>Bienes y servicios</strong>: empresas venden, hogares compran</li><li><strong>Factores de producción</strong>: hogares venden (trabajo), empresas compran</li></ul><p>Ilustra la interdependencia en la economía.</p>"
+    },
+    {
+      "intro": "La frontera de posibilidades de producción (FPP) es un gráfico que muestra las combinaciones máximas de dos bienes que una economía puede producir con recursos y tecnología dados. Puntos dentro de la frontera indican ineficiencia; fuera, imposibilidad. La forma cóncava refleja costos de oportunidad crecientes.",
+      "question": "4. ¿Qué representa un punto dentro de la frontera de posibilidades de producción?",
+      "options": [
+        "Eficiencia máxima",
+        "Ineficiencia o recursos ociosos",
+        "Imposibilidad de producción",
+        "Crecimiento económico"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un punto <u>dentro</u> de la FPP indica <strong>ineficiencia</strong> o recursos ociosos.</p><p>La economía podría producir más de uno o ambos bienes sin sacrificar el otro.</p><p>Un punto <strong>en</strong> la frontera es eficiente; <strong>fuera</strong>, imposible con recursos actuales.</p>"
+    },
+    {
+      "intro": "El costo de oportunidad es lo que se renuncia para obtener algo. En la FPP, es la cantidad de un bien que se debe sacrificar para producir más del otro. A medida que se produce más de un bien, el costo de oportunidad suele aumentar (ley de costos crecientes), lo que da forma cóncava a la FPP.",
+      "question": "5. ¿Cómo se relaciona el costo de oportunidad con la frontera de posibilidades de producción?",
+      "options": [
+        "No tiene relación",
+        "Es la pendiente de la FPP",
+        "Es el área bajo la curva",
+        "Es el punto de origen"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>costo de oportunidad</u> es la <strong>pendiente</strong> de la FPP.</p><p>Muestra cuánto de un bien se sacrifica para producir más del otro.</p><p>Si la FPP es cóncava, el costo de oportunidad <strong>aumenta</strong> al producir más de un bien.</p>"
+    },
+    {
+      "intro": "La microeconomía estudia el comportamiento de agentes individuales: hogares, empresas, mercados. La macroeconomía estudia fenómenos agregados: inflación, desempleo, crecimiento. Ambas están relacionadas: la macro se basa en la micro, pero también hay efectos agregados que no se ven a nivel individual.",
+      "question": "6. ¿Cuál es la diferencia entre microeconomía y macroeconomía?",
+      "options": [
+        "Micro estudia individuos, macro estudia agregados",
+        "Micro es más importante",
+        "Macro es solo para gobiernos",
+        "No hay diferencia"
+      ],
+      "correct": [0],
+      "saber_mas": "<p>La <u>microeconomía</u> estudia agentes individuales: hogares, empresas, mercados.</p><p>La <u>macroeconomía</u> estudia agregados: inflación, desempleo, PIB.</p><p>Ambas están relacionadas: la macro se basa en la micro, pero hay efectos agregados.</p>"
+    },
+    {
+      "intro": "El análisis positivo describe cómo es el mundo, basándose en hechos. El análisis normativo recomienda cómo debería ser, basándose en valores. Por ejemplo, 'el desempleo es del 8%' es positivo; 'el gobierno debería reducirlo' es normativo. Distinguir entre ambos es clave para debates económicos racionales.",
+      "question": "7. ¿Qué es el análisis positivo?",
+      "options": [
+        "Una recomendación sobre qué hacer",
+        "Una descripción de cómo es el mundo",
+        "Una opinión personal",
+        "Un deseo"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>análisis positivo</u> describe cómo es el mundo (hechos, datos).</p><p>El <u>análisis normativo</u> recomienda cómo debería ser (valores, juicios).</p><p>Distinguir entre ambos es clave para debates económicos racionales.</p>"
+    },
+    {
+      "intro": "Los economistas discrepan por diferencias en sus juicios científicos (interpretación de datos) o por diferencias en valores (qué es más importante: eficiencia, equidad, etc.). Por ejemplo, sobre si los impuestos altos reducen el crecimiento, pueden tener datos diferentes o priorizar equidad sobre eficiencia.",
+      "question": "8. ¿Por qué discrepan los economistas?",
+      "options": [
+        "Por diferencias en juicios científicos o valores",
+        "Porque no saben",
+        "Por tradición",
+        "Porque no quieren acordar"
+      ],
+      "correct": [0],
+      "saber_mas": "<p>Los economistas discrepan por:<br>• <strong>Diferencias en juicios científicos</strong>: interpretación de datos<br>• <strong>Diferencias en valores</strong>: eficiencia vs. equidad, libertad vs. igualdad</p><p>Esto explica por qué hay debates sobre políticas económicas.</p>"
+    },
+    {
+      "intro": "La eficiencia económica es la maximización del bienestar total. La equidad es la distribución justa de ese bienestar. Hay una disyuntiva: políticas que aumentan eficiencia pueden reducir equidad, y viceversa. Por ejemplo, impuestos altos aumentan equidad pero pueden reducir incentivos (eficiencia).",
+      "question": "9. ¿Qué es la disyuntiva entre eficiencia y equidad?",
+      "options": [
+        "Ambas siempre aumentan juntas",
+        "Maximizar una puede reducir la otra",
+        "No existe",
+        "La equidad es más importante"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>disyuntiva entre eficiencia y equidad</u> es clave.</p><p>La <strong>eficiencia</strong> maximiza el pastel; la <strong>equidad</strong> decide cómo repartirlo.</p><p>Impuestos progresivos aumentan equidad, pero pueden reducir eficiencia (incentivos).</p>"
+    },
+    {
+      "intro": "Un modelo económico es una representación simplificada de la realidad, diseñada para analizar fenómenos específicos. Ignora detalles irrelevantes para centrarse en relaciones clave. Por ejemplo, el modelo de oferta y demanda ignora preferencias individuales para analizar precios. Un buen modelo predice bien, aunque sea simple.",
+      "question": "10. ¿Qué es un modelo económico?",
+      "options": [
+        "Una réplica exacta del mundo real",
+        "Una representación simplificada para analizar fenómenos",
+        "Un dibujo decorativo",
+        "Una opinión"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>modelo económico</u> es una <strong>representación simplificada</strong> de la realidad.</p><p>Ignora detalles irrelevantes para centrarse en relaciones clave.</p><p>Un buen modelo predice bien, aunque sea simple.</p>"
+    },
+    {
+      "intro": "La pendiente de una curva mide cómo cambia una variable respecto a otra. En economía, se usa para medir tasas de cambio, como costo de oportunidad. Si la curva es recta, la pendiente es constante; si es curva, cambia. La pendiente negativa indica relación inversa; positiva, directa.",
+      "question": "11. ¿Qué mide la pendiente de una curva en economía?",
+      "options": [
+        "La altura del gráfico",
+        "La tasa de cambio entre dos variables",
+        "El color de la línea",
+        "El número de puntos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>pendiente</u> mide la tasa de cambio entre dos variables.</p><p>En la FPP, es el <strong>costo de oportunidad</strong>.</p><p>Pendiente negativa: relación inversa (ej. precio y cantidad demandada).</p>"
+    },
+    {
+      "intro": "Causalidad significa que un evento causa otro. Correlación significa que dos variables cambian juntas, pero no necesariamente una causa la otra. Por ejemplo, el consumo de helado y los ahogamientos están correlacionados (ambos suben en verano), pero no hay causalidad directa. Confundir ambos lleva a errores en política.",
+      "question": "12. ¿Cuál es la diferencia entre causalidad y correlación?",
+      "options": [
+        "Son lo mismo",
+        "Correlación no implica causalidad",
+        "La correlación es más fuerte",
+        "La causalidad no existe"
+      ],
+      "correct": [1],
+      "saber_mas": "<p><u>Correlación</u>: dos variables cambian juntas.</p><p><u>Causalidad</u>: una variable causa el cambio en otra.</p><p>¡Correlación no implica causalidad! Ejemplo: helado y ahogamientos (ambos suben en verano, pero no se causan).</p>"
+    },
+    {
+      "intro": "Las variables omitidas son factores que afectan una relación pero no se incluyen en el análisis. Pueden llevar a conclusiones erróneas. Por ejemplo, si no se considera la educación al analizar salario y experiencia, se puede sobreestimar el efecto de la experiencia.",
+      "question": "13. ¿Qué son las variables omitidas?",
+      "options": [
+        "Factores no incluidos que pueden sesgar el análisis",
+        "Errores de cálculo",
+        "Datos faltantes",
+        "Errores de impresión"
+      ],
+      "correct": [0],
+      "saber_mas": "<p>Las <u>variables omitidas</u> son factores que afectan la relación entre variables pero no se incluyen en el análisis.</p><p>Pueden llevar a conclusiones erróneas.</p><p>Ejemplo: no incluir educación al analizar salario y experiencia.</p>"
+    },
+    {
+      "intro": "La economía positiva se basa en hechos y puede verificarse. La normativa se basa en valores y es subjetiva. Por ejemplo, 'el PIB creció un 3%' es positivo; 'el gobierno debería aumentar el gasto' es normativo. Distinguirlos es clave para debates racionales.",
+      "question": "14. ¿Qué es un enunciado positivo?",
+      "options": [
+        "Una recomendación",
+        "Una descripción verificable de la realidad",
+        "Una opinión",
+        "Un deseo"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>enunciado positivo</u> describe cómo es el mundo y puede verificarse con datos.</p><p>Un <u>enunciado normativo</u> expresa un juicio de valor.</p><p>Distinguirlos es clave para debates económicos racionales.</p>"
+    },
+    {
+      "intro": "El costo de oportunidad creciente ocurre porque los recursos no son igualmente aptos para todas las tareas. Al producir más de un bien, se usan recursos menos adecuados, aumentando el costo de oportunidad. Esto da forma cóncava a la FPP. Por ejemplo, pasar de producir alimentos a tanques requiere usar tierras no aptas para tanques.",
+      "question": "15. ¿Por qué la frontera de posibilidades de producción suele ser cóncava?",
+      "options": [
+        "Porque los recursos son igualmente aptos para todo",
+        "Por el costo de oportunidad creciente",
+        "Por la escasez",
+        "Por la inflación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La FPP es <u>cóncava</u> debido al <strong>costo de oportunidad creciente</strong>.</p><p>Al producir más de un bien, se usan recursos menos adecuados, aumentando el costo de oportunidad.</p><p>Por ejemplo: pasar de alimentos a tanques requiere usar tierras no aptas para tanques.</p>"
+    }
+  ]
+}
