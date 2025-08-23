@@ -1,0 +1,186 @@
+{
+  "title": "Oferta, Demanda y Política Económica",
+  "description": "Quiz sobre el impacto de los controles de precios, impuestos, subsidios y comercio internacional en los mercados.",
+  "questions": [
+    {
+      "intro": "Los gobiernos a veces intervienen en los mercados mediante controles de precios, como precios máximos (topes) y precios mínimos (como el salario mínimo). Estos controles pueden tener efectos no deseados. Un precio máximo por debajo del equilibrio crea escasez, ya que la cantidad demandada supera a la ofrecida. Un precio mínimo por encima del equilibrio crea exceso de oferta, como en el caso del desempleo cuando el salario mínimo está por encima del salario de equilibrio. Estos controles distorsionan los mercados y pueden reducir la eficiencia.",
+      "question": "1. ¿Qué efecto tiene un precio máximo por debajo del equilibrio?",
+      "options": [
+        "Exceso de oferta",
+        "Escasez",
+        "Equilibrio estable",
+        "Aumento de la oferta"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>precio máximo</u> (tope) por debajo del equilibrio crea <strong>escasez</strong>.</p><p>La cantidad demandada supera a la ofrecida.</p><p>Los consumidores no pueden comprar todo lo que desean.</p><p>Puede llevar a colas, racionamiento o mercados negros.</p>"
+    },
+    {
+      "intro": "Un precio mínimo por encima del equilibrio, como un salario mínimo alto, crea un exceso de oferta en el mercado. En el mercado laboral, esto se traduce en desempleo, ya que más personas quieren trabajar a ese salario del que pueden ser empleadas. Aunque protege a algunos trabajadores, puede dejar a otros sin empleo.",
+      "question": "2. ¿Qué efecto tiene un salario mínimo por encima del equilibrio?",
+      "options": [
+        "Aumento del empleo",
+        "Desempleo",
+        "Equilibrio en el mercado laboral",
+        "Reducción de salarios"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>salario mínimo</u> por encima del equilibrio crea <strong>exceso de oferta</strong> de trabajo (desempleo).</p><p>Más personas quieren trabajar a ese salario del que pueden ser empleadas.</p><p>Aunque protege a quienes tienen empleo, puede dejar a otros sin trabajo.</p><p>El impacto depende de cuánto esté por encima del equilibrio.</p>"
+    },
+    {
+      "intro": "Un impuesto sobre un bien crea una cuña entre el precio que pagan los compradores y el que reciben los vendedores. El precio de equilibrio se divide: los compradores pagan más, los vendedores reciben menos. La carga del impuesto la comparten ambos, dependiendo de la elasticidad de la oferta y la demanda. Quien sea más inelástico soporta más carga.",
+      "question": "3. ¿Quién soporta la carga de un impuesto sobre un bien?",
+      "options": [
+        "Solo los compradores",
+        "Solo los vendedores",
+        "El gobierno",
+        "Compradores y vendedores, según la elasticidad"
+      ],
+      "correct": [3],
+      "saber_mas": "<p>La <u>carga de un impuesto</u> la comparten <strong>compradores y vendedores</strong>.</p><p>Quien tiene mayor <strong>inelasticidad</strong> (menor capacidad de reacción) soporta más carga.</p><p>Si la demanda es inelástica, los compradores pagan más del impuesto.</p><p>El impuesto crea una <strong>cuña</strong> entre lo que pagan los compradores y lo que reciben los vendedores.</p>"
+    },
+    {
+      "intro": "La incidencia de un impuesto no depende de sobre quién se grava legalmente, sino de la elasticidad de la oferta y la demanda. Si el impuesto se aplica a los vendedores o a los compradores, el resultado económico es el mismo: una cuña entre precios. La ley puede decir quién paga, pero el mercado decide quién carga.",
+      "question": "4. ¿De qué depende la incidencia de un impuesto?",
+      "options": [
+        "De quién lo paga legalmente",
+        "De la elasticidad de la oferta y la demanda",
+        "Del tamaño del mercado",
+        "Del número de vendedores"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>incidencia de un impuesto</u> (quién lo soporta realmente) depende de la <strong>elasticidad</strong> de la oferta y la demanda, no de quién lo paga legalmente.</p><p>El mercado decide quién carga más, no la ley.</p><p>Si la demanda es inelástica, los consumidores cargan más.</p><p>El resultado económico es el mismo si el impuesto se aplica a compradores o vendedores.</p>"
+    },
+    {
+      "intro": "Un subsidio es un pago del gobierno a productores o consumidores para fomentar el consumo o producción de un bien. Desplaza la oferta o la demanda hacia la derecha, aumentando la cantidad de equilibrio y reduciendo el precio efectivo para los compradores. Sin embargo, tiene un costo fiscal y puede generar ineficiencias si el bien ya era eficientemente provisto por el mercado.",
+      "question": "5. ¿Qué efecto tiene un subsidio a los productores?",
+      "options": [
+        "Desplaza la oferta a la izquierda",
+        "Desplaza la oferta a la derecha",
+        "Desplaza la demanda a la izquierda",
+        "No tiene efecto"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>subsidio a los productores</u> reduce sus costos efectivos.</p><p>Les incentiva a producir más a cada precio.</p><p>La curva de oferta se desplaza a la <strong>derecha</strong>.</p><p>Resultado: cantidad de equilibrio más alta, precio para compradores más bajo.</p><p>Tiene un costo fiscal para el gobierno.</p>"
+    },
+    {
+      "intro": "Si la demanda es inelástica, los compradores soportan la mayor parte de la carga de un impuesto, incluso si se aplica a los vendedores. Esto se debe a que no pueden reducir fácilmente su consumo cuando el precio sube. Por ejemplo, un impuesto al tabaco recae principalmente en los fumadores, aunque se grabe a las empresas tabacaleras.",
+      "question": "6. ¿Quién soporta más carga si la demanda es inelástica y se aplica un impuesto?",
+      "options": [
+        "Los vendedores",
+        "Los compradores",
+        "El gobierno",
+        "Nadie"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Si la <u>demanda es inelástica</u>, los <strong>compradores</strong> soportan más carga del impuesto.</p><p>No pueden reducir fácilmente su consumo cuando el precio sube.</p><p>Ejemplo: impuesto al tabaco. Aunque se grabe a las empresas, el precio al consumidor sube mucho.</p><p>Los fumadores pagan la mayor parte del impuesto.</p>"
+    },
+    {
+      "intro": "Si la oferta es inelástica, los vendedores soportan más carga de un impuesto, incluso si se aplica a los compradores. Esto se debe a que no pueden reducir fácilmente su producción cuando el precio que reciben baja. Por ejemplo, en mercados con capacidad limitada, como viviendas en áreas urbanas, los propietarios cargan más el impuesto.",
+      "question": "7. ¿Quién soporta más carga si la oferta es inelástica y se aplica un impuesto?",
+      "options": [
+        "Los compradores",
+        "Los vendedores",
+        "El gobierno",
+        "Nadie"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Si la <u>oferta es inelástica</u>, los <strong>vendedores</strong> soportan más carga del impuesto.</p><p>No pueden reducir fácilmente su producción cuando el precio que reciben baja.</p><p>Ejemplo: viviendas en áreas urbanas con poca capacidad de construcción.</p><p>Los propietarios no pueden salir del mercado fácilmente.</p>"
+    },
+    {
+      "intro": "El comercio internacional permite a los países beneficiarse de la ventaja comparativa. Cuando un país se abre al comercio, el precio interno se ajusta al precio mundial. Si el precio mundial es menor, el país importa; si es mayor, exporta. Los consumidores ganan con precios más bajos, pero algunos productores pueden perder. El bienestar total aumenta.",
+      "question": "8. ¿Qué ocurre si el precio mundial de un bien es menor que el precio interno?",
+      "options": [
+        "El país exporta",
+        "El país importa",
+        "No hay comercio",
+        "El gobierno prohibe las importaciones"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Si el <u>precio mundial</u> es menor que el <u>precio interno</u>, el país <strong>importa</strong> el bien.</p><p>Los consumidores ganan con precios más bajos.</p><p>Algunos productores nacionales pueden perder por la competencia.</p><p>El bienestar total aumenta, aunque haya perdedores.</p>"
+    },
+    {
+      "intro": "Una tarifa es un impuesto a las importaciones. Aumenta el precio del bien importado, lo que beneficia a los productores nacionales pero perjudica a los consumidores. Genera ingresos para el gobierno, pero también crea una pérdida de peso muerto (ineficiencia) porque reduce el comercio beneficioso.",
+      "question": "9. ¿Qué efecto tiene una tarifa sobre las importaciones?",
+      "options": [
+        "Reduce el precio para los consumidores",
+        "Aumenta el precio para los consumidores",
+        "Elimina a todos los productores nacionales",
+        "Aumenta el comercio libre"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Una <u>tarifa</u> es un impuesto a las importaciones.</p><p>Aumenta el precio del bien para los consumidores.</p><p>Beneficia a los productores nacionales (menos competencia).</p><p>Genera ingresos para el gobierno, pero crea <strong>pérdida de peso muerto</strong> (ineficiencia).</p>"
+    },
+    {
+      "intro": "Una cuota es un límite cuantitativo a las importaciones. Reduce la oferta, lo que eleva el precio interno. Los consumidores pierden por pagar más; los productores nacionales ganan. A diferencia de la tarifa, la cuota no genera ingresos directos para el gobierno, sino que beneficia a los importadores que obtienen derechos de importación.",
+      "question": "10. ¿Qué es una cuota de importación?",
+      "options": [
+        "Un impuesto sobre las exportaciones",
+        "Un límite cuantitativo a las importaciones",
+        "Un subsidio a los productores",
+        "Un precio mínimo para productos nacionales"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Una <u>cuota de importación</u> es un <strong>límite cuantitativo</strong> al volumen de bienes que pueden importarse.</p><p>Reduce la oferta, elevando el precio interno.</p><p>Los consumidores pierden; los productores nacionales ganan.</p><p>A diferencia de la tarifa, no genera ingresos para el gobierno, sino rentas para los importadores con derechos.</p>"
+    },
+    {
+      "intro": "Tanto tarifas como cuotas reducen el comercio y generan pérdida de peso muerto. La tarifa genera ingresos para el gobierno; la cuota genera rentas para los importadores que poseen los derechos. Ambas protegen a los productores nacionales pero perjudican a los consumidores y reducen el bienestar total.",
+      "question": "11. ¿Qué tienen en común tarifas y cuotas?",
+      "options": [
+        "Ambas generan ingresos para el gobierno",
+        "Ambas reducen las importaciones y generan pérdida de peso muerto",
+        "Ambas eliminan completamente el comercio",
+        "Ambas benefician solo a los consumidores"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Tanto <u>tarifas</u> como <u>cuotas</u> reducen las importaciones y elevan el precio interno.</p><p>Protegen a los productores nacionales, perjudican a los consumidores.</p><p>Generan <strong>pérdida de peso muerto</strong> (ineficiencia).</p><p>Diferencia clave: la tarifa genera ingresos para el gobierno; la cuota genera rentas para los importadores.</p>"
+    },
+    {
+      "intro": "La pérdida de peso muerto de un impuesto es la reducción del excedente total (consumidor + productor) que no se recupera como ingreso fiscal. Ocurre porque el impuesto reduce la cantidad comerciada por debajo del nivel eficiente. Es mayor cuando la oferta y la demanda son más elásticas.",
+      "question": "12. ¿Qué es la pérdida de peso muerto de un impuesto?",
+      "options": [
+        "El ingreso del gobierno",
+        "La ganancia de los consumidores",
+        "La reducción del excedente total no recuperada como ingreso",
+        "El aumento de la producción"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>La <u>pérdida de peso muerto</u> es la <strong>reducción del excedente total</strong> (consumidor + productor) que no se recupera como ingreso fiscal.</p><p>Ocurre porque el impuesto reduce la cantidad comerciada por debajo del nivel eficiente.</p><p>Es mayor cuando la oferta y la demanda son más elásticas.</p>"
+    },
+    {
+      "intro": "Un impuesto sobre un bien con demanda inelástica genera menos pérdida de peso muerto que uno sobre un bien con demanda elástica. Esto se debe a que la cantidad no disminuye mucho, por lo que el comercio no se reduce significativamente. Por eso, los gobiernos suelen gravar bienes como tabaco o gasolina.",
+      "question": "13. ¿Sobre qué tipo de bien genera menos pérdida de peso muerto un impuesto?",
+      "options": [
+        "Bienes con demanda elástica",
+        "Bienes con demanda inelástica",
+        "Bienes de lujo",
+        "Bienes con muchos sustitutos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un impuesto sobre un bien con <u>demanda inelástica</u> genera <strong>menos pérdida de peso muerto</strong>.</p><p>La cantidad no disminuye mucho, por lo que el comercio no se reduce significativamente.</p><p>Por eso, los gobiernos gravan bienes como tabaco, gasolina o alcohol.</p><p>Maximizan ingresos con mínima distorsión.</p>"
+    },
+    {
+      "intro": "Un precio mínimo en un mercado agrícola puede crear exceso de oferta (superávit). El gobierno a menudo compra el excedente para mantener el precio, lo que genera costos fiscales. Alternativamente, puede limitar la producción. Estas políticas distorsionan los mercados y pueden ser ineficientes.",
+      "question": "14. ¿Qué problema puede causar un precio mínimo en agricultura?",
+      "options": [
+        "Escasez de alimentos",
+        "Exceso de oferta (superávit)",
+        "Reducción de costos",
+        "Mayor competencia internacional"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>precio mínimo</u> en agricultura puede crear <strong>exceso de oferta</strong> (superávit).</p><p>Los agricultores producen más de lo que se demanda.</p><p>El gobierno a menudo compra el excedente, generando costos fiscales.</p><p>Alternativas: limitar producción (cuotas), subsidios directos.</p>"
+    },
+    {
+      "intro": "Los controles de alquiler (precios máximos en vivienda) pueden crear escasez de viviendas. A largo plazo, reducen la construcción de nuevas viviendas y el mantenimiento de las existentes. Aunque ayudan a algunos inquilinos, reducen la calidad y cantidad de oferta. Alternativas: subsidios a la vivienda.",
+      "question": "15. ¿Qué efecto tienen los controles de alquiler a largo plazo?",
+      "options": [
+        "Aumentan la construcción de viviendas",
+        "Mejoran la calidad del parque inmobiliario",
+        "Reducen la oferta y calidad de viviendas",
+        "Eliminan el mercado negro"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>Los <u>controles de alquiler</u> (precios máximos) crean <strong>escasez</strong> de viviendas.</p><p>A largo plazo, reducen la construcción y el mantenimiento.</p><p>Los propietarios no tienen incentivos para invertir.</p><p>Alternativas más eficientes: subsidios directos a inquilinos de bajos ingresos.</p>"
+    }
+  ]
+}
