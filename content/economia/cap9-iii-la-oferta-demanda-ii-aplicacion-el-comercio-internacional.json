@@ -1,0 +1,186 @@
+{
+  "title": "El Comercio Internacional",
+  "description": "Quiz sobre cómo el comercio internacional afecta a los mercados locales, el bienestar de consumidores y productores, y el impacto de aranceles y cuotas.",
+  "questions": [
+    {
+      "intro": "El comercio internacional permite a los países beneficiarse de la ventaja comparativa. Cuando un país se abre al comercio, el precio interno se ajusta al precio mundial. Si el precio mundial es menor, el país importa; si es mayor, exporta. Los consumidores ganan con precios más bajos, pero algunos productores pueden perder. El bienestar total aumenta, aunque haya perdedores.",
+      "question": "1. ¿Qué ocurre si el precio mundial de un bien es menor que el precio interno?",
+      "options": [
+        "El país exporta",
+        "El país importa",
+        "No hay comercio",
+        "El gobierno prohibe las importaciones"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Si el <u>precio mundial</u> es menor que el <u>precio interno</u>, el país <strong>importa</strong> el bien.</p><p>Los consumidores ganan con precios más bajos.</p><p>Algunos productores nacionales pueden perder por la competencia.</p><p>El bienestar total aumenta, aunque haya perdedores.</p>"
+    },
+    {
+      "intro": "Cuando un país importa un bien, el excedente del consumidor aumenta porque los consumidores pagan menos. El excedente del productor disminuye porque los productores locales venden menos a menor precio. El bienestar total aumenta porque la ganancia de los consumidores supera la pérdida de los productores.",
+      "question": "2. ¿Qué ocurre con el bienestar total cuando un país importa un bien?",
+      "options": [
+        "Disminuye",
+        "Aumenta",
+        "Permanece constante",
+        "Depende del gobierno"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Cuando un país <u>importa</u> un bien, el <strong>excedente del consumidor aumenta</strong> y el <strong>excedente del productor disminuye</strong>.</p><p>La ganancia de los consumidores <strong>supera</strong> la pérdida de los productores.</p><p>Por lo tanto, el <strong>bienestar total aumenta</strong>.</p><p>El comercio genera ganancias netas.</p>"
+    },
+    {
+      "intro": "Cuando un país exporta un bien, el excedente del productor aumenta porque los productores venden más a mayor precio. El excedente del consumidor disminuye porque los consumidores pagan más. El bienestar total aumenta porque la ganancia de los productores supera la pérdida de los consumidores.",
+      "question": "3. ¿Qué ocurre con el bienestar total cuando un país exporta un bien?",
+      "options": [
+        "Disminuye",
+        "Aumenta",
+        "Permanece constante",
+        "Depende del gobierno"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Cuando un país <u>exporta</u> un bien, el <strong>excedente del productor aumenta</strong> y el <strong>excedente del consumidor disminuye</strong>.</p><p>La ganancia de los productores <strong>supera</strong> la pérdida de los consumidores.</p><p>Por lo tanto, el <strong>bienestar total aumenta</strong>.</p><p>El comercio genera ganancias netas.</p>"
+    },
+    {
+      "intro": "Una tarifa es un impuesto a las importaciones. Aumenta el precio del bien importado, lo que beneficia a los productores nacionales pero perjudica a los consumidores. Genera ingresos para el gobierno, pero también crea una pérdida de peso muerto (ineficiencia) porque reduce el comercio beneficioso.",
+      "question": "4. ¿Qué efecto tiene una tarifa sobre las importaciones?",
+      "options": [
+        "Reduce el precio para los consumidores",
+        "Aumenta el precio para los consumidores",
+        "Elimina a todos los productores nacionales",
+        "Aumenta el comercio libre"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Una <u>tarifa</u> es un impuesto a las importaciones.</p><p>Aumenta el precio del bien para los consumidores.</p><p>Beneficia a los productores nacionales (menos competencia).</p><p>Genera ingresos para el gobierno, pero crea <strong>pérdida de peso muerto</strong> (ineficiencia).</p>"
+    },
+    {
+      "intro": "Una cuota es un límite cuantitativo a las importaciones. Reduce la oferta, lo que eleva el precio interno. Los consumidores pierden por pagar más; los productores nacionales ganan. A diferencia de la tarifa, la cuota no genera ingresos directos para el gobierno, sino que beneficia a los importadores que obtienen derechos de importación.",
+      "question": "5. ¿Qué es una cuota de importación?",
+      "options": [
+        "Un impuesto sobre las exportaciones",
+        "Un límite cuantitativo a las importaciones",
+        "Un subsidio a los productores",
+        "Un precio mínimo para productos nacionales"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Una <u>cuota de importación</u> es un <strong>límite cuantitativo</strong> al volumen de bienes que pueden importarse.</p><p>Reduce la oferta, elevando el precio interno.</p><p>Los consumidores pierden; los productores nacionales ganan.</p><p>A diferencia de la tarifa, no genera ingresos para el gobierno, sino rentas para los importadores con derechos.</p>"
+    },
+    {
+      "intro": "Tanto tarifas como cuotas reducen el comercio y generan pérdida de peso muerto. La tarifa genera ingresos para el gobierno; la cuota genera rentas para los importadores que poseen los derechos. Ambas protegen a los productores nacionales pero perjudican a los consumidores y reducen el bienestar total.",
+      "question": "6. ¿Qué tienen en común tarifas y cuotas?",
+      "options": [
+        "Ambas generan ingresos para el gobierno",
+        "Ambas reducen las importaciones y generan pérdida de peso muerto",
+        "Ambas eliminan completamente el comercio",
+        "Ambas benefician solo a los consumidores"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Tanto <u>tarifas</u> como <u>cuotas</u> reducen las importaciones y elevan el precio interno.</p><p>Protegen a los productores nacionales, perjudican a los consumidores.</p><p>Generan <strong>pérdida de peso muerto</strong> (ineficiencia).</p><p>Diferencia clave: la tarifa genera ingresos para el gobierno; la cuota genera rentas para los importadores.</p>"
+    },
+    {
+      "intro": "El argumento de la industria incipiente sostiene que un país debe proteger temporalmente a una industria nueva para que pueda crecer y volverse competitiva. Aunque es teóricamente válido, es difícil de aplicar en la práctica porque puede llevar a proteccionismo permanente y ineficiencias.",
+      "question": "7. ¿Qué es el argumento de la industria incipiente?",
+      "options": [
+        "Que todas las industrias deben ser protegidas",
+        "Que una industria nueva debe protegerse temporalmente para volverse competitiva",
+        "Que los consumidores deben pagar más",
+        "Que el comercio debe eliminarse"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>argumento de la industria incipiente</u> dice que un país debe <strong>proteger temporalmente</strong> a una industria nueva para que pueda crecer y volverse competitiva.</p><p>Teóricamente válido, pero difícil de aplicar.</p><p>Puede llevar a <strong>proteccionismo permanente</strong> y ineficiencias.</p><p>Requiere que la protección sea temporal y que la industria realmente se vuelva competitiva.</p>"
+    },
+    {
+      "intro": "Los trabajadores desplazados por el comercio internacional pueden sufrir pérdidas a corto plazo. Aunque el bienestar total aumenta, algunos sectores pierden empleos. Políticas de reentrenamiento y seguridad social pueden ayudar a mitigar estos costos humanos.",
+      "question": "8. ¿Qué grupo puede perder con el comercio internacional?",
+      "options": [
+        "Todos los consumidores",
+        "Trabajadores en sectores que compiten con importaciones",
+        "Todos los productores",
+        "El gobierno"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Los <u>trabajadores</u> en sectores que compiten con importaciones pueden <strong>perder empleos</strong> por el comercio internacional.</p><p>Aunque el bienestar total aumenta, hay <strong>perdedores</strong>.</p><p>Políticas de <strong>reentrenamiento</strong> y <strong>seguridad social</strong> pueden ayudar a mitigar estos costos.</p><p>El comercio crea ganancias netas, pero requiere ajustes.</p>"
+    },
+    {
+      "intro": "El argumento de la seguridad nacional sostiene que ciertas industrias (como defensa) deben protegerse para no depender de otros países en tiempos de guerra. Aunque válido en casos extremos, puede usarse como excusa para proteger industrias ineficientes.",
+      "question": "9. ¿Qué industria podría justificar protección por seguridad nacional?",
+      "options": [
+        "Industria de juguetes",
+        "Industria de defensa",
+        "Industria de moda",
+        "Industria de software"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>industria de defensa</u> podría justificar protección por <strong>seguridad nacional</strong>.</p><p>No debe depender de otros países en tiempos de guerra.</p><p>Aunque válido en casos extremos, puede usarse como excusa para proteger industrias ineficientes.</p><p>Debe aplicarse con cuidado y transparencia.</p>"
+    },
+    {
+      "intro": "Las barreras al comercio, como tarifas y cuotas, reducen el bienestar total al crear pérdida de peso muerto. Aunque protegen a algunos productores, perjudican a los consumidores y reducen la eficiencia. La mayoría de los economistas favorecen el libre comercio.",
+      "question": "10. ¿Qué efecto tienen las barreras al comercio?",
+      "options": [
+        "Aumentan el bienestar total",
+        "Reducen el bienestar total",
+        "No tienen efecto",
+        "Benefician solo a los consumidores"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Las <u>barreras al comercio</u> (tarifas, cuotas) <strong>reducen el bienestar total</strong> al crear pérdida de peso muerto.</p><p>Protegen a productores, perjudican a consumidores.</p><p>Reducen la eficiencia y la competencia.</p><p>La mayoría de los economistas favorecen el <strong>libre comercio</strong>.</p>"
+    },
+    {
+      "intro": "El comercio internacional aumenta la competencia, lo que beneficia a los consumidores con precios más bajos y mayor variedad. También fomenta la innovación y la eficiencia entre los productores. Estos beneficios son clave para el crecimiento económico.",
+      "question": "11. ¿Qué beneficio tiene el comercio internacional para los consumidores?",
+      "options": [
+        "Menor variedad",
+        "Precios más altos",
+        "Mayor variedad y precios más bajos",
+        "Menos competencia"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>El <u>comercio internacional</u> beneficia a los consumidores con <strong>mayor variedad</strong> de bienes y <strong>precios más bajos</strong>.</p><p>También fomenta la competencia, mejorando calidad e innovación.</p><p>Es clave para el bienestar económico y el crecimiento.</p>"
+    },
+    {
+      "intro": "El dumping ocurre cuando una empresa vende un bien en el extranjero a un precio inferior al de su mercado local, a veces por debajo del costo. Puede distorsionar el comercio. Los países pueden imponer derechos antidumping para contrarrestar este efecto.",
+      "question": "12. ¿Qué es el dumping?",
+      "options": [
+        "Vender a precios altos en el extranjero",
+        "Vender a precios bajos en el extranjero, a veces por debajo del costo",
+        "Importar sin pagar impuestos",
+        "Exportar solo productos de lujo"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>dumping</u> ocurre cuando una empresa vende un bien en el extranjero a un <strong>precio inferior</strong> al de su mercado local, a veces por debajo del costo.</p><p>Puede distorsionar el comercio y perjudicar a productores locales.</p><p>Los países pueden imponer <strong> derechos antidumping</strong> para contrarrestarlo.</p>"
+    },
+    {
+      "intro": "La balanza comercial es la diferencia entre exportaciones e importaciones. Un superávit significa que se exporta más de lo que se importa; un déficit, lo contrario. No es un indicador directo del bienestar económico, ya que el comercio beneficia a ambos lados.",
+      "question": "13. ¿Qué es un superávit comercial?",
+      "options": [
+        "Importar más de lo que se exporta",
+        "Exportar más de lo que se importa",
+        "No comerciar",
+        "Tener más deudas"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>superávit comercial</u> ocurre cuando un país <strong>exporta más</strong> de lo que <strong>importa</strong>.</p><p>Un déficit es lo contrario.</p><p>No es un indicador directo del bienestar económico.</p><p>Países con déficit pueden estar invirtiendo más de lo que ahorran.</p>"
+    },
+    {
+      "intro": "El proteccionismo es la política de restringir el comercio para proteger a las industrias nacionales. Aunque puede beneficiar a algunos sectores a corto plazo, reduce el bienestar total y puede provocar represalias. La mayoría de los economistas lo considera perjudicial a largo plazo.",
+      "question": "14. ¿Qué es el proteccionismo?",
+      "options": [
+        "Fomentar el libre comercio",
+        "Restringir el comercio para proteger industrias nacionales",
+        "Eliminar todos los impuestos",
+        "Aumentar las exportaciones sin límites"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>proteccionismo</u> es la política de <strong>restringir el comercio</strong> (con tarifas, cuotas) para proteger industrias nacionales.</p><p>Puede beneficiar a algunos sectores a corto plazo.</p><p>Pero <strong>reduce el bienestar total</strong> y puede provocar represalias.</p><p>La mayoría de los economistas lo considera perjudicial a largo plazo.</p>"
+    },
+    {
+      "intro": "El acuerdo comercial beneficia a ambas partes si se basa en la ventaja comparativa. Ambos países pueden consumir más de lo que podrían producir solos. El comercio no es un juego de suma cero; es una suma positiva. Las ganancias del comercio provienen de la especialización y el intercambio.",
+      "question": "15. ¿Por qué el comercio internacional es beneficioso?",
+      "options": [
+        "Porque uno gana y otro pierde",
+        "Porque ambos pueden consumir más de lo que podrían producir solos",
+        "Porque elimina la competencia",
+        "Porque reduce la producción"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>comercio internacional</u> es beneficioso porque permite a <strong>ambos países consumir más</strong> de lo que podrían producir solos.</p><p>Se basa en la <strong>ventaja comparativa</strong> y la especialización.</p><p>No es un juego de suma cero; es una <strong>suma positiva</strong>.</p><p>Las ganancias del comercio provienen del intercambio mutuamente beneficioso.</p>"
+    }
+  ]
+}
