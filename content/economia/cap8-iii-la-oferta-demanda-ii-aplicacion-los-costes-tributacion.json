@@ -1,0 +1,186 @@
+{
+  "title": "Los Costes de la Tributación",
+  "description": "Quiz sobre cómo los impuestos afectan el bienestar del consumidor y del productor, la incidencia del impuesto, la pérdida de peso muerto y cómo depende de la elasticidad.",
+  "questions": [
+    {
+      "intro": "Los impuestos crean una cuña entre el precio que pagan los compradores y el que reciben los vendedores. Esta cuña reduce la cantidad comerciada por debajo del nivel eficiente, lo que genera una pérdida de bienestar que no se recupera como ingreso fiscal. Esta pérdida se llama pérdida de peso muerto. Aunque el gobierno obtiene ingresos, el bienestar total disminuye. El tamaño de la pérdida depende de cuánto se reduzca la cantidad, lo que a su vez depende de la elasticidad de la oferta y la demanda.",
+      "question": "1. ¿Qué es la pérdida de peso muerto de un impuesto?",
+      "options": [
+        "El ingreso del gobierno",
+        "La ganancia del consumidor",
+        "La reducción del bienestar total no recuperada como ingreso",
+        "El aumento de la producción"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>La <u>pérdida de peso muerto</u> es la <strong>reducción del bienestar total</strong> que no se recupera como ingreso fiscal.</p><p>Ocurre porque el impuesto reduce la cantidad comerciada por debajo del nivel eficiente.</p><p>Representa <strong>intercambios beneficiosos que no se realizan</strong>.</p><p>El gobierno obtiene ingresos, pero el bienestar total disminuye.</p>"
+    },
+    {
+      "intro": "Cuando se impone un impuesto, el precio que pagan los compradores sube y el que reciben los vendedores baja. La diferencia entre ambos es la cuña del impuesto. La carga del impuesto la comparten compradores y vendedores, dependiendo de la elasticidad de la oferta y la demanda. Quien sea más inelástico soporta más carga, independientemente de sobre quién se grabe legalmente.",
+      "question": "2. ¿Quién soporta la carga de un impuesto?",
+      "options": [
+        "Solo los compradores",
+        "Solo los vendedores",
+        "El gobierno",
+        "Compradores y vendedores, según la elasticidad"
+      ],
+      "correct": [3],
+      "saber_mas": "<p>La <u>carga de un impuesto</u> la comparten <strong>compradores y vendedores</strong>.</p><p>Quien tiene mayor <strong>inelasticidad</strong> (menor capacidad de reacción) soporta más carga.</p><p>Si la demanda es inelástica, los consumidores cargan más.</p><p>El impuesto crea una <strong>cuña</strong> entre lo que pagan los compradores y lo que reciben los vendedores.</p>"
+    },
+    {
+      "intro": "La incidencia de un impuesto no depende de sobre quién se grabe legalmente, sino de la elasticidad de la oferta y la demanda. Si el impuesto se aplica a los vendedores o a los compradores, el resultado económico es el mismo: una cuña entre precios. La ley puede decir quién paga, pero el mercado decide quién carga.",
+      "question": "3. ¿De qué depende la incidencia de un impuesto?",
+      "options": [
+        "De quién lo paga legalmente",
+        "De la elasticidad de la oferta y la demanda",
+        "Del tamaño del mercado",
+        "Del número de vendedores"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>incidencia de un impuesto</u> (quién lo soporta realmente) depende de la <strong>elasticidad</strong> de la oferta y la demanda, no de quién lo paga legalmente.</p><p>El mercado decide quién carga más, no la ley.</p><p>Si la demanda es inelástica, los consumidores cargan más.</p><p>El resultado económico es el mismo si el impuesto se aplica a compradores o vendedores.</p>"
+    },
+    {
+      "intro": "Si la demanda es inelástica, los consumidores no pueden reducir fácilmente su consumo cuando el precio sube. Por lo tanto, soportan más carga del impuesto. Ejemplos: tabaco, gasolina. Aunque el impuesto se grabe a los vendedores, el precio al consumidor sube mucho.",
+      "question": "4. ¿Quién soporta más carga si la demanda es inelástica?",
+      "options": [
+        "Los vendedores",
+        "Los compradores",
+        "El gobierno",
+        "Nadie"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Si la <u>demanda es inelástica</u>, los <strong>compradores</strong> soportan más carga del impuesto.</p><p>No pueden reducir fácilmente su consumo cuando el precio sube.</p><p>Ejemplo: impuesto al tabaco. Aunque se grabe a las empresas, el precio al consumidor sube mucho.</p><p>Los fumadores pagan la mayor parte del impuesto.</p>"
+    },
+    {
+      "intro": "Si la oferta es inelástica, los vendedores no pueden reducir fácilmente su producción cuando el precio que reciben baja. Por lo tanto, soportan más carga del impuesto. Ejemplos: viviendas en áreas urbanas con poca capacidad de construcción.",
+      "question": "5. ¿Quién soporta más carga si la oferta es inelástica?",
+      "options": [
+        "Los compradores",
+        "Los vendedores",
+        "El gobierno",
+        "Nadie"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Si la <u>oferta es inelástica</u>, los <strong>vendedores</strong> soportan más carga del impuesto.</p><p>No pueden reducir fácilmente su producción cuando el precio que reciben baja.</p><p>Ejemplo: viviendas en áreas urbanas con poca capacidad de construcción.</p><p>Los propietarios no pueden salir del mercado fácilmente.</p>"
+    },
+    {
+      "intro": "La pérdida de peso muerto de un impuesto es mayor cuando la oferta y la demanda son más elásticas. Esto se debe a que la cantidad comerciada disminuye más, lo que significa que más intercambios beneficiosos no se realizan. Aunque el impuesto genere ingresos, la ineficiencia es mayor.",
+      "question": "6. ¿Cuándo es mayor la pérdida de peso muerto de un impuesto?",
+      "options": [
+        "Cuando la oferta y la demanda son inelásticas",
+        "Cuando la oferta y la demanda son elásticas",
+        "Cuando el impuesto es pequeño",
+        "Cuando el mercado es pequeño"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>pérdida de peso muerto</u> es mayor cuando la <strong>oferta y la demanda son más elásticas</strong>.</p><p>La cantidad comerciada disminuye más, por lo que más intercambios beneficiosos no se realizan.</p><p>Aunque el impuesto genere ingresos, la ineficiencia es mayor.</p><p>Es más costoso para el bienestar total.</p>"
+    },
+    {
+      "intro": "La curva de Laffer muestra la relación entre la tasa impositiva y los ingresos fiscales. A tasas bajas, aumentar el impuesto aumenta los ingresos. Pero a tasas altas, aumentar el impuesto puede reducir los ingresos porque la base imponible se contrae demasiado. Existe una tasa óptima que maximiza los ingresos.",
+      "question": "7. ¿Qué muestra la curva de Laffer?",
+      "options": [
+        "La relación entre ingreso y consumo",
+        "La relación entre tasa impositiva e ingresos fiscales",
+        "La relación entre oferta y demanda",
+        "La relación entre precio y cantidad"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>curva de Laffer</u> muestra la relación entre la <strong>tasa impositiva</strong> y los <strong>ingresos fiscales</strong>.</p><p>A tasas bajas, aumentar el impuesto aumenta los ingresos.</p><p>A tasas altas, aumentar el impuesto puede <strong>reducir los ingresos</strong> porque la base imponible se contrae.</p><p>Existe una tasa óptima que <strong>maximiza los ingresos</strong>.</p>"
+    },
+    {
+      "intro": "Un impuesto sobre un bien con demanda inelástica genera menos pérdida de peso muerto que uno sobre un bien con demanda elástica. Esto se debe a que la cantidad no disminuye mucho, por lo que el comercio no se reduce significativamente. Por eso, los gobiernos suelen gravar bienes como tabaco o gasolina.",
+      "question": "8. ¿Sobre qué tipo de bien genera menos pérdida de peso muerto un impuesto?",
+      "options": [
+        "Bienes con demanda elástica",
+        "Bienes con demanda inelástica",
+        "Bienes de lujo",
+        "Bienes con muchos sustitutos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un impuesto sobre un bien con <u>demanda inelástica</u> genera <strong>menos pérdida de peso muerto</strong>.</p><p>La cantidad no disminuye mucho, por lo que el comercio no se reduce significativamente.</p><p>Por eso, los gobiernos gravan bienes como tabaco, gasolina o alcohol.</p><p>Maximizan ingresos con mínima distorsión.</p>"
+    },
+    {
+      "intro": "La carga de un impuesto se mide por cuánto cambia el bienestar del consumidor y del productor. El ingreso fiscal no compensa completamente la pérdida de bienestar. La diferencia es la pérdida de peso muerto. La carga total incluye tanto la pérdida de bienestar como la transferencia al gobierno.",
+      "question": "9. ¿Qué forma parte de la carga de un impuesto?",
+      "options": [
+        "Solo el ingreso del gobierno",
+        "La pérdida de bienestar y el ingreso fiscal",
+        "Solo la pérdida de peso muerto",
+        "Solo el aumento de precios"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>carga de un impuesto</u> incluye:<br>• <strong>Pérdida de bienestar</strong> (pérdida de peso muerto)<br>• <strong>Transferencia al gobierno</strong> (ingreso fiscal)</p><p>El ingreso fiscal no compensa completamente la pérdida de bienestar.</p><p>La carga total es mayor que el ingreso obtenido.</p>"
+    },
+    {
+      "intro": "Si el gobierno elimina un impuesto, la cantidad comerciada aumenta hacia el nivel eficiente. El bienestar del consumidor y del productor aumenta. Aunque el gobierno pierde ingresos, el bienestar total aumenta porque se eliminan las pérdidas de peso muerto. Es una mejora de Pareto si se compensa la pérdida fiscal.",
+      "question": "10. ¿Qué ocurre si el gobierno elimina un impuesto?",
+      "options": [
+        "El bienestar total disminuye",
+        "El bienestar total aumenta",
+        "El ingreso del gobierno aumenta",
+        "La cantidad comerciada disminuye"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Si el gobierno <u>elimina un impuesto</u>, la cantidad comerciada <strong>aumenta</strong> hacia el nivel eficiente.</p><p>El <strong>excedente del consumidor</strong> y del <strong>productor aumentan</strong>.</p><p>El gobierno <strong>pierde ingresos</strong>, pero el bienestar total <strong>aumenta</strong> porque se eliminan las pérdidas de peso muerto.</p><p>Es una mejora de bienestar general.</p>"
+    },
+    {
+      "intro": "Un impuesto sobre un bien con oferta inelástica genera menos pérdida de peso muerto, ya que la cantidad no disminuye mucho. Los vendedores no pueden reducir fácilmente la producción. Por eso, los impuestos a la tierra o a viviendas en áreas urbanas generan poca distorsión.",
+      "question": "11. ¿Qué tipo de bien tiene menor pérdida de peso muerto al gravarse?",
+      "options": [
+        "Bienes con oferta elástica",
+        "Bienes con oferta inelástica",
+        "Bienes de lujo",
+        "Bienes perecederos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un impuesto sobre un bien con <u>oferta inelástica</u> genera <strong>menos pérdida de peso muerto</strong>.</p><p>La cantidad no disminuye mucho, porque los vendedores no pueden reducir fácilmente la producción.</p><p>Ejemplo: tierra, viviendas en áreas urbanas.</p><p>Genera ingresos con mínima distorsión del mercado.</p>"
+    },
+    {
+      "intro": "La cuña del impuesto es la diferencia entre el precio que pagan los compradores y el que reciben los vendedores. Es igual al monto del impuesto. Esta cuña reduce la cantidad comerciada y crea pérdida de peso muerto. Cuanto mayor sea la cuña, mayor será la distorsión del mercado.",
+      "question": "12. ¿Qué es la cuña del impuesto?",
+      "options": [
+        "La suma del precio de compra y venta",
+        "La diferencia entre el precio que pagan los compradores y el que reciben los vendedores",
+        "El ingreso del gobierno",
+        "La pérdida de peso muerto"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>cuña del impuesto</u> es la <strong>diferencia</strong> entre el <strong>precio que pagan los compradores</strong> y el <strong>que reciben los vendedores</strong>.</p><p>Es igual al monto del impuesto.</p><p>Reduce la cantidad comerciada y crea <strong>pérdida de peso muerto</strong>.</p><p>Cuanto mayor sea la cuña, mayor será la distorsión del mercado.</p>"
+    },
+    {
+      "intro": "Los ingresos fiscales de un impuesto son iguales al monto del impuesto por la cantidad vendida después del impuesto. Aumentan con la tasa impositiva, pero solo hasta un punto. Si la tasa es demasiado alta, la base imponible se contrae y los ingresos disminuyen.",
+      "question": "13. ¿Cómo se calculan los ingresos fiscales de un impuesto?",
+      "options": [
+        "Impuesto por cantidad antes del impuesto",
+        "Impuesto por cantidad después del impuesto",
+        "Precio por cantidad",
+        "Costo por cantidad"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Los <u>ingresos fiscales</u> = <strong>monto del impuesto × cantidad vendida después del impuesto</strong>.</p><p>No se multiplica por la cantidad antes del impuesto.</p><p>Aumentan con la tasa, pero solo hasta un punto.</p><p>Si la tasa es demasiado alta, la base imponible se contrae y los ingresos disminuyen.</p>"
+    },
+    {
+      "intro": "La pérdida de peso muerto aumenta más que proporcionalmente con el tamaño del impuesto. Si se duplica el impuesto, la pérdida de peso muerto se cuadruplica, porque afecta tanto a la altura como a la base del triángulo de pérdida. Por eso, impuestos pequeños tienen poca distorsión, pero grandes impuestos son muy costosos.",
+      "question": "14. ¿Cómo crece la pérdida de peso muerto con el tamaño del impuesto?",
+      "options": [
+        "Linealmente",
+        "Cuadráticamente",
+        "Logarítmicamente",
+        "No crece"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>pérdida de peso muerto</u> crece <strong>cuadráticamente</strong> con el tamaño del impuesto.</p><p>Si se duplica el impuesto, la pérdida se <strong>cuadruplica</strong>.</p><p>Porque el triángulo de pérdida tiene altura y base proporcionales al impuesto.</p><p>Área = ½ × base × altura → proporcional a (impuesto)².</p>"
+    },
+    {
+      "intro": "Los impuestos distorsionan los mercados al desincentivar la producción y el consumo. Aunque son necesarios para financiar servicios públicos, imponen un costo en forma de pérdida de bienestar. Los diseñadores de políticas deben equilibrar la necesidad de ingresos con el costo de la distorsión.",
+      "question": "15. ¿Por qué los impuestos son costosos para la economía?",
+      "options": [
+        "Porque aumentan la producción",
+        "Porque distorsionan los mercados y generan pérdida de bienestar",
+        "Porque benefician solo a los ricos",
+        "Porque no generan ingresos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Los <u>impuestos</u> son costosos porque <strong>distorsionan los mercados</strong> y <strong>generan pérdida de bienestar</strong> (pérdida de peso muerto).</p><p>Desincentivan la producción y el consumo.</p><p>Aunque son necesarios para financiar servicios públicos, imponen un costo económico.</p><p>El desafío es recaudar ingresos con mínima distorsión.</p>"
+    }
+  ]
+}
