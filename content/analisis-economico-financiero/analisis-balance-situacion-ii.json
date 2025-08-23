@@ -1,6 +1,7 @@
 {
+{
   "title": "Análisis del Balance de Situación II: Estructura del Pasivo y Financiación",
-  "description": "Quiz avanzado sobre el análisis de la estructura financiera, ratios de endeudamiento, autonomía, garantía y diagnóstico de riesgo financiero.",
+  "description": "Quiz avanzado sobre el análisis de la estructura del pasivo, ratios de endeudamiento, autonomía, garantía y diagnóstico de riesgo financiero.",
   "questions": [
     {
       "intro": "El análisis del balance de situación no se limita a la liquidez; también es fundamental examinar la estructura del pasivo y la financiación de la empresa. La forma en que se financia el activo (con fondos propios o ajenos) revela el perfil de riesgo y estabilidad financiera. Ratios como el de endeudamiento, autonomía financiera, garantía y estructura del pasivo permiten evaluar si la empresa depende excesivamente de deudas, si tiene capacidad para asumir nuevas obligaciones o si su estructura es sostenible. Una alta proporción de deuda a corto plazo puede generar riesgo de refinanciación, mientras que una baja autonomía indica dependencia de acreedores. Este análisis es clave para gestores, inversores y entidades financieras.",
@@ -15,6 +16,7 @@
       "saber_mas": "<p>El <u>ratio de endeudamiento</u> = <strong>Total pasivo / Activo total</strong>.</p><p>Indica qué porcentaje del activo está financiado con deudas.</p><p>Un valor superior a 0.6 (60%) sugiere alto riesgo financiero.</p><p>Complementa el análisis de solvencia y estabilidad a largo plazo.</p>"
     },
     {
+      "intro": "La autonomía financiera mide el porcentaje del activo que está financiado con fondos propios. Se calcula como Patrimonio Neto / Activo Total. Un valor alto (superior a 0.4 o 40%) indica que la empresa depende menos de deudas y tiene mayor estabilidad. Empresas con baja autonomía son más vulnerables a crisis financieras. Este ratio es clave para evaluar la independencia financiera y el riesgo crediticio.",
       "question": "2. ¿Cómo se calcula la autonomía financiera?",
       "options": [
         "Patrimonio neto / Pasivo total",
@@ -23,9 +25,10 @@
         "Activo no corriente / Pasivo no corriente"
       ],
       "correct": [2],
-      "saber_mas": "<p>La <u>autonomía financiera</u> = <strong>Patrimonio neto / Activo total</strong>.</p><p>Mide el porcentaje de la empresa financiado con fondos propios.</p><p>Valor recomendado: > 0.4 (40%).</p><p>Mayor autonomía = menor dependencia de deudas y mayor estabilidad.</p>"
+      "saber_mas": "<p>La <u>autonomía financiera</u> = <strong>Patrimonio neto / Activo total</strong>.</p><p>Mide el porcentaje de la empresa financiado con fondos propios.</p><p>Valor recomendado: > 0.4 (40%).</p><p>Mayor autonomía = menor dependencia de deudas y mayor estabilidad.</p><p>Contrasta con empresas altamente endeudadas.</p>"
     },
     {
+      "intro": "El ratio de garantía mide cuánto respaldan los fondos propios a las deudas. Se calcula como Patrimonio Neto / Pasivo Total. Si es inferior a 1, significa que el pasivo supera al patrimonio neto, lo que indica alto riesgo financiero. Si es superior a 1, los fondos propios cubren todas las deudas. Es un indicador clave para acreedores y entidades financieras.",
       "question": "3. ¿Qué indica un ratio de garantía inferior a 1?",
       "options": [
         "La empresa es muy solvente",
@@ -37,6 +40,7 @@
       "saber_mas": "<p>El <u>ratio de garantía</u> = <strong>Patrimonio neto / Pasivo total</strong>.</p><p>Si es <strong>inferior a 1</strong>, el pasivo supera al patrimonio neto.</p><p>Indica alto riesgo financiero y posible insolvencia si no mejora.</p><p>Valor > 1: los fondos propios cubren todas las deudas.</p>"
     },
     {
+      "intro": "Un alto porcentaje de pasivo corriente sobre el total del pasivo indica que la empresa depende de deudas a corto plazo. Esto genera riesgo de refinanciación, ya que debe renovar periódicamente sus obligaciones. Es preferible financiar inversiones con deuda a largo plazo. Empresas estables suelen tener más deuda a largo plazo. Este ratio se llama estructura del pasivo.",
       "question": "4. ¿Qué significa un alto porcentaje de pasivo corriente sobre el total del pasivo?",
       "options": [
         "Alta solvencia a largo plazo",
@@ -48,6 +52,7 @@
       "saber_mas": "<p>Un <u>alto porcentaje de pasivo corriente</u> indica que la empresa depende de deudas a corto plazo.</p><p>Debe refinanciar periódicamente, lo que genera <strong>riesgo de liquidez</strong>.</p><p>Es preferible financiar inversiones con deuda a largo plazo.</p><p>Ratio: PC / Total pasivo.</p>"
     },
     {
+      "intro": "El ratio de garantía relaciona el patrimonio neto con el pasivo total. Mide cuánto respaldan los fondos propios a las deudas. Es clave para acreedores, ya que indica el margen de seguridad. Un valor bajo sugiere alta dependencia de terceros. Un valor alto indica independencia financiera. Debe analizarse junto con el endeudamiento.",
       "question": "5. ¿Qué ratio relaciona el patrimonio neto con el pasivo?",
       "options": [
         "Endeudamiento",
@@ -59,6 +64,7 @@
       "saber_mas": "<p>El <u>ratio de garantía</u> muestra cuánto respaldan los fondos propios a las deudas.</p><p>Es clave para acreedores: cuanto mayor, menor riesgo de impago.</p><p>Se calcula: PN / Pasivo total.</p><p>Valor bajo: alta dependencia de terceros.</p>"
     },
     {
+      "intro": "Un ratio de endeudamiento del 70% significa que el 70% del activo está financiado con deudas. Solo el 30% es fondos propios. Es un nivel alto que puede dificultar el acceso a nuevo crédito. Requiere análisis de rentabilidad para cubrir costes financieros. Empresas con bajo margen no pueden soportar altos niveles de deuda.",
       "question": "6. ¿Qué indica un ratio de endeudamiento del 70%?",
       "options": [
         "La empresa es mayoritariamente autofinanciada",
@@ -70,6 +76,7 @@
       "saber_mas": "<p>Un <u>endeudamiento del 70%</u> significa que el <strong>70% del activo</strong> está financiado con deudas.</p><p>Solo el 30% es fondos propios.</p><p>Es un nivel alto, que puede dificultar acceso a nuevo crédito.</p><p>Requiere análisis de rentabilidad para cubrir costes financieros.</p>"
     },
     {
+      "intro": "La estructura del pasivo mide la proporción de pasivo corriente sobre el total del pasivo. Se calcula como PC / Total pasivo. Valores altos (>50%) indican riesgo de refinanciación. Empresas estables suelen tener más deuda a largo plazo. Es clave para la gestión financiera y el análisis de riesgo.",
       "question": "7. ¿Qué es la estructura del pasivo?",
       "options": [
         "La relación entre activo corriente y pasivo corriente",
@@ -81,6 +88,7 @@
       "saber_mas": "<p>La <u>estructura del pasivo</u> = <strong>Pasivo corriente / Total pasivo</strong>.</p><p>Muestra qué porcentaje de las deudas vencen en menos de un año.</p><p>Valores altos (>50%) indican riesgo de refinanciación.</p><p>Empresas estables suelen tener más deuda a largo plazo.</p>"
     },
     {
+      "intro": "Si el pasivo supera al patrimonio neto, el PN es negativo o muy bajo. Esto puede deberse a pérdidas acumuladas o sobreendeudamiento. Es un signo de fragilidad financiera que requiere atención. Puede llevar a fondos propios negativos. Requiere reestructuración financiera urgente.",
       "question": "8. ¿Qué ocurre si el pasivo supera al patrimonio neto?",
       "options": [
         "La empresa es muy rentable",
@@ -92,6 +100,7 @@
       "saber_mas": "<p>Si <strong>pasivo > patrimonio neto</strong>, el PN es negativo o muy bajo.</p><p>Indica <strong>fondos propios insuficientes</strong> para cubrir deudas.</p><p>Puede deberse a pérdidas acumuladas o sobreendeudamiento.</p><p>Es un signo de fragilidad financiera que requiere atención.</p>"
     },
     {
+      "intro": "El ratio de garantía mide la capacidad de los fondos propios para cubrir deudas. Es el indicador clave para acreedores. Valor > 1: PN > Pasivo → alta solvencia. Valor < 0.5: riesgo alto. Complementa el análisis de riesgo crediticio y debe analizarse junto con la rentabilidad.",
       "question": "9. ¿Qué ratio mide la capacidad de los fondos propios para cubrir deudas?",
       "options": [
         "Autonomía financiera",
@@ -103,6 +112,7 @@
       "saber_mas": "<p>El <u>ratio de garantía</u> mide cuánto respaldan los fondos propios a las deudas.</p><p>Es el indicador clave para acreedores.</p><p>Valor > 1: PN > Pasivo → alta solvencia.<br>Valor < 0.5: riesgo alto.</p><p>Complementa el análisis de riesgo crediticio.</p>"
     },
     {
+      "intro": "Financiar inmovilizado (largo plazo) con pasivo corriente (corto plazo) genera riesgo de liquidez. La empresa debe refinanciar periódicamente. Si no puede, enfrenta quiebra técnica. Lo adecuado es financiar largo con largo y corto con corto. Este desequilibrio es un signo de fragilidad financiera.",
       "question": "10. ¿Qué significa financiar inmovilizado con pasivo corriente?",
       "options": [
         "Buena gestión de tesorería",
@@ -114,6 +124,7 @@
       "saber_mas": "<p>Financiar <strong>activo no corriente</strong> (largo plazo) con <strong>pasivo corriente</strong> (corto plazo) genera <u>riesgo de liquidez</u>.</p><p>La empresa debe refinanciar periódicamente.</p><p>Si no puede, enfrenta quiebra técnica.</p><p>Lo adecuado es financiar largo con largo y corto con corto.</p>"
     },
     {
+      "intro": "La autonomía financiera es clave para la estabilidad a largo plazo. Empresas con alta autonomía son más resilientes ante crisis. Contrasta con empresas altamente endeudadas. Este ratio debe analizarse junto con el ROE, ya que un alto ROE puede deberse a apalancamiento financiero, no a buena gestión operativa.",
       "question": "11. ¿Qué ratio es más adecuado para evaluar la estabilidad a largo plazo?",
       "options": [
         "Liquidez",
@@ -125,6 +136,7 @@
       "saber_mas": "<p>La <u>autonomía financiera</u> mide la proporción de fondos propios en el activo.</p><p>Es clave para la <strong>estabilidad a largo plazo</strong>.</p><p>Empresas con alta autonomía son más resilientes ante crisis.</p><p>Contrasta con empresas altamente endeudadas.</p>"
     },
     {
+      "intro": "Un ratio de garantía del 0.3 indica que los fondos propios cubren solo el 30% del pasivo. El 70% de las deudas no están respaldadas por fondos propios. Es un alto riesgo financiero y dependencia de acreedores. Requiere mejora urgente de resultados o capital. Puede llevar a fondos propios negativos.",
       "question": "12. ¿Qué indica un ratio de garantía del 0.3?",
       "options": [
         "Alta solvencia",
@@ -136,6 +148,7 @@
       "saber_mas": "<p>Un <u>ratio de garantía de 0.3</u> significa que el <strong>patrimonio neto cubre solo el 30%</strong> del pasivo.</p><p>El 70% de las deudas no están respaldadas por fondos propios.</p><p>Alto riesgo financiero y dependencia de acreedores.</p><p>Requiere mejora urgente de resultados o capital.</p>"
     },
     {
+      "intro": "El pasivo exigible es la suma del pasivo corriente y no corriente. Representa todas las obligaciones de pago de la empresa. Se compara con el activo total para calcular ratios de solvencia. No incluye el patrimonio neto. Es clave para evaluar la capacidad de la empresa para hacer frente a sus deudas.",
       "question": "13. ¿Qué es el pasivo exigible?",
       "options": [
         "Solo deudas financieras",
@@ -147,6 +160,7 @@
       "saber_mas": "<p>El <u>pasivo exigible</u> es la suma de <strong>pasivo corriente</strong> y <strong>pasivo no corriente</strong>.</p><p>Representa todas las obligaciones de pago de la empresa.</p><p>Se compara con el activo total para calcular ratios de solvencia.</p><p>No incluye el patrimonio neto.</p>"
     },
     {
+      "intro": "El ratio de garantía es el que mide directamente la relación entre fondos propios (PN) y recursos ajenos (pasivo). Es el indicador más claro de equilibrio financiero. Valor bajo: alta dependencia de deuda. Valor alto: mayor independencia financiera. Debe analizarse junto con el ROE y la rentabilidad operativa.",
       "question": "14. ¿Qué ratio mide la relación entre recursos propios y ajenos?",
       "options": [
         "Endeudamiento",
@@ -158,6 +172,7 @@
       "saber_mas": "<p>El <u>ratio de garantía</u> es el que mide directamente la relación entre <strong>fondos propios (PN)</strong> y <strong>recursos ajenos (pasivo)</strong>.</p><p>Es el indicador más claro de equilibrio financiero.</p><p>Valor bajo: alta dependencia de deuda.</p><p>Valor alto: mayor independencia financiera.</p>"
     },
     {
+      "intro": "Baja autonomía y alto endeudamiento indican que la empresa depende excesivamente de deudas. Es vulnerable a subidas de tipos, problemas de refinanciación o caídas de ventas. Pequeñas pérdidas pueden llevar a fondos propios negativos. Requiere reestructuración financiera urgente para reducir deuda o aumentar capital.",
       "question": "15. ¿Qué ocurre si una empresa tiene baja autonomía y alto endeudamiento?",
       "options": [
         "Es muy estable",
