@@ -15,6 +15,7 @@
       "saber_mas": "<p>El <u>análisis integral</u> busca <strong>una visión global</strong> que combine todos los aspectos del análisis financiero: patrimonial, de liquidez, rentabilidad, autofinanciación y crecimiento.</p><p>No se trata de aislar ratios, sino de integrarlos para entender la salud financiera completa.</p><p>Permite tomar decisiones estratégicas basadas en evidencia.</p>"
     },
     {
+      "intro": "La pirámide de ratios es una herramienta integradora que organiza los ratios en niveles jerárquicos: desde la base (liquidez, solvencia) hasta la cima (rentabilidad, crecimiento). Permite ver cómo los problemas en un nivel afectan a los superiores. Es útil para presentaciones y toma de decisiones. No hay una pirámide única; puede adaptarse al sector o tipo de empresa.",
       "question": "2. ¿Qué es una pirámide de ratios?",
       "options": [
         "Un monumento egipcio",
@@ -26,6 +27,7 @@
       "saber_mas": "<p>La <u>pirámide de ratios</u> es una <strong>herramienta integradora</strong> que organiza los ratios en niveles jerárquicos.</p><p>Desde la base (liquidez, solvencia) hasta la cima (rentabilidad, crecimiento).</p><p>Permite ver cómo los problemas en un nivel afectan a los superiores.</p><p>Es útil para presentaciones y toma de decisiones.</p>"
     },
     {
+      "intro": "El cuadro de mando económico-financiero es un resumen visual que presenta la información financiera más relevante de forma clara y comprensible. Incluye ratios, gráficos, evolución histórica y comparativas con el sector. Está diseñado para directivos y tomadores de decisiones. Debe ser simple, claro y útil. Puede incluir semáforos (rojo, amarillo, verde) para indicar estado de cada ratio.",
       "question": "3. ¿Qué es un cuadro de mando económico-financiero?",
       "options": [
         "Un panel con todos los datos financieros clave",
@@ -37,6 +39,7 @@
       "saber_mas": "<p>El <u>cuadro de mando</u> es un resumen visual que presenta la <strong>información financiera más relevante</strong> de forma clara y comprensible.</p><p>Incluye ratios, gráficos, evolución histórica y comparativas con el sector.</p><p>Está diseñado para directivos y tomadores de decisiones.</p><p>Debe ser simple, claro y útil.</p>"
     },
     {
+      "intro": "Un informe de análisis de estados financieros debe incluir diagnóstico, conclusiones y recomendaciones. El diagnóstico identifica problemas y fortalezas. Las conclusiones resumen hallazgos. Las recomendaciones proponen medidas para solucionar problemas. Las recomendaciones deben ser coherentes con el diagnóstico y pueden acompañarse de cuentas previsionales.",
       "question": "4. ¿Qué debe incluir un informe de análisis de estados financieros?",
       "options": [
         "Diagnóstico, conclusiones y recomendaciones",
@@ -48,6 +51,7 @@
       "saber_mas": "<p>Un <u>informe efectivo</u> debe incluir:<br>• <strong>Diagnóstico</strong>: identificación de problemas<br>• <strong>Conclusiones</strong>: síntesis de hallazgos<br>• <strong>Recomendaciones</strong>: medidas para solucionar problemas</p><p>Las recomendaciones deben ser coherentes con el diagnóstico.</p><p>Puede acompañarse de cuentas previsionales para demostrar su viabilidad.</p>"
     },
     {
+      "intro": "Las cuentas anuales previsionales permiten proyectar el impacto de las recomendaciones en la situación financiera futura. Demuestran que las medidas propuestas mejorarán rentabilidad, liquidez o solvencia. Refuerzan la credibilidad del informe y ayudan a tomar decisiones. Deben ser realistas y basadas en supuestos razonables.",
       "question": "5. ¿Para qué sirven las cuentas anuales previsionales en un informe?",
       "options": [
         "Para decorar el informe",
@@ -59,6 +63,7 @@
       "saber_mas": "<p>Las <u>cuentas anuales previsionales</u> permiten <strong>proyectar el impacto</strong> de las recomendaciones en la situación financiera futura.</p><p>Demuestran que las medidas propuestas mejorarán rentabilidad, liquidez o solvencia.</p><p>Refuerzan la credibilidad del informe y ayudan a tomar decisiones.</p><p>Deben ser realistas y basadas en supuestos razonables.</p>"
     },
     {
+      "intro": "El diagnóstico financiero es la identificación de problemas y fortalezas financieras. Se basa en el análisis de ratios y comparativas. Ejemplos: fondo de maniobra negativo, bajo margen neto, alto endeudamiento. Debe ser claro, objetivo y basado en datos. Es el punto de partida para proponer soluciones efectivas.",
       "question": "6. ¿Qué es el diagnóstico financiero?",
       "options": [
         "Un examen médico",
@@ -70,6 +75,7 @@
       "saber_mas": "<p>El <u>diagnóstico financiero</u> es el proceso de <strong>identificar problemas</strong> (como bajo margen, alto endeudamiento, fondo de maniobra negativo) y <strong>fortalezas</strong> (como alta rotación, buen ROE).</p><p>Se basa en el análisis de ratios y comparativas.</p><p>Es el punto de partida para proponer soluciones.</p><p>Debe ser claro, objetivo y basado en datos.</p>"
     },
     {
+      "intro": "Un fondo de maniobra negativo indica riesgo de insolvencia técnica. Se deben proponer medidas como reducir existencias, acortar periodo de cobro, renegociar deudas a largo plazo o aumentar capital. El informe debe explicar las opciones y su impacto esperado. La solución debe ser viable y coherente.",
       "question": "7. ¿Qué debe hacerse si se detecta un fondo de maniobra negativo?",
       "options": [
         "Ignorarlo",
@@ -81,6 +87,7 @@
       "saber_mas": "<p>Un <u>fondo de maniobra negativo</u> indica <strong>riesgo de insolvencia técnica</strong>.</p><p>Se deben proponer medidas como:<br>• Reducir existencias<br>• Acortar periodo de cobro<br>• Renegociar deudas a largo plazo<br>• Aumentar capital</p><p>El informe debe explicar las opciones y su impacto esperado.</p>"
     },
     {
+      "intro": "La autofinanciación es la generación interna de fondos mediante beneficios retenidos (enriquecimiento) y amortizaciones (mantenimiento). Es una fuente de crecimiento sostenible sin necesidad de deuda o capital externo. Una empresa con alta autofinanciación es más independiente. Debe analizarse en el contexto del crecimiento de la empresa.",
       "question": "8. ¿Qué es la autofinanciación en el contexto del análisis integral?",
       "options": [
         "Financiación con deuda bancaria",
@@ -89,9 +96,10 @@
         "Financiación con capital externo"
       ],
       "correct": [1],
-      "saber_mas": "<p>La <u>autofinanciación</u> es la <strong>generación interna de fondos</strong> mediante beneficios retenidos (enriquecimiento) y amortizaciones (mantenimiento).</p><p>Es una fuente de crecimiento sostenible sin necesidad de deuda o capital externo.</p><p>Debe analizarse en el contexto del crecimiento de la empresa.</p><p>Una empresa con alta autofinanciación es más independiente.</p>"
+      "saber_mas": "<p>La <u>autofinanciación</u> es la <strong>generación interna de fondos</strong> mediante beneficios retenidos (enriquecimiento) y amortizaciones (mantenimiento).</p><p>Es una fuente de crecimiento sostenible sin necesidad de deuda o capital externo.</p><p>Una empresa con alta autofinanciación es más independiente.</p><p>Debe analizarse en el contexto del crecimiento de la empresa.</p>"
     },
     {
+      "intro": "Si el crecimiento real supera al sostenible, la empresa necesita más recursos de los que genera internamente. Debe recurrir a financiación externa: deuda, capital o provisiones. Si no puede obtenerla, enfrenta riesgo de quiebra técnica. El crecimiento sostenible es un límite financiero clave.",
       "question": "9. ¿Qué indica un crecimiento superior al sostenible?",
       "options": [
         "Que la empresa es muy rentable",
@@ -103,6 +111,7 @@
       "saber_mas": "<p>Si el <u>crecimiento real</u> supera al <strong>sostenible</strong>, la empresa necesita más recursos de los que genera internamente.</p><p>Debe recurrir a financiación externa: deuda, capital o provisiones.</p><p>Si no puede obtenerla, enfrenta riesgo de quiebra técnica.</p><p>El crecimiento sostenible es un límite financiero clave.</p>"
     },
     {
+      "intro": "El crecimiento sostenible se calcula como ROE × (1 - Tasa de reparto). Indica la tasa máxima a la que puede crecer la empresa sin alterar su estructura financiera. Depende de su rentabilidad y política de dividendos. Es un indicador clave en el análisis integral.",
       "question": "10. ¿Qué es el ROE sostenible?",
       "options": [
         "ROE × Tasa de reparto",
@@ -114,6 +123,7 @@
       "saber_mas": "<p>El <u>crecimiento sostenible</u> = <strong>ROE × (1 - Tasa de reparto)</strong>.</p><p>Indica la tasa máxima a la que puede crecer la empresa sin alterar su estructura financiera.</p><p>Depende de su rentabilidad y política de dividendos.</p><p>Es un indicador clave en el análisis integral.</p>"
     },
     {
+      "intro": "El anexo de un informe debe incluir cálculos efectuados e información utilizada. Garantiza la transparencia y permite verificar el análisis. Es esencial para informes técnicos y auditorías. Debe detallar supuestos, fuentes y ajustes realizados.",
       "question": "11. ¿Qué debe incluir el anexo de un informe de análisis?",
       "options": [
         "Cálculos efectuados e información utilizada",
@@ -125,6 +135,7 @@
       "saber_mas": "<p>El <u>anexo</u> debe incluir:<br>• <strong>Calculos efectuados</strong>: detalle de todos los ratios y ajustes<br>• <strong>Información utilizada</strong>: fuentes de datos, hipótesis, supuestos</p><p>Garantiza la transparencia y permite verificar el análisis.</p><p>Es esencial para informes técnicos y auditorías.</p>"
     },
     {
+      "intro": "La estructura del pasivo es la proporción de pasivo corriente sobre total pasivo. Muestra qué porcentaje de deudas vence en menos de un año. Valores altos indican riesgo de refinanciación. Debe analizarse junto con el fondo de maniobra y la NOF.",
       "question": "12. ¿Qué es la estructura del pasivo en el análisis integral?",
       "options": [
         "La relación entre activo y patrimonio neto",
@@ -136,6 +147,7 @@
       "saber_mas": "<p>La <u>estructura del pasivo</u> = <strong>Pasivo corriente / Total pasivo</strong>.</p><p>Muestra qué porcentaje de deudas vence en menos de un año.</p><p>Valores altos indican riesgo de refinanciación.</p><p>Debe analizarse junto con el fondo de maniobra y la NOF.</p>"
     },
     {
+      "intro": "La NOF (Necesidad Operativa de Fondos) = Existencias + Clientes - Proveedores. Mide el capital que la empresa necesita para operar. Debe financiarse con recursos estables. Una NOF alta indica dependencia de financiación externa.",
       "question": "13. ¿Qué es la necesidad operativa de fondos (NOF)?",
       "options": [
         "El beneficio neto",
@@ -147,6 +159,7 @@
       "saber_mas": "<p>La <u>NOF</u> = <strong>Existencias + Clientes - Proveedores</strong>.</p><p>Mide el capital que la empresa necesita para operar.</p><p>Debe financiarse con recursos estables (fondo de maniobra).</p><p>Una NOF alta indica dependencia de financiación externa.</p>"
     },
     {
+      "intro": "Los cuadros de mando suelen usar semáforos: rojo (crítico), amarillo (alerta), verde (bueno). Permite una lectura rápida de la situación financiera. Es clave para la toma de decisiones ágil. Puede incluir gráficos de evolución y comparativas.",
       "question": "14. ¿Qué indica un cuadro de mando con colores rojo, amarillo y verde?",
       "options": [
         "La decoración de la oficina",
@@ -158,6 +171,7 @@
       "saber_mas": "<p>Los <u>cuadros de mando</u> suelen usar <strong>semáforos</strong>:<br>• <strong>Rojo</strong>: ratio crítico<br>• <strong>Amarillo</strong>: alerta<br>• <strong>Verde</strong>: bueno</p><p>Permite una lectura rápida de la situación financiera.</p><p>Es clave para la toma de decisiones ágil.</p>"
     },
     {
+      "intro": "El equilibrio financiero se alcanza cuando el inmovilizado está financiado con recursos no corrientes y el fondo de maniobra cubre la NOF. Evita la financiación de activos a largo con deuda a corto. Es clave para la estabilidad a largo plazo.",
       "question": "15. ¿Qué es el equilibrio financiero?",
       "options": [
         "Cuando el activo no corriente está financiado con pasivo no corriente",
