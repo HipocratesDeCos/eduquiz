@@ -1,0 +1,172 @@
+{
+  "title": "Análisis con Datos Sectoriales y Comparativas Medias",
+  "description": "Quiz sobre el uso de ratios medios sectoriales, fiabilidad de muestras, instituciones que publican datos y aplicación en el diagnóstico financiero.",
+  "questions": [
+    {
+      "intro": "El análisis financiero no se limita a los datos internos de una empresa; debe complementarse con información externa, especialmente datos sectoriales. Las ratios medias de empresas del mismo sector y tamaño permiten comparar el rendimiento de una empresa con su entorno competitivo. Esta comparación es clave para identificar fortalezas y debilidades relativas. Sin embargo, es fundamental evaluar la calidad de la muestra: número de empresas, tamaño, localización geográfica y fiabilidad de los datos. Muchas veces, los datos oficiales no reflejan la realidad económica real. Instituciones como Cámaras de Comercio, Bolsas de Valores, APD, CEOE o CIDEM publican estudios con ratios sectoriales que son herramientas valiosas para el analista.",
+      "question": "1. ¿Por qué es importante comparar los ratios de una empresa con los medios del sector?",
+      "options": [
+        "Para cumplir con la normativa fiscal",
+        "Para identificar fortalezas y debilidades relativas",
+        "Para reducir el impuesto de sociedades",
+        "Para aumentar el número de empleados"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Comparar los <u>ratios de una empresa</u> con los <strong>medios del sector</strong> permite evaluar su posición competitiva.</p><p>Un ratio de liquidez bajo puede ser preocupante, pero si es superior al medio sectorial, indica buena gestión relativa.</p><p>Esta <strong>análisis comparativo</strong> es esencial para diagnósticos financieros, auditorías y decisiones de inversión.</p>"
+    },
+    {
+      "question": "2. ¿Qué factor es clave para evaluar la representatividad de una muestra de datos sectoriales?",
+      "options": [
+        "El color del informe",
+        "El número de empresas, tamaño y localización",
+        "La fecha de publicación del PDF",
+        "El número de páginas del estudio"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>representatividad de la muestra</u> depende de:<br>• <strong>Número de empresas</strong> incluidas<br>• <strong>Tamaño</strong> (pequeñas, medianas, grandes)<br>• <strong>Localización geográfica</strong><br>• <strong>Sector de actividad</strong></p><p>Una muestra pequeña o sesgada puede dar ratios medios poco fiables.</p><p>Es crucial verificar estas características antes de usar los datos.</p>"
+    },
+    {
+      "question": "3. ¿Por qué los datos oficiales de algunas empresas pueden no ser fiables para el análisis sectorial?",
+      "options": [
+        "Porque están en papel",
+        "Porque pueden no reflejar la realidad económica real",
+        "Porque están en inglés",
+        "Porque son demasiado recientes"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Algunas empresas presentan <u>cuentas oficiales</u> con criterios fiscales o legales que no reflejan su <strong>realidad económica</strong>.</p><p>Pueden ocultar beneficios, inflar pérdidas o manipular partidas para reducir impuestos.</p><p>Esto distorsiona los ratios medios del sector si se usan estos datos sin filtro.</p><p>El analista debe buscar fuentes complementarias o ajustar los datos.</p>"
+    },
+    {
+      "question": "4. ¿Qué institución NO suele publicar estudios con ratios sectoriales?",
+      "options": [
+        "Cámaras de Comercio",
+        "Bolsas de Valores",
+        "Asociación para el Progreso de la Dirección (APD)",
+        "Ministerio de Agricultura"
+      ],
+      "correct": [3],
+      "saber_mas": "<p>Instituciones como <strong>Cámaras de Comercio</strong>, <strong>Bolsas de Valores</strong>, <strong>APD</strong>, <strong>CEOE</strong>, <strong>CEAM</strong> y <strong>CIDEM</strong> publican habitualmente estudios con ratios financieros medios por sector.</p><p>El <strong>Ministerio de Agricultura</strong>, aunque tiene datos, no es una fuente típica de ratios financieros para análisis comparativo empresarial.</p><p>Es mejor usar fuentes especializadas en análisis económico-financiero.</p>"
+    },
+    {
+      "question": "5. ¿Qué tipo de empresa es difícil de clasificar en un sector único?",
+      "options": [
+        "Una panadería local",
+        "Una empresa con actividades en varios sectores",
+        "Una consultora de marketing",
+        "Una clínica dental"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Las <u>empresas diversificadas</u> que operan en <strong>múltiples sectores</strong> (por ejemplo, un grupo con actividades en energía, construcción y servicios) son difíciles de comparar con ratios medios sectoriales.</p><p>No existe un sector claro al que asignarlas.</p><p>En estos casos, debe hacerse un análisis por divisiones o segmentos de actividad.</p><p>La heterogeneidad dificulta el benchmarking financiero.</p>"
+    },
+    {
+      "question": "6. ¿Qué ratio es más útil para comparar con datos sectoriales?",
+      "options": [
+        "Número de empleados",
+        "Margen neto",
+        "Nombre del director financiero",
+        "Color del logotipo"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>margen neto</u> (resultado neto / ventas) es un ratio clave para comparar la <strong>rentabilidad operativa</strong> entre empresas del mismo sector.</p><p>Permite ver si una empresa es más eficiente en gestión de costes o fijación de precios.</p><p>Compararlo con el medio sectorial ayuda a diagnosticar problemas o ventajas competitivas.</p>"
+    },
+    {
+      "question": "7. ¿Qué indica que el ROE de una empresa es inferior al medio del sector?",
+      "options": [
+        "Que la empresa es más rentable",
+        "Que genera menos beneficio por unidad de capital propio",
+        "Que tiene más empleados",
+        "Que sus ventas son superiores"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>ROE inferior al medio sectorial</u> indica que la empresa genera <strong>menos rentabilidad sobre su patrimonio neto</strong> que sus competidores.</p><p>Puede deberse a baja rentabilidad operativa, mala gestión de activos o exceso de capital.</p><p>Requiere análisis para identificar la causa: ¿bajo margen? ¿baja rotación? ¿bajo apalancamiento?</p><p>Es una señal de alerta estratégica.</p>"
+    },
+    {
+      "question": "8. ¿Qué es un benchmark financiero?",
+      "options": [
+        "Un tipo de préstamo",
+        "Una comparación con estándares del sector",
+        "Un sistema de contabilidad",
+        "Un impuesto sobre beneficios"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>benchmark financiero</u> es el proceso de <strong>comparar los ratios</strong> de una empresa con los de otras del mismo sector o con estándares del mercado.</p><p>Permite identificar brechas de rendimiento y oportunidades de mejora.</p><p>Es una herramienta clave en auditorías, due diligence y planificación estratégica.</p><p>Debe basarse en datos fiables y muestras representativas.</p>"
+    },
+    {
+      "question": "9. ¿Por qué es útil conocer el ratio de endeudamiento medio del sector?",
+      "options": [
+        "Para decidir el color de la oficina",
+        "Para evaluar si la estructura financiera es sostenible",
+        "Para aumentar el número de proveedores",
+        "Para reducir el número de clientes"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Conocer el <u>ratio de endeudamiento medio del sector</u> permite evaluar si la empresa tiene una <strong>estructura financiera equilibrada</strong>.</p><p>Si está muy por encima, puede tener alto riesgo financiero.</p><p>Si está muy por debajo, podría estar subutilizando el apalancamiento positivo.</p><p>El contexto sectorial es clave para interpretar el nivel de deuda.</p>"
+    },
+    {
+      "question": "10. ¿Qué debe hacerse antes de usar ratios medios de un informe?",
+      "options": [
+        "Leer solo el título",
+        "Evaluar la fiabilidad y representatividad de la muestra",
+        "Imprimirlo en color",
+        "Enviar copia a todos los empleados"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Antes de usar <u>ratios medios de un informe</u>, es esencial <strong>evaluar la calidad de la muestra</strong>: número de empresas, tamaño, antigüedad, sector, y fuente de datos.</p><p>Un estudio con solo 5 empresas pequeñas no es representativo para comparar con una gran empresa.</p><p>La fiabilidad del diagnóstico depende de la calidad de los datos de referencia.</p>"
+    },
+    {
+      "question": "11. ¿Qué ratio de liquidez es más común en análisis sectorial?",
+      "options": [
+        "Ratio de liquidez",
+        "Periodo medio de cobro",
+        "Rotación de activos",
+        "Margen bruto"
+      ],
+      "correct": [0],
+      "saber_mas": "<p>El <u>ratio de liquidez</u> = <strong>Activo corriente / Pasivo corriente</strong> es uno de los más usados en análisis sectorial.</p><p>Mide la capacidad de pago a corto plazo.</p><p>Los medios sectoriales permiten ver si una empresa tiene más o menos liquidez que sus pares.</p><p>Valor típico: entre 1.5 y 2. Por debajo, puede indicar riesgo.</p>"
+    },
+    {
+      "question": "12. ¿Qué indica que el periodo medio de cobro es superior al medio del sector?",
+      "options": [
+        "Que la empresa cobra más rápido",
+        "Que la empresa cobra más lento",
+        "Que tiene más ventas",
+        "Que tiene menos clientes"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>periodo medio de cobro superior al medio sectorial</u> indica que la empresa tarda <strong>más en cobrar a sus clientes</strong> que sus competidores.</p><p>Esto genera necesidad de más financiación y riesgo de impago.</p><p>Debe revisarse la política de cobros y gestión de clientes.</p><p>Es un indicador clave de eficiencia en el ciclo de explotación.</p>"
+    },
+    {
+      "question": "13. ¿Qué es la desviación respecto al ratio medio del sector?",
+      "options": [
+        "La diferencia entre el ratio de la empresa y el medio del sector",
+        "El número de empleados",
+        "El beneficio neto",
+        "El capital social"
+      ],
+      "correct": [0],
+      "saber_mas": "<p>La <u>desviación</u> es la <strong>diferencia</strong> entre el valor del ratio de la empresa y el <strong>valor medio del sector</strong>.</p><p>Una desviación grande (positiva o negativa) indica una posición atípica.</p><p>Debe investigarse su causa: ¿innovación? ¿mala gestión? ¿ventaja competitiva?</p><p>Es clave para el análisis diferencial.</p>"
+    },
+    {
+      "question": "14. ¿Qué sector suele tener un ciclo de caja negativo?",
+      "options": [
+        "Pequeños talleres",
+        "Grandes distribuidores (como supermercados)",
+        "Consultoras",
+        "Clínicas médicas"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Los <u>grandes distribuidores</u> (como supermercados) suelen tener <strong>ciclo de caja negativo</strong>: cobran a clientes antes de pagar a proveedores.</p><p>Esto genera liquidez interna y reduce la necesidad de financiación.</p><p>Es una ventaja competitiva importante.</p><p>Comparar este ratio con el medio del sector es muy revelador.</p>"
+    },
+    {
+      "question": "15. ¿Qué debe hacerse si no hay datos sectoriales fiables?",
+      "options": [
+        "No hacer análisis",
+        "Usar datos de cualquier empresa",
+        "Buscar fuentes alternativas o usar análisis interno",
+        "Inventar datos"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>Si no hay <u>datos sectoriales fiables</u>, el analista debe:<br>• Buscar <strong>fuentes alternativas</strong> (informes de bancos, consultoras)<br>• Usar <strong>análisis interno</strong> (evolución histórica de la empresa)<br>• Comparar con empresas <strong>similares</strong> aunque no sean del mismo sector</p><p>El análisis relativo es ideal, pero el interno también es valioso.</p>"
+    }
+  ]
+}
