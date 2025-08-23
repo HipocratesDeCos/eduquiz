@@ -1,0 +1,186 @@
+{
+  "title": "Los Consumidores, los Productores y la Eficiencia de los Mercados",
+  "description": "Quiz sobre el excedente del consumidor, excedente del productor, eficiencia del mercado y cómo los mercados competitivos asignan recursos de forma eficiente.",
+  "questions": [
+    {
+      "intro": "La eficiencia de un mercado se mide por la maximización del bienestar total, que es la suma del excedente del consumidor y el excedente del productor. El excedente del consumidor es la diferencia entre lo que los consumidores están dispuestos a pagar y lo que realmente pagan. El excedente del productor es la diferencia entre lo que reciben los vendedores y su costo de producción. En un mercado competitivo sin fallas, el equilibrio de oferta y demanda maximiza este bienestar total, lo que significa que los recursos se asignan de forma eficiente. Este principio es clave para entender por qué los mercados libres son generalmente eficientes.",
+      "question": "1. ¿Qué es el excedente del consumidor?",
+      "options": [
+        "El beneficio que obtiene el productor",
+        "La diferencia entre lo que el consumidor está dispuesto a pagar y lo que paga",
+        "El costo de producción del bien",
+        "El ingreso total del vendedor"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>excedente del consumidor</u> es la <strong>diferencia</strong> entre la <strong>disposición a pagar</strong> de un consumidor y el <strong>precio de mercado</strong>.</p><p>Representa el beneficio neto que obtiene el consumidor al participar en el mercado.</p><p>Gráficamente, es el área por encima del precio y por debajo de la curva de demanda.</p>"
+    },
+    {
+      "intro": "El excedente del productor mide el beneficio que obtienen los vendedores al vender un bien. Es la diferencia entre el precio de mercado y el costo mínimo al que estarían dispuestos a vender. Este costo está representado por la curva de oferta. Cuanto más alto sea el precio respecto al costo de producción, mayor será el excedente del productor. Este concepto es clave para evaluar el bienestar de los productores en un mercado.",
+      "question": "2. ¿Qué es el excedente del productor?",
+      "options": [
+        "La diferencia entre el precio de mercado y el costo de producción",
+        "La diferencia entre el ingreso y el costo total",
+        "El beneficio contable",
+        "El precio de venta"
+      ],
+      "correct": [0],
+      "saber_mas": "<p>El <u>excedente del productor</u> es la <strong>diferencia</strong> entre el <strong>precio de mercado</strong> y el <strong>costo de producción</strong> del vendedor.</p><p>Representa el beneficio que obtiene el productor por vender el bien.</p><p>Gráficamente, es el área por debajo del precio y por encima de la curva de oferta.</p>"
+    },
+    {
+      "intro": "El bienestar total en un mercado es la suma del excedente del consumidor y el excedente del productor. Se maximiza en el equilibrio de mercado competitivo, donde la cantidad demandada iguala a la ofrecida. En este punto, no es posible mejorar el bienestar de una parte sin perjudicar a la otra. Esto define la eficiencia económica: la asignación de recursos que maximiza el bienestar total.",
+      "question": "3. ¿Cómo se calcula el bienestar total en un mercado?",
+      "options": [
+        "Excedente del consumidor menos excedente del productor",
+        "Excedente del consumidor más excedente del productor",
+        "Ingreso total menos costos",
+        "Precio por cantidad"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>bienestar total</u> en un mercado es la <strong>suma</strong> del <strong>excedente del consumidor</strong> y el <strong>excedente del productor</strong>.</p><p>Se maximiza en el equilibrio de mercado competitivo.</p><p>En ese punto, no es posible mejorar el bienestar de una parte sin perjudicar a la otra.</p><p>Es la definición de <strong>eficiencia económica</strong>.</p>"
+    },
+    {
+      "intro": "Un mercado competitivo es eficiente porque asigna el bien al consumidor que más lo valora y el bien al productor que puede producirlo al menor costo. Además, la cantidad producida es la que maximiza el bienestar total. Estos tres criterios definen la eficiencia: consumo eficiente, producción eficiente y cantidad eficiente. Aunque el mercado sea eficiente, puede no ser equitativo.",
+      "question": "4. ¿Por qué un mercado competitivo es eficiente?",
+      "options": [
+        "Porque maximiza las ganancias del vendedor",
+        "Porque asigna recursos de forma que maximiza el bienestar total",
+        "Porque todos pagan el mismo precio",
+        "Porque no hay impuestos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>mercado competitivo</u> es eficiente porque:<br>• Asigna el bien al <strong>consumidor que más lo valora</strong><br>• Asigna la producción al <strong>productor con menor costo</strong><br>• Produce la <strong>cantidad que maximiza el bienestar total</strong></p><p>Esto ocurre en el equilibrio de oferta y demanda.</p>"
+    },
+    {
+      "intro": "La disposición a pagar es el precio máximo que un consumidor está dispuesto a pagar por un bien. Refleja el valor que el consumidor le asigna. La curva de demanda representa la disposición a pagar de todos los consumidores. Cada punto de la curva muestra cuántos consumidores están dispuestos a pagar al menos ese precio.",
+      "question": "5. ¿Qué representa la curva de demanda?",
+      "options": [
+        "El costo de producción",
+        "La disposición a pagar de los consumidores",
+        "El ingreso del gobierno",
+        "La oferta de bienes"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>curva de demanda</u> representa la <strong>disposición a pagar</strong> de todos los consumidores.</p><p>Cada punto muestra el precio máximo que un consumidor está dispuesto a pagar.</p><p>El área bajo la curva y por encima del precio es el <strong>excedente del consumidor</strong>.</p>"
+    },
+    {
+      "intro": "El costo marginal es el costo de producir una unidad adicional. La curva de oferta representa el costo marginal de todos los productores. Cada punto de la curva muestra el costo mínimo al que un productor está dispuesto a vender una unidad adicional. El área sobre la curva y por debajo del precio es el excedente del productor.",
+      "question": "6. ¿Qué representa la curva de oferta?",
+      "options": [
+        "La disposición a pagar",
+        "El costo marginal de producción",
+        "El ingreso total",
+        "La demanda del mercado"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>curva de oferta</u> representa el <strong>costo marginal</strong> de todos los productores.</p><p>Cada punto muestra el costo mínimo al que un productor está dispuesto a vender una unidad.</p><p>El área sobre la curva y por debajo del precio es el <strong>excedente del productor</strong>.</p>"
+    },
+    {
+      "intro": "Cuando el precio está por debajo del equilibrio, la cantidad demandada supera a la ofrecida, pero el mercado no puede alcanzar la cantidad eficiente. Algunos consumidores que valoran el bien más que los productores no pueden comprarlo, lo que reduce el bienestar total. El mercado no es eficiente porque no se aprovechan todas las oportunidades de intercambio mutuamente beneficiosas.",
+      "question": "7. ¿Qué ocurre si el precio está por debajo del equilibrio?",
+      "options": [
+        "El mercado es más eficiente",
+        "Hay escasez y pérdida de bienestar",
+        "Todos los consumidores pueden comprar",
+        "El excedente del productor aumenta"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Si el precio está <u>por debajo del equilibrio</u>, hay <strong>escasez</strong>: la cantidad demandada supera a la ofrecida.</p><p>Algunos consumidores que valoran el bien más que el costo de producción no pueden comprarlo.</p><p>Esto crea una <strong>pérdida de peso muerto</strong>: oportunidades de intercambio no realizadas.</p><p>El bienestar total no se maximiza.</p>"
+    },
+    {
+      "intro": "Cuando el precio está por encima del equilibrio, la cantidad ofrecida supera a la demandada. Algunos productores con costos altos venden a precios altos, pero su costo supera el valor que los consumidores le asignan. Esto también reduce el bienestar total. El mercado no es eficiente porque se producen unidades que no deberían producirse.",
+      "question": "8. ¿Qué ocurre si el precio está por encima del equilibrio?",
+      "options": [
+        "El mercado es más eficiente",
+        "Hay exceso de oferta y pérdida de bienestar",
+        "Todos los productores venden",
+        "El excedente del consumidor aumenta"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Si el precio está <u>por encima del equilibrio</u>, hay <strong>exceso de oferta</strong>: la cantidad ofrecida supera a la demandada.</p><p>Algunos productores con costos altos venden, pero su costo supera el valor del consumidor.</p><p>Esto crea una <strong>pérdida de peso muerto</strong>: se producen unidades que no deberían producirse.</p><p>El bienestar total no se maximiza.</p>"
+    },
+    {
+      "intro": "La eficiencia económica se alcanza cuando no es posible mejorar el bienestar de una persona sin perjudicar a otra. En un mercado competitivo, esto ocurre en el equilibrio. Sin embargo, la eficiencia no garantiza equidad. Un mercado puede ser eficiente pero altamente desigual en la distribución del bienestar.",
+      "question": "9. ¿Qué significa que un mercado es eficiente?",
+      "options": [
+        "Que todos ganan lo mismo",
+        "Que no se puede mejorar el bienestar de uno sin perjudicar a otro",
+        "Que no hay impuestos",
+        "Que todos los consumidores están satisfechos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un mercado es <u>eficiente</u> cuando no es posible <strong>mejorar el bienestar de una persona</strong> sin <strong>perjudicar a otra</strong>.</p><p>Se llama <strong>eficiencia de Pareto</strong>.</p><p>No implica equidad: puede haber grandes desigualdades.</p><p>En mercados competitivos, el equilibrio es eficiente.</p>"
+    },
+    {
+      "intro": "La pérdida de peso muerto es la reducción del bienestar total que no se recupera como ingreso para nadie. Ocurre cuando el mercado no opera en el equilibrio, como con impuestos, controles de precios o monopolios. Representa oportunidades de intercambio beneficioso que no se realizan. Es una medida de ineficiencia del mercado.",
+      "question": "10. ¿Qué es la pérdida de peso muerto?",
+      "options": [
+        "El ingreso del gobierno",
+        "La ganancia del consumidor",
+        "La reducción del bienestar total no recuperada",
+        "El aumento de la producción"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>La <u>pérdida de peso muerto</u> es la <strong>reducción del bienestar total</strong> que no se recupera como ingreso para nadie.</p><p>Ocurre cuando el mercado no opera en el equilibrio (por impuestos, controles, etc.).</p><p>Representa <strong>intercambios beneficiosos que no se realizan</strong>.</p><p>Es una medida de ineficiencia del mercado.</p>"
+    },
+    {
+      "intro": "El equilibrio de mercado es eficiente porque el precio actúa como señal que coordina a consumidores y productores. Los consumidores compran hasta que el valor marginal es igual al precio; los productores venden hasta que el costo marginal es igual al precio. Así, el valor marginal del bien para los consumidores es igual a su costo marginal de producción, lo que maximiza el bienestar total.",
+      "question": "11. ¿Por qué el equilibrio de mercado es eficiente?",
+      "options": [
+        "Porque el gobierno lo establece",
+        "Porque el valor marginal iguala al costo marginal",
+        "Porque todos los consumidores pueden comprar",
+        "Porque no hay competencia"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>En el equilibrio de mercado, el <u>valor marginal</u> del bien para los consumidores <strong>iguala</strong> a su <u>costo marginal</u> de producción.</p><p>Los consumidores compran hasta que el valor marginal = precio.</p><p>Los productores venden hasta que el costo marginal = precio.</p><p>Así, se produce la cantidad que maximiza el bienestar total.</p>"
+    },
+    {
+      "intro": "El excedente del consumidor se puede calcular como el área entre la curva de demanda y el precio de mercado, desde cero hasta la cantidad vendida. Para una curva de demanda lineal, es un triángulo. Cuanto más bajo sea el precio, mayor será el excedente del consumidor, siempre que la demanda no cambie.",
+      "question": "12. ¿Cómo se calcula el excedente del consumidor gráficamente?",
+      "options": [
+        "Área entre oferta y demanda",
+        "Área entre demanda y precio de mercado",
+        "Área entre oferta y precio de mercado",
+        "Área bajo la oferta"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>excedente del consumidor</u> se calcula gráficamente como el <strong>área entre la curva de demanda</strong> y el <strong>precio de mercado</strong>, desde 0 hasta la cantidad vendida.</p><p>Para una demanda lineal, es un triángulo.</p><p>Disminuye si el precio sube, aumenta si el precio baja.</p>"
+    },
+    {
+      "intro": "El excedente del productor se puede calcular como el área entre el precio de mercado y la curva de oferta, desde cero hasta la cantidad vendida. Para una curva de oferta lineal, es un triángulo. Cuanto más alto sea el precio, mayor será el excedente del productor, siempre que la oferta no cambie.",
+      "question": "13. ¿Cómo se calcula el excedente del productor gráficamente?",
+      "options": [
+        "Área entre demanda y precio",
+        "Área entre oferta y precio de mercado",
+        "Área bajo la demanda",
+        "Área sobre la demanda"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>excedente del productor</u> se calcula gráficamente como el <strong>área entre el precio de mercado</strong> y la <strong>curva de oferta</strong>, desde 0 hasta la cantidad vendida.</p><p>Para una oferta lineal, es un triángulo.</p><p>Disminuye si el precio baja, aumenta si el precio sube.</p>"
+    },
+    {
+      "intro": "Si el gobierno fija un precio máximo por debajo del equilibrio, crea escasez. Algunos consumidores que valoran el bien más que los productores no pueden comprarlo. Esto reduce el bienestar total y genera pérdida de peso muerto. Aunque algunos consumidores se beneficien, otros pierden, y los productores siempre pierden.",
+      "question": "14. ¿Qué efecto tiene un precio máximo por debajo del equilibrio?",
+      "options": [
+        "Aumenta el bienestar total",
+        "Crea escasez y pérdida de bienestar",
+        "Elimina a todos los productores",
+        "Aumenta la oferta"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>precio máximo</u> (tope) por debajo del equilibrio crea <strong>escasez</strong>.</p><p>Algunos consumidores que valoran el bien más que el costo de producción no pueden comprarlo.</p><p>Esto genera <strong>pérdida de peso muerto</strong>: reducción del bienestar total.</p><p>Los productores siempre pierden; algunos consumidores ganan, otros pierden.</p>"
+    },
+    {
+      "intro": "Si el gobierno fija un precio mínimo por encima del equilibrio, crea exceso de oferta. Algunos productores con costos altos venden, pero su costo supera el valor del consumidor. Esto también reduce el bienestar total y genera pérdida de peso muerto. Los consumidores siempre pierden; algunos productores ganan, otros no pueden vender.",
+      "question": "15. ¿Qué efecto tiene un precio mínimo por encima del equilibrio?",
+      "options": [
+        "Aumenta el bienestar total",
+        "Crea exceso de oferta y pérdida de bienestar",
+        "Elimina a todos los consumidores",
+        "Aumenta la demanda"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>precio mínimo</u> por encima del equilibrio crea <strong>exceso de oferta</strong>.</p><p>Algunos productores venden, pero su costo supera el valor del consumidor.</p><p>Esto genera <strong>pérdida de peso muerto</strong>: reducción del bienestar total.</p><p>Los consumidores siempre pierden; algunos productores ganan, otros no pueden vender.</p>"
+    }
+  ]
+}
