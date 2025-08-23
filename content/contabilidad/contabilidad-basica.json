@@ -15,6 +15,7 @@
       "saber_mas": "<p>El <u>objetivo del PGC</u> es <strong>normalizar la contabilidad</strong> en España, asegurando que todos los usuarios puedan interpretar las cuentas con criterios comunes.</p><p>Define principios, normas de valoración y modelos de cuentas anuales.</p><p>Permite la comparabilidad entre empresas y ejercicios, y cumple con la <strong>obligación de imagen fiel</strong> del Código de Comercio.</p>"
     },
     {
+      "intro": "El principio de devengo es uno de los pilares fundamentales del sistema contable. Exige que los ingresos y gastos se imputen al ejercicio económico al que pertenecen, independientemente del momento en que se cobren o paguen. Este principio asegura que la cuenta de resultados refleje fielmente la actividad realizada en el periodo, evitando distorsiones por pagos anticipados o diferidos. Por ejemplo, un alquiler pagado en enero por un local utilizado en diciembre debe contabilizarse en el ejercicio anterior. Su correcta aplicación es clave para cumplir con el principio de imagen fiel.",
       "question": "2. ¿Qué principio contable exige que los gastos se imputen al ejercicio al que corresponden?",
       "options": [
         "Principio de prudencia",
@@ -26,6 +27,7 @@
       "saber_mas": "<p>El <u>principio de devengo</u> obliga a imputar ingresos y gastos al ejercicio en que se originan, no cuando se cobran o pagan.</p><p>Por ejemplo: una factura de luz de diciembre debe contabilizarse en ese ejercicio, aunque se pague en enero.</p><p>Es clave para que la cuenta de resultados refleje fielmente la actividad del periodo.</p>"
     },
     {
+      "intro": "El principio de imagen fiel es el más importante del marco conceptual del PGC. Obliga a que las cuentas anuales muestren fielmente la situación patrimonial, financiera y de resultados de la empresa. Este principio prevalece sobre cualquier otro y debe cumplirse incluso si eso requiere apartarse de formalismos contables. No se trata solo de seguir normas, sino de reflejar la realidad económica. La auditoría de cuentas tiene como objetivo verificar el cumplimiento de este principio, que es esencial para la confianza de inversores, acreedores y administraciones.",
       "question": "3. ¿Qué principio exige que las cuentas anuales reflejen fielmente la situación patrimonial?",
       "options": [
         "Principio de prudencia",
@@ -37,6 +39,7 @@
       "saber_mas": "<p>El <u>principio de imagen fiel</u> es el más importante del marco conceptual.</p><p>Obliga a que las cuentas muestren fielmente la realidad económica, incluso si eso requiere apartarse de otros principios.</p><p>Está recogido en el artículo 20 del Código de Comercio y prevalece sobre cualquier formalismo.</p><p>Es la base de la calidad de la información financiera.</p>"
     },
     {
+      "intro": "El principio de empresa en funcionamiento asume que la empresa continuará su actividad en el futuro previsible, sin intención ni necesidad de liquidarse o reducir significativamente sus operaciones. Esta hipótesis justifica que los activos no se valoren al valor de liquidación, sino al valor de uso. También permite la amortización y el reconocimiento de provisiones. Si no se cumple, debe revelarse en la memoria y cambiar el enfoque de valoración. Es una presunción clave para la elaboración de cuentas anuales.",
       "question": "4. ¿Qué significa que una empresa está en funcionamiento?",
       "options": [
         "Que tiene beneficios",
@@ -48,6 +51,7 @@
       "saber_mas": "<p>El <u>principio de empresa en funcionamiento</u> asume que la empresa <strong>continuará operando</strong> en el futuro previsible.</p><p>Por tanto, los activos no se valoran al valor de liquidación, sino al valor de uso.</p><p>Justifica la amortización y el deterioro de valor.</p><p>Si no se cumple, debe revelarse en la memoria.</p>"
     },
     {
+      "intro": "El principio de prudencia exige no sobrevalorar activos ni infravalorar pasivos. Ante la incertidumbre, debe adoptarse la opción que menor beneficio arroje. Este principio evita optimismo injustificado en la valoración. Se aplica en el deterioro de créditos, la valoración de existencias al menor entre coste y valor neto realizable, y la creación de provisiones. Es clave para la fiabilidad de las cuentas, aunque no debe llevar al pesimismo extremo. Es un equilibrio entre realismo y conservadurismo.",
       "question": "5. ¿Qué principio evita la sobrevaloración de activos?",
       "options": [
         "Principio de devengo",
@@ -59,6 +63,7 @@
       "saber_mas": "<p>El <u>principio de prudencia</u> exige no sobrevalorar activos ni infravalorar pasivos.</p><p>Ante la incertidumbre, se elige la opción que menor beneficio arroje.</p><p>Ejemplos: deterioro de créditos, valoración de existencias al menor valor.</p><p>Es clave para la fiabilidad de las cuentas.</p>"
     },
     {
+      "intro": "El marco conceptual del PGC es la base teórica que fundamenta todo el sistema contable. Aunque no tiene rango normativo, guía la interpretación y aplicación de las normas contables. Define los objetivos de la información financiera, los elementos de las cuentas anuales (activo, pasivo, etc.), los requisitos cualitativos (relevancia, fiabilidad, comparabilidad) y los principios contables. Es esencial para resolver casos no previstos en la normativa y para asegurar la coherencia del sistema. Sin él, la contabilidad sería un conjunto de reglas sin fundamento.",
       "question": "6. ¿Qué es el marco conceptual del PGC?",
       "options": [
         "Un manual de usuario del software contable",
@@ -70,6 +75,7 @@
       "saber_mas": "<p>El <u>marco conceptual</u> es la base teórica del PGC.</p><p>Define: principios contables, elementos de las cuentas (activo, pasivo, etc.), y requisitos de información (imagen fiel, relevancia).</p><p>No tiene rango normativo, pero guía la interpretación de las normas.</p><p>Es esencial para resolver casos no previstos.</p>"
     },
     {
+      "intro": "La valoración de activos debe seguir criterios conservadores para evitar distorsiones. El principio de prudencia exige que las existencias se valoren al menor entre su coste de adquisición o producción y su valor neto realizable. Si el valor de mercado desciende, debe reconocerse un deterioro. Este ajuste reduce el activo y genera un gasto en la cuenta de resultados. Es una aplicación directa del principio de prudencia y es clave para reflejar fielmente la situación patrimonial.",
       "question": "7. ¿Qué principio exige que los activos se valoren al menor entre coste y valor neto realizable?",
       "options": [
         "Principio de devengo",
@@ -81,6 +87,7 @@
       "saber_mas": "<p>El <u>principio de prudencia</u> justifica que las existencias se valoren al <strong>menor entre coste y valor neto realizable</strong>.</p><p>Si el valor de mercado baja, se registra un deterioro.</p><p>Evita sobrevalorar el activo y genera un gasto en la cuenta de resultados.</p><p>Aplica también a créditos con riesgo de impago.</p>"
     },
     {
+      "intro": "La imagen fiel no es solo un principio contable, sino una obligación legal establecida en el Código de Comercio. Exige que las cuentas anuales reflejen fielmente la situación patrimonial, financiera y de resultados. Esta obligación prevalece sobre cualquier otra norma o formalismo. Si seguir al pie de la letra un modelo distorsiona la realidad, debe modificarse. Es el objetivo final de la contabilidad, y su cumplimiento es verificado por el auditor. Sin imagen fiel, la información pierde toda utilidad para los usuarios.",
       "question": "8. ¿Qué es la imagen fiel?",
       "options": [
         "Un informe visual de la empresa",
@@ -92,6 +99,7 @@
       "saber_mas": "<p>La <u>imagen fiel</u> es la obligación legal de que las cuentas anuales muestren fielmente la situación patrimonial, financiera y de resultados.</p><p>Debe cumplirse incluso si requiere apartarse de otros principios o formalismos.</p><p>Es superior a cualquier otra norma contable.</p><p>La auditoría verifica su cumplimiento.</p>"
     },
     {
+      "intro": "La amortización del inmovilizado es una aplicación directa del principio de devengo. Distribuye el costo de un activo a lo largo de su vida útil, imputando parte del gasto a cada ejercicio que beneficia. Esto evita que un solo ejercicio soporte todo el impacto del gasto. La amortización no es una salida de efectivo, sino un ajuste contable que refleja el consumo del activo. Es clave para calcular correctamente el beneficio de cada periodo.",
       "question": "9. ¿Qué principio justifica la amortización del inmovilizado?",
       "options": [
         "Principio de prudencia",
@@ -103,6 +111,7 @@
       "saber_mas": "<p>El <u>principio de devengo</u> exige imputar el costo del inmovilizado a lo largo de su vida útil.</p><p>La <strong>amortización</strong> distribuye el gasto entre los ejercicios que beneficia el activo.</p><p>Así, el gasto se asocia con los ingresos que el activo ayuda a generar.</p><p>Es clave para cumplir con la imagen fiel del resultado.</p>"
     },
     {
+      "intro": "El coste histórico es el valor original de adquisición de un activo. Incluye el precio de compra más todos los gastos necesarios para su puesta en funcionamiento (transporte, instalación, etc.). Es la base de valoración inicial en el PGC. Aunque posteriormente puede ajustarse por amortización, deterioro o revalorización, el coste histórico sigue siendo el punto de partida. Es un método objetivo y verificable, aunque puede perder relevancia con el tiempo debido a la inflación.",
       "question": "10. ¿Qué es el coste histórico?",
       "options": [
         "El valor actual de mercado",
@@ -114,6 +123,7 @@
       "saber_mas": "<p>El <u>coste histórico</u> es el valor original de adquisición de un activo.</p><p>Incluye precio de compra, transporte, instalación, etc.</p><p>Es la base de valoración inicial en el PGC.</p><p>Posteriormente, puede ajustarse por amortización, deterioro o revalorización (si aplica).</p>"
     },
     {
+      "intro": "El principio de no compensación prohíbe compensar activos y pasivos, salvo en casos específicamente permitidos. Por ejemplo, no se puede compensar un cliente con un proveedor. Esto garantiza que el balance muestre fielmente la situación patrimonial. La compensación ocultaría información clave para los usuarios. Es un principio de transparencia que refuerza la fiabilidad de las cuentas anuales.",
       "question": "11. ¿Qué principio evita la compensación entre partidas del activo y del pasivo?",
       "options": [
         "Principio de independencia de ejercicios",
@@ -125,6 +135,7 @@
       "saber_mas": "<p>El <u>principio de no compensación</u> prohíbe compensar activos y pasivos, salvo casos específicos (como derivados financieros).</p><p>Por ejemplo: no se puede compensar un cliente con un proveedor.</p><p>Garantiza que el balance muestre fielmente la situación patrimonial.</p><p>Es clave para la transparencia.</p>"
     },
     {
+      "intro": "El valor razonable es el precio que se obtendría en una transacción ordenada entre partes independientes en un mercado activo. Es un criterio de valoración más actualizado que el coste histórico. Se utiliza en activos financieros, inversiones y en ciertos casos de inmovilizado. Requiere información de mercado o modelos de valoración. Es clave en las normas internacionales (NIIF) y permite una mejor reflexión de la situación patrimonial en mercados dinámicos.",
       "question": "12. ¿Qué es el valor razonable?",
       "options": [
         "El valor contable menos amortizaciones",
@@ -136,6 +147,7 @@
       "saber_mas": "<p>El <u>valor razonable</u> es el precio que se obtendría en una transacción ordenada entre partes independientes.</p><p>Se usa en activos financieros, inversiones, y en ciertos casos de inmovilizado.</p><p>Requiere información de mercado o modelos de valoración.</p><p>Es clave en normas internacionales (NIIF).</p>"
     },
     {
+      "intro": "La relevancia es un requisito cualitativo clave de la información contable. Exige que la información sea útil para la toma de decisiones de los usuarios. Para ser relevante, debe tener capacidad predictiva (ayudar a predecir el futuro) o confirmativa (confirmar o corregir expectativas pasadas). Una información puede ser fiel, pero si no es relevante, no sirve. El equilibrio entre relevancia y fiabilidad es fundamental para la calidad de la información.",
       "question": "13. ¿Qué principio exige que la información contable sea útil para la toma de decisiones?",
       "options": [
         "Relevancia",
@@ -147,6 +159,7 @@
       "saber_mas": "<p>La <u>relevancia</u> exige que la información contable sea útil para los usuarios (inversores, acreedores, gestores).</p><p>Para ser relevante, debe tener <strong>capacidad predictiva</strong> o <strong>confirmativa</strong>.</p><p>Se equilibra con la fiabilidad: no sirve una información relevante pero falsa.</p><p>Es uno de los requisitos cualitativos del marco conceptual.</p>"
     },
     {
+      "intro": "El principio de consistencia exige aplicar los mismos criterios contables de forma coherente de un ejercicio a otro. Esto permite comparar la evolución de la empresa. Si se cambia un criterio, debe justificarse y revelarse en la memoria. La consistencia no significa inmovilismo, sino coherencia en la aplicación. Es clave para el análisis financiero y para que los usuarios puedan interpretar correctamente las tendencias.",
       "question": "14. ¿Qué principio garantiza que la información sea comparable entre ejercicios?",
       "options": [
         "Principio de prudencia",
@@ -158,6 +171,7 @@
       "saber_mas": "<p>El <u>principio de consistencia</u> exige aplicar los mismos criterios contables de forma coherente entre ejercicios.</p><p>Si se cambia un criterio, debe justificarse y revelarse en la memoria.</p><p>Permite comparar la evolución de la empresa.</p><p>Es clave para el análisis financiero.</p>"
     },
     {
+      "intro": "La tercera parte del PGC contiene las normas sobre la formulación y elaboración de las cuentas anuales. Incluye los modelos de balance, cuenta de resultados, estado de cambios en el patrimonio neto, estado de flujos de efectivo y memoria. Define la estructura, contenido y presentación de estos documentos. Es esencial para cumplir con la legalidad y para que las cuentas sean comparables. Esta parte tiene aplicación obligatoria y es la que más interactúa con el auditor.",
       "question": "15. ¿Qué documento del PGC incluye los modelos de cuentas anuales?",
       "options": [
         "Primera parte: marco conceptual",
