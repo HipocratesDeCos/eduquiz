@@ -1,0 +1,172 @@
+{
+  "title": "Análisis del Fondo de Maniobra y Necesidades de Financiación",
+  "description": "Quiz sobre el fondo de maniobra, necesidades operativas de fondos, equilibrio financiero y análisis de liquidez.",
+  "questions": [
+    {
+      "intro": "El fondo de maniobra (FM) es la diferencia entre el activo corriente y el pasivo corriente. Representa la capacidad de la empresa para hacer frente a sus obligaciones a corto plazo con recursos líquidos. Un FM positivo indica solvencia técnica, mientras que un FM negativo puede señalar riesgo de insolvencia. Sin embargo, el FM debe analizarse junto con las necesidades operativas de fondos (NOF), que miden el capital circulante necesario para financiar el ciclo de explotación. La NOF se calcula como: existencias + clientes + efectos a cobrar - proveedores - deudas de explotación. El equilibrio financiero se alcanza cuando el FM cubre las NOF. Este análisis es fundamental para la gestión de tesorería y la planificación financiera.",
+      "question": "1. ¿Qué es el fondo de maniobra?",
+      "options": [
+        "La diferencia entre activo y pasivo",
+        "La diferencia entre activo corriente y pasivo corriente",
+        "La suma de patrimonio neto y pasivo no corriente",
+        "El valor del inmovilizado material"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>fondo de maniobra</u> (FM) = <strong>Activo corriente - Pasivo corriente</strong>.</p><p>Indica la capacidad de la empresa para hacer frente a sus obligaciones a corto plazo.</p><p>FM positivo: liquidez suficiente.<br>FM negativo: riesgo de insolvencia técnica.</p><p>Es un indicador clave de solvencia a corto plazo.</p>"
+    },
+    {
+      "question": "2. ¿Qué es la Necesidad Operativa de Fondos (NOF)?",
+      "options": [
+        "El beneficio neto del ejercicio",
+        "El capital social más reservas",
+        "El capital circulante necesario para financiar el ciclo de explotación",
+        "El valor del inmovilizado"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>La <u>Necesidad Operativa de Fondos</u> (NOF) = <strong>Existencias + Clientes + Efectos a cobrar - Proveedores - Deudas de explotación</strong>.</p><p>Mide el capital que la empresa necesita para financiar su actividad ordinaria.</p><p>Debe ser financiado con recursos estables (fondo de maniobra).</p><p>Una NOF alta indica dependencia de financiación externa.</p>"
+    },
+    {
+      "question": "3. ¿Qué indica un fondo de maniobra negativo?",
+      "options": [
+        "Alta rentabilidad",
+        "Insolvencia técnica",
+        "Bajo endeudamiento",
+        "Alta autofinanciación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>fondo de maniobra negativo</u> indica que el <strong>pasivo corriente supera al activo corriente</strong>.</p><p>La empresa no puede cubrir sus deudas a corto plazo con recursos líquidos.</p><p>Es un signo de <strong>insolvencia técnica</strong>, aunque no implique quiebra inmediata.</p><p>Puede deberse a mala gestión del circulante.</p>"
+    },
+    {
+      "question": "4. ¿Qué es el equilibrio financiero?",
+      "options": [
+        "Cuando el activo no corriente está financiado con pasivo no corriente",
+        "Cuando el fondo de maniobra cubre la Necesidad Operativa de Fondos",
+        "Cuando el ROE es alto",
+        "Cuando el resultado neto es positivo"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>equilibrio financiero</u> se alcanza cuando el <strong>fondo de maniobra cubre la NOF</strong>.</p><p>Esto significa que el capital circulante está financiado con recursos estables (patrimonio neto y pasivo no corriente).</p><p>Evita la financiación de activos corrientes con deuda a corto plazo.</p><p>Es clave para la estabilidad a largo plazo.</p>"
+    },
+    {
+      "question": "5. ¿Qué ocurre si la NOF supera al fondo de maniobra?",
+      "options": [
+        "La empresa tiene exceso de liquidez",
+        "La empresa necesita financiación adicional",
+        "El ROE aumenta automáticamente",
+        "No hay problema financiero"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Si <strong>NOF > FM</strong>, la empresa no tiene suficientes recursos estables para financiar su actividad.</p><p>Necesita financiación adicional, generalmente mediante deuda a corto plazo.</p><p>Esto genera riesgo de refinanciación y liquidez.</p><p>Indica desequilibrio financiero.</p>"
+    },
+    {
+      "question": "6. ¿Cómo se calcula la NOF?",
+      "options": [
+        "AC + PC",
+        "Existencias + Clientes - Proveedores",
+        "Existencias + Clientes + Efectos a cobrar - Proveedores - Deudas de explotación",
+        "Ventas / Rotación de activos"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>La <u>Necesidad Operativa de Fondos</u> (NOF) se calcula como:<br><strong>Existencias + Clientes + Efectos a cobrar - Proveedores - Deudas de explotación</strong>.</p><p>Representa el capital circulante necesario para operar.</p><p>Debe financiarse con recursos no exigibles a corto plazo.</p><p>Es clave para la gestión de tesorería.</p>"
+    },
+    {
+      "question": "7. ¿Qué indica una NOF muy alta?",
+      "options": [
+        "Baja rotación de activos",
+        "Buena gestión de inventarios",
+        "Alta liquidez",
+        "Bajo riesgo financiero"
+      ],
+      "correct": [0],
+      "saber_mas": "<p>Una <u>NOF muy alta</u> indica que la empresa necesita mucho capital para financiar su ciclo de explotación.</p><p>Puede deberse a altos niveles de existencias, largos plazos de cobro o bajos plazos de pago.</p><p>Requiere más financiación y aumenta el riesgo financiero.</p><p>Debe optimizarse para mejorar la eficiencia.</p>"
+    },
+    {
+      "question": "8. ¿Qué es el ciclo de explotación?",
+      "options": [
+        "El tiempo desde que se pagan las materias primas hasta que se cobra la venta",
+        "El tiempo desde que se compran las materias primas hasta que se cobra la venta",
+        "El tiempo desde que se pagan las materias primas hasta que se paga la venta",
+        "El tiempo desde que se vende hasta que se cobra"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>ciclo de explotación</u> es el tiempo que transcurre desde que se <strong>compra la materia prima</strong> hasta que se <strong>cobra la venta</strong> del producto.</p><p>Incluye: periodo de almacenamiento, fabricación, venta y cobro.</p><p>Mientras más largo, mayor necesidad de financiación.</p><p>Debe reducirse para mejorar la eficiencia.</p>"
+    },
+    {
+      "question": "9. ¿Qué es el ciclo de caja?",
+      "options": [
+        "El tiempo desde que se paga a proveedores hasta que se cobra a clientes",
+        "El tiempo desde que se compra a proveedores hasta que se cobra a clientes",
+        "El tiempo desde que se paga a proveedores hasta que se vende",
+        "El tiempo desde que se cobra hasta que se paga"
+      ],
+      "correct": [0],
+      "saber_mas": "<p>El <u>ciclo de caja</u> = <strong>Ciclo de explotación - Periodo medio de pago a proveedores</strong>.</p><p>Mide el tiempo que el dinero está inmovilizado en el ciclo de explotación.</p><p>Un ciclo de caja corto indica buena gestión de tesorería.</p><p>Empresas con ciclo de caja negativo cobran antes de pagar (como Amazon).</p>"
+    },
+    {
+      "question": "10. ¿Qué indica un ciclo de caja negativo?",
+      "options": [
+        "Mala gestión financiera",
+        "La empresa cobra antes de pagar",
+        "Alto riesgo de insolvencia",
+        "Baja rotación de activos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>ciclo de caja negativo</u> indica que la empresa <strong>cobra a sus clientes antes de pagar a sus proveedores</strong>.</p><p>Genera liquidez interna y reduce la necesidad de financiación.</p><p>Es una ventaja competitiva (ej. grandes distribuidores).</p><p>Permite crecer sin necesidad de capital externo.</p>"
+    },
+    {
+      "question": "11. ¿Qué es el periodo medio de cobro?",
+      "options": [
+        "El tiempo medio que tarda en venderse un producto",
+        "El tiempo medio que tarda en cobrarse una venta",
+        "El tiempo medio que tarda en pagarse una compra",
+        "El tiempo medio de fabricación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>periodo medio de cobro</u> = <strong>365 / Rotación de clientes</strong>.</p><p>Mide cuántos días transcurren desde que se vende hasta que se cobra.</p><p>Un periodo alto indica problemas de liquidez.</p><p>Debe gestionarse con políticas de cobro eficaces.</p>"
+    },
+    {
+      "question": "12. ¿Qué es el periodo medio de pago?",
+      "options": [
+        "El tiempo medio que tarda en cobrarse una venta",
+        "El tiempo medio que tarda en pagarse una compra",
+        "El tiempo medio de fabricación",
+        "El tiempo medio de almacenamiento"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>periodo medio de pago</u> = <strong>365 / Rotación de proveedores</strong>.</p><p>Mide cuántos días transcurren desde que se compra hasta que se paga.</p><p>Un periodo alto mejora la tesorería, pero puede afectar a la relación con proveedores.</p><p>Debe equilibrarse con la política de pago.</p>"
+    },
+    {
+      "question": "13. ¿Qué indica una rotación de existencias baja?",
+      "options": [
+        "Buena gestión de inventarios",
+        "Alta rotación de activos",
+        "Existencias obsoletas o excesivas",
+        "Bajo riesgo de ruptura"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>Una <u>rotación de existencias baja</u> indica que los inventarios tardan mucho en venderse.</p><p>Puede deberse a productos obsoletos, mala previsión de demanda o baja demanda.</p><p>Incrementa el riesgo de deterioro y ocupa capital innecesario.</p><p>Debe mejorarse con gestión de inventarios (JIT, ABC, etc.).</p>"
+    },
+    {
+      "question": "14. ¿Qué es el fondo de maniobra necesario?",
+      "options": [
+        "El FM según el balance",
+        "El FM requerido para financiar la NOF y el disponible mínimo",
+        "El resultado neto del ejercicio",
+        "El capital social más reservas"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>fondo de maniobra necesario</u> es el FM que necesita la empresa para financiar:<br>• Su <strong>Necesidad Operativa de Fondos (NOF)</strong><br>• Un <strong>disponible mínimo</strong> para hacer frente a pagos imprevistos.</p><p>Debe ser cubierto con recursos estables (PN + Pasivo no corriente).</p><p>Se calcula mediante presupuestos de tesorería.</p>"
+    },
+    {
+      "question": "15. ¿Qué ocurre si el fondo de maniobra es menor que el necesario?",
+      "options": [
+        "La empresa tiene exceso de liquidez",
+        "La empresa necesita financiación adicional",
+        "El ROE aumenta",
+        "No hay problema"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Si el <u>fondo de maniobra real</u> es menor que el <strong>necesario</strong>, la empresa no puede financiar adecuadamente su actividad.</p><p>Necesita financiación adicional, generalmente mediante deuda a corto plazo.</p><p>Esto genera riesgo de liquidez y refinanciación.</p><p>Debe corregirse con aumento de capital o reducción de circulante.</p>"
+    }
+  ]
+}
