@@ -1,0 +1,186 @@
+{
+  "title": "Las Fuerzas del Mercado: Oferta, Demanda y Equilibrio",
+  "description": "Quiz sobre cómo funcionan los mercados competitivos, las curvas de oferta y demanda, el equilibrio de mercado y los desplazamientos por cambios en factores externos.",
+  "questions": [
+    {
+      "intro": "Los mercados son lugares donde compradores y vendedores interactúan para intercambiar bienes y servicios. En un mercado competitivo, hay muchos compradores y vendedores, ninguno de los cuales puede influir individualmente en el precio. El precio de equilibrio se determina por la interacción de la oferta y la demanda. La demanda representa la cantidad de un bien que los consumidores están dispuestos y pueden comprar a diferentes precios. La oferta representa la cantidad que los productores están dispuestos a vender. El equilibrio se alcanza cuando la cantidad demandada iguala a la cantidad ofrecida. Este modelo es fundamental para entender cómo se asignan los recursos en una economía de mercado.",
+      "question": "1. ¿Qué determina el precio de equilibrio en un mercado competitivo?",
+      "options": [
+        "La decisión de un solo vendedor",
+        "La interacción entre oferta y demanda",
+        "El gobierno central",
+        "El costo de producción mínimo"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>precio de equilibrio</u> se determina cuando la <strong>cantidad demandada</strong> iguala a la <strong>cantidad ofrecida</strong>.</p><p>Es el resultado de la interacción entre todos los compradores y vendedores en un mercado competitivo.</p><p>En ese punto, no hay escasez ni exceso de producto.</p>"
+    },
+    {
+      "intro": "La ley de la demanda establece que, ceteris paribus (todo lo demás constante), la cantidad demandada de un bien disminuye cuando su precio aumenta. Esta relación inversa se debe a los efectos sustitución e ingreso. La curva de demanda se representa gráficamente como una línea descendente. Factores como ingresos, preferencias, precios de bienes relacionados y expectativas pueden desplazar toda la curva de demanda.",
+      "question": "2. ¿Qué indica la ley de la demanda?",
+      "options": [
+        "Que la demanda aumenta cuando el precio sube",
+        "Que la cantidad demandada disminuye cuando el precio sube",
+        "Que la oferta y la demanda siempre son iguales",
+        "Que los precios no afectan el consumo"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>ley de la demanda</u> establece que, <strong>ceteris paribus</strong>, la cantidad demandada de un bien disminuye cuando su precio aumenta.</p><p>Esta relación inversa se debe al <strong>efecto sustitución</strong> (buscar alternativas más baratas) y al <strong>efecto ingreso</strong> (menor poder adquisitivo).</p><p>La curva de demanda es descendente.</p>"
+    },
+    {
+      "intro": "La ley de la oferta establece que, ceteris paribus, la cantidad ofrecida de un bien aumenta cuando su precio aumenta. Esto se debe a que los productores tienen mayor incentivo para producir cuando pueden obtener más ingresos. La curva de oferta se representa como una línea ascendente. Factores como el precio de los insumos, la tecnología, expectativas y número de vendedores pueden desplazar toda la curva de oferta.",
+      "question": "3. ¿Qué indica la ley de la oferta?",
+      "options": [
+        "Que la oferta disminuye cuando el precio sube",
+        "Que la cantidad ofrecida aumenta cuando el precio sube",
+        "Que los productores venden menos a precios altos",
+        "Que la oferta es constante"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>ley de la oferta</u> establece que, <strong>ceteris paribus</strong>, la cantidad ofrecida de un bien aumenta cuando su precio aumenta.</p><p>Los productores tienen mayor incentivo para producir a precios más altos.</p><p>La curva de oferta es ascendente, reflejando esta relación directa.</p>"
+    },
+    {
+      "intro": "Un mercado competitivo es aquel en el que hay muchos compradores y muchos vendedores, ninguno de los cuales tiene poder para influir en el precio. Los precios se determinan por la oferta y la demanda agregadas. Ejemplos incluyen mercados de productos agrícolas o divisas. En estos mercados, los participantes son tomadores de precios (price takers), no formadores de precios.",
+      "question": "4. ¿Qué caracteriza a un mercado competitivo?",
+      "options": [
+        "Un solo vendedor domina el mercado",
+        "Muchos compradores y vendedores, ninguno con poder de mercado",
+        "El gobierno fija todos los precios",
+        "Los precios nunca cambian"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>mercado competitivo</u> tiene muchos compradores y vendedores, ninguno de los cuales puede influir individualmente en el precio.</p><p>Los participantes son <strong>tomadores de precios</strong> (price takers).</p><p>El precio se determina por la oferta y la demanda agregadas.</p><p>Ejemplos: mercados de granos, divisas, acciones.</p>"
+    },
+    {
+      "intro": "El equilibrio de mercado se alcanza cuando la cantidad demandada es igual a la cantidad ofrecida. A ese precio, no hay escasez ni exceso. Si el precio está por encima del equilibrio, hay exceso de oferta; si está por debajo, escasez. El mercado tiende naturalmente hacia el equilibrio a través de ajustes de precios.",
+      "question": "5. ¿Qué ocurre en el equilibrio de mercado?",
+      "options": [
+        "La cantidad demandada supera a la ofrecida",
+        "La cantidad ofrecida supera a la demandada",
+        "La cantidad demandada iguala a la ofrecida",
+        "No hay transacciones"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>En el <u>equilibrio de mercado</u>, la <strong>cantidad demandada</strong> es igual a la <strong>cantidad ofrecida</strong>.</p><p>El precio de equilibrio elimina escasez y exceso.</p><p>Si el precio está por encima: <strong>exceso de oferta</strong>.<br>Si está por debajo: <strong>escasez</strong>.</p><p>El mercado tiende naturalmente al equilibrio.</p>"
+    },
+    {
+      "intro": "Una escasez ocurre cuando, a un precio dado, la cantidad demandada supera a la ofrecida. Esto suele suceder cuando el precio está por debajo del equilibrio. Los consumidores no pueden comprar todo lo que desean. El resultado es una presión al alza sobre el precio, que tiende a subir hasta alcanzar el equilibrio.",
+      "question": "6. ¿Qué es una escasez en el mercado?",
+      "options": [
+        "Cuando se produce más de lo que se vende",
+        "Cuando la cantidad demandada supera a la ofrecida",
+        "Cuando el precio es muy alto",
+        "Cuando no hay compradores"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Una <u>escasez</u> ocurre cuando la <strong>cantidad demandada</strong> supera a la <strong>cantidad ofrecida</strong> a un precio dado.</p><p>Suele suceder cuando el precio está por debajo del equilibrio.</p><p>Los consumidores no pueden comprar todo lo que desean.</p><p>Presiona al alza sobre el precio, que tiende a subir.</p>"
+    },
+    {
+      "intro": "Un exceso de oferta (o superávit) ocurre cuando la cantidad ofrecida supera a la demandada. Esto sucede cuando el precio está por encima del equilibrio. Los productores no pueden vender todo lo que desean. El resultado es una presión a la baja sobre el precio, que tiende a bajar hasta alcanzar el equilibrio.",
+      "question": "7. ¿Qué es un exceso de oferta?",
+      "options": [
+        "Cuando se demanda más de lo que se ofrece",
+        "Cuando la cantidad ofrecida supera a la demandada",
+        "Cuando no hay vendedores",
+        "Cuando el precio es muy bajo"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>exceso de oferta</u> (o superávit) ocurre cuando la <strong>cantidad ofrecida</strong> supera a la <strong>cantidad demandada</strong>.</p><p>Suele suceder cuando el precio está por encima del equilibrio.</p><p>Los productores no pueden vender todo lo que desean.</p><p>Presiona a la baja sobre el precio, que tiende a bajar.</p>"
+    },
+    {
+      "intro": "Un desplazamiento de la curva de demanda ocurre cuando un factor diferente al precio del bien cambia la cantidad demandada a todos los precios. Estos factores incluyen ingresos, preferencias, precios de bienes relacionados (sustitutos y complementarios) y expectativas. Un desplazamiento no es un movimiento a lo largo de la curva, que ocurre solo por cambios de precio.",
+      "question": "8. ¿Qué causa un desplazamiento de la curva de demanda?",
+      "options": [
+        "Un cambio en el precio del bien",
+        "Un cambio en el ingreso de los consumidores",
+        "Un movimiento a lo largo de la curva",
+        "Un cambio en la cantidad ofrecida"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>desplazamiento de la curva de demanda</u> ocurre por cambios en factores como:<br>• <strong>Ingresos</strong><br>• <strong>Preferencias</strong><br>• <strong>Precios de bienes relacionados</strong><br>• <strong>Expectativas</strong></p><p>No se debe al cambio del precio del bien (eso es un movimiento a lo largo de la curva).</p>"
+    },
+    {
+      "intro": "Un desplazamiento de la curva de oferta ocurre cuando un factor diferente al precio del bien cambia la cantidad ofrecida a todos los precios. Factores clave incluyen el precio de los insumos, la tecnología, expectativas de precios futuros y el número de vendedores. Un avance tecnológico, por ejemplo, reduce costos y desplaza la oferta a la derecha.",
+      "question": "9. ¿Qué causa un desplazamiento de la curva de oferta?",
+      "options": [
+        "Un cambio en el precio del bien",
+        "Un cambio en el precio de los insumos",
+        "Un movimiento a lo largo de la curva",
+        "Un cambio en la cantidad demandada"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>desplazamiento de la curva de oferta</u> ocurre por cambios en:<br>• <strong>Precio de insumos</strong><br>• <strong>Tecnología</strong><br>• <strong>Expectativas</strong><br>• <strong>Número de vendedores</strong></p><p>Por ejemplo: un avance tecnológico reduce costos y desplaza la oferta a la derecha (más cantidad a cada precio).</p>"
+    },
+    {
+      "intro": "Si aumenta el ingreso de los consumidores, la demanda de bienes normales aumenta (curva se desplaza a la derecha), mientras que la demanda de bienes inferiores disminuye (curva se desplaza a la izquierda). Un bien normal es aquel cuya demanda aumenta con el ingreso; un bien inferior, aquel cuya demanda disminuye.",
+      "question": "10. ¿Qué ocurre con la demanda de un bien normal si aumenta el ingreso?",
+      "options": [
+        "Disminuye",
+        "Permanece constante",
+        "Aumenta",
+        "Se vuelve inelástica"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>Para un <u>bien normal</u>, la demanda <strong>aumenta</strong> cuando el ingreso aumenta.</p><p>La curva de demanda se desplaza a la derecha.</p><p>Ejemplos: ropa de calidad, viajes, restaurantes.</p><p>Contrasta con bienes inferiores (como transporte público o comida enlatada).</p>"
+    },
+    {
+      "intro": "Dos bienes son sustitutos si se pueden usar uno en lugar del otro. Cuando sube el precio de uno, aumenta la demanda del otro. Por ejemplo, si sube el precio de la mantequilla, aumenta la demanda de margarina. El desplazamiento de la demanda del bien sustituto es hacia la derecha.",
+      "question": "11. ¿Qué ocurre con la demanda de un bien sustituto si sube el precio del otro?",
+      "options": [
+        "Disminuye",
+        "Permanece constante",
+        "Aumenta",
+        "Se vuelve inelástica"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>Si dos bienes son <u>sustitutos</u> (mantequilla y margarina), un aumento en el precio de uno <strong>aumenta la demanda</strong> del otro.</p><p>Los consumidores cambian al bien más barato.</p><p>La curva de demanda del sustituto se desplaza a la derecha.</p>"
+    },
+    {
+      "intro": "Dos bienes son complementarios si se consumen juntos. Cuando sube el precio de uno, disminuye la demanda del otro. Por ejemplo, si sube el precio de los coches, disminuye la demanda de gasolina. El desplazamiento de la demanda del bien complementario es hacia la izquierda.",
+      "question": "12. ¿Qué ocurre con la demanda de un bien complementario si sube el precio del otro?",
+      "options": [
+        "Aumenta",
+        "Permanece constante",
+        "Disminuye",
+        "Se vuelve elástica"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>Si dos bienes son <u>complementarios</u> (coches y gasolina), un aumento en el precio de uno <strong>disminuye la demanda</strong> del otro.</p><p>Se consumen juntos, por lo que si uno es más caro, se consume menos de ambos.</p><p>La curva de demanda del complementario se desplaza a la izquierda.</p>"
+    },
+    {
+      "intro": "Si mejora la tecnología de producción, el costo de producir un bien disminuye. Los productores pueden ofrecer más a cada precio, lo que desplaza la curva de oferta hacia la derecha. Esto generalmente lleva a un precio de equilibrio más bajo y una cantidad de equilibrio más alta.",
+      "question": "13. ¿Qué efecto tiene una mejora tecnológica en la oferta?",
+      "options": [
+        "Desplaza la oferta a la izquierda",
+        "Desplaza la oferta a la derecha",
+        "No tiene efecto",
+        "Hace la oferta inelástica"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Una <u>mejora tecnológica</u> reduce los costos de producción.</p><p>Los productores pueden ofrecer más a cada precio.</p><p>La curva de oferta se desplaza a la <strong>derecha</strong>.</p><p>Resultado típico: precio de equilibrio más bajo, cantidad de equilibrio más alta.</p>"
+    },
+    {
+      "intro": "Si sube el precio de un insumo clave (como el acero para automóviles), el costo de producción aumenta. Los productores ofrecen menos a cada precio, lo que desplaza la curva de oferta hacia la izquierda. Esto generalmente lleva a un precio de equilibrio más alto y una cantidad de equilibrio más baja.",
+      "question": "14. ¿Qué ocurre si sube el precio de un insumo clave?",
+      "options": [
+        "La oferta se desplaza a la derecha",
+        "La oferta se desplaza a la izquierda",
+        "La demanda aumenta",
+        "El equilibrio no cambia"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Si sube el precio de un <u>insumo clave</u> (como acero, energía, mano de obra), el costo de producción aumenta.</p><p>Los productores ofrecen menos a cada precio.</p><p>La curva de oferta se desplaza a la <strong>izquierda</strong>.</p><p>Resultado típico: precio de equilibrio más alto, cantidad de equilibrio más baja.</p>"
+    },
+    {
+      "intro": "Si aumenta el número de vendedores en un mercado, la oferta total aumenta. La curva de oferta de mercado se desplaza hacia la derecha. Esto generalmente lleva a un precio de equilibrio más bajo y una cantidad de equilibrio más alta. Es un factor clave que afecta la estructura de mercado y la competencia.",
+      "question": "15. ¿Qué ocurre si aumenta el número de vendedores en un mercado?",
+      "options": [
+        "La oferta se desplaza a la izquierda",
+        "La oferta se desplaza a la derecha",
+        "La demanda disminuye",
+        "El precio de equilibrio sube"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un aumento en el <u>número de vendedores</u> aumenta la oferta total en el mercado.</p><p>La curva de oferta se desplaza a la <strong>derecha</strong>.</p><p>Resultado típico: precio de equilibrio más bajo, cantidad de equilibrio más alta.</p><p>Esto aumenta la competencia en el mercado.</p>"
+    }
+  ]
+}
