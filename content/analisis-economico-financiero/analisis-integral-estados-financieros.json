@@ -1,0 +1,172 @@
+{
+  "title": "Análisis Integral de Estados Financieros",
+  "description": "Quiz sobre la síntesis del análisis financiero: pirámides de ratios, cuadros de mando, elaboración de informes y recomendaciones.",
+  "questions": [
+    {
+      "intro": "El análisis integral de estados financieros combina todos los aspectos estudiados previamente: análisis patrimonial, financiero, de rentabilidad y de fondos. Su objetivo es obtener una visión global de la situación de la empresa. Para ello, se utilizan herramientas integradoras como las pirámides de ratios y los cuadros de mando. La pirámide de ratios organiza los indicadores en niveles (liquidez, solvencia, rentabilidad, etc.) para facilitar la interpretación. El cuadro de mando resume la información más relevante en un solo documento, usando gráficos, tablas y datos comparativos. Además, el análisis debe culminar en un informe efectivo que incluya diagnóstico, conclusiones y recomendaciones coherentes con los problemas detectados. Este informe puede acompañarse de cuentas anuales previsionales para demostrar la viabilidad de las propuestas.",
+      "question": "1. ¿Cuál es el objetivo del análisis integral de estados financieros?",
+      "options": [
+        "Hacer más cuentas",
+        "Obtener una visión global de la situación de la empresa",
+        "Aumentar el número de empleados",
+        "Cambiar el logotipo"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>análisis integral</u> busca <strong>una visión global</strong> que combine todos los aspectos del análisis financiero: patrimonial, de liquidez, rentabilidad, autofinanciación y crecimiento.</p><p>No se trata de aislar ratios, sino de integrarlos para entender la salud financiera completa.</p><p>Permite tomar decisiones estratégicas basadas en evidencia.</p>"
+    },
+    {
+      "question": "2. ¿Qué es una pirámide de ratios?",
+      "options": [
+        "Un monumento egipcio",
+        "Una estructura jerárquica de indicadores financieros",
+        "Un sistema de contabilidad manual",
+        "Un tipo de inversión"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>pirámide de ratios</u> es una <strong>herramienta integradora</strong> que organiza los ratios en niveles jerárquicos.</p><p>Desde la base (liquidez, solvencia) hasta la cima (rentabilidad, crecimiento).</p><p>Permite ver cómo los problemas en un nivel afectan a los superiores.</p><p>Es útil para presentaciones y toma de decisiones.</p>"
+    },
+    {
+      "question": "3. ¿Qué es un cuadro de mando económico-financiero?",
+      "options": [
+        "Un panel con todos los datos financieros clave",
+        "Un informe contable mensual",
+        "Un libro de contabilidad",
+        "Un contrato laboral"
+      ],
+      "correct": [0],
+      "saber_mas": "<p>El <u>cuadro de mando</u> es un resumen visual que presenta la <strong>información financiera más relevante</strong> de forma clara y comprensible.</p><p>Incluye ratios, gráficos, evolución histórica y comparativas con el sector.</p><p>Está diseñado para directivos y tomadores de decisiones.</p><p>Debe ser simple, claro y útil.</p>"
+    },
+    {
+      "question": "4. ¿Qué debe incluir un informe de análisis de estados financieros?",
+      "options": [
+        "Diagnóstico, conclusiones y recomendaciones",
+        "Solo el balance",
+        "Solo la cuenta de resultados",
+        "El nombre del contable"
+      ],
+      "correct": [0],
+      "saber_mas": "<p>Un <u>informe efectivo</u> debe incluir:<br>• <strong>Diagnóstico</strong>: identificación de problemas<br>• <strong>Conclusiones</strong>: síntesis de hallazgos<br>• <strong>Recomendaciones</strong>: medidas para solucionar problemas</p><p>Las recomendaciones deben ser coherentes con el diagnóstico.</p><p>Puede acompañarse de cuentas previsionales para demostrar su viabilidad.</p>"
+    },
+    {
+      "question": "5. ¿Para qué sirven las cuentas anuales previsionales en un informe?",
+      "options": [
+        "Para decorar el informe",
+        "Para demostrar la viabilidad de las recomendaciones",
+        "Para aumentar el número de páginas",
+        "Para cumplir con la moda"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Las <u>cuentas anuales previsionales</u> permiten <strong>proyectar el impacto</strong> de las recomendaciones en la situación financiera futura.</p><p>Demuestran que las medidas propuestas mejorarán rentabilidad, liquidez o solvencia.</p><p>Refuerzan la credibilidad del informe y ayudan a tomar decisiones.</p><p>Deben ser realistas y basadas en supuestos razonables.</p>"
+    },
+    {
+      "question": "6. ¿Qué es el diagnóstico financiero?",
+      "options": [
+        "Un examen médico",
+        "La identificación de problemas y fortalezas financieras",
+        "Un tipo de inversión",
+        "Un impuesto"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>diagnóstico financiero</u> es el proceso de <strong>identificar problemas</strong> (como bajo margen, alto endeudamiento, fondo de maniobra negativo) y <strong>fortalezas</strong> (como alta rotación, buen ROE).</p><p>Se basa en el análisis de ratios y comparativas.</p><p>Es el punto de partida para proponer soluciones.</p><p>Debe ser claro, objetivo y basado en datos.</p>"
+    },
+    {
+      "question": "7. ¿Qué debe hacerse si se detecta un fondo de maniobra negativo?",
+      "options": [
+        "Ignorarlo",
+        "Proponer medidas para mejorar la liquidez",
+        "Aumentar los dividendos",
+        "Cambiar de sector"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>fondo de maniobra negativo</u> indica <strong>riesgo de insolvencia técnica</strong>.</p><p>Se deben proponer medidas como:<br>• Reducir existencias<br>• Acortar periodo de cobro<br>• Renegociar deudas a largo plazo<br>• Aumentar capital</p><p>El informe debe explicar las opciones y su impacto esperado.</p>"
+    },
+    {
+      "question": "8. ¿Qué es la autofinanciación en el contexto del análisis integral?",
+      "options": [
+        "Financiación con deuda bancaria",
+        "Financiación con recursos generados internamente",
+        "Financiación con subvenciones",
+        "Financiación con capital externo"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>autofinanciación</u> es la <strong>generación interna de fondos</strong> mediante beneficios retenidos (enriquecimiento) y amortizaciones (mantenimiento).</p><p>Es una fuente de crecimiento sostenible sin necesidad de deuda o capital externo.</p><p>Debe analizarse en el contexto del crecimiento de la empresa.</p><p>Una empresa con alta autofinanciación es más independiente.</p>"
+    },
+    {
+      "question": "9. ¿Qué indica un crecimiento superior al sostenible?",
+      "options": [
+        "Que la empresa es muy rentable",
+        "Que necesita financiación externa",
+        "Que debe reducir ventas",
+        "Que sus empleados son más productivos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Si el <u>crecimiento real</u> supera al <strong>sostenible</strong>, la empresa necesita más recursos de los que genera internamente.</p><p>Debe recurrir a financiación externa: deuda, capital o provisiones.</p><p>Si no puede obtenerla, enfrenta riesgo de quiebra técnica.</p><p>El crecimiento sostenible es un límite financiero clave.</p>"
+    },
+    {
+      "question": "10. ¿Qué es el ROE sostenible?",
+      "options": [
+        "ROE × Tasa de reparto",
+        "ROE × (1 - Tasa de reparto)",
+        "ROA × Endeudamiento",
+        "Margen neto × Rotación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>crecimiento sostenible</u> = <strong>ROE × (1 - Tasa de reparto)</strong>.</p><p>Indica la tasa máxima a la que puede crecer la empresa sin alterar su estructura financiera.</p><p>Depende de su rentabilidad y política de dividendos.</p><p>Es un indicador clave en el análisis integral.</p>"
+    },
+    {
+      "question": "11. ¿Qué debe incluir el anexo de un informe de análisis?",
+      "options": [
+        "Cálculos efectuados e información utilizada",
+        "Fotos de la empresa",
+        "Menú de la cafetería",
+        "Horarios de empleados"
+      ],
+      "correct": [0],
+      "saber_mas": "<p>El <u>anexo</u> debe incluir:<br>• <strong>Calculos efectuados</strong>: detalle de todos los ratios y ajustes<br>• <strong>Información utilizada</strong>: fuentes de datos, hipótesis, supuestos</p><p>Garantiza la transparencia y permite verificar el análisis.</p><p>Es esencial para informes técnicos y auditorías.</p>"
+    },
+    {
+      "question": "12. ¿Qué es la estructura del pasivo en el análisis integral?",
+      "options": [
+        "La relación entre activo y patrimonio neto",
+        "La proporción de pasivo corriente sobre total pasivo",
+        "El número de proveedores",
+        "El margen bruto"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>estructura del pasivo</u> = <strong>Pasivo corriente / Total pasivo</strong>.</p><p>Muestra qué porcentaje de deudas vence en menos de un año.</p><p>Valores altos indican riesgo de refinanciación.</p><p>Debe analizarse junto con el fondo de maniobra y la NOF.</p>"
+    },
+    {
+      "question": "13. ¿Qué es la necesidad operativa de fondos (NOF)?",
+      "options": [
+        "El beneficio neto",
+        "El capital circulante necesario para financiar el ciclo de explotación",
+        "El valor del inmovilizado",
+        "El capital social"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>NOF</u> = <strong>Existencias + Clientes - Proveedores</strong>.</p><p>Mide el capital que la empresa necesita para operar.</p><p>Debe financiarse con recursos estables (fondo de maniobra).</p><p>Una NOF alta indica dependencia de financiación externa.</p>"
+    },
+    {
+      "question": "14. ¿Qué indica un cuadro de mando con colores rojo, amarillo y verde?",
+      "options": [
+        "La decoración de la oficina",
+        "El estado de los ratios (crítico, alerta, bueno)",
+        "El clima laboral",
+        "La rotación de personal"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Los <u>cuadros de mando</u> suelen usar <strong>semáforos</strong>:<br>• <strong>Rojo</strong>: ratio crítico<br>• <strong>Amarillo</strong>: alerta<br>• <strong>Verde</strong>: bueno</p><p>Permite una lectura rápida de la situación financiera.</p><p>Es clave para la toma de decisiones ágil.</p>"
+    },
+    {
+      "question": "15. ¿Qué es el equilibrio financiero?",
+      "options": [
+        "Cuando el activo no corriente está financiado con pasivo no corriente",
+        "Cuando el fondo de maniobra cubre la NOF",
+        "Ambas a) y b) son correctas",
+        "Ninguna es correcta"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>El <u>equilibrio financiero</u> se alcanza cuando:<br>• El <strong>inmovilizado</strong> está financiado con <strong>recursos no corrientes</strong><br>• El <strong>fondo de maniobra</strong> cubre la <strong>NOF</strong></p><p>Evita la financiación de activos a largo con deuda a corto.</p><p>Es clave para la estabilidad a largo plazo.</p>"
+    }
+  ]
+}
