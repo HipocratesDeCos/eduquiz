@@ -1,0 +1,186 @@
+{
+  "title": "Interdependencia y Ganancias del Comercio",
+  "description": "Quiz sobre ventaja absoluta, ventaja comparativa, especialización, comercio y cómo ambas partes pueden beneficiarse del intercambio.",
+  "questions": [
+    {
+      "intro": "La interdependencia es inevitable en una economía moderna. Nadie produce todo lo que consume. Compramos bienes y servicios de personas que a su vez compran a otros. Esta interdependencia se basa en el comercio, que permite a las personas especializarse en lo que hacen mejor y beneficiarse del intercambio. El comercio no es una relación ganador-perdedor, sino que puede mejorar el bienestar de todos los participantes. Este principio es clave para entender la globalización y el crecimiento económico.",
+      "question": "1. ¿Por qué es beneficiosa la interdependencia?",
+      "options": [
+        "Porque permite la autosuficiencia",
+        "Porque permite la especialización y el comercio",
+        "Porque elimina la competencia",
+        "Porque reduce la necesidad de trabajar"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>interdependencia</u> permite la <strong>especialización</strong> y el <strong>comercio</strong>, lo que aumenta el bienestar de todos.</p><p>Nadie produce todo lo que consume; todos se benefician del intercambio.</p><p>Es clave para el crecimiento económico y la globalización.</p>"
+    },
+    {
+      "intro": "La ventaja absoluta se refiere a la capacidad de producir un bien con menos recursos que otra persona. Por ejemplo, si un país produce más trigo con menos trabajo, tiene ventaja absoluta en trigo. Aunque es útil, no es el principio clave del comercio. Incluso sin ventaja absoluta, un país puede beneficiarse del comercio mediante la ventaja comparativa.",
+      "question": "2. ¿Qué es la ventaja absoluta?",
+      "options": [
+        "Producir con menor costo de oportunidad",
+        "Producir más con menos recursos",
+        "Tener más dinero",
+        "Exportar más que importar"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>ventaja absoluta</u> es la capacidad de producir un bien con <strong>menos recursos</strong> que otra persona.</p><p>Por ejemplo: un país que produce más trigo con menos trabajo.</p><p>Aunque útil, no es el principio clave del comercio; lo es la ventaja comparativa.</p>"
+    },
+    {
+      "intro": "La ventaja comparativa es la capacidad de producir un bien a un costo de oportunidad menor que otros. Es el principio fundamental del comercio. Permite que todos se beneficien, incluso si uno es menos eficiente en todo. Por ejemplo, un abogado puede escribir informes más rápido que su asistente, pero su costo de oportunidad es alto, así que es mejor que el asistente lo haga.",
+      "question": "3. ¿Qué es la ventaja comparativa?",
+      "options": [
+        "Producir más que los demás",
+        "Producir con menor costo de oportunidad",
+        "Tener más recursos",
+        "Vender a menor precio"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>ventaja comparativa</u> es la capacidad de producir un bien a un <strong>costo de oportunidad menor</strong>.</p><p>Es el principio fundamental del comercio.</p><p>Permite que todos se beneficien, incluso si uno es menos eficiente en todo.</p>"
+    },
+    {
+      "intro": "El comercio beneficia a todas las partes involucradas porque permite la especialización según la ventaja comparativa. Cada parte se enfoca en lo que hace mejor (menor costo de oportunidad) y comercia. Así, ambos obtienen más de lo que podrían producir solos. Es una suma positiva, no un juego de suma cero.",
+      "question": "4. ¿Cómo beneficia el comercio a ambas partes?",
+      "options": [
+        "Una gana, la otra pierde",
+        "Ambas pueden obtener más de lo que podrían producir solas",
+        "Solo beneficia al más fuerte",
+        "No beneficia a nadie"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>comercio</u> beneficia a ambas partes porque permite la <strong>especialización</strong> según la ventaja comparativa.</p><p>Cada parte se enfoca en lo que hace mejor y comercia.</p><p>Así, <strong>ambas obtienen más</strong> de lo que podrían producir solas.</p>"
+    },
+    {
+      "intro": "El costo de oportunidad de un bien es la cantidad de otro bien a la que se renuncia para producirlo. En el comercio, se compara el costo de oportunidad de producir un bien en diferentes países. El que tenga menor costo de oportunidad tiene ventaja comparativa. Este concepto es clave para entender por qué se comercia.",
+      "question": "5. ¿Qué determina la ventaja comparativa?",
+      "options": [
+        "La cantidad total producida",
+        "El costo de oportunidad",
+        "El precio de venta",
+        "La cantidad de recursos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>ventaja comparativa</u> se determina por el <strong>costo de oportunidad</strong>.</p><p>El que puede producir un bien con menor costo de oportunidad debe especializarse en él.</p><p>Es clave para entender los beneficios del comercio.</p>"
+    },
+    {
+      "intro": "La especialización ocurre cuando una persona, empresa o país se enfoca en producir un bien o servicio específico. Esto aumenta la eficiencia y la productividad. El comercio permite la especialización, ya que se puede intercambiar lo producido por otros bienes. Es clave para el crecimiento económico.",
+      "question": "6. ¿Qué es la especialización?",
+      "options": [
+        "Producir de todo",
+        "Enfocarse en producir un bien o servicio específico",
+        "Trabajar menos",
+        "Importar todo"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>especialización</u> es enfocarse en producir un bien o servicio específico.</p><p>Aumenta la eficiencia y la productividad.</p><p>El comercio permite especializarse y obtener otros bienes mediante el intercambio.</p>"
+    },
+    {
+      "intro": "El comercio internacional permite a los países beneficiarse de la ventaja comparativa global. Incluso si un país es menos eficiente en todo, puede especializarse en lo que hace relativamente mejor. Esto aumenta el bienestar global, reduce precios y aumenta la variedad de bienes disponibles para los consumidores.",
+      "question": "7. ¿Qué beneficio tiene el comercio internacional?",
+      "options": [
+        "Solo beneficia a países ricos",
+        "Permite a todos beneficiarse de la ventaja comparativa",
+        "Aumenta los precios",
+        "Reduce la variedad de bienes"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>comercio internacional</u> permite a los países beneficiarse de la <strong>ventaja comparativa</strong> global.</p><p>Incluso si un país es menos eficiente en todo, puede especializarse en lo que hace relativamente mejor.</p><p>Aumenta el bienestar, reduce precios y aumenta la variedad.</p>"
+    },
+    {
+      "intro": "Un país puede tener ventaja absoluta en todos los bienes, pero no puede tener ventaja comparativa en todos. Siempre habrá un bien en el que tenga menor costo de oportunidad. Por eso, siempre puede beneficiarse del comercio. Este principio es contraintuitivo pero fundamental.",
+      "question": "8. ¿Puede un país tener ventaja comparativa en todos los bienes?",
+      "options": [
+        "Sí, si es muy eficiente",
+        "No, siempre hay un bien en el que es relativamente peor",
+        "Sí, si tiene muchos recursos",
+        "No, si comercia"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>No, un país <strong>no puede tener ventaja comparativa en todos los bienes</strong>.</p><p>Siempre habrá un bien en el que su costo de oportunidad es relativamente más alto.</p><p>Por eso, siempre puede beneficiarse del comercio especializándose en lo que hace mejor.</p>"
+    },
+    {
+      "intro": "El costo de oportunidad de producir un bien es lo que se deja de producir del otro. Por ejemplo, si producir un tanque requiere renunciar a 100 unidades de alimento, el costo de oportunidad del tanque es 100 alimentos. Este concepto es clave para determinar la ventaja comparativa.",
+      "question": "9. ¿Cómo se calcula el costo de oportunidad en producción?",
+      "options": [
+        "Dividiendo el tiempo de producción",
+        "Lo que se deja de producir de otro bien",
+        "El precio de venta",
+        "La cantidad total producida"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>costo de oportunidad</u> de producir un bien es <strong>lo que se deja de producir</strong> del otro bien.</p><p>Por ejemplo: producir un tanque requiere renunciar a 100 alimentos.</p><p>Es clave para determinar la ventaja comparativa.</p>"
+    },
+    {
+      "intro": "La ganancia del comercio proviene de la especialización según la ventaja comparativa. Al enfocarse en lo que se hace mejor y comerciar, ambos obtienen más de lo que podrían producir solos. Esta ganancia es el fundamento del comercio internacional y del crecimiento económico.",
+      "question": "10. ¿De dónde provienen las ganancias del comercio?",
+      "options": [
+        "De la explotación",
+        "De la especialización según ventaja comparativa",
+        "Del aumento de precios",
+        "De la escasez"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Las <u>ganancias del comercio</u> provienen de la <strong>especialización</strong> según la ventaja comparativa.</p><p>Al enfocarse en lo que se hace mejor y comerciar, ambos obtienen más de lo que podrían producir solos.</p><p>Es el fundamento del comercio internacional.</p>"
+    },
+    {
+      "intro": "El comercio no es un juego de suma cero, donde uno gana y otro pierde. Es una suma positiva: ambas partes pueden mejorar su bienestar. A través del intercambio, ambos obtienen más de lo que tendrían sin comerciar. Este principio es clave para entender por qué el comercio es beneficioso.",
+      "question": "11. ¿Qué tipo de juego es el comercio?",
+      "options": [
+        "Suma cero: uno gana, otro pierde",
+        "Suma positiva: ambos pueden ganar",
+        "Suma negativa: ambos pierden",
+        "No es un juego"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>comercio</u> es un juego de <strong>suma positiva</strong>: ambas partes pueden mejorar su bienestar.</p><p>No es suma cero: no es necesario que uno pierda para que otro gane.</p><p>A través del intercambio, ambos obtienen más de lo que tendrían sin comerciar.</p>"
+    },
+    {
+      "intro": "La productividad es clave para el nivel de vida, pero la ventaja comparativa determina el comercio. Un país altamente productivo puede aún beneficiarse del comercio especializándose en lo que hace relativamente mejor, incluso si produce todo más eficientemente que otros.",
+      "question": "12. ¿Qué determina el patrón del comercio?",
+      "options": [
+        "La productividad absoluta",
+        "La ventaja comparativa",
+        "El tamaño del país",
+        "La cantidad de recursos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>patrón del comercio</u> está determinado por la <strong>ventaja comparativa</strong>, no por la productividad absoluta.</p><p>Incluso si un país es más eficiente en todo, comerciará especializándose en lo que hace relativamente mejor.</p><p>Es clave para entender el comercio internacional.</p>"
+    },
+    {
+      "intro": "El comercio permite a los consumidores acceder a una mayor variedad de bienes a precios más bajos. También fomenta la competencia, lo que mejora la calidad e innovación. Estos beneficios son clave para el bienestar económico y la eficiencia del mercado.",
+      "question": "13. ¿Qué beneficio tiene el comercio para los consumidores?",
+      "options": [
+        "Menor variedad",
+        "Precios más altos",
+        "Mayor variedad y precios más bajos",
+        "Menos competencia"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>El <u>comercio</u> beneficia a los consumidores con <strong>mayor variedad</strong> de bienes y <strong>precios más bajos</strong>.</p><p>También fomenta la competencia, mejorando calidad e innovación.</p><p>Es clave para el bienestar económico.</p>"
+    },
+    {
+      "intro": "La interdependencia económica aumenta con la globalización. Los países dependen de otros para recursos, mercados y tecnología. Esto aumenta la eficiencia, pero también la vulnerabilidad a shocks externos. El equilibrio entre apertura y resiliencia es clave para la política económica.",
+      "question": "14. ¿Qué efecto tiene la globalización en la interdependencia?",
+      "options": [
+        "La reduce",
+        "La aumenta",
+        "No tiene efecto",
+        "La elimina"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>globalización</u> aumenta la <strong>interdependencia económica</strong> entre países.</p><p>Dependen de otros para recursos, mercados y tecnología.</p><p>Aumenta eficiencia, pero también vulnerabilidad a shocks externos.</p>"
+    },
+    {
+      "intro": "La especialización y el comercio permiten a una economía producir fuera de su frontera de posibilidades de producción (FPP). Aunque no puede producir más con sus recursos, puede consumir más gracias al intercambio. Esto ilustra el poder del comercio para mejorar el bienestar.",
+      "question": "15. ¿Cómo permite el comercio consumir más allá de la FPP?",
+      "options": [
+        "Aumentando los recursos",
+        "Mediante el intercambio y especialización",
+        "Reduciendo la producción",
+        "Con inflación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>comercio</u> permite consumir <strong>más allá de la FPP</strong> mediante el intercambio y especialización.</p><p>Aunque la producción está limitada por recursos, el consumo puede excederla al importar.</p><p>Ilustra el poder del comercio para mejorar el bienestar.</p>"
+    }
+  ]
+}
