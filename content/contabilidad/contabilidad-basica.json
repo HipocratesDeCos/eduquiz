@@ -1,179 +1,172 @@
 {
-  "title": "Contabilidad Básica - Fundamentos",
-  "description": "Principios fundamentales de la contabilidad y ecuación contable",
+  "title": "Introducción al Plan General de Contabilidad y Marco Conceptual",
+  "description": "Quiz sobre los principios contables, estructura del PGC, marco conceptual y normas de registro y valoración.",
   "questions": [
     {
-      "intro": "La contabilidad es el sistema de información que mide, registra y comunica información financiera.",
-      "question": "¿Cuál es la ecuación contable básica?",
+      "intro": "El Plan General de Contabilidad (PGC) es el marco normativo que regula la contabilidad en España. Establece los principios, normas de registro y valoración, y modelos de cuentas anuales. Su objetivo es garantizar la uniformidad, comparabilidad y fiabilidad de la información financiera. El marco conceptual del PGC define los fundamentos teóricos: principios contables (devengo, prudencia, empresa en funcionamiento), elementos de las cuentas anuales (activo, pasivo, patrimonio neto, ingresos, gastos) y los requisitos de información (imagen fiel, relevancia, fiabilidad). Este marco permite interpretar y aplicar correctamente las normas contables, incluso en situaciones no previstas. Conocer el PGC es esencial para cualquier profesional de la contabilidad.",
+      "question": "1. ¿Cuál es el objetivo principal del Plan General de Contabilidad (PGC)?",
       "options": [
-        "Activo = Pasivo + Patrimonio",
-        "Activo + Pasivo = Patrimonio", 
-        "Patrimonio = Activo + Pasivo",
-        "Activo = Patrimonio - Pasivo"
-      ],
-      "correct": [0],
-      "saber_mas": "<p><strong>La ecuación contable fundamental</strong> es la base de toda la contabilidad por partida doble.</p><div class='formula'><strong>ACTIVO = PASIVO + PATRIMONIO</strong></div><p>Esta ecuación debe <u>mantenerse siempre en equilibrio</u> después de cada transacción contable.</p><ul><li><strong>Activo:</strong> Recursos controlados por la empresa</li><li><strong>Pasivo:</strong> Obligaciones con terceros</li><li><strong>Patrimonio:</strong> Derechos de los propietarios</li></ul>"
-    },
-    {
-      "intro": "Los estados financieros son informes que muestran la situación financiera de una empresa.",
-      "question": "¿Cuáles son los estados financieros básicos? (Selecciona todas las correctas)",
-      "options": [
-        "Balance General",
-        "Estado de Resultados",
-        "Estado de Flujo de Efectivo", 
-        "Estado de Cambios en el Patrimonio"
-      ],
-      "correct": [0, 1, 2, 3],
-      "saber_mas": "<p><strong>Los cuatro estados financieros básicos:</strong></p><p><strong>1. Balance General:</strong> Situación financiera en un momento específico</p><p><strong>2. Estado de Resultados:</strong> Ingresos y gastos durante un período</p><p><strong>3. Estado de Flujo de Efectivo:</strong> Entradas y salidas de efectivo</p><p><strong>4. Estado de Cambios en el Patrimonio:</strong> Variaciones en el patrimonio</p>"
-    },
-    {
-      "question": "¿Qué principio establece que los ingresos se registran cuando se ganan?",
-      "options": [
-        "Principio de Costo Histórico",
-        "Principio de Devengado",
-        "Principio de Consistencia",
-        "Principio de Materialidad"
+        "Reducir el impuesto de sociedades",
+        "Garantizar la uniformidad y fiabilidad de la información financiera",
+        "Aumentar el número de empleados",
+        "Simplificar la gestión de inventarios"
       ],
       "correct": [1],
-      "saber_mas": "<p><strong>El Principio de Devengado</strong> establece que:</p><ul><li>Los <u>ingresos</u> se reconocen cuando se <strong>ganan</strong></li><li>Los <u>gastos</u> se reconocen cuando se <strong>incurren</strong></li><li>Independientemente del momento de cobro o pago</li></ul><div class='formula'>Ejemplo: Venta a crédito se registra al momento de la venta, no del cobro</div>"
+      "saber_mas": "<p>El <u>objetivo del PGC</u> es <strong>normalizar la contabilidad</strong> en España, asegurando que todos los usuarios puedan interpretar las cuentas con criterios comunes.</p><p>Define principios, normas de valoración y modelos de cuentas anuales.</p><p>Permite la comparabilidad entre empresas y ejercicios, y cumple con la <strong>obligación de imagen fiel</strong> del Código de Comercio.</p>"
     },
     {
-      "intro": "El ciclo contable son los pasos que se siguen para registrar las transacciones comerciales.",
-      "question": "¿Cuál es el orden correcto del ciclo contable?",
+      "question": "2. ¿Qué principio contable exige que los gastos se imputen al ejercicio al que corresponden?",
       "options": [
-        "Transacción → Asiento → Mayor → Balance de Comprobación → Estados Financieros",
-        "Asiento → Transacción → Mayor → Estados Financieros → Balance",
-        "Mayor → Asiento → Transacción → Balance → Estados Financieros",
-        "Transacción → Mayor → Asiento → Balance → Estados Financieros"
+        "Principio de prudencia",
+        "Principio de devengo",
+        "Principio de registro",
+        "Principio de empresa en funcionamiento"
       ],
-      "correct": [0],
-      "saber_mas": "<p><strong>El Ciclo Contable paso a paso:</strong></p><ol><li><strong>Identificar la transacción:</strong> Determinar si es un evento contable</li><li><strong>Preparar el asiento:</strong> Aplicar partida doble en el diario</li><li><strong>Pasar al mayor:</strong> Transferir al libro mayor</li><li><strong>Balance de comprobación:</strong> Verificar que débitos = créditos</li><li><strong>Estados financieros:</strong> Preparar informes finales</li></ol>"
+      "correct": [1],
+      "saber_mas": "<p>El <u>principio de devengo</u> obliga a imputar ingresos y gastos al ejercicio en que se originan, no cuando se cobran o pagan.</p><p>Por ejemplo: una factura de luz de diciembre debe contabilizarse en ese ejercicio, aunque se pague en enero.</p><p>Es clave para que la cuenta de resultados refleje fielmente la actividad del periodo.</p>"
     },
     {
-      "question": "En la partida doble, cada transacción afecta:",
+      "question": "3. ¿Qué principio exige que las cuentas anuales reflejen fielmente la situación patrimonial?",
       "options": [
-        "Solo una cuenta",
-        "Máximo dos cuentas",
-        "Al menos dos cuentas",
-        "Siempre tres cuentas"
+        "Principio de prudencia",
+        "Principio de imagen fiel",
+        "Principio de registro",
+        "Principio de competencia"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>principio de imagen fiel</u> es el más importante del marco conceptual.</p><p>Obliga a que las cuentas muestren fielmente la realidad económica, incluso si eso requiere apartarse de otros principios.</p><p>Está recogido en el artículo 20 del Código de Comercio y prevalece sobre cualquier formalismo.</p><p>Es la base de la calidad de la información financiera.</p>"
+    },
+    {
+      "question": "4. ¿Qué significa que una empresa está en funcionamiento?",
+      "options": [
+        "Que tiene beneficios",
+        "Que no tiene deudas",
+        "Que se espera que continúe su actividad en el futuro previsible",
+        "Que está cotizando en bolsa"
       ],
       "correct": [2],
-      "saber_mas": "<p><strong>La Partida Doble</strong> es el fundamento de la contabilidad moderna:</p><ul><li>Cada transacción afecta <u>al menos dos cuentas</u></li><li>Los débitos siempre deben <strong>igualar</strong> a los créditos</li><li>Una cuenta se <strong>debita</strong> y otra se <strong>acredita</strong></li></ul><div class='formula'>DÉBITOS = CRÉDITOS (siempre)</div><p>Ejemplo: Compra de inventario con efectivo afecta 2 cuentas:<br>• Débito: Inventarios<br>• Crédito: Efectivo</p>"
+      "saber_mas": "<p>El <u>principio de empresa en funcionamiento</u> asume que la empresa <strong>continuará operando</strong> en el futuro previsible.</p><p>Por tanto, los activos no se valoran al valor de liquidación, sino al valor de uso.</p><p>Justifica la amortización y el deterioro de valor.</p><p>Si no se cumple, debe revelarse en la memoria.</p>"
     },
     {
-      "intro": "Las cuentas se clasifican según su naturaleza y función en los estados financieros.",
-      "question": "¿Cuáles cuentas aumentan con débito? (Selecciona todas las correctas)",
+      "question": "5. ¿Qué principio evita la sobrevaloración de activos?",
       "options": [
-        "Activos",
-        "Gastos", 
-        "Pasivos",
-        "Ingresos"
-      ],
-      "correct": [0, 1],
-      "saber_mas": "<p><strong>Reglas de débito y crédito:</strong></p><table border='1' style='width:100%; margin: 10px 0;'><tr><th>Tipo de Cuenta</th><th>Aumenta con</th><th>Disminuye con</th></tr><tr><td><strong>Activos</strong></td><td>Débito</td><td>Crédito</td></tr><tr><td><strong>Pasivos</strong></td><td>Crédito</td><td>Débito</td></tr><tr><td><strong>Patrimonio</strong></td><td>Crédito</td><td>Débito</td></tr><tr><td><strong>Ingresos</strong></td><td>Crédito</td><td>Débito</td></tr><tr><td><strong>Gastos</strong></td><td>Débito</td><td>Crédito</td></tr></table>"
-    },
-    {
-      "question": "El Balance General muestra:",
-      "options": [
-        "Los ingresos y gastos de un período",
-        "La situación financiera en un momento específico",
-        "Los flujos de efectivo del período",
-        "Las utilidades retenidas únicamente"
+        "Principio de devengo",
+        "Principio de prudencia",
+        "Principio de registro",
+        "Principio de competencia"
       ],
       "correct": [1],
-      "saber_mas": "<p><strong>El Balance General</strong> es como una <u>fotografía financiera</u> de la empresa:</p><ul><li><strong>Momento específico:</strong> No es un período, es una fecha</li><li><strong>Estructura:</strong> Activos = Pasivos + Patrimonio</li><li><strong>Clasificación:</strong><ul><li>Activos: Corrientes y No corrientes</li><li>Pasivos: Corrientes y No corrientes</li><li>Patrimonio: Capital, reservas, utilidades retenidas</li></ul></li></ul><p>También se conoce como <strong>Estado de Situación Financiera</strong>.</p>"
+      "saber_mas": "<p>El <u>principio de prudencia</u> exige no sobrevalorar activos ni infravalorar pasivos.</p><p>Ante la incertidumbre, se elige la opción que menor beneficio arroje.</p><p>Ejemplos: deterioro de créditos, valoración de existencias al menor valor.</p><p>Es clave para la fiabilidad de las cuentas.</p>"
     },
     {
-      "intro": "Los asientos contables registran las transacciones usando la partida doble.",
-      "question": "En el asiento: 'Se compra mercancía por €1,000 en efectivo', ¿cuál es el registro correcto?",
+      "question": "6. ¿Qué es el marco conceptual del PGC?",
       "options": [
-        "Débito: Inventarios €1,000 / Crédito: Efectivo €1,000",
-        "Débito: Efectivo €1,000 / Crédito: Inventarios €1,000",
-        "Débito: Gastos €1,000 / Crédito: Efectivo €1,000",
-        "Débito: Inventarios €1,000 / Crédito: Cuentas por pagar €1,000"
+        "Un manual de usuario del software contable",
+        "Un conjunto de principios y definiciones que fundamentan el PGC",
+        "Una lista de cuentas contables",
+        "Un formulario de impuestos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>marco conceptual</u> es la base teórica del PGC.</p><p>Define: principios contables, elementos de las cuentas (activo, pasivo, etc.), y requisitos de información (imagen fiel, relevancia).</p><p>No tiene rango normativo, pero guía la interpretación de las normas.</p><p>Es esencial para resolver casos no previstos.</p>"
+    },
+    {
+      "question": "7. ¿Qué principio exige que los activos se valoren al menor entre coste y valor neto realizable?",
+      "options": [
+        "Principio de devengo",
+        "Principio de prudencia",
+        "Principio de registro",
+        "Principio de empresa en funcionamiento"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>principio de prudencia</u> justifica que las existencias se valoren al <strong>menor entre coste y valor neto realizable</strong>.</p><p>Si el valor de mercado baja, se registra un deterioro.</p><p>Evita sobrevalorar el activo y genera un gasto en la cuenta de resultados.</p><p>Aplica también a créditos con riesgo de impago.</p>"
+    },
+    {
+      "question": "8. ¿Qué es la imagen fiel?",
+      "options": [
+        "Un informe visual de la empresa",
+        "La obligación de que las cuentas reflejen la realidad económica",
+        "Una foto del balance",
+        "Un tipo de auditoría"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>imagen fiel</u> es la obligación legal de que las cuentas anuales muestren fielmente la situación patrimonial, financiera y de resultados.</p><p>Debe cumplirse incluso si requiere apartarse de otros principios o formalismos.</p><p>Es superior a cualquier otra norma contable.</p><p>La auditoría verifica su cumplimiento.</p>"
+    },
+    {
+      "question": "9. ¿Qué principio justifica la amortización del inmovilizado?",
+      "options": [
+        "Principio de prudencia",
+        "Principio de devengo",
+        "Principio de registro",
+        "Principio de empresa en funcionamiento"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>principio de devengo</u> exige imputar el costo del inmovilizado a lo largo de su vida útil.</p><p>La <strong>amortización</strong> distribuye el gasto entre los ejercicios que beneficia el activo.</p><p>Así, el gasto se asocia con los ingresos que el activo ayuda a generar.</p><p>Es clave para cumplir con la imagen fiel del resultado.</p>"
+    },
+    {
+      "question": "10. ¿Qué es el coste histórico?",
+      "options": [
+        "El valor actual de mercado",
+        "El valor al que se adquirió un activo",
+        "El valor de reposición",
+        "El valor razonable"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>coste histórico</u> es el valor original de adquisición de un activo.</p><p>Incluye precio de compra, transporte, instalación, etc.</p><p>Es la base de valoración inicial en el PGC.</p><p>Posteriormente, puede ajustarse por amortización, deterioro o revalorización (si aplica).</p>"
+    },
+    {
+      "question": "11. ¿Qué principio evita la compensación entre partidas del activo y del pasivo?",
+      "options": [
+        "Principio de independencia de ejercicios",
+        "Principio de no compensación",
+        "Principio de prudencia",
+        "Principio de devengo"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>principio de no compensación</u> prohíbe compensar activos y pasivos, salvo casos específicos (como derivados financieros).</p><p>Por ejemplo: no se puede compensar un cliente con un proveedor.</p><p>Garantiza que el balance muestre fielmente la situación patrimonial.</p><p>Es clave para la transparencia.</p>"
+    },
+    {
+      "question": "12. ¿Qué es el valor razonable?",
+      "options": [
+        "El valor contable menos amortizaciones",
+        "El precio al que se podría vender un activo en un mercado activo",
+        "El coste de reposición",
+        "El valor nominal"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>valor razonable</u> es el precio que se obtendría en una transacción ordenada entre partes independientes.</p><p>Se usa en activos financieros, inversiones, y en ciertos casos de inmovilizado.</p><p>Requiere información de mercado o modelos de valoración.</p><p>Es clave en normas internacionales (NIIF).</p>"
+    },
+    {
+      "question": "13. ¿Qué principio exige que la información contable sea útil para la toma de decisiones?",
+      "options": [
+        "Relevancia",
+        "Fiabilidad",
+        "Comparabilidad",
+        "Comprensibilidad"
       ],
       "correct": [0],
-      "saber_mas": "<p><strong>Análisis del asiento contable:</strong></p><div class='formula'>Compra de mercancía por €1,000 en efectivo</div><p><strong>Análisis:</strong></p><ul><li><u>¿Qué entra?</u> Inventarios (Activo) → Se DEBITA</li><li><u>¿Qué sale?</u> Efectivo (Activo) → Se ACREDITA</li></ul><p><strong>Asiento:</strong></p><table border='1' style='margin: 10px 0;'><tr><th>Cuenta</th><th>Débito</th><th>Crédito</th></tr><tr><td>Inventarios</td><td>€1,000</td><td>-</td></tr><tr><td>Efectivo</td><td>-</td><td>€1,000</td></tr></table>"
+      "saber_mas": "<p>La <u>relevancia</u> exige que la información contable sea útil para los usuarios (inversores, acreedores, gestores).</p><p>Para ser relevante, debe tener <strong>capacidad predictiva</strong> o <strong>confirmativa</strong>.</p><p>Se equilibra con la fiabilidad: no sirve una información relevante pero falsa.</p><p>Es uno de los requisitos cualitativos del marco conceptual.</p>"
     },
     {
-      "question": "¿Cuál es la diferencia entre gastos y costos?",
+      "question": "14. ¿Qué principio garantiza que la información sea comparable entre ejercicios?",
       "options": [
-        "No hay diferencia, son sinónimos",
-        "Los gastos se relacionan con la producción, los costos con la administración",
-        "Los costos se relacionan con la producción, los gastos con actividades no productivas",
-        "Los costos son mayores que los gastos"
-      ],
-      "correct": [2],
-      "saber_mas": "<p><strong>Diferencia entre Costos y Gastos:</strong></p><p><strong>COSTOS:</strong></p><ul><li>Relacionados directamente con la <u>producción</u></li><li>Se incorporan al valor del producto</li><li>Ejemplos: Materia prima, mano de obra directa, costos indirectos de fabricación</li></ul><p><strong>GASTOS:</strong></p><ul><li>Relacionados con actividades <u>no productivas</u></li><li>Se registran directamente en el estado de resultados</li><li>Ejemplos: Gastos administrativos, de ventas, financieros</li></ul><div class='formula'>Costo = Se capitaliza en el producto<br>Gasto = Se registra inmediatamente como reducción de utilidades</div>"
-    },
-    {
-      "intro": "La depreciación distribuye el costo de un activo fijo a lo largo de su vida útil.",
-      "question": "¿Cuál es el método de depreciación más común?",
-      "options": [
-        "Método de unidades producidas",
-        "Método de línea recta",
-        "Método de suma de dígitos",
-        "Método acelerado"
+        "Principio de prudencia",
+        "Principio de consistencia",
+        "Principio de devengo",
+        "Principio de registro"
       ],
       "correct": [1],
-      "saber_mas": "<p><strong>Método de Línea Recta:</strong></p><p>Es el más <u>simple y utilizado</u> para calcular la depreciación.</p><div class='formula'>Depreciación Anual = (Costo - Valor Residual) ÷ Vida Útil</div><p><strong>Ejemplo:</strong></p><ul><li>Costo del equipo: €10,000</li><li>Valor residual: €1,000</li><li>Vida útil: 5 años</li></ul><p>Depreciación anual = (€10,000 - €1,000) ÷ 5 = <strong>€1,800</strong></p><p><strong>Asiento anual:</strong><br>Débito: Gasto por depreciación €1,800<br>Crédito: Depreciación acumulada €1,800</p>"
+      "saber_mas": "<p>El <u>principio de consistencia</u> exige aplicar los mismos criterios contables de forma coherente entre ejercicios.</p><p>Si se cambia un criterio, debe justificarse y revelarse en la memoria.</p><p>Permite comparar la evolución de la empresa.</p><p>Es clave para el análisis financiero.</p>"
     },
     {
-      "question": "¿Qué representa la depreciación acumulada en el balance?",
+      "question": "15. ¿Qué documento del PGC incluye los modelos de cuentas anuales?",
       "options": [
-        "Un activo que aumenta cada año",
-        "Un pasivo hacia los propietarios",
-        "Una cuenta complementaria de activo (contracuenta)",
-        "Un gasto del período actual"
+        "Primera parte: marco conceptual",
+        "Segunda parte: normas de registro y valoración",
+        "Tercera parte: cuentas anuales",
+        "Cuarta parte: cuentas específicas"
       ],
       "correct": [2],
-      "saber_mas": "<p><strong>Depreciación Acumulada:</strong></p><ul><li>Es una <u>cuenta complementaria de activo</u> (contracuenta)</li><li>Tiene saldo <strong>acreedor</strong> (contrario a los activos normales)</li><li>Se presenta restando del activo fijo en el balance</li><li>Representa la depreciación <u>total</u> desde la compra del activo</li></ul><p><strong>En el Balance General:</strong></p><div class='formula'>Equipos (al costo): €10,000<br>Menos: Depreciación Acumulada: (€3,600)<br>Equipos netos: €6,400</div>"
-    },
-    {
-      "intro": "El inventario puede valuarse por diferentes métodos según el flujo de costos asumido.",
-      "question": "En época de inflación, ¿qué método de valuación de inventarios produce mayor utilidad?",
-      "options": [
-        "FIFO (Primero en entrar, primero en salir)",
-        "LIFO (Último en entrar, primero en salir)", 
-        "Costo Promedio Ponderado",
-        "Todos producen la misma utilidad"
-      ],
-      "correct": [0],
-      "saber_mas": "<p><strong>Métodos de Valuación de Inventarios en Inflación:</strong></p><p><strong>FIFO (First In, First Out):</strong></p><ul><li>Se venden primero las unidades más <u>antiguas</u> (más baratas)</li><li>El inventario final tiene costos más <strong>recientes</strong> (más altos)</li><li>Produce <strong>mayor utilidad</strong> en inflación</li></ul><p><strong>LIFO (Last In, First Out):</strong></p><ul><li>Se venden primero las unidades más <u>recientes</u> (más caras)</li><li>Produce <strong>menor utilidad</strong> en inflación</li></ul><p><strong>Ejemplo con inflación:</strong></p><div class='formula'>Inventario: 100 unidades a €10 + 100 unidades a €15<br>Venta: 100 unidades<br><br>FIFO: Costo de venta = €1,000 (mayor utilidad)<br>LIFO: Costo de venta = €1,500 (menor utilidad)</div>"
-    },
-    {
-      "question": "¿Cuál es el objetivo principal de los ajustes contables al final del período?",
-      "options": [
-        "Aumentar las utilidades de la empresa",
-        "Aplicar correctamente el principio de devengado",
-        "Reducir los impuestos por pagar",
-        "Simplificar los estados financieros"
-      ],
-      "correct": [1],
-      "saber_mas": "<p><strong>Ajustes Contables al Final del Período:</strong></p><p>Su objetivo es <u>aplicar correctamente el principio de devengado</u>.</p><p><strong>Tipos de ajustes:</strong></p><ol><li><strong>Gastos acumulados:</strong> Gastos incurridos pero no registrados</li><li><strong>Ingresos acumulados:</strong> Ingresos ganados pero no registrados</li><li><strong>Gastos diferidos:</strong> Gastos pagados por adelantado</li><li><strong>Ingresos diferidos:</strong> Ingresos cobrados por adelantado</li><li><strong>Depreciación:</strong> Distribución del costo de activos fijos</li></ol><p><strong>Ejemplo de ajuste:</strong></p><div class='formula'>Salarios devengados no pagados: €2,000<br><br>Ajuste:<br>Débito: Gasto de salarios €2,000<br>Crédito: Salarios por pagar €2,000</div>"
-    },
-    {
-      "intro": "Las cuentas por cobrar representan derechos de cobro por ventas a crédito.",
-      "question": "¿Cómo se registra una estimación para cuentas incobrables de €5,000?",
-      "options": [
-        "Débito: Cuentas por cobrar / Crédito: Estimación incobrables",
-        "Débito: Gasto por incobrables / Crédito: Cuentas por cobrar", 
-        "Débito: Gasto por incobrables / Crédito: Estimación para incobrables",
-        "Débito: Estimación incobrables / Crédito: Gastos"
-      ],
-      "correct": [2],
-      "saber_mas": "<p><strong>Estimación para Cuentas Incobrables:</strong></p><p>Se usa para <u>anticipar pérdidas</u> por cuentas que no se podrán cobrar.</p><p><strong>Asiento de estimación:</strong></p><div class='formula'>Débito: Gasto por cuentas incobrables €5,000<br>Crédito: Estimación para cuentas incobrables €5,000</div><p><strong>En el Balance General:</strong></p><div class='formula'>Cuentas por cobrar: €50,000<br>Menos: Estimación para incobrables: (€5,000)<br>Cuentas por cobrar netas: €45,000</div><p><strong>Cuando se confirma una cuenta incobrable:</strong></p><div class='formula'>Débito: Estimación para cuentas incobrables<br>Crédito: Cuentas por cobrar</div><p>Nota: No afecta gastos porque ya se estimó anteriormente.</p>"
-    },
-    {
-      "question": "¿Cuál es la diferencia entre capital de trabajo y capital de trabajo neto?",
-      "options": [
-        "Son exactamente lo mismo",
-        "Capital de trabajo = Activos corrientes; Capital de trabajo neto = Activos corrientes - Pasivos corrientes", 
-        "Capital de trabajo incluye activos fijos",
-        "Capital de trabajo neto es siempre negativo"
-      ],
-      "correct": [1],
-      "saber_mas": "<p><strong>Capital de Trabajo vs Capital de Trabajo Neto:</strong></p><p><strong>Capital de Trabajo:</strong></p><ul><li>Son todos los <u>activos corrientes</u> de la empresa</li><li>Incluye: efectivo, cuentas por cobrar, inventarios, gastos pagados por adelantado</li></ul><p><strong>Capital de Trabajo Neto:</strong></p><div class='formula'>Capital de Trabajo Neto = Activos Corrientes - Pasivos Corrientes</div><p><strong>Interpretación:</strong></p><ul><li><strong>Positivo:</strong> La empresa puede cubrir sus obligaciones a corto plazo</li><li><strong>Negativo:</strong> Posibles problemas de liquidez</li></ul><p><strong>Ejemplo:</strong></p><div class='formula'>Activos corrientes: €100,000<br>Pasivos corrientes: €60,000<br><br>Capital de trabajo: €100,000<br>Capital de trabajo neto: €40,000</div>"
+      "saber_mas": "<p>La <u>tercera parte del PGC</u> contiene las normas sobre <strong>elaboración y formulación de cuentas anuales</strong>.</p><p>Incluye definiciones de los estados financieros, explicaciones de partidas y los <strong>modelos normal y abreviado</strong> de balance, cuenta de resultados, etc.</p><p>Es esencial para presentar cuentas que cumplan con la legalidad.</p>"
     }
   ]
 }
