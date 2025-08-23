@@ -1,0 +1,186 @@
+{
+  "title": "Los Diez Principios de la Economía",
+  "description": "Quiz sobre los fundamentos de la economía: toma de decisiones individuales, interacción entre agentes y funcionamiento de la economía en su conjunto.",
+  "questions": [
+    {
+      "intro": "La economía es el estudio de cómo la sociedad gestiona sus recursos escasos. Dado que los recursos son limitados y los deseos ilimitados, las personas, empresas y gobiernos deben tomar decisiones sobre cómo asignarlos. Los diez principios de la economía, según Mankiw, se agrupan en tres grandes categorías: cómo toman decisiones los individuos, cómo interactúan entre sí y cómo funciona la economía en su conjunto. Estos principios incluyen el costo de oportunidad, el margen, el papel de los incentivos, el comercio, los mercados y el papel del gobierno. Comprenderlos es esencial para entender el comportamiento económico en contextos reales.",
+      "question": "1. ¿Qué principio económico se relaciona con el concepto de 'costo de oportunidad'?",
+      "options": [
+        "Las personas responden a incentivos",
+        "El costo de algo es lo que renuncias para obtenerlo",
+        "Los mercados suelen organizar la actividad económica de forma eficiente",
+        "El gobierno puede mejorar a veces el resultado del mercado"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>costo de oportunidad</u> es el valor de lo que debes renunciar para obtener algo.</p><p>Por ejemplo, el costo de oportunidad de estudiar un año es el salario que podrías haber ganado trabajando.</p><p>Este principio subraya que <strong>toda decisión implica un sacrificio</strong> y es fundamental para evaluar alternativas.</p>"
+    },
+    {
+      "intro": "Las personas toman decisiones al margen, es decir, comparan los beneficios y costos de pequeños cambios adicionales. No deciden todo o nada, sino cuánto más o cuánto menos. Por ejemplo, un estudiante decide si estudiar una hora más, no si estudiar o no. Este enfoque marginal permite optimizar el uso de recursos y maximizar el bienestar. Es clave en economía porque la mayoría de las decisiones son incrementales, no binarias.",
+      "question": "2. ¿Qué principio explica que las decisiones se toman comparando beneficios y costos marginales?",
+      "options": [
+        "Las personas piensan al margen",
+        "El costo de algo es lo que renuncias para obtenerlo",
+        "Los mercados son eficientes",
+        "El comercio puede mejorar a todos"
+      ],
+      "correct": [0],
+      "saber_mas": "<p>El principio de <u>pensar al margen</u> indica que las decisiones se toman evaluando los beneficios y costos de pequeños cambios adicionales.</p><p>Por ejemplo: ¿vale la pena estudiar una hora más? ¿Compensa el beneficio adicional frente al costo?</p><p>Este enfoque permite optimizar recursos y maximizar el bienestar en decisiones cotidianas.</p>"
+    },
+    {
+      "intro": "Los incentivos son factores que motivan a las personas a actuar. Pueden ser positivos (recompensas) o negativos (castigos). Los cambios en los incentivos alteran el comportamiento. Por ejemplo, un impuesto al tabaco incentiva a fumar menos. Las políticas económicas deben considerar cómo los incentivos afectan a los agentes. Este principio es clave para diseñar políticas efectivas.",
+      "question": "3. ¿Por qué los incentivos afectan el comportamiento económico?",
+      "options": [
+        "Porque las personas siempre actúan de forma irracional",
+        "Porque las personas responden a recompensas y castigos",
+        "Porque el gobierno controla todas las decisiones",
+        "Porque los mercados son ineficientes"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Las <u>personas responden a incentivos</u>: si el precio de un bien sube, consumen menos; si el salario sube, trabajan más.</p><p>Los incentivos pueden ser positivos (subsidios) o negativos (impuestos).</p><p>Este principio es clave para diseñar políticas económicas efectivas.</p>"
+    },
+    {
+      "intro": "El comercio permite a los países especializarse en lo que hacen mejor y beneficiarse del intercambio. No es una relación ganador-perdedor, sino que puede mejorar el bienestar de todos los participantes. A través de la ventaja comparativa, incluso un país menos eficiente puede beneficiarse del comercio. Este principio explica por qué el aislamiento económico reduce el bienestar.",
+      "question": "4. ¿Cómo beneficia el comercio a las personas?",
+      "options": [
+        "Permite especializarse y obtener más de lo que podrían producir solos",
+        "Reduce la competencia entre países",
+        "Aumenta los precios de todos los bienes",
+        "Elimina la necesidad de trabajar"
+      ],
+      "correct": [0],
+      "saber_mas": "<p>El <u>comercio</u> permite la <strong>especialización</strong> y el intercambio, lo que aumenta el bienestar de todos los participantes.</p><p>Incluso si un país es menos eficiente en todo, puede beneficiarse del comercio mediante la <strong>ventaja comparativa</strong>.</p><p>Es una fuente de crecimiento y mejora del nivel de vida.</p>"
+    },
+    {
+      "intro": "Los mercados organizan la actividad económica a través del sistema de precios. Los precios reflejan la oferta y la demanda y guían las decisiones de consumidores y productores. Adam Smith habló de la 'mano invisible' que conduce a resultados eficientes. Aunque no siempre son perfectos, los mercados suelen asignar recursos de forma eficiente, salvo en casos de fallas de mercado.",
+      "question": "5. ¿Qué mecanismo utiliza el mercado para asignar recursos?",
+      "options": [
+        "El gobierno central",
+        "El sistema de precios",
+        "La planificación directa",
+        "La caridad"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>sistema de precios</u> coordina las decisiones de millones de consumidores y productores.</p><p>Los precios suben cuando hay escasez, incentivando más producción; bajan cuando hay exceso, reduciendo producción.</p><p>Adam Smith llamó a esto la <strong>mano invisible</strong> del mercado.</p>"
+    },
+    {
+      "intro": "Aunque los mercados suelen ser eficientes, a veces fallan. Esto ocurre por externalidades (costos o beneficios no reflejados en el precio), bienes públicos o poder de mercado. En estos casos, el gobierno puede intervenir para mejorar el resultado, como con impuestos a la contaminación o regulación de monopolios. El desafío es intervenir sin distorsionar demasiado el mercado.",
+      "question": "6. ¿Cuándo puede el gobierno mejorar el resultado del mercado?",
+      "options": [
+        "Siempre que intervenga",
+        "Cuando hay fallas de mercado como externalidades",
+        "Nunca, los mercados son siempre eficientes",
+        "Solo en economías planificadas"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El gobierno puede mejorar el resultado del mercado cuando hay <u>fallas de mercado</u>, como <strong>externalidades</strong> (contaminación), <strong>bienes públicos</strong> (defensa) o <strong>monopolios</strong>.</p><p>Por ejemplo: un impuesto al carbono internaliza el costo de la contaminación.</p><p>El desafío es intervenir sin distorsionar demasiado el mercado.</p>"
+    },
+    {
+      "intro": "La productividad es la cantidad de bienes y servicios que se producen por unidad de trabajo. Es el factor clave del crecimiento económico a largo plazo. Países con alta productividad tienen mayores niveles de vida. Invertir en capital humano, tecnología y capital físico mejora la productividad. Políticas que la fomentan son esenciales para el desarrollo económico.",
+      "question": "7. ¿Qué determina el nivel de vida de un país?",
+      "options": [
+        "La cantidad de dinero que tiene",
+        "Su productividad",
+        "El tamaño de su población",
+        "La cantidad de recursos naturales"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>nivel de vida</u> depende principalmente de la <strong>productividad</strong>: cuánto produce cada trabajador.</p><p>Países como EE.UU. o Alemania tienen altos niveles de vida por su alta productividad.</p><p>Esta se mejora con educación, tecnología y capital físico.</p>"
+    },
+    {
+      "intro": "La inflación es el aumento generalizado y sostenido de los precios. A largo plazo, está causada por un crecimiento excesivo de la cantidad de dinero. Cuando el gobierno imprime mucho dinero, este pierde valor. Aunque puede estimular la economía a corto plazo, a largo plazo solo genera inflación. El control de la oferta monetaria es clave para mantener la estabilidad de precios.",
+      "question": "8. ¿Qué causa la inflación a largo plazo?",
+      "options": [
+        "El aumento de la demanda de bienes",
+        "El crecimiento excesivo de la cantidad de dinero",
+        "La subida de salarios",
+        "La especulación en bolsa"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>inflación</u> a largo plazo es un fenómeno monetario: <strong>demasiado dinero persiguiendo pocos bienes</strong>.</p><p>Cuando el gobierno imprime dinero en exceso, este pierde valor y los precios suben.</p><p>El control de la oferta monetaria es clave para mantener la estabilidad de precios.</p>"
+    },
+    {
+      "intro": "A corto plazo, existe una relación inversa entre inflación y desempleo, conocida como la curva de Phillips. Políticas que estimulan la economía pueden reducir el desempleo, pero a costa de más inflación. Esta disyuntiva es temporal, pero importante para la política económica. Los responsables deben equilibrar ambos objetivos.",
+      "question": "9. ¿Qué relación existe entre inflación y desempleo a corto plazo?",
+      "options": [
+        "Directa: más inflación, más desempleo",
+        "Inversa: más inflación, menos desempleo",
+        "No hay relación",
+        "Proporcional: ambos aumentan juntos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>A <u>corto plazo</u>, existe una relación <strong>inversa</strong> entre inflación y desempleo (curva de Phillips).</p><p>Políticas expansivas pueden reducir el desempleo, pero generan más inflación.</p><p>Esta disyuntiva es temporal, pero crucial para la política económica.</p>"
+    },
+    {
+      "intro": "La escasez es el problema fundamental de la economía. Los recursos son limitados, pero los deseos humanos son ilimitados. Por eso, debemos elegir cómo usar los recursos. Sin escasez, no habría necesidad de economía. Este principio subyace a todos los demás y explica por qué debemos tomar decisiones racionales sobre qué producir, cómo y para quién.",
+      "question": "10. ¿Qué problema económico fundamental da origen a la necesidad de tomar decisiones?",
+      "options": [
+        "Abundancia de recursos",
+        "Escasez",
+        "Democracia",
+        "Tecnología"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>escasez</u> es el problema fundamental de la economía: los recursos son limitados, los deseos ilimitados.</p><p>Por eso, debemos decidir qué producir, cómo y para quién.</p><p>Sin escasez, no habría necesidad de economía.</p>"
+    },
+    {
+      "intro": "La eficiencia económica se refiere a la maximización del bienestar total, es decir, obtener el mayor valor posible de los recursos escasos. La equidad se refiere a la distribución justa de ese bienestar. Hay una disyuntiva entre ambos: políticas que aumentan la eficiencia pueden reducir la equidad, y viceversa. Los responsables deben equilibrar ambos objetivos.",
+      "question": "11. ¿Qué es la disyuntiva entre eficiencia y equidad?",
+      "options": [
+        "La eficiencia siempre mejora la equidad",
+        "Maximizar uno puede reducir el otro",
+        "No existe relación entre ambos",
+        "La equidad es más importante que la eficiencia"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>disyuntiva entre eficiencia y equidad</u> es clave en economía.</p><p>La <strong>eficiencia</strong> maximiza el pastel; la <strong>equidad</strong> decide cómo repartirlo.</p><p>Impuestos progresivos aumentan equidad, pero pueden reducir eficiencia (incentivos).</p><p>Los responsables deben equilibrar ambos objetivos.</p>"
+    },
+    {
+      "intro": "Los mercados competitivos tienden a asignar recursos de forma eficiente porque los precios reflejan costos y beneficios sociales. Sin embargo, cuando hay externalidades, los precios no reflejan todos los costos o beneficios. Por ejemplo, la contaminación tiene un costo social no reflejado en el precio. Esto lleva a una producción excesiva desde el punto de vista social.",
+      "question": "12. ¿Qué es una externalidad?",
+      "options": [
+        "Un costo o beneficio que afecta a terceros no involucrados en la transacción",
+        "Un impuesto al consumo",
+        "Un subsidio gubernamental",
+        "Un precio fijado por el gobierno"
+      ],
+      "correct": [0],
+      "saber_mas": "<p>Una <u>externalidad</u> es un costo o beneficio que afecta a terceros no involucrados en la transacción.</p><p>Ejemplo: la contaminación (costo negativo), la vacunación (beneficio positivo).</p><p>Distorsiona el mercado porque los precios no reflejan todos los costos sociales.</p>"
+    },
+    {
+      "intro": "La mano invisible de Adam Smith describe cómo los mercados, sin planificación central, coordinan millones de decisiones individuales para lograr resultados eficientes. Los agentes persiguen su interés personal, pero el sistema de precios guía sus acciones hacia resultados que benefician a la sociedad. Este mecanismo es poderoso, aunque no infalible.",
+      "question": "13. ¿Qué es la 'mano invisible' del mercado?",
+      "options": [
+        "Un plan económico centralizado",
+        "El mecanismo por el que los mercados coordinan decisiones individuales",
+        "Una metáfora para el gobierno",
+        "Un sistema de trueque"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>mano invisible</u> es la metáfora de Adam Smith para describir cómo los mercados coordinan millones de decisiones individuales sin planificación central.</p><p>Los agentes persiguen su interés, pero el sistema de precios guía sus acciones hacia resultados eficientes.</p><p>Es un mecanismo poderoso, aunque no infalible.</p>"
+    },
+    {
+      "intro": "La ventaja comparativa es la capacidad de producir un bien a un costo de oportunidad menor que otros. Permite el comercio beneficioso incluso si un país es menos eficiente en todo. Por ejemplo, si un país puede producir vino con menor costo de oportunidad, debe especializarse en vino. Este principio es clave para entender los beneficios del comercio internacional.",
+      "question": "14. ¿Qué permite la ventaja comparativa?",
+      "options": [
+        "Que un país produzca todo más barato",
+        "Que los países se beneficien del comercio incluso si uno es menos eficiente",
+        "Que se eliminen todos los impuestos",
+        "Que se fijen precios fijos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>ventaja comparativa</u> permite el comercio beneficioso incluso si un país es menos eficiente en todo.</p><p>Se basa en el <strong>costo de oportunidad</strong>, no en la productividad absoluta.</p><p>Permite la especialización y mejora el bienestar global.</p>"
+    },
+    {
+      "intro": "La economía positiva describe cómo es el mundo, basándose en hechos y datos. La economía normativa recomienda cómo debería ser, basándose en valores. Distinguir entre ambas es clave para debates económicos. Por ejemplo, 'el desempleo es del 10%' es positivo; 'el gobierno debería reducir el desempleo' es normativo.",
+      "question": "15. ¿Cuál es la diferencia entre economía positiva y normativa?",
+      "options": [
+        "La positiva describe cómo es, la normativa recomienda cómo debería ser",
+        "La positiva es más importante",
+        "La normativa se basa en datos",
+        "No hay diferencia"
+      ],
+      "correct": [0],
+      "saber_mas": "<p>La <u>economía positiva</u> describe cómo es el mundo (hechos, datos).</p><p>La <u>economía normativa</u> recomienda cómo debería ser (valores, juicios).</p><p>Distinguir entre ambas es clave para debates económicos racionales.</p>"
+    }
+  ]
+}
