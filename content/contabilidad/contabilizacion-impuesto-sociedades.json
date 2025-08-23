@@ -1,9 +1,9 @@
 {
   "title": "Contabilización del Impuesto sobre Sociedades",
-  "description": "Quiz avanzado sobre diferencias temporarias, impuesto corriente, impuesto diferido, activos y pasivos fiscales, y registros contables del impuesto de sociedades.",
+  "description": "Quiz sobre diferencias temporarias, impuesto corriente, impuesto diferido, activos y pasivos fiscales, y registros contables del impuesto de sociedades.",
   "questions": [
     {
-      "intro": "El impuesto sobre sociedades es un tributo que grava el beneficio obtenido por las empresas durante un ejercicio económico. Su contabilización sigue el Plan General de Contabilidad (PGC) y requiere distinguir entre el resultado contable y el resultado fiscal. La diferencia entre ambos genera diferencias temporarias y permanentes. Las primeras dan lugar a activos o pasivos por impuesto diferido, ya que se regularizarán en ejercicios futuros. Las segundas no se recuperan y afectan solo al impuesto corriente. El objetivo es reflejar fielmente el gasto fiscal en la cuenta de resultados, independientemente del pago real a Hacienda. Este sistema asegura la correspondencia entre ingresos y gastos del periodo, cumpliendo con el principio de devengo.",
+      "intro": "El impuesto sobre sociedades grava el beneficio contable de las empresas, pero su cálculo fiscal puede diferir debido a normas distintas. La contabilización debe reflejar tanto el impuesto que se paga a Hacienda (impuesto corriente) como el impacto fiscal de las diferencias entre contabilidad y fiscalidad (impuesto diferido). Este sistema, basado en el principio de devengo, asegura que el gasto fiscal se impute al ejercicio al que corresponde, independientemente del pago real. Es clave para cumplir con el principio de imagen fiel y para presentar un resultado realista.",
       "question": "1. ¿Qué diferencia al impuesto contable del impuesto corriente?",
       "options": [
         "El impuesto contable incluye impuesto corriente y diferido",
@@ -15,6 +15,7 @@
       "saber_mas": "<p>El <u>gasto por impuesto</u> en la cuenta de resultados incluye tanto el <strong>impuesto corriente</strong> como el <strong>impuesto diferido</strong>.</p><p>El <strong>impuesto corriente</strong> es el resultado de la liquidación fiscal (base imponible × tipo impositivo).</p><p>El <strong>impuesto diferido</strong> surge por diferencias temporarias entre valor en libros y base fiscal, y se registra como activo o pasivo.</p><p>Ejemplo: Amortización contable más lenta que la fiscal genera una diferencia imponible en el futuro → pasivo por impuesto diferido.</p>"
     },
     {
+      "intro": "Las diferencias permanentes son discrepancias entre el resultado contable y fiscal que nunca se recuperarán. No generan impuesto diferido, pero sí afectan al cálculo de la base imponible. Ejemplos comunes son sanciones, multas, gastos no deducibles o ingresos no sujetos a tributación. Estas partidas se añaden o restan al resultado contable para obtener la base imponible, pero no requieren ajustes contables futuros, ya que no se regularizarán.",
       "question": "2. ¿Qué es una diferencia permanente?",
       "options": [
         "Una diferencia que se regulariza en el siguiente ejercicio",
@@ -26,6 +27,7 @@
       "saber_mas": "<p>Una <u>diferencia permanente</u> es aquella que <strong>no se recuperará</strong> en ningún ejercicio futuro.</p><p>Ejemplos:<br>• Sanciones y multas<br>• Gastos no deducibles por ley<br>• Ingresos no sujetos a tributación</p><p>No generan impuesto diferido, pero sí afectan al cálculo de la <strong>base imponible</strong>.</p><p>Se añaden o restan al resultado contable para obtener la base imponible.</p>"
     },
     {
+      "intro": "Un pasivo por impuesto diferido surge cuando el valor en libros de un activo supera su base fiscal. Esto indica que en el futuro se podrá deducir menos fiscalmente de lo que se ha contabilizado, por lo que se pagará más impuesto. Es una obligación futura derivada de la diferencia temporal. Se registra en cuentas como (170) o (520) según su vencimiento. Es clave para reflejar fielmente la carga fiscal futura.",
       "question": "3. ¿Cuándo se genera un pasivo por impuesto diferido?",
       "options": [
         "Cuando el valor en libros de un activo es menor que su base fiscal",
@@ -37,6 +39,7 @@
       "saber_mas": "<p>Un <u>pasivo por impuesto diferido</u> surge cuando el <strong>valor en libros > base fiscal</strong> de un activo.</p><p>Esto indica que en el futuro se podrá deducir menos fiscalmente de lo que se ha contabilizado, por lo que se pagará más impuesto.</p><p>Ejemplo: Amortización fiscal más rápida que la contable.<br>Valor en libros: 80.000€<br>Base fiscal: 60.000€<br>Diferencia imponible futura: 20.000€<br>Pasivo diferido: 20.000 × 25% = 5.000€</p>"
     },
     {
+      "intro": "Una diferencia temporaria deducible genera un ahorro fiscal futuro, por lo que se reconoce como un activo por impuesto diferido. Ocurre cuando el valor en libros de un activo es menor que su base fiscal, o cuando hay provisiones no deducibles ahora pero sí en el futuro. Este activo representa un derecho a pagar menos impuesto en ejercicios futuros. Es una aplicación del principio de devengo.",
       "question": "4. ¿Qué es una diferencia temporaria deducible?",
       "options": [
         "Genera un pasivo por impuesto diferido",
@@ -48,6 +51,7 @@
       "saber_mas": "<p>Una <u>diferencia temporaria deducible</u> reduce la base imponible en ejercicios futuros, por lo que genera un <strong>activo por impuesto diferido</strong>.</p><p>Ocurre cuando el valor en libros < base fiscal (en activos) o cuando hay provisiones no deducibles ahora pero sí en el futuro.</p><p>Ejemplo: Provisiones por garantías.<br>Valor en libros: 10.000€<br>Base fiscal: 0€ (no deducible ahora)<br>En el futuro, al pagar, se deducirá → ahorro fiscal futuro.<br>Activo diferido: 10.000 × 25% = 2.500€</p>"
     },
     {
+      "intro": "El impuesto corriente del ejercicio se registra como un gasto en la cuenta de resultados y como un pasivo en el balance. La cuenta (6300) Impuesto corriente se carga, y se abona a (4752) Hacienda Pública, acreedora por impuesto sobre sociedades. Este pasivo representa lo que se debe a Hacienda por el impuesto del ejercicio, independientemente de cuándo se pague.",
       "question": "5. ¿Dónde se registra el impuesto corriente del ejercicio?",
       "options": [
         "(6300) Impuesto corriente",
@@ -55,10 +59,11 @@
         "(4752) Hacienda Pública, acreedora por impuesto sobre sociedades",
         "Todas las anteriores"
       ],
-      "correct": [3],
+      "correct": [2],
       "saber_mas": "<p>El <u>impuesto corriente</u> se registra:<br>(6300) Impuesto corriente a (4752) Hacienda Pública, acreedora por impuesto sobre sociedades</p><p>La cuenta (4752) es un <strong>pasivo</strong> que representa lo que se debe a Hacienda por el impuesto del ejercicio.</p><p>Posteriormente, al pagar:<br>(4752) a (572) Bancos</p><p>La cuenta (6300) es de gasto y forma parte del resultado antes de impuestos.</p>"
     },
     {
+      "intro": "Las pérdidas fiscales pueden compensarse con beneficios futuros (hasta 18 años). Además, generan un activo por impuesto diferido, ya que permitirán reducir impuestos en el futuro. Este activo debe validarse por su recuperabilidad. Si es probable que no se compense, no debe reconocerse. Es una aplicación del principio de prudencia y devengo.",
       "question": "6. ¿Qué ocurre si la base imponible es negativa?",
       "options": [
         "Se pierde la pérdida fiscal",
@@ -70,6 +75,7 @@
       "saber_mas": "<p>Las <u>pérdidas fiscales</u> pueden <strong>compensarse</strong> con beneficios de ejercicios futuros (hasta 18 años).</p><p>Además, se reconoce un <strong>activo por impuesto diferido</strong>, ya que permitirá reducir impuestos futuros.</p><p>Asiento:<br>(272) Activo por diferencias temporarias<br>&nbsp;&nbsp;&nbsp;&nbsp;a (6380) Impuesto diferido 2.500€ (10.000 × 25%)</p><p>Este activo debe validarse por su recuperabilidad.</p>"
     },
     {
+      "intro": "La cuota diferencial es el importe que debe ingresarse (o devolverse) tras la declaración del impuesto sobre sociedades. Se calcula como la cuota líquida menos los pagos a cuenta y retenciones efectuados durante el ejercicio. Si es positiva, se paga a Hacienda; si es negativa, se solicita devolución. Es el saldo final del impuesto del ejercicio.",
       "question": "7. ¿Cómo se calcula la cuota diferencial del impuesto?",
       "options": [
         "Cuota líquida - Retenciones",
@@ -81,6 +87,7 @@
       "saber_mas": "<p>La <u>cuota diferencial</u> es el importe que debe ingresarse (o devolverse) tras la declaración:</p><p><strong>Cuota líquida - Retenciones y pagos a cuenta</strong></p><p>Si es positiva: se paga a Hacienda.<br>Si es negativa: se solicita devolución.</p><p>Ejemplo: Cuota líquida: 65.000€<br>Pagos a cuenta: 62.500€<br>Cuota diferencial: 2.500€ a ingresar.</p>"
     },
     {
+      "intro": "El impuesto diferido es la diferencia entre el gasto por impuesto en la cuenta de resultados y el impuesto corriente. Refleja el impacto fiscal de las diferencias temporarias. No implica pago inmediato, pero afecta al resultado del ejercicio. Se registra como activo o pasivo según sea un ahorro o un pago futuro. Es clave para cumplir con el principio de devengo.",
       "question": "8. ¿Qué es el impuesto diferido?",
       "options": [
         "El impuesto que se paga a Hacienda",
@@ -92,6 +99,7 @@
       "saber_mas": "<p>El <u>impuesto diferido</u> es la diferencia entre el <strong>gasto por impuesto</strong> en la cuenta de resultados y el <strong>impuesto corriente</strong>.</p><p>Refleja el impacto fiscal de diferencias temporarias.</p><p>Se registra:<br>• Como <strong>activo</strong> si se pagará menos impuesto en el futuro.<br>• Como <strong>pasivo</strong> si se pagará más.</p><p>No implica pago inmediato, pero afecta al resultado del ejercicio.</p>"
     },
     {
+      "intro": "El activo por impuesto diferido se registra en cuentas como (272) si es a largo plazo o (474) si es a corto plazo. Representa un ahorro fiscal futuro derivado de diferencias temporarias deducibles. Debe revisarse anualmente y ajustarse si cambia el tipo impositivo esperado o la recuperabilidad. Es clave para reflejar correctamente la carga fiscal futura.",
       "question": "9. ¿Qué cuenta se utiliza para registrar el activo por impuesto diferido?",
       "options": [
         "(270) Inversiones financieras a largo plazo",
@@ -103,6 +111,7 @@
       "saber_mas": "<p>El <u>activo por impuesto diferido</u> se registra en:<br>• (272) si es a largo plazo<br>• (474) si es a corto plazo</p><p>Ejemplo: Diferencia deducible de 10.000€ que se recuperará en 2 años:<br>(272) Activo por diferencias temporarias 2.500<br>&nbsp;&nbsp;&nbsp;&nbsp;a (6380) Impuesto diferido 2.500</p><p>Representa un ahorro fiscal futuro.</p>"
     },
     {
+      "intro": "Si cambia el tipo impositivo futuro, debe recalculase el saldo del impuesto diferido. Este ajuste refleja el nuevo costo fiscal esperado. Por ejemplo, si baja el tipo, se reduce el pasivo por impuesto diferido y se revierte parte del gasto. Es una aplicación del principio de devengo y es clave para mantener la imagen fiel.",
       "question": "10. ¿Qué ocurre si cambia el tipo impositivo futuro?",
       "options": [
         "No afecta al impuesto diferido",
@@ -114,6 +123,7 @@
       "saber_mas": "<p>Si cambia el <u>tipo impositivo futuro</u>, debe <strong>recalcularse</strong> el saldo del impuesto diferido.</p><p>El impuesto diferido se basa en el tipo esperado en el momento de reversión de la diferencia.</p><p>Ejemplo: Pasivo diferido por 20.000€ (diferencia imponible) al 25% = 5.000€.<br>Si el tipo baja al 20%, nuevo pasivo: 4.000€.<br>Ajuste: 1.000€ de reversión del gasto.</p>"
     },
     {
+      "intro": "El impuesto corriente aparece en la cuenta de resultados como parte del gasto por impuestos sobre beneficios. Forma parte del resultado antes de impuestos y se presenta junto con el impuesto diferido. Es clave para calcular el resultado neto. No es un gasto operativo ni financiero, sino una consecuencia fiscal del beneficio obtenido.",
       "question": "11. ¿Dónde se presenta el impuesto corriente en la cuenta de resultados?",
       "options": [
         "En ingresos financieros",
@@ -125,6 +135,7 @@
       "saber_mas": "<p>El <u>impuesto sobre beneficios</u> es una partida de la cuenta de resultados que incluye:<br>• (6300) Impuesto corriente<br>• (6380) Impuesto diferido</p><p>Forma parte del <strong>resultado después de impuestos</strong>.</p><p>No es un gasto operativo ni financiero, sino una consecuencia fiscal del beneficio obtenido.</p>"
     },
     {
+      "intro": "Una diferencia temporaria imponible dará lugar a un pago de impuesto en el futuro, por lo que genera un pasivo por impuesto diferido. Se produce cuando el valor en libros > base fiscal (en activos) o cuando hay ingresos gravados en el futuro. Es una obligación fiscal futura que debe reconocerse en el balance.",
       "question": "12. ¿Qué es una diferencia temporaria imponible?",
       "options": [
         "Genera un activo por impuesto diferido",
@@ -136,6 +147,7 @@
       "saber_mas": "<p>Una <u>diferencia temporaria imponible</u> dará lugar a un <strong>pago de impuesto en el futuro</strong>, por lo que genera un <strong>pasivo por impuesto diferido</strong>.</p><p>Se produce cuando el valor en libros > base fiscal (en activos) o cuando hay ingresos gravados en el futuro.</p><p>Ejemplo: Ingresos devengados contablemente pero no exigibles fiscalmente.</p>"
     },
     {
+      "intro": "El pago de la cuota diferencial se registra como una reducción del pasivo (4752) y una salida de efectivo (572). Este asiento liquida la obligación con Hacienda. No genera nuevo gasto, ya que el gasto se reconoció al devengar el impuesto. Es un movimiento de tesorería, no de resultados.",
       "question": "13. ¿Cómo se registra el pago de la cuota diferencial?",
       "options": [
         "Cargo a (4752), abono a (572)",
@@ -147,6 +159,7 @@
       "saber_mas": "<p>Al pagar la cuota diferencial:<br>(4752) Hacienda Pública, acreedora por impuesto sobre sociedades<br>&nbsp;&nbsp;&nbsp;&nbsp;a (572) Bancos</p><p>Esta cuenta (4752) se cargó al reconocer el impuesto corriente.</p><p>El pago liquida la obligación con Hacienda.</p><p>No genera nuevo gasto, ya que el gasto se reconoció al devengar el impuesto.</p>"
     },
     {
+      "intro": "La amortización acelerada fiscal permite deducir más en los primeros años que en contabilidad. Esto genera una diferencia imponible en el futuro (cuando la amortización contable supere a la fiscal), por lo que se reconoce un pasivo por impuesto diferido. Es un ahorro fiscal temporal, no permanente.",
       "question": "14. ¿Qué impacto tiene la amortización acelerada fiscal sobre el impuesto diferido?",
       "options": [
         "Genera un activo por impuesto diferido",
@@ -158,6 +171,7 @@
       "saber_mas": "<p>La <u>amortización acelerada fiscal</u> permite deducir más en los primeros años que en contabilidad.</p><p>Esto genera una diferencia imponible en el futuro (cuando la amortización contable supere a la fiscal).</p><p>Por tanto, se reconoce un <strong>pasivo por impuesto diferido</strong>.</p><p>Es un ahorro fiscal temporal, no permanente.</p>"
     },
     {
+      "intro": "El principio de devengo exige que los gastos y los ingresos se imputen al ejercicio al que pertenecen, independientemente del pago o cobro. El impuesto diferido aplica este principio: se reconoce el impacto fiscal de las diferencias temporarias en el momento en que surgen, no cuando se pagan. Esto asegura que el gasto por impuesto refleje correctamente la carga fiscal del periodo.",
       "question": "15. ¿Qué principio contable justifica el reconocimiento del impuesto diferido?",
       "options": [
         "Principio de prudencia",
