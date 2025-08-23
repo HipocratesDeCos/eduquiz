@@ -1,6 +1,6 @@
 {
   "title": "Inversiones No Corrientes: Inmovilizado y Activos a Largo Plazo",
-  "description": "Quiz avanzado sobre inmovilizado material e intangible, activos financieros no corrientes, amortización, deterioro de valor, permutas y leasing financiero.",
+  "description": "Quiz sobre inmovilizado material, intangible, activos financieros no corrientes, amortización y deterioro.",
   "questions": [
     {
       "intro": "Las inversiones no corrientes son activos que la empresa mantiene para su uso en la producción, suministro de bienes o servicios, o para fines administrativos, con una vida útil superior a un año. Incluyen el inmovilizado material (maquinaria, edificios), el inmovilizado intangible (patentes, software) y las inversiones financieras a largo plazo. Su correcta valoración es esencial para reflejar fielmente la situación patrimonial. El costo de adquisición incluye todos los gastos necesarios para su puesta en funcionamiento. Las amortizaciones y el deterioro de valor deben reconocerse sistemáticamente. Este tipo de activos no se espera que se conviertan en efectivo en el corto plazo, por lo que se clasifican en el activo no corriente del balance.",
@@ -15,6 +15,7 @@
       "saber_mas": "<p>El <u>costo de adquisición</u> del inmovilizado material incluye:<br>• <strong>Precio de compra</strong><br>• <strong>Impuestos no recuperables</strong><br>• <strong>Costes directos de puesta en funcionamiento</strong>: transporte, instalación, montaje, pruebas<br>• <strong>Intereses financieros</strong> antes de la puesta en funcionamiento (si aplica)</p><p>No incluye: gastos financieros posteriores, ni gastos generales de administración.</p><p>Se registra en cuentas del grupo 21 (inmovilizado material).</p>"
     },
     {
+      "intro": "La contabilización de construcciones en curso es un proceso clave cuando una empresa realiza obras por cuenta propia. Durante la construcción, los gastos no se registran directamente en el inmovilizado terminado, sino en cuentas del subgrupo 23, como (231) Construcciones en curso. Esto permite acumular todos los costes (materiales, mano de obra, servicios) hasta que la obra esté lista para su uso. Solo al finalizar se transfiere el costo total al activo correspondiente, como (211) Construcciones. Este método asegura que el activo se valore correctamente y cumpla con el principio de devengo.",
       "question": "2. ¿Cómo se contabiliza la construcción de un edificio por cuenta propia?",
       "options": [
         "Se registra directamente en (211) Construcciones",
@@ -26,6 +27,7 @@
       "saber_mas": "<p>Los trabajos de <u>construcción en curso</u> se registran en cuentas del subgrupo 23 (por ejemplo, 231 - Construcciones en curso).</p><p>Se acumulan todos los costes: materiales, mano de obra, costes indirectos atribuibles.</p><p>Al finalizar:<br>(211) Construcciones<br>&nbsp;&nbsp;&nbsp;&nbsp;a (231) Construcciones en curso</p><p>Esto asegura que el activo se valore correctamente antes de su puesta en funcionamiento.</p>"
     },
     {
+      "intro": "El principio de prudencia obliga a reconocer un deterioro de valor cuando el valor recuperable de un activo (mayor entre valor en uso y valor realizable neto) es inferior a su valor contable. Este ajuste es obligatorio y debe realizarse al menos anualmente. El deterioro reduce el valor del activo en el balance y genera un gasto en la cuenta de resultados. Es una medida conservadora que evita sobrevalorar el patrimonio. Si en el futuro mejora la situación, puede revertirse parcialmente, dentro de límites legales.",
       "question": "3. ¿Qué ocurre si el valor recuperable de un activo es inferior a su valor contable?",
       "options": [
         "Se revalúa el activo",
@@ -37,6 +39,7 @@
       "saber_mas": "<p>Según el <u>principio de prudencia</u>, si el <strong>valor recuperable</strong> (mayor entre valor en uso y valor realizable neto) es inferior al valor contable, debe reconocerse un <strong>deterioro de valor</strong>.</p><p>Asiento:<br>(691) Pérdidas por deterioro del inmovilizado<br>&nbsp;&nbsp;&nbsp;&nbsp;a (291) Deterioro de valor del inmovilizado material</p><p>Este ajuste reduce el activo y genera un gasto en la cuenta de resultados.</p>"
     },
     {
+      "intro": "La amortización del inmovilizado intangible se aplica a activos como patentes, marcas, software o fondos de comercio, siempre que tengan una vida útil definida. No se amortizan los activos con vida útil indefinida, pero sí deben deteriorarse anualmente. La amortización se registra en la cuenta (680) Amortización del inmovilizado intangible y reduce el valor del activo de forma sistemática. Este proceso distribuye el costo del activo entre los ejercicios que beneficia, cumpliendo con el principio de devengo.",
       "question": "4. ¿Dónde se registra la amortización del inmovilizado intangible?",
       "options": [
         "(680) Amortización del inmovilizado intangible",
@@ -48,6 +51,7 @@
       "saber_mas": "<p>La <u>amortización</u> del inmovilizado intangible (patentes, software, marcas) se registra en:<br>(680) Amortización del inmovilizado intangible</p><p>Se aplica solo si el activo tiene <strong>vida útil definida</strong>.</p><p>Para activos con vida útil indefinida (como el fondo de comercio), no se amortizan, pero sí se deterioran anualmente.</p><p>La amortización se imputa sistemáticamente durante la vida útil.</p>"
     },
     {
+      "intro": "El fondo de comercio positivo surge en una combinación de negocios cuando el coste de adquisición supera al valor razonable del patrimonio neto de la empresa adquirida. Representa el valor de elementos intangibles no registrados, como clientela, reputación o sinergias. Se registra como un activo intangible no corriente y debe amortizarse y deteriorarse anualmente. Aunque no se haya pagado en efectivo, su reconocimiento es obligatorio para reflejar fielmente la inversión realizada.",
       "question": "5. ¿Qué es el fondo de comercio positivo?",
       "options": [
         "La diferencia entre el valor razonable del patrimonio neto y el coste de adquisición",
@@ -59,6 +63,7 @@
       "saber_mas": "<p>El <u>fondo de comercio positivo</u> surge en una combinación de negocios cuando el <strong>coste de adquisición</strong> supera al <strong>valor razonable del patrimonio neto</strong> de la empresa adquirida.</p><p>Se registra como activo intangible:<br>(200) Fondo de comercio<br>&nbsp;&nbsp;&nbsp;&nbsp;a (100) Capital social (ajuste)</p><p>Debe amortizarse y deteriorarse anualmente.</p><p>Representa valor de clientela, reputación, sinergias, etc.</p>"
     },
     {
+      "intro": "La clasificación de activos financieros depende del modelo de negocio y de la naturaleza de los flujos contractuales. Un activo financiero se clasifica a coste amortizado si el modelo de negocio es mantenerlo hasta el vencimiento y sus flujos son solo intereses y principal (SPPI). Este tratamiento evita la volatilidad de mercado y refleja mejor la intención de inversión a largo plazo. Es común en bonos y obligaciones de empresas solventes.",
       "question": "6. ¿Cómo se clasifica un activo financiero cuyo modelo de negocio es mantenerlo hasta el vencimiento?",
       "options": [
         "A valor razonable con cambios en PyG",
@@ -70,6 +75,7 @@
       "saber_mas": "<p>Un activo financiero se clasifica <u>a coste amortizado</u> si cumple dos condiciones:<br>1. El modelo de negocio es <strong>mantenerlo hasta el vencimiento</strong>.<br>2. Sus flujos contractuales son <strong>solo intereses y principal (SPPI)</strong>.</p><p>Ejemplo: Obligaciones compradas para cobrar intereses anuales y recuperar el nominal al vencimiento.</p><p>No se marca a mercado; se valora por el método del interés efectivo.</p>"
     },
     {
+      "intro": "Las permutas comerciales son operaciones en las que se intercambian activos similares. Cuando hay una diferencia significativa en la configuración de flujos de efectivo, se considera que hay un cambio de riesgo y se reconoce una ganancia o pérdida. Esta ganancia se calcula como la diferencia entre el valor razonable del activo recibido y el valor contable del entregado. Es una aplicación del principio de realismo económico y permite reflejar el impacto financiero de la operación.",
       "question": "7. ¿Qué ocurre en una permuta comercial con diferencia en los flujos de efectivo?",
       "options": [
         "No se reconoce ganancia",
@@ -81,6 +87,7 @@
       "saber_mas": "<p>En una <u>permuta comercial</u>, si hay <strong>diferencia significativa en la configuración de flujos de efectivo</strong>, se reconoce <strong>ganancia o pérdida</strong>.</p><p>La ganancia se calcula como la diferencia entre el valor razonable del activo recibido y el valor contable del entregado.</p><p>Si los flujos son similares, no se reconoce ganancia (solo ajuste de valor).</p><p>Es un principio de realismo económico.</p>"
     },
     {
+      "intro": "Los gastos de desarrollo de software pueden activarse como inmovilizado intangible si se cumplen ciertos criterios: viabilidad técnica, intención de finalizar, capacidad de uso o venta, y capacidad de generar flujos futuros. A diferencia de los gastos de investigación, que siempre se gasto, los de desarrollo pueden capitalizarse. Se registran en cuentas como (206) Aplicaciones informáticas y se amortizan a lo largo de su vida útil. Este tratamiento refleja mejor el valor económico generado.",
       "question": "8. ¿Qué cuenta se utiliza para activar gastos de desarrollo de software?",
       "options": [
         "(200) Investigación",
@@ -92,6 +99,7 @@
       "saber_mas": "<p>Los <u>gastos de desarrollo</u> pueden activarse si cumplen criterios de viabilidad técnica y rentabilidad comercial.</p><p>Se registran en:<br>(206) Aplicaciones informáticas</p><p>Estos activos se amortizan a lo largo de su vida útil.</p><p>Los gastos de <strong>investigación</strong> (200) siempre se gasto, salvo excepciones muy específicas.</p><p>Es clave diferenciar entre investigación y desarrollo.</p>"
     },
     {
+      "intro": "Las subvenciones para la adquisición de activos pueden contabilizarse de dos formas: como ingreso diferido (pasivo) o como reducción del valor del activo. Ambas son válidas, pero deben aplicarse de forma coherente. La primera implica imputar el ingreso a resultados de forma progresiva; la segunda reduce directamente el valor contable del activo. La elección depende de la política contable de la empresa y debe revelarse en la memoria.",
       "question": "9. ¿Cómo se contabiliza una subvención para la compra de una máquina?",
       "options": [
         "Como ingreso inmediato",
@@ -103,6 +111,7 @@
       "saber_mas": "<p>Una <u>subvención para activos</u> puede contabilizarse de dos formas (elige una):<br>1. <strong>Como ingreso diferido</strong>: se imputa a resultados progresivamente.<br>2. <strong>Como reducción del valor del activo</strong>.</p><p>Ejemplo: Máquina de 50.000€, subvención de 10.000€.<br>Opción 1: Activo a 50.000€, pasivo a 10.000€, imputado a (740) anualmente.<br>Opción 2: Activo a 40.000€ desde el inicio.</p><p>Es una política contable que debe aplicarse de forma coherente.</p>"
     },
     {
+      "intro": "El leasing financiero es una operación que, aunque legalmente sea un alquiler, transfiere sustancialmente todos los riesgos y beneficios de la propiedad. Se contabiliza como si fuera una compra: se activa el bien en el inmovilizado y se reconoce una deuda. Las cuotas se descomponen en amortización del principal e intereses financieros. Es una forma común de financiar activos sin necesidad de desembolso inicial completo.",
       "question": "10. ¿Qué es el leasing financiero?",
       "options": [
         "Un alquiler a corto plazo",
@@ -114,6 +123,7 @@
       "saber_mas": "<p>El <u>leasing financiero</u> es una operación en la que, aunque legalmente no se transfiera la propiedad, <strong>sustancialmente se asumen todos los riesgos y beneficios</strong> de la propiedad.</p><p>Se contabiliza como:<br>• Activación del bien en el inmovilizado (218, 211, etc.)<br>• Reconocimiento de una deuda (524, 174)</p><p>Las cuotas se descomponen en amortización del principal e intereses financieros.</p><p>Es común en vehículos, maquinaria y equipos.</p>"
     },
     {
+      "intro": "El deterioro del inmovilizado intangible se reconoce cuando su valor recuperable es inferior a su valor contable. Al igual que con el material, este ajuste genera un gasto en la cuenta de resultados y reduce el valor del activo. Se registra en cuentas como (690) Pérdidas por deterioro y (290) Deterioro de valor. Es obligatorio realizar esta evaluación al menos anualmente, especialmente en activos con vida útil indefinida.",
       "question": "11. ¿Dónde se registra el deterioro del inmovilizado intangible?",
       "options": [
         "(290) Deterioro de valor del inmovilizado intangible",
@@ -125,6 +135,7 @@
       "saber_mas": "<p>El <u>deterioro del inmovilizado intangible</u> se registra:<br>• En (690) como <strong>gasto</strong> en la cuenta de resultados.<br>• En (290) como <strong>reducción del activo</strong>.</p><p>Asiento:<br>(690) Pérdidas por deterioro<br>&nbsp;&nbsp;&nbsp;&nbsp;a (290) Deterioro de valor</p><p>Este ajuste debe realizarse al menos anualmente, incluso si el activo tiene vida útil indefinida.</p>"
     },
     {
+      "intro": "Cuando mejora el valor recuperable de un activo deteriorado, el PGC permite revertir parte del deterioro, pero solo hasta el valor contable original (sin generar beneficio). Esta reversión reduce el gasto y aumenta el valor del activo. Es una excepción al principio de irrevocabilidad de pérdidas y refuerza el principio de prudencia. No se aplica a activos no corrientes mantenidos para la venta.",
       "question": "12. ¿Qué ocurre si mejora el valor recuperable de un activo deteriorado?",
       "options": [
         "No se puede revertir el deterioro",
@@ -136,6 +147,7 @@
       "saber_mas": "<p>El PGC permite <u>revertir el deterioro</u> si mejora el valor recuperable, pero solo <strong>hasta el valor contable original</strong> (sin beneficios).</p><p>Reversión:<br>(291) Deterioro de valor<br>&nbsp;&nbsp;&nbsp;&nbsp;a (791) Reversión del deterioro</p><p>Aplica a inmovilizado material e intangible, pero no a activos no corrientes mantenidos para la venta.</p><p>Es una excepción al principio de irrevocabilidad de pérdidas.</p>"
     },
     {
+      "intro": "Un activo no corriente mantenido para la venta se valora al menor entre su valor contable y su valor razonable menos costes de venta. No se amortiza mientras esté clasificado como para la venta. Debe cumplir requisitos como disponibilidad inmediata, precio razonable y expectativa de venta en menos de 12 meses. Se reclasifica al activo corriente, lo que afecta al fondo de maniobra.",
       "question": "13. ¿Cómo se valora un activo no corriente mantenido para la venta?",
       "options": [
         "A valor razonable menos costes de venta",
@@ -147,6 +159,7 @@
       "saber_mas": "<p>Un <u>activo no corriente mantenido para la venta</u> se valora al <strong>menor entre valor contable y valor razonable menos costes de venta</strong>.</p><p>No se amortiza mientras esté clasificado como para la venta.</p><p>Debe cumplir:<br>• Estar disponible inmediatamente<br>• Precio razonable<br>• Expectativa de venta en menos de 12 meses</p><p>Se reclasifica al activo corriente.</p>"
     },
     {
+      "intro": "Las inversiones financieras a largo plazo en empresas del grupo se registran en cuentas del subgrupo 24, como (240) Inversiones en empresas del grupo a largo plazo. Forman parte del activo no corriente y pueden valorarse al coste o mediante el método de la participación, según normativa. Son clave para la consolidación de cuentas y reflejan la estrategia de crecimiento por expansión empresarial.",
       "question": "14. ¿Qué cuenta se utiliza para registrar inversiones financieras a largo plazo en empresas del grupo?",
       "options": [
         "(240) Inversiones en empresas del grupo a largo plazo",
@@ -158,6 +171,7 @@
       "saber_mas": "<p>Las <u>inversiones en empresas del grupo</u> a largo plazo se registran en:<br>(240) Inversiones en empresas del grupo a largo plazo</p><p>Forman parte del activo no corriente.</p><p>Se valoran al coste o al resultado del método de la participación, según normativa.</p><p>Es clave para la consolidación de cuentas.</p>"
     },
     {
+      "intro": "La amortización del inmovilizado es una aplicación directa del principio de devengo. Distribuye el costo de un activo a lo largo de su vida útil, imputando parte del gasto a cada ejercicio que beneficia. Esto evita que un solo ejercicio soporte todo el impacto del gasto. La amortización no es una salida de efectivo, sino un ajuste contable que refleja el consumo del activo. Es clave para calcular correctamente el beneficio de cada periodo.",
       "question": "15. ¿Qué principio justifica la amortización del inmovilizado?",
       "options": [
         "Principio de prudencia",
