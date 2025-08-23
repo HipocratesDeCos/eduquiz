@@ -1,0 +1,172 @@
+{
+  "title": "Análisis de la Cuenta de Pérdidas y Ganancias",
+  "description": "Quiz sobre el análisis de la cuenta de resultados: margen bruto, resultado de explotación, resultado financiero, impuestos y análisis de rentabilidad.",
+  "questions": [
+    {
+      "intro": "La cuenta de pérdidas y ganancias (cuenta de resultados) es el estado financiero que muestra los ingresos, gastos y resultado de un ejercicio. Su análisis permite evaluar la rentabilidad, eficiencia operativa y estructura de costes de la empresa. Componentes clave incluyen el margen bruto (ventas menos coste de ventas), el resultado de explotación (beneficio antes de intereses e impuestos), el resultado financiero y el resultado neto. A través de ratios como el margen neto, la rotación de activos y el ROE, se puede diagnosticar la capacidad de la empresa para generar beneficios. Este análisis es esencial para evaluar la evolución de la actividad, comparar con competidores y tomar decisiones estratégicas.",
+      "question": "1. ¿Qué representa el margen bruto?",
+      "options": [
+        "Ventas menos gastos financieros",
+        "Ventas menos coste de ventas",
+        "Resultado antes de impuestos",
+        "Beneficio neto"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>margen bruto</u> = <strong>Ventas netas - Coste de ventas</strong>.</p><p>Mide la rentabilidad directa de la actividad principal.</p><p>Un margen bruto bajo puede indicar altos costes de producción o baja capacidad de fijación de precios.</p><p>Es el primer paso en el análisis de rentabilidad.</p>"
+    },
+    {
+      "question": "2. ¿Cómo se calcula el resultado de explotación?",
+      "options": [
+        "Margen bruto - Gastos financieros",
+        "Margen bruto - Gastos de personal y amortizaciones",
+        "Ventas - Impuestos",
+        "Beneficio neto + Impuestos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>resultado de explotación</u> (BAII) = <strong>Margen bruto - Gastos operativos</strong>.</p><p>Incluye: gastos de personal, servicios externos, amortizaciones, otros gastos.</p><p>Mide la rentabilidad de la actividad principal, sin considerar financiación ni impuestos.</p><p>Clave para comparar empresas del mismo sector.</p>"
+    },
+    {
+      "question": "3. ¿Qué es el resultado financiero?",
+      "options": [
+        "Ingresos por ventas",
+        "Diferencia entre ingresos y gastos financieros",
+        "Beneficio antes de impuestos",
+        "Margen bruto"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>resultado financiero</u> = <strong>Ingresos financieros - Gastos financieros</strong>.</p><p>Incluye intereses, dividendos, ganancias por activos financieros, etc.</p><p>Un resultado financiero negativo indica altos costes de deuda.</p><p>Es clave para analizar la estructura de financiación.</p>"
+    },
+    {
+      "question": "4. ¿Qué representa el resultado neto?",
+      "options": [
+        "Beneficio antes de intereses e impuestos",
+        "Beneficio después de impuestos",
+        "Margen bruto",
+        "Resultado de explotación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>resultado neto</u> es el beneficio final después de todos los gastos, incluidos financieros e impuestos.</p><p>Se traslada a (129) Resultado del ejercicio y luego a reservas o dividendos.</p><p>Es el indicador final de rentabilidad para los socios.</p><p>Se usa en ratios como ROE y margen neto.</p>"
+    },
+    {
+      "question": "5. ¿Cómo se calcula el margen neto?",
+      "options": [
+        "Resultado neto / Ventas",
+        "Resultado de explotación / Ventas",
+        "Resultado financiero / Ventas",
+        "Coste de ventas / Ventas"
+      ],
+      "correct": [0],
+      "saber_mas": "<p>El <u>margen neto</u> = <strong>Resultado neto / Ventas netas</strong>.</p><p>Indica cuánto beneficio se obtiene por cada euro de venta.</p><p>Valor alto: buena gestión de costes y precios.</p><p>Permite comparar rentabilidad entre empresas de distinto tamaño.</p>"
+    },
+    {
+      "question": "6. ¿Qué indica un resultado de explotación negativo?",
+      "options": [
+        "Alta rentabilidad financiera",
+        "Problemas en la actividad principal",
+        "Bajo endeudamiento",
+        "Alto margen bruto"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>resultado de explotación negativo</u> indica que la actividad principal no es rentable.</p><p>Los ingresos no cubren los costes operativos.</p><p>Puede deberse a altos gastos, baja demanda o mala gestión.</p><p>Aunque haya ingresos financieros, la base operativa es débil.</p>"
+    },
+    {
+      "question": "7. ¿Qué es el BAII?",
+      "options": [
+        "Beneficio antes de impuestos",
+        "Beneficio después de intereses e impuestos",
+        "Beneficio antes de intereses e impuestos",
+        "Beneficio de explotación más intereses"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>El <u>BAII</u> (Beneficio Antes de Intereses e Impuestos) es igual al <strong>resultado de explotación</strong>.</p><p>Permite comparar empresas con diferentes estructuras de financiación e impositivas.</p><p>Es clave en análisis de valoración y ratios como ROA.</p><p>Se calcula: ventas - costes operativos.</p>"
+    },
+    {
+      "question": "8. ¿Dónde se presenta el impuesto sobre sociedades?",
+      "options": [
+        "En ingresos financieros",
+        "En gastos financieros",
+        "En partidas extraordinarias",
+        "En impuestos sobre beneficios"
+      ],
+      "correct": [3],
+      "saber_mas": "<p>El <u>impuesto sobre beneficios</u> es una partida de la cuenta de resultados que incluye impuesto corriente y diferido.</p><p>Se presenta después del resultado antes de impuestos.</p><p>Forma parte del <strong>resultado después de impuestos</strong>.</p><p>No es un gasto operativo ni financiero.</p>"
+    },
+    {
+      "question": "9. ¿Qué ratio mide la rentabilidad sobre recursos propios?",
+      "options": [
+        "ROA",
+        "ROE",
+        "Margen neto",
+        "Rotación de activos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>ROE</u> (Return on Equity) = <strong>Resultado neto / Patrimonio neto</strong>.</p><p>Mide la rentabilidad generada sobre los fondos de los socios.</p><p>Valor alto: buena eficiencia en el uso del capital.</p><p>Es clave para inversores y análisis de valor.</p>"
+    },
+    {
+      "question": "10. ¿Qué es la rotación de activos?",
+      "options": [
+        "Ventas / Patrimonio neto",
+        "Ventas / Activo total",
+        "Resultado neto / Ventas",
+        "Activo / Pasivo"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>rotación de activos</u> = <strong>Ventas netas / Activo total medio</strong>.</p><p>Mide cuán eficientemente se utilizan los activos para generar ventas.</p><p>Valor alto: buena gestión de recursos.</p><p>Complementa el ROA: ROA = Margen neto × Rotación de activos.</p>"
+    },
+    {
+      "question": "11. ¿Qué indica un ROE muy alto?",
+      "options": [
+        "Baja rentabilidad",
+        "Alto endeudamiento",
+        "Mala gestión de activos",
+        "Bajo margen neto"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>ROE muy alto</u> puede deberse a <strong>alto endeudamiento</strong> (efecto apalancamiento).</p><p>Aunque la rentabilidad sea buena, el riesgo financiero también aumenta.</p><p>Debe analizarse junto con ROA y estructura del pasivo.</p><p>No siempre indica buena gestión operativa.</p>"
+    },
+    {
+      "question": "12. ¿Qué es el resultado de actividades ordinarias?",
+      "options": [
+        "Solo ingresos por ventas",
+        "Resultado de explotación más financiero",
+        "Beneficio neto",
+        "Margen bruto"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>resultado de actividades ordinarias</u> incluye todos los ingresos y gastos de la actividad principal y financiera.</p><p>Excluye partidas extraordinarias.</p><p>Da una visión estable de la rentabilidad recurrente.</p><p>Es clave para proyecciones futuras.</p>"
+    },
+    {
+      "question": "13. ¿Qué ratio combina margen y rotación?",
+      "options": [
+        "ROE",
+        "ROA",
+        "Autonomía",
+        "Garantía"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>ROA</u> (Return on Assets) = <strong>Resultado neto / Activo total</strong>.</p><p>Se descompone como: <strong>Margen neto × Rotación de activos</strong>.</p><p>Mide la rentabilidad sobre toda la inversión, independientemente de la financiación.</p><p>Es clave para evaluar eficiencia operativa.</p>"
+    },
+    {
+      "question": "14. ¿Qué indica una caída del margen bruto?",
+      "options": [
+        "Mayor eficiencia",
+        "Menor rentabilidad directa",
+        "Mejor control de gastos",
+        "Mayor volumen de ventas"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Una <u>caída del margen bruto</u> indica que el <strong>coste de ventas</strong> crece más rápido que las ventas.</p><p>Puede deberse a subida de precios de materias primas, descuentos, o baja escala.</p><p>Requiere análisis de precios, proveedores y productividad.</p><p>Es una señal de alerta temprana.</p>"
+    },
+    {
+      "question": "15. ¿Qué es el resultado antes de impuestos?",
+      "options": [
+        "Resultado neto + Impuestos",
+        "Resultado neto - Impuestos",
+        "Ventas - Coste de ventas",
+        "Margen bruto - Gastos"
+      ],
+      "correct": [0],
+      "saber_mas": "<p>El <u>resultado antes de impuestos</u> = <strong>Resultado de explotación + Resultado financiero</strong>.</p><p>Es la base sobre la que se calcula el impuesto sobre sociedades.</p><p>Se usa para calcular el tipo impositivo efectivo.</p><p>Es clave en análisis de rentabilidad fiscal.</p>"
+    }
+  ]
+}
