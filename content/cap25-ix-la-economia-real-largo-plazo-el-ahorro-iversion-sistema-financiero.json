@@ -1,0 +1,186 @@
+{
+  "title": "El Ahorro, la Inversión y el Sistema Financiero",
+  "description": "Quiz sobre el mercado de fondos prestables, ahorro nacional, inversión, tipos de interés y cómo el sistema financiero conecta ahorradores con inversores.",
+  "questions": [
+    {
+      "intro": "El sistema financiero es el conjunto de instituciones en una economía que facilitan el flujo de fondos desde los ahorradores hasta los inversores. Actúa como intermediario, permitiendo que quienes tienen exceso de fondos (ahorradores) presten a quienes los necesitan (inversores). Este sistema es crucial para el crecimiento económico, ya que permite que el ahorro se transforme en inversión productiva, como nuevas fábricas, viviendas o tecnología. Sin un sistema financiero eficiente, muchas oportunidades de inversión no se realizarían por falta de financiamiento.",
+      "question": "1. ¿Qué función cumple el sistema financiero?",
+      "options": [
+        "Imprimir dinero",
+        "Conectar ahorradores con inversores",
+        "Fijar precios de bienes",
+        "Controlar la inflación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>sistema financiero</u> conecta a <strong>ahorradores</strong> (quienes tienen fondos excedentes) con <strong>inversores</strong> (quienes necesitan fondos para invertir).</p><p>Facilita el flujo de fondos hacia proyectos productivos: nuevas fábricas, viviendas, tecnología.</p><p>Instituciones clave: bancos, bolsas de valores, fondos mutuos.</p><p>Es crucial para el <strong>crecimiento económico</strong>, ya que permite que el ahorro se transforme en inversión productiva.</p>"
+    },
+    {
+      "intro": "El ahorro privado es la cantidad de ingreso que los hogares no gastan en consumo ni pagan en impuestos. Se calcula como: Ingreso (Y) – Impuestos (T) – Consumo (C). El ahorro privado es una fuente clave de fondos para la inversión. Cuando los hogares ahorran más, hay más recursos disponibles para financiar proyectos de inversión en la economía.",
+      "question": "2. ¿Cómo se calcula el ahorro privado?",
+      "options": [
+        "Y - C",
+        "Y - T",
+        "Y - T - C",
+        "C + I + G"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>El <u>ahorro privado</u> es el ingreso de los <strong>hogares</strong> que no se gasta en consumo ni se paga en impuestos.</p><p>Se calcula como: <strong>Y - T - C</strong></p><p>Donde:<br>• Y = Ingreso nacional<br>• T = Impuestos<br>• C = Consumo</p><p>Es una fuente clave de fondos para la <strong>inversión</strong>.</p><p>A mayor ahorro privado, más recursos disponibles para financiar proyectos productivos.</p>"
+    },
+    {
+      "intro": "El ahorro público es el excedente de ingresos fiscales sobre gastos del gobierno. Si el gobierno recauda más de lo que gasta, hay superávit presupuestario y ahorro público positivo. Si gasta más de lo que recauda, hay déficit presupuestario y ahorro público negativo (desahorro). El ahorro público es parte del ahorro nacional y afecta directamente la oferta de fondos prestables.",
+      "question": "3. ¿Qué es el ahorro público?",
+      "options": [
+        "El ahorro de los hogares",
+        "El ahorro de las empresas",
+        "Los impuestos menos el gasto público",
+        "La inversión total"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>El <u>ahorro público</u> es el excedente de <strong>ingresos fiscales</strong> (impuestos) sobre <strong>gastos del gobierno</strong>.</p><p>Se calcula como: <strong>T - G</strong></p><p>• Si T > G: <strong>superávit presupuestario</strong> (ahorro público positivo)<br>• Si T < G: <strong>déficit presupuestario</strong> (ahorro público negativo, desahorro)</p><p>Es parte del <strong>ahorro nacional</strong> y afecta la oferta de fondos prestables.</p>"
+    },
+    {
+      "intro": "El ahorro nacional es la suma del ahorro privado y el ahorro público. Representa la cantidad total de recursos disponibles en una economía para financiar la inversión. Se calcula como: (Y - T - C) + (T - G) = Y - C - G. El ahorro nacional debe igualar a la inversión en una economía cerrada, ya que todos los fondos ahorrados se destinan a inversión.",
+      "question": "4. ¿Cómo se calcula el ahorro nacional?",
+      "options": [
+        "Y - C",
+        "Y - T",
+        "Y - C - G",
+        "C + I + G"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>El <u>ahorro nacional</u> es la suma del <strong>ahorro privado</strong> y el <strong>ahorro público</strong>.</p><p>Se calcula como: <strong>(Y - T - C) + (T - G) = Y - C - G</strong></p><p>Representa la cantidad total de recursos disponibles en la economía para financiar la <strong>inversión</strong>.</p><p>En una economía cerrada, el ahorro nacional <strong>debe igualar</strong> a la inversión (I).</p><p>Es la fuente de fondos en el mercado de fondos prestables.</p>"
+    },
+    {
+      "intro": "La inversión es el gasto en nuevos bienes de capital, como fábricas, maquinaria, viviendas y cambios en inventarios. Es un componente clave del PIB y la principal forma en que una economía aumenta su capacidad productiva. La inversión depende del tipo de interés: a menor tipo de interés, mayor incentivo para invertir, ya que el costo de financiamiento es menor.",
+      "question": "5. ¿Qué es la inversión en macroeconomía?",
+      "options": [
+        "Comprar acciones en la bolsa",
+        "Gasto en nuevos bienes de capital",
+        "Ahorro en un banco",
+        "Consumo de bienes duraderos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>inversión</u> (I) es el gasto en <strong>nuevos bienes de capital</strong>.</p><p>Incluye:<br>• <strong>Construcción</strong> de fábricas y viviendas<br>• <strong>Maquinaria</strong> y equipos<br>• <strong>Cambios en inventarios</strong></p><p>Es un componente clave del PIB y la principal forma de aumentar la <strong>capacidad productiva</strong> de la economía.</p><p>Depende del <strong>tipo de interés</strong>: a menor tipo, mayor inversión (menor costo de financiamiento).</p>"
+    },
+    {
+      "intro": "El mercado de fondos prestables es un modelo que muestra cómo el ahorro y la inversión se coordinan a través del tipo de interés. Los ahorradores son los oferentes de fondos, los inversores son los demandantes. El tipo de interés es el precio del préstamo. En equilibrio, la cantidad de fondos ahorrados iguala a la cantidad invertida. Este modelo asume una economía cerrada sin comercio internacional.",
+      "question": "6. ¿Qué determina el equilibrio en el mercado de fondos prestables?",
+      "options": [
+        "El precio de los bienes",
+        "La intersección de la oferta de ahorro y la demanda de inversión",
+        "El nivel de empleo",
+        "La tasa de inflación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>mercado de fondos prestables</u> muestra cómo el <strong>ahorro</strong> y la <strong>inversión</strong> se coordinan a través del <strong>tipo de interés</strong>.</p><p>• <strong>Oferentes</strong>: ahorradores (hogares, gobierno)<br>• <strong>Demandantes</strong>: inversores (empresas, familias que compran viviendas)</p><p>El tipo de interés es el <strong>precio del préstamo</strong>.</p><p>En equilibrio, la cantidad de fondos ahorrados <strong>iguala</strong> a la cantidad invertida.</p><p>Modelo para economías <strong>cerradas</strong>.</p>"
+    },
+    {
+      "intro": "Si el gobierno aumenta sus gastos sin aumentar los impuestos, reduce el ahorro público (T - G disminuye). Esto reduce el ahorro nacional y la oferta de fondos prestables, lo que eleva el tipo de interés de equilibrio. A mayor tipo de interés, la inversión privada disminuye. Este fenómeno se conoce como 'efecto expulsión' o 'crowding out'.",
+      "question": "7. ¿Qué ocurre si el gobierno aumenta el gasto público con déficit?",
+      "options": [
+        "Aumenta el ahorro nacional",
+        "Disminuye la inversión privada",
+        "Baja el tipo de interés",
+        "Aumenta la oferta de fondos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Si el gobierno <strong>aumenta el gasto público</strong> sin aumentar impuestos, el <strong>ahorro público</strong> (T - G) <strong>disminuye</strong>.</p><p>Esto reduce el <strong>ahorro nacional</strong> y la <strong>oferta de fondos prestables</strong>.</p><p>La curva de oferta se desplaza a la <strong>izquierda</strong>.</p><p>El <strong>tipo de interés de equilibrio sube</strong>.</p><p>A mayor tipo de interés, la <strong>inversión privada disminuye</strong>.</p><p>Este fenómeno se llama <strong>efecto expulsión</strong> (crowding out).</p>"
+    },
+    {
+      "intro": "El efecto expulsión (crowding out) ocurre cuando un aumento del déficit público reduce el ahorro nacional y eleva el tipo de interés, lo que desincentiva la inversión privada. Es un trade-off: el gasto público puede estimular la demanda a corto plazo, pero puede reducir la inversión productiva a largo plazo, afectando el crecimiento futuro.",
+      "question": "8. ¿Qué es el efecto expulsión?",
+      "options": [
+        "El aumento de la inversión por políticas públicas",
+        "La reducción de la inversión privada por un déficit público alto",
+        "El aumento del ahorro nacional",
+        "La disminución del tipo de interés"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>efecto expulsión</u> (crowding out) ocurre cuando un <strong>aumento del déficit público</strong> reduce el <strong>ahorro nacional</strong> y eleva el <strong>tipo de interés</strong>.</p><p>Esto <strong>desincentiva la inversión privada</strong>, ya que el costo de financiamiento aumenta.</p><p>Es un trade-off:<br>• A corto plazo: el gasto público puede estimular la demanda.<br>• A largo plazo: puede reducir la inversión productiva y el crecimiento.</p><p>El grado del efecto depende del contexto económico.</p>"
+    },
+    {
+      "intro": "Si aumenta la confianza empresarial, las empresas planean más inversión, lo que aumenta la demanda de fondos prestables. Esto desplaza la curva de demanda a la derecha, elevando el tipo de interés de equilibrio. A mayor tipo de interés, el ahorro puede aumentar ligeramente, pero la inversión total aumenta por el impulso inicial de confianza.",
+      "question": "9. ¿Qué efecto tiene un aumento de la confianza empresarial en el mercado de fondos prestables?",
+      "options": [
+        "Disminuye la demanda de inversión",
+        "Aumenta la demanda de inversión y el tipo de interés",
+        "Baja el tipo de interés",
+        "No tiene efecto"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>aumento de la confianza empresarial</u> lleva a que las empresas planeen más <strong>inversión</strong>.</p><p>Esto <strong>aumenta la demanda de fondos prestables</strong>.</p><p>La curva de demanda se desplaza a la <strong>derecha</strong>.</p><p>El <strong>tipo de interés de equilibrio sube</strong>.</p><p>A mayor tipo de interés, el <strong>ahorro</strong> puede aumentar ligeramente.</p><p>La <strong>inversión total aumenta</strong> por el impulso inicial de confianza.</p>"
+    },
+    {
+      "intro": "Si aumentan los impuestos sin cambiar el gasto público, el ahorro público (T - G) aumenta. Esto aumenta el ahorro nacional y la oferta de fondos prestables, desplazando la curva de oferta a la derecha. El tipo de interés de equilibrio disminuye, lo que incentiva más inversión privada. Este es un ejemplo de política fiscal contractiva que puede estimular la inversión.",
+      "question": "10. ¿Qué ocurre si aumentan los impuestos sin cambiar el gasto?",
+      "options": [
+        "Aumenta el déficit",
+        "Disminuye el tipo de interés y aumenta la inversión",
+        "Aumenta el tipo de interés",
+        "Disminuye el ahorro nacional"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Si <strong>aumentan los impuestos</strong> sin cambiar el gasto, el <strong>ahorro público</strong> (T - G) <strong>aumenta</strong>.</p><p>Esto aumenta el <strong>ahorro nacional</strong> y la <strong>oferta de fondos prestables</strong>.</p><p>La curva de oferta se desplaza a la <strong>derecha</strong>.</p><p>El <strong>tipo de interés de equilibrio disminuye</strong>.</p><p>A menor tipo de interés, la <strong>inversión privada aumenta</strong>.</p><p>Es un ejemplo de política fiscal contractiva que puede <strong>estimular la inversión</strong>.</p>"
+    },
+    {
+      "intro": "Los bancos comerciales son intermediarios financieros que toman depósitos de ahorradores y los prestan a inversores. Actúan como puente entre quienes tienen exceso de fondos y quienes los necesitan. Al transformar depósitos en préstamos, crean dinero bancario y facilitan la inversión. Su solvencia y liquidez son clave para la estabilidad del sistema financiero.",
+      "question": "11. ¿Qué función cumplen los bancos comerciales?",
+      "options": [
+        "Imprimir dinero",
+        "Conectar ahorradores con inversores mediante depósitos y préstamos",
+        "Fijar tipos de interés",
+        "Controlar la inflación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Los <u>bancos comerciales</u> son <strong>intermediarios financieros</strong> que toman <strong>depósitos</strong> de ahorradores y los <strong>prestan</strong> a inversores.</p><p>Actúan como puente entre quienes tienen exceso de fondos y quienes los necesitan.</p><p>Transforman depósitos en préstamos, facilitando la <strong>inversión</strong>.</p><p>Al hacerlo, crean <strong>dinero bancario</strong> (oferta monetaria).</p><p>Su <strong>solvencia</strong> (activos > pasivos) y <strong>liquidez</strong> (capacidad de pago) son clave para la estabilidad financiera.</p>"
+    },
+    {
+      "intro": "La bolsa de valores es un mercado financiero donde se compran y venden acciones de empresas. Permite a las empresas recaudar fondos para inversión (financiación propia) y a los inversores compartir beneficios y riesgos. Aunque no es un intermediario directo como los bancos, facilita la asignación de capital hacia empresas con mejores perspectivas de rentabilidad.",
+      "question": "12. ¿Qué función cumple la bolsa de valores?",
+      "options": [
+        "Prestar dinero a empresas",
+        "Permitir la compra y venta de acciones, facilitando la financiación de empresas",
+        "Fijar tipos de interés",
+        "Controlar la inflación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>bolsa de valores</u> es un <strong>mercado financiero</strong> donde se compran y venden <strong>acciones</strong> de empresas.</p><p>Permite a las empresas <strong>recaudar fondos</strong> para inversión (financiación propia).</p><p>A los inversores les permite <strong>compartir beneficios</strong> (dividendos) y <strong>riesgos</strong> (pérdidas).</p><p>Facilita la asignación eficiente de capital hacia empresas con mejores perspectivas de rentabilidad.</p><p>No es un intermediario directo, pero es clave para el crecimiento económico.</p>"
+    },
+    {
+      "intro": "Un fondo mutuo es un intermediario financiero que agrupa el dinero de muchos inversores para comprar una cartera diversificada de activos, como acciones o bonos. Permite a inversores pequeños diversificar su cartera y reducir riesgos. Los fondos son gestionados por profesionales y cobran una comisión por su gestión.",
+      "question": "13. ¿Qué ventaja ofrece un fondo mutuo?",
+      "options": [
+        "Permite evitar impuestos",
+        "Ofrece diversificación y gestión profesional",
+        "Garantiza ganancias",
+        "Elimina todo riesgo"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>fondo mutuo</u> agrupa el dinero de muchos inversores para comprar una <strong>cartera diversificada</strong> de activos (acciones, bonos).</p><p>Ofrece:<br>• <strong>Diversificación</strong>: reduce el riesgo al no depender de un solo activo.<br>• <strong>Gestión profesional</strong>: inversiones decididas por expertos.<br>• <strong>Acceso</strong> a mercados para inversores pequeños.</p><p>Los fondos cobran una <strong>comisión</strong> por gestión.</p><p>No garantizan ganancias ni eliminan riesgos, pero reducen el riesgo específico.</p>"
+    },
+    {
+      "intro": "La inversión extranjera directa (IED) ocurre cuando una empresa de un país adquiere o construye activos productivos en otro país, como una fábrica o una empresa. A diferencia de la inversión en cartera (comprar acciones o bonos), la IED implica control sobre la operación. La IED puede transferir tecnología, conocimientos y empleo al país receptor.",
+      "question": "14. ¿Qué caracteriza a la inversión extranjera directa?",
+      "options": [
+        "Comprar acciones en bolsa",
+        "Adquirir o construir activos productivos en otro país con control",
+        "Prestar dinero al gobierno",
+        "Invertir en fondos mutuos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>inversión extranjera directa</u> (IED) ocurre cuando una empresa de un país <strong>adquiere o construye activos productivos</strong> en otro país (ej. fábrica, empresa).</p><p>A diferencia de la inversión en cartera (comprar acciones), la IED implica <strong>control</strong> sobre la operación.</p><p>Puede transferir:<br>• <strong>Tecnología</strong><br>• <strong>Conocimientos</strong><br>• <strong>Empleo</strong> al país receptor.</p><p>Beneficia al país inversor (mayores beneficios) y al receptor (crecimiento, empleo).</p>"
+    },
+    {
+      "intro": "En una economía abierta, el ahorro nacional no tiene que igualar a la inversión nacional. La diferencia es el saldo exterior (exportaciones netas). Si el ahorro nacional es mayor que la inversión, hay superávit exterior (ahorro neto hacia el exterior). Si es menor, hay déficit exterior (financiamiento desde el exterior). El tipo de interés mundial iguala el ahorro e inversión global.",
+      "question": "15. ¿Qué ocurre en una economía abierta con ahorro nacional mayor que inversión?",
+      "options": [
+        "Hay déficit exterior",
+        "Hay superávit exterior",
+        "El tipo de interés sube",
+        "No hay comercio"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>En una <u>economía abierta</u>, el <strong>ahorro nacional</strong> no tiene que igualar a la <strong>inversión nacional</strong>.</p><p>La diferencia es el <strong>saldo exterior</strong> (exportaciones netas):<br>• Si S > I: <strong>superávit exterior</strong> (el país presta al resto del mundo)<br>• Si S < I: <strong>déficit exterior</strong> (el país se financia desde el exterior)</p><p>El tipo de interés tiende a igualarse al <strong>tipo mundial</strong>.</p><p>El ahorro e inversión se coordinan a nivel global.</p>"
+    }
+  ]
+}
