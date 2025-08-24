@@ -1,1 +1,187 @@
 
+{
+  "title": "Investigación de Mercados",
+  "description": "Quiz sobre los tipos de investigación de mercados, diseño de estudios, métodos de recolección de datos, encuestas, observación y análisis de resultados.",
+  "questions": [
+    {
+      "intro": "La investigación de mercados es un proceso sistemático que ayuda a las empresas a tomar decisiones basadas en datos, no en suposiciones. Comienza con la definición clara del problema o la oportunidad. Un problema mal definido lleva a soluciones incorrectas. Por ejemplo, si las ventas bajan, el problema no es necesariamente el producto, sino quizás la distribución, el precio o la competencia.",
+      "question": "1. ¿Por qué es crucial definir correctamente el problema en la investigación de mercados?",
+      "options": [
+        "Para hacer más encuestas",
+        "Para asegurar que la investigación resuelva el problema real",
+        "Para usar solo datos secundarios",
+        "Para reducir costos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Definir correctamente el <u>problema de investigación</u> es el <strong>primer y más importante paso</strong> en cualquier estudio de mercado.</p><p>Un problema mal definido lleva a <strong>soluciones incorrectas</strong>, por muy bien que se ejecute la investigación.</p><p>Ejemplo: Si las ventas de un producto están bajando, el problema <strong>no es necesariamente el producto</strong>. Podría ser:<br>• Un <strong>precio inadecuado</strong>.<br>• <strong>Problemas de distribución</strong> (no está disponible).<br>• <strong>Campañas publicitarias ineficaces</strong>.<br>• <strong>Entrada de un competidor fuerte</strong>.</p><p>La definición del problema debe ser:<br>• <strong>Clara</strong>: entendible por todos los involucrados.<br>• <strong>Enfocada</strong>: lo suficientemente específica para guiar la investigación.<br>• <strong>Accesible</strong>: susceptible de ser investigado con los recursos disponibles.</p><p>Una buena definición guía todo el proceso: qué datos recoger, cómo recogerlos y cómo analizarlos.</p>"
+    },
+    {
+      "intro": "El diseño de la investigación determina el enfoque general del estudio: exploratorio, descriptivo o causal. Un diseño exploratorio se usa cuando el problema es vago y se necesitan insights. Un diseño descriptivo mide variables específicas. Un diseño causal busca determinar relaciones de causa-efecto, como el impacto de un descuento en las ventas.",
+      "question": "2. ¿Qué tipo de diseño de investigación se usa para determinar relaciones de causa-efecto?",
+      "options": [
+        "Exploratorio",
+        "Descriptivo",
+        "Causal",
+        "No experimental"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>El <u>diseño de la investigación</u> es el marco general que guía el estudio. Hay tres tipos principales:</p><p>• <strong>Exploratorio</strong>:<br>– Se usa cuando el problema es <strong>vago o poco comprendido</strong>.<br>– Objetivo: <strong>generar ideas, insights y hipótesis</strong>.<br>– Métodos: entrevistas cualitativas, grupos focales, revisión de datos secundarios.<br>– Ejemplo: “¿Por qué los jóvenes no usan nuestro producto?”</p><p>• <strong>Descriptivo</strong>:<br>– Se usa para <strong>medir</strong> variables específicas (preferencias, actitudes, comportamientos).<br>– Objetivo: <strong>describir</strong> quiénes son los clientes, qué compran, cuándo y dónde.<br>– Métodos: encuestas cuantitativas con muestras grandes.<br>– Ejemplo: “¿Qué porcentaje de consumidores prefiere el sabor X?”</p><p>• <strong>Causal</strong>:<br>– Se usa para <strong>determinar relaciones de causa-efecto</strong>.<br>– Objetivo: <strong>probar hipótesis</strong> sobre el impacto de una variable sobre otra.<br>– Métodos: <strong>experimentos</strong> (pruebas A/B, pruebas de campo).<br>– Ejemplo: “¿Aumenta un descuento del 20% las ventas en un 30%?”</p><p>El diseño elegido determina los métodos de recolección de datos y el análisis.</p>"
+    },
+    {
+      "intro": "La investigación exploratoria se utiliza cuando el problema es nuevo o poco entendido. Busca generar hipótesis, identificar variables clave y comprender el contexto. Métodos comunes incluyen entrevistas en profundidad, grupos focales y revisión de literatura. Es flexible y cualitativa, y suele ser el primer paso antes de una investigación más estructurada.",
+      "question": "3. ¿Cuál es el objetivo principal de la investigación exploratoria?",
+      "options": [
+        "Medir la cuota de mercado",
+        "Generar hipótesis y comprender el contexto",
+        "Calcular la rentabilidad",
+        "Hacer una encuesta masiva"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>investigación exploratoria</u> tiene como objetivo principal <strong>explorar un problema poco comprendido</strong> y <strong>generar ideas, insights y hipótesis</strong> para investigaciones posteriores.</p><p>Se utiliza cuando:<br>• El problema es <strong>vago o nuevo</strong>.<br>• No hay suficiente información previa.<br>• Se necesita <strong>entender el contexto</strong> antes de definir variables.</p><p>Métodos comunes:<br>• <strong>Entrevistas en profundidad</strong>: conversaciones individuales y abiertas con expertos o consumidores.<br>• <strong>Grupos focales</strong>: discusiones moderadas con 6-10 personas para explorar actitudes y emociones.<br>• <strong>Revisión de literatura</strong>: análisis de estudios, informes y artículos existentes.<br>• <strong>Observación</strong>: estudiar el comportamiento en entornos naturales.</p><p>Características:<br>• <strong>Cualitativa</strong> (datos verbales, no numéricos).<br>• <strong>Flexible</strong>: el enfoque puede ajustarse durante el estudio.<br>• <strong>Pequeñas muestras</strong>: no busca generalizar, sino profundizar.<br>• <strong>Generativa</strong>: crea nuevas ideas y preguntas.</p><p>Es el <strong>primer paso</strong> antes de una investigación descriptiva o causal más estructurada.</p>"
+    },
+    {
+      "intro": "La investigación descriptiva mide las características de un fenómeno de marketing, como la frecuencia de compra, la satisfacción del cliente o la imagen de marca. Utiliza métodos cuantitativos, especialmente encuestas con muestras grandes y representativas. El diseño debe ser preciso y estructurado para permitir generalizaciones estadísticas.",
+      "question": "4. ¿Qué método es más común en la investigación descriptiva?",
+      "options": [
+        "Grupos focales",
+        "Entrevistas en profundidad",
+        "Encuestas cuantitativas",
+        "Observación etnográfica"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>La <u>investigación descriptiva</u> tiene como objetivo <strong>medir</strong> las características de un fenómeno de marketing de forma <strong>precisa y sistemática</strong>.</p><p>Responde preguntas como:<br>• ¿Qué porcentaje de consumidores conoce nuestra marca?<br>• ¿Cuál es el nivel de satisfacción promedio?<br>• ¿Cuál es la frecuencia de compra?<br>• ¿Cómo se percibe nuestra marca frente a la competencia?</p><p>El método más común es la <strong>encuesta cuantitativa</strong>, que utiliza cuestionarios estructurados aplicados a <strong>muestras grandes y representativas</strong>.</p><p>Características del diseño:<br>• <strong>Cuantitativo</strong>: datos numéricos que permiten análisis estadístico.<br>• <strong>Estructurado</strong>: preguntas fijas, mismas opciones de respuesta.<br>• <strong>Generalizable</strong>: los resultados pueden extrapolarse a la población total.<br>• <strong>Objetivo</strong>: minimiza el sesgo del investigador.</p><p>Otros métodos:<br>• Análisis de datos de transacciones.<br>• Observación sistemática (conteo de tráfico en tiendas).</p><p>Es ideal para <strong>monitorear</strong> el desempeño y <strong>evaluar</strong> campañas.</p>"
+    },
+    {
+      "intro": "La investigación causal busca determinar si una variable causa un cambio en otra. Por ejemplo, si un cambio en el precio afecta las ventas, o si una campaña publicitaria aumenta la intención de compra. Los experimentos, como pruebas A/B, son el método más confiable para establecer causalidad, ya que controlan variables externas.",
+      "question": "5. ¿Qué método es más confiable para establecer relaciones de causa-efecto?",
+      "options": [
+        "Grupos focales",
+        "Encuestas",
+        "Experimentos (pruebas A/B)",
+        "Revisión de literatura"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>La <u>investigación causal</u> busca <strong>determinar si una variable causa un cambio</strong> en otra variable.</p><p>Ejemplos:<br>• ¿Un <strong>descuento del 20%</strong> aumenta las ventas en un 30%?<br>• ¿Una <strong>nueva campaña publicitaria</strong> aumenta la intención de compra?<br>• ¿Un <strong>cambio en el empaque</strong> mejora la percepción de calidad?</p><p>El método más confiable para establecer causalidad es el <strong>experimento</strong>.</p><p>Características de un experimento:<br>• <strong>Manipulación de la variable independiente</strong> (ej. precio, mensaje publicitario).<br>• <strong>Medición de la variable dependiente</strong> (ej. ventas, intención de compra).<br>• <strong>Control de variables externas</strong> (aleatorización, grupos de control).<br>• <strong>Replicabilidad</strong>.</p><p>Tipos:<br>• <strong>Pruebas A/B</strong>: se comparan dos versiones (ej. dos diseños de página web).<br>• <strong>Pruebas de campo</strong>: en entornos reales (tiendas, mercados).<br>• <strong>Pruebas de laboratorio</strong>: en entornos controlados.</p><p>Los experimentos permiten <strong>aislar el efecto</strong> de la variable de interés, lo que no es posible con encuestas o observación pura.</p>"
+    },
+    {
+      "intro": "Las encuestas son el método más utilizado para recoger datos en la investigación de mercados. Pueden realizarse por teléfono, correo, online o en persona. El diseño del cuestionario es crucial: las preguntas deben ser claras, no sesgadas y adecuadas al objetivo del estudio. Un mal diseño puede invalidar todo el estudio.",
+      "question": "6. ¿Qué aspecto es crucial en el diseño de un cuestionario?",
+      "options": [
+        "Que sea muy largo",
+        "Que las preguntas sean claras y no sesgadas",
+        "Que use términos técnicos",
+        "Que ignore el objetivo del estudio"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Las <u>encuestas</u> son el método <strong>más utilizado</strong> para recoger datos en la investigación de mercados.</p><p>Pueden administrarse por:<br>• <strong>Teléfono</strong><br>• <strong>Correo</strong> (físico o email)<br>• <strong>Online</strong> (web, móviles)<br>• <strong>En persona</strong> (en tiendas, calles)</p><p>El <strong>diseño del cuestionario</strong> es <strong>crucial</strong> para la validez del estudio.</p><p>Principios de diseño:<br>• <strong>Claridad</strong>: preguntas fáciles de entender.<br>• <strong>Neutralidad</strong>: evitar preguntas sesgadas (ej. “¿No cree que nuestro producto es excelente?”).<br>• <strong>Relevancia</strong>: todas las preguntas deben relacionarse con el objetivo del estudio.<br>• <strong>Orden lógico</strong>: comenzar con preguntas generales, luego específicas.<br>• <strong>Escalas adecuadas</strong>: usar escalas de Likert, diferenciales semánticos, etc., de forma consistente.</p><p>Errores comunes:<br>• Preguntas <strong>ambiguas</strong> o <strong>dobles</strong> (dos preguntas en una).<br>• Opciones de respuesta <strong>no exhaustivas</strong> o <strong>no mutuamente excluyentes</strong>.<br>• <strong>Sesgo de orden</strong> en las opciones.</p><p>Un cuestionario mal diseñado puede <strong>invalidar</strong> todo el estudio, por muy buena que sea la muestra.</p>"
+    },
+    {
+      "intro": "La observación es un método de recolección de datos que implica ver y registrar el comportamiento de los consumidores en su entorno natural, sin que respondan a preguntas. Es útil para estudiar comportamientos reales, como el tráfico en tiendas, la selección de productos o el uso de servicios. Puede ser estructurada (con guión) o no estructurada.",
+      "question": "7. ¿Qué ventaja tiene el método de observación sobre las encuestas?",
+      "options": [
+        "Mide lo que la gente dice que hace",
+        "Mide lo que la gente realmente hace",
+        "Es más barata",
+        "No requiere diseño"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>observación</u> es un método de recolección de datos que implica <strong>ver y registrar el comportamiento</strong> de los consumidores en su entorno natural, sin que respondan a preguntas.</p><p>Ventaja clave: <strong>mide lo que la gente <em>realmente hace</em></strong>, no lo que <em>dice que hace</em> (que puede estar influenciado por el deseo de agradar o la memoria).</p><p>Aplicaciones:<br>• <strong>Tráfico en tiendas</strong>: patrones de movimiento, zonas de mayor interés.<br>• <strong>Selección de productos</strong>: qué productos miran, manipulan, comparan, compran.<br>• <strong>Uso de servicios</strong>: cómo interactúan con cajeros automáticos, apps, etc.<br>• <strong>Publicidad</strong>: si miran los carteles, por cuánto tiempo.</p><p>Tipos:<br>• <strong>Estructurada</strong>: con un guión o lista de comportamientos a registrar.<br>• <strong>No estructurada</strong>: observación abierta y flexible.<br>• <strong>Participante</strong>: el investigador se involucra en la situación.<br>• <strong>No participante</strong>: el investigador observa sin intervenir.</p><p>Limitaciones:<br>• No revela <strong>motivaciones o actitudes</strong> (solo comportamientos).<br>• Puede ser <strong>costosa y lenta</strong>.<br>• <strong>Efecto observador</strong>: los sujetos pueden cambiar su comportamiento si saben que están siendo observados.</p>"
+    },
+    {
+      "intro": "Los grupos focales son sesiones de discusión moderadas con 6 a 10 participantes que comparten características similares. Permiten explorar actitudes, emociones y percepciones en profundidad. El moderador guía la conversación para obtener insights valiosos. Son especialmente útiles para probar conceptos de productos, mensajes publicitarios o nombres de marca.",
+      "question": "8. ¿Cuántos participantes suele tener un grupo focal?",
+      "options": [
+        "1-2",
+        "6-10",
+        "50-100",
+        "Más de 100"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Los <u>grupos focales</u> son sesiones de <strong>discusión moderada</strong> con <strong>6 a 10 participantes</strong> que comparten características relevantes (edad, comportamiento de compra, etc.).</p><p>Objetivo: explorar en profundidad <strong>actitudes, emociones, percepciones y motivaciones</strong> respecto a un producto, servicio, marca o concepto.</p><p>El <strong>moderador</strong> guía la conversación con un guión, pero permite que surjan temas inesperados. Su habilidad es clave para crear un ambiente abierto y obtener insights valiosos.</p><p>Ventajas:<br>• <strong>Insights ricos y profundos</strong>.<br>• <strong>Interacción entre participantes</strong>: un comentario puede desencadenar otros.<br>• Ideal para <strong>probar conceptos</strong> (productos, publicidad, nombres de marca).<br>• Rápido y relativamente <strong>económico</strong> para obtener ideas cualitativas.</p><p>Limitaciones:<br>• No es <strong>generalizable</strong> (muestra pequeña).<br>• Puede estar dominado por <strong>participantes extrovertidos</strong>.<br>• El <strong>moderador</strong> puede influir en las respuestas.<br>• <strong>Difícil de analizar</strong> (datos verbales, no numéricos).</p><p>Son una herramienta clave en la <strong>investigación cualitativa</strong> y en etapas <strong>iniciales</strong> del desarrollo.</p>"
+    },
+    {
+      "intro": "La validez de un estudio de investigación se refiere a si mide realmente lo que pretende medir. La fiabilidad se refiere a la consistencia de los resultados si el estudio se repite. Un estudio puede ser fiable pero no válido (mide consistentemente algo equivocado), pero no puede ser válido si no es fiable.",
+      "question": "9. ¿Qué diferencia hay entre validez y fiabilidad?",
+      "options": [
+        "Son lo mismo",
+        "Validez: mide lo correcto; Fiabilidad: mide de forma consistente",
+        "Fiabilidad: mide lo correcto; Validez: mide de forma consistente",
+        "No importan"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>validez</u> y la <u>fiabilidad</u> son dos criterios clave para evaluar la <strong>calidad</strong> de un estudio de investigación.</p><p>• <strong>Validez</strong>:<br>– Se refiere a si el estudio <strong>mide realmente lo que pretende medir</strong>.<br>– Ejemplo: un cuestionario sobre satisfacción del cliente es válido si realmente refleja la satisfacción, no otra cosa (como conocimiento de la marca).<br>– Tipos: validez de contenido, de criterio, de constructo.</p><p>• <strong>Fiabilidad</strong>:<br>– Se refiere a la <strong>consistencia</strong> de los resultados.<br>– Si el estudio se repite en condiciones similares, ¿obtendría resultados similares?<br>– Ejemplo: un termómetro es fiable si da la misma lectura varias veces, aunque no sea precisa.<br>– Métodos para evaluarla: test-retest, consistencia interna (alfa de Cronbach).</p><p>Relación:<br>• Un estudio puede ser <strong>fiable pero no válido</strong> (mide consistentemente algo equivocado).<br>• No puede ser <strong>válido si no es fiable</strong> (si los resultados varían mucho, no puede estar midiendo lo correcto).<br>• El objetivo es lograr <strong>ambos</strong>: medir de forma consistente lo correcto.</p>"
+    },
+    {
+      "intro": "El análisis de datos en la investigación de mercados implica transformar los datos recopilados en información útil. Incluye la codificación, tabulación, análisis estadístico y visualización. Herramientas como Excel, SPSS o R permiten realizar análisis descriptivos (medias, frecuencias) e inferenciales (pruebas de hipótesis, regresión). El análisis debe responder a los objetivos del estudio.",
+      "question": "10. ¿Qué tipo de análisis se usa para probar hipótesis en investigación de mercados?",
+      "options": [
+        "Análisis descriptivo",
+        "Análisis inferencial",
+        "Análisis cualitativo",
+        "Análisis de contenido"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>análisis de datos</u> en investigación de mercados transforma los datos recopilados en <strong>información útil</strong> para la toma de decisiones.</p><p>Etapa clave del proceso.</p><p>Actividades:<br>• <strong>Codificación</strong>: asignar códigos numéricos a respuestas abiertas.<br>• <strong>Tabulación</strong>: organizar datos en tablas (frecuencias, cruces).<br>• <strong>Limpieza de datos</strong>: corregir errores, valores atípicos.<br>• <strong>Análisis estadístico</strong>.</p><p>Tipos de análisis:<br>• <strong>Descriptivo</strong>: resume los datos (medias, medianas, modas, desviaciones estándar, frecuencias).<br>• <strong>Inferencial</strong>: permite <strong>probar hipótesis</strong> y <strong>generalizar</strong> resultados a la población.<br>  – Pruebas de hipótesis (t-test, ANOVA).<br>  – Correlación y regresión.<br>  – Análisis factorial, cluster.<br>• <strong>Cualitativo</strong>: análisis de contenido, identificación de temas.</p><p>Herramientas:<br>• Excel (básico).<br>• SPSS, R, Python (avanzado).<br>• Software de análisis cualitativo (NVivo).</p><p>El análisis debe <strong>responder a los objetivos</strong> del estudio y comunicarse de forma clara.</p>"
+    },
+    {
+      "intro": "La presentación de resultados es la etapa final de la investigación de mercados. Debe ser clara, concisa y orientada a la acción. Incluye un resumen ejecutivo, metodología, hallazgos clave, conclusiones y recomendaciones. Las visualizaciones (gráficos, tablas) ayudan a comunicar los resultados de forma efectiva a los tomadores de decisiones.",
+      "question": "11. ¿Qué debe incluir un informe de investigación de mercados?",
+      "options": [
+        "Solo datos brutos",
+        "Resumen ejecutivo, hallazgos, conclusiones y recomendaciones",
+        "Solo el presupuesto",
+        "Solo el diseño del cuestionario"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>presentación de resultados</u> es la <strong>etapa final</strong> y <strong>crucial</strong> de la investigación de mercados.</p><p>Un informe mal presentado puede hacer que <strong>resultados valiosos sean ignorados</strong>.</p><p>Debe ser:<br>• <strong>Clara</strong>: fácil de entender.<br>• <strong>Concisa</strong>: ir al grano.<br>• <strong>Orientada a la acción</strong>: que ayude a tomar decisiones.</p><p>Estructura típica:<br>1. <strong>Resumen ejecutivo</strong>: objetivos, métodos, hallazgos clave, recomendaciones (para lectores ocupados).<br>2. <strong>Introducción</strong>: contexto y objetivos del estudio.<br>3. <strong>Metodología</strong>: diseño, muestra, métodos de recolección.<br>4. <strong>Hallazgos clave</strong>: datos más importantes, con gráficos y tablas.<br>5. <strong>Conclusiones</strong>: interpretación de los hallazgos.<br>6. <strong>Recomendaciones</strong>: acciones concretas basadas en los resultados.<br>7. <strong>Apéndices</strong>: cuestionario, tablas completas, detalles técnicos.</p><p>Visualizaciones:<br>• <strong>Gráficos</strong> (barras, líneas, pastel) para mostrar tendencias y comparaciones.<br>• <strong>Tablas</strong> para datos precisos.<br>• <strong>Mapas de posicionamiento</strong> para comparar marcas.<br>• <strong>Word clouds</strong> para análisis cualitativo.</p><p>El informe debe <strong>responder a la pregunta inicial</strong> y guiar la acción.</p>"
+    },
+    {
+      "intro": "La ética en la investigación de mercados implica tratar a los participantes con respeto, obtener su consentimiento informado, garantizar su anonimato y confidencialidad, y no manipular ni engañar. Las empresas y asociaciones profesionales (como ESOMAR) establecen códigos de ética para proteger a los consumidores y mantener la credibilidad de la profesión.",
+      "question": "12. ¿Qué es el consentimiento informado en investigación de mercados?",
+      "options": [
+        "Obligar a participar",
+        "Informar a los participantes sobre el estudio y obtener su autorización",
+        "Ocultar el propósito",
+        "Pagar menos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>ética</u> en la investigación de mercados es fundamental para <strong>proteger a los participantes</strong> y <strong>mantener la credibilidad</strong> de la profesión.</p><p>Principios clave:<br>• <strong>Consentimiento informado</strong>: los participantes deben ser <strong>informados</strong> sobre el propósito del estudio, su duración, cómo se usarán sus datos y dar su <strong>autorización explícita</strong> para participar.<br>• <strong>Anonimato y confidencialidad</strong>: no revelar la identidad de los participantes ni sus respuestas individuales.<br>• <strong>Respeto</strong>: tratar a los participantes con dignidad, sin coerción.<br>• <strong>Transparencia</strong>: no ocultar el propósito del estudio (aunque en algunos casos se use ocultamiento ético, debe justificarse).<br>• <strong>No manipulación</strong>: no engañar ni inducir a error.</p><p>Asociaciones como <strong>ESOMAR</strong> y <strong>ICC</strong> establecen <strong>códigos de ética</strong> internacionales.<br>Las empresas también tienen políticas internas.</p><p>Violaciones éticas pueden dañar la <strong>reputación</strong> de la empresa, generar <strong>desconfianza</strong> en los consumidores y llevar a <strong>sanciones legales</strong>.</p>"
+    },
+    {
+      "intro": "La investigación online ha revolucionado la recolección de datos, permitiendo encuestas más rápidas, económicas y con mayor alcance geográfico. Plataformas como SurveyMonkey o Google Forms facilitan el diseño y distribución. También permite pruebas A/B, análisis de comportamiento en sitios web y minería de datos sociales. Sin embargo, requiere cuidado con la representatividad de la muestra.",
+      "question": "13. ¿Qué ventaja ofrece la investigación online?",
+      "options": [
+        "Mayor costo",
+        "Mayor velocidad, alcance y bajo costo",
+        "Menor precisión",
+        "Solo para jóvenes"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>investigación online</u> ha <strong>revolucionado</strong> la forma de recoger datos en marketing.</p><p>Ventajas:<br>• <strong>Mayor velocidad</strong>: distribución y recogida de respuestas en horas o días.<br>• <strong>Alcance geográfico</strong>: acceso a muestras globales.<br>• <strong>Bajo costo</strong>: sin impresión, correo ni entrevistadores.<br>• <strong>Facilidad de uso</strong>: plataformas como SurveyMonkey, Google Forms, Qualtrics.<br>• <strong>Flexibilidad</strong>: lógica de salto, multimedia, pruebas A/B.<br>• <strong>Integración con otros datos</strong>: comportamiento en sitios web, redes sociales.</p><p>Aplicaciones:<br>• Encuestas cuantitativas.<br>• Pruebas de conceptos y publicidad.<br>• Análisis de comportamiento (clickstream, heatmaps).<br>• Minería de datos sociales (sentiment analysis).<br>• Panel de consumidores online.</p><p>Desafíos:<br>• <strong>Representatividad</strong>: no todos tienen acceso a internet o responden encuestas online.<br>• <strong>Sesgo de auto-selección</strong>: quienes responden pueden no ser representativos.<br>• <strong>Abandono</strong> de encuestas largas.<br>• <strong>Validación</strong> de identidad (bots, múltiples respuestas).</p><p>Debe diseñarse cuidadosamente para maximizar la calidad de los datos.</p>"
+    },
+    {
+      "intro": "El big data en marketing se refiere al análisis de grandes volúmenes de datos estructurados y no estructurados, como transacciones, clics en sitios web, redes sociales y sensores. Permite obtener insights en tiempo real, personalizar ofertas y predecir comportamientos. Herramientas como el análisis predictivo y el machine learning son clave para extraer valor del big data.",
+      "question": "14. ¿Qué permite el big data en marketing?",
+      "options": [
+        "Ignorar a los clientes",
+        "Obtener insights en tiempo real y personalizar ofertas",
+        "Reducir la calidad",
+        "Aumentar los precios automáticamente"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>big data</u> en marketing se refiere al análisis de <strong>grandes volúmenes</strong> de datos, a alta <strong>velocidad</strong> y de <strong>diversos tipos</strong> (estructurados y no estructurados).</p><p>Fuentes:<br>• Transacciones de compra.<br>• Comportamiento en sitios web y apps (clics, tiempo, rutas).<br>• Redes sociales (comentarios, 'me gusta', compartidos).<br>• Correos electrónicos y chatbots.<br>• Sensores y dispositivos IoT (geolocalización, wearables).<br>• Vídeos y audio.</p><p>Permite:<br>• <strong>Insights en tiempo real</strong> sobre el comportamiento del cliente.<br>• <strong>Personalización</strong> de ofertas, precios y mensajes (marketing one-to-one).<br>• <strong>Predicción</strong> de comportamientos (intención de compra, churn).<br>• <strong>Optimización</strong> de campañas publicitarias en tiempo real.<br>• <strong>Segmentación avanzada</strong> basada en micro-comportamientos.</p><p>Herramientas clave:<br>• <strong>Análisis predictivo</strong>: modelos estadísticos para predecir futuros comportamientos.<br>• <strong>Machine learning</strong>: algoritmos que aprenden de los datos para mejorar predicciones.<br>• <strong>CRM avanzado</strong>: integración de datos multicanal.</p><p>Desafíos:<br>• <strong>Privacidad</strong> y cumplimiento legal (GDPR).<br>• <strong>Calidad de los datos</strong>.<br>• <strong>Infraestructura</strong> y <strong>habilidades</strong> analíticas.</p>"
+    },
+    {
+      "intro": "La investigación de mercados no termina con la entrega del informe. Los resultados deben integrarse en la estrategia de marketing, guiar decisiones de producto, precio, promoción y distribución. Además, debe haber un sistema de seguimiento para evaluar el impacto de las decisiones basadas en la investigación y aprender para futuros estudios.",
+      "question": "15. ¿Qué debe hacerse con los resultados de la investigación de mercados?",
+      "options": [
+        "Archivarlos",
+        "Integrarlos en la estrategia y tomar decisiones basadas en ellos",
+        "Ignorarlos si no confirman suposiciones",
+        "Usarlos solo para justificar decisiones previas"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>investigación de mercados</u> no termina con la <strong>entrega del informe</strong>.</p><p>Su verdadero valor se realiza cuando los resultados se <strong>integran en la estrategia de marketing</strong> y guían decisiones concretas.</p><p>Aplicaciones:<br>• <strong>Producto</strong>: mejorar características, lanzar nuevos productos.<br>• <strong>Precio</strong>: ajustar precios según la sensibilidad de la demanda.<br>• <strong>Promoción</strong>: refinar mensajes publicitarios, elegir canales.<br>• <strong>Distribución</strong>: optimizar canales, ubicaciones de tiendas.<br>• <strong>Segmentación</strong>: enfocar recursos en segmentos más rentables.</p><p>Además, debe haber un <strong>sistema de seguimiento</strong>:<br>• <strong>Evaluar el impacto</strong> de las decisiones basadas en la investigación.<br>• <strong>Medir resultados</strong> (ventas, satisfacción, cuota de mercado).<br>• <strong>Aprender</strong> para mejorar futuros estudios y decisiones.</p><p>Una cultura de <strong>marketing basado en datos</strong> es clave para la competitividad sostenible.</p><p>Ignorar los resultados o usarlos solo para <strong>justificar decisiones previas</strong> desperdicia recursos y lleva a errores estratégicos.</p>"
+    }
+  ]
+}
