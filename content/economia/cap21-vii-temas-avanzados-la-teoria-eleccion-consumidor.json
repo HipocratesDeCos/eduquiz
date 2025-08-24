@@ -1,0 +1,186 @@
+{
+  "title": "La Teoría de la Elección del Consumidor",
+  "description": "Quiz sobre utilidad, curvas de indiferencia, restricción presupuestaria, equilibrio del consumidor y efectos renta y sustitución.",
+  "questions": [
+    {
+      "intro": "La teoría de la elección del consumidor explica cómo los individuos toman decisiones sobre qué bienes y servicios comprar, dadas sus preferencias y su restricción presupuestaria. Los consumidores buscan maximizar su utilidad, es decir, su satisfacción, dentro de los límites de su ingreso y los precios de los bienes. Este modelo utiliza herramientas como las curvas de indiferencia y la restricción presupuestaria para analizar cómo cambian las decisiones ante variaciones en precios o ingresos.",
+      "question": "1. ¿Qué busca maximizar un consumidor según la teoría de la elección?",
+      "options": [
+        "El ingreso",
+        "La utilidad o satisfacción",
+        "El ahorro",
+        "El número de bienes"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Según la <u>teoría de la elección del consumidor</u>, los individuos buscan <strong>maximizar su utilidad</strong>, es decir, su nivel de <strong>satisfacción</strong> o bienestar.</p><p>Lo hacen dentro de su <strong>restricción presupuestaria</strong>, que depende de su ingreso y los precios de los bienes.</p><p>La utilidad no se mide en unidades monetarias, sino en forma ordinal (preferencias).</p>"
+    },
+    {
+      "intro": "La utilidad es una medida del nivel de satisfacción que un consumidor obtiene al consumir un bien o una canasta de bienes. Puede ser total o marginal. La utilidad total es la satisfacción total; la marginal es el aumento en la utilidad al consumir una unidad adicional. La ley de utilidad marginal decreciente establece que cada unidad adicional proporciona menos satisfacción que la anterior.",
+      "question": "2. ¿Qué es la utilidad marginal?",
+      "options": [
+        "La satisfacción total",
+        "El aumento en la satisfacción al consumir una unidad adicional",
+        "El costo de un bien",
+        "El ingreso del consumidor"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>utilidad marginal</u> es el <strong>aumento en la satisfacción</strong> que obtiene un consumidor al consumir una <strong>unidad adicional</strong> de un bien.</p><p>La <strong>ley de utilidad marginal decreciente</strong> establece que cada unidad adicional proporciona <strong>menos satisfacción</strong> que la anterior.</p><p>Explica por qué la curva de demanda es descendente: a mayor consumo, menor disposición a pagar.</p>"
+    },
+    {
+      "intro": "Una curva de indiferencia representa todas las combinaciones de dos bienes que proporcionan al consumidor el mismo nivel de utilidad. Las curvas de indiferencia tienen pendiente negativa (por la relación de intercambio) y son convexas al origen (por la tasa marginal de sustitución decreciente). Un mapa de indiferencia muestra múltiples curvas, cada una representando un nivel diferente de utilidad.",
+      "question": "3. ¿Qué muestra una curva de indiferencia?",
+      "options": [
+        "El ingreso del consumidor",
+        "Combinaciones de bienes que dan la misma utilidad",
+        "El precio de los bienes",
+        "La producción total"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Una <u>curva de indiferencia</u> muestra todas las <strong>combinaciones de dos bienes</strong> que proporcionan al consumidor el <strong>mismo nivel de utilidad</strong>.</p><p>Tiene pendiente negativa: para mantener la utilidad, se debe renunciar a un bien para obtener más del otro.</p><p>Es <strong>convexa al origen</strong> por la <strong>tasa marginal de sustitución decreciente</strong>: se está dispuesto a renunciar a menos del bien que se tiene más.</p>"
+    },
+    {
+      "intro": "La tasa marginal de sustitución (TMS) es la cantidad de un bien a la que un consumidor está dispuesto a renunciar para obtener una unidad adicional del otro bien, manteniendo constante su utilidad. Es la pendiente de la curva de indiferencia. La TMS decrece a medida que se consume más de un bien, lo que refleja la ley de utilidad marginal decreciente.",
+      "question": "4. ¿Qué es la tasa marginal de sustitución?",
+      "options": [
+        "El precio de un bien",
+        "La cantidad de un bien que se renuncia para obtener otro, manteniendo la utilidad",
+        "El ingreso total",
+        "La utilidad total"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>tasa marginal de sustitución</u> (TMS) es la cantidad de un bien a la que un consumidor está dispuesto a <strong>renunciar</strong> para obtener una unidad adicional del otro bien, <strong>mantiene la utilidad constante</strong>.</p><p>Es la <strong>pendiente</strong> de la curva de indiferencia.</p><p>Decrece a medida que se consume más de un bien, por la <strong>utilidad marginal decreciente</strong>.</p><p>Refleja la <strong>relación de intercambio subjetiva</strong> entre bienes.</p>"
+    },
+    {
+      "intro": "La restricción presupuestaria muestra todas las combinaciones de bienes que un consumidor puede comprar con su ingreso dado los precios. Tiene pendiente negativa igual al cociente de precios (Px/Py). El consumidor no puede elegir combinaciones fuera de esta línea. Cambios en el ingreso o en los precios desplazan o rotan la restricción.",
+      "question": "5. ¿Qué determina la pendiente de la restricción presupuestaria?",
+      "options": [
+        "El ingreso del consumidor",
+        "El cociente de precios de los bienes",
+        "La utilidad marginal",
+        "La tasa de interés"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>restricción presupuestaria</u> muestra todas las combinaciones de bienes que un consumidor puede comprar con su <strong>ingreso</strong> y los <strong>precios</strong> dados.</p><p>Su <strong>pendiente</strong> es el cociente de precios: - (Px / Py).</p><p>Representa el <strong>costo de oportunidad</strong> de un bien en términos del otro.</p><p>Cambios en ingreso desplazan la recta; cambios en precios la rotan.</p>"
+    },
+    {
+      "intro": "El equilibrio del consumidor se alcanza en el punto donde la restricción presupuestaria es tangente a la curva de indiferencia más alta posible. En ese punto, la tasa marginal de sustitución (TMS) iguala al cociente de precios (Px/Py). Esto significa que el consumidor está maximizando su utilidad dada su restricción.",
+      "question": "6. ¿Dónde se alcanza el equilibrio del consumidor?",
+      "options": [
+        "Donde la utilidad marginal es cero",
+        "Donde la restricción es tangente a la curva de indiferencia más alta",
+        "Donde el ingreso es máximo",
+        "Donde los precios son iguales"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>equilibrio del consumidor</u> se alcanza en el punto donde la <strong>restricción presupuestaria</strong> es <strong>tangente</strong> a la <strong>curva de indiferencia más alta</strong> posible.</p><p>En ese punto, la <strong>tasa marginal de sustitución</strong> (TMS) iguala al <strong>cociente de precios</strong> (Px/Py).</p><p>Significa que el consumidor está <strong>maximizando su utilidad</strong> dada su restricción.</p><p>Es la mejor combinación que puede comprar.</p>"
+    },
+    {
+      "intro": "El efecto sustitución ocurre cuando un cambio en el precio de un bien hace que los consumidores sustituyan hacia el bien que se ha vuelto relativamente más barato. Por ejemplo, si sube el precio de la carne, los consumidores pueden comprar más pollo. Este efecto siempre va en dirección opuesta al cambio de precio.",
+      "question": "7. ¿Qué es el efecto sustitución?",
+      "options": [
+        "El cambio en el consumo por cambio en el ingreso",
+        "El cambio en el consumo por cambio relativo en precios",
+        "El aumento en la utilidad",
+        "La disminución del ingreso"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>efecto sustitución</u> es el cambio en el consumo que resulta de un cambio en los <strong>precios relativos</strong>, manteniendo constante el nivel de utilidad.</p><p>Si sube el precio de un bien, los consumidores <strong>sustituyen</strong> hacia bienes más baratos.</p><p>Siempre va en <strong>dirección opuesta</strong> al cambio de precio.</p><p>Es una respuesta a cambios en el <strong>costo de oportunidad</strong>.</p>"
+    },
+    {
+      "intro": "El efecto renta ocurre cuando un cambio en el precio de un bien cambia el poder adquisitivo real del consumidor, como si hubiera cambiado su ingreso. Por ejemplo, si baja el precio de la gasolina, el consumidor puede comprar más de todos los bienes, como si hubiera recibido un aumento de ingreso. Este efecto puede reforzar o contrarrestar el efecto sustitución.",
+      "question": "8. ¿Qué es el efecto renta?",
+      "options": [
+        "El cambio en el precio de un bien",
+        "El cambio en el poder adquisitivo real del consumidor",
+        "La utilidad marginal",
+        "La tasa de interés"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>efecto renta</u> es el cambio en el consumo que resulta de un cambio en el <strong>poder adquisitivo real</strong> del consumidor, causado por un cambio en el precio.</p><p>Si baja el precio de un bien, es como si el ingreso real <strong>aumentara</strong>.</p><p>Si sube, es como si <strong>disminuyera</strong>.</p><p>Puede reforzar o contrarrestar el <strong>efecto sustitución</strong>, dependiendo del tipo de bien (normal o inferior).</p>"
+    },
+    {
+      "intro": "Un bien normal es aquel cuya demanda aumenta cuando aumenta el ingreso del consumidor. Un bien inferior es aquel cuya demanda disminuye cuando aumenta el ingreso. Por ejemplo, el transporte público puede ser un bien inferior: a mayor ingreso, las personas usan más coches. Esta distinción es clave para entender cómo el efecto renta afecta la demanda.",
+      "question": "9. ¿Qué ocurre con la demanda de un bien normal si aumenta el ingreso?",
+      "options": [
+        "Disminuye",
+        "Permanece constante",
+        "Aumenta",
+        "Se vuelve inelástica"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>Un <u>bien normal</u> es aquel cuya demanda <strong>aumenta</strong> cuando aumenta el ingreso del consumidor.</p><p>La curva de demanda se desplaza a la derecha.</p><p>Ejemplos: ropa de calidad, viajes, restaurantes.</p><p>Contrasta con bienes inferiores (como transporte público o comida enlatada).</p>"
+    },
+    {
+      "intro": "Cuando baja el precio de un bien normal, el efecto sustitución lleva al consumidor a comprar más de ese bien (porque es más barato relativamente). El efecto renta también lleva a comprar más (porque el poder adquisitivo real aumenta). Ambos efectos van en la misma dirección, por lo que la demanda aumenta.",
+      "question": "10. ¿Qué ocurre cuando baja el precio de un bien normal?",
+      "options": [
+        "El efecto sustitución y renta van en direcciones opuestas",
+        "Ambos efectos llevan a comprar más del bien",
+        "La demanda disminuye",
+        "No hay efecto"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Cuando baja el precio de un <u>bien normal</u>:<br>• <strong>Efecto sustitución</strong>: se compra más porque es más barato relativamente.<br>• <strong>Efecto renta</strong>: se compra más porque el poder adquisitivo real aumenta.</p><p>Ambos efectos van en la <strong>misma dirección</strong>, por lo que la demanda aumenta.</p><p>La curva de demanda es descendente.</p>"
+    },
+    {
+      "intro": "Cuando baja el precio de un bien inferior, el efecto sustitución lleva al consumidor a comprar más de ese bien (porque es más barato). Pero el efecto renta lleva a comprar menos (porque el poder adquisitivo real aumenta y se prefiere bienes superiores). Si el efecto renta es más fuerte, puede haber una curva de demanda ascendente (paradoja de Giffen).",
+      "question": "11. ¿Qué ocurre si el efecto renta domina en un bien inferior?",
+      "options": [
+        "La demanda aumenta",
+        "La demanda puede disminuir al bajar el precio",
+        "No hay efecto",
+        "La utilidad disminuye"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Cuando baja el precio de un <u>bien inferior</u>:<br>• <strong>Efecto sustitución</strong>: se compra más (más barato).<br>• <strong>Efecto renta</strong>: se compra menos (más poder adquisitivo, se prefiere bienes superiores).</p><p>Si el <strong>efecto renta domina</strong>, la cantidad demandada <strong>disminuye</strong> al bajar el precio.</p><p>Esto crea una <strong>curva de demanda ascendente</strong>: paradoja de Giffen.</p><p>Es raro, pero posible en bienes esenciales muy baratos.</p>"
+    },
+    {
+      "intro": "La paradoja de Giffen ocurre cuando un bien inferior tiene un efecto renta tan fuerte que, al bajar su precio, los consumidores compran menos de él. Esto contradice la ley de la demanda. Solo ocurre en bienes esenciales que representan una gran parte del presupuesto de los pobres, como la papa en situaciones históricas. Es un caso extremo y raro.",
+      "question": "12. ¿Qué es la paradoja de Giffen?",
+      "options": [
+        "Un bien que siempre se compra más al subir el precio",
+        "Un bien inferior cuya demanda disminuye al bajar el precio",
+        "Un bien normal con demanda inelástica",
+        "Un aumento de precios por inflación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>paradoja de Giffen</u> ocurre cuando un <strong>bien inferior</strong> tiene un <strong>efecto renta</strong> tan fuerte que, al <strong>bajar su precio</strong>, los consumidores compran <strong>menos</strong> de él.</p><p>Contradice la ley de la demanda.</p><p>Ocurre en bienes esenciales (como papa) que representan una gran parte del presupuesto de los pobres.</p><p>Es un caso extremo y raro, pero teóricamente posible.</p>"
+    },
+    {
+      "intro": "La elección intertemporal analiza cómo los consumidores deciden entre consumir hoy o ahorrar para consumir en el futuro. Depende de la tasa de interés, que es el precio del consumo presente en términos de consumo futuro. A mayor tasa de interés, mayor incentivo para ahorrar. La restricción presupuestaria intertemporal muestra las combinaciones posibles de consumo presente y futuro.",
+      "question": "13. ¿Qué determina la elección entre consumir hoy o ahorrar?",
+      "options": [
+        "Solo el ingreso actual",
+        "La tasa de interés y las preferencias temporales",
+        "El precio de los bienes",
+        "La inflación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>elección intertemporal</u> analiza cómo los consumidores deciden entre <strong>consumir hoy</strong> o <strong>ahorrar para el futuro</strong>.</p><p>Depende de:<br>• <strong>Tasa de interés</strong>: precio del consumo presente en términos de futuro.<br>• <strong>Preferencias temporales</strong>: cuánto valoran el presente frente al futuro.</p><p>A mayor tasa de interés, mayor incentivo para <strong>ahorrar</strong>.</p><p>La restricción presupuestaria intertemporal muestra las combinaciones posibles.</p>"
+    },
+    {
+      "intro": "La tasa marginal de sustitución intertemporal mide cuánto consumo futuro está dispuesto a sacrificar un consumidor por una unidad adicional de consumo presente. Es la pendiente de la curva de indiferencia intertemporal. Depende de las preferencias del consumidor sobre el tiempo. En equilibrio, iguala a (1 + r), donde r es la tasa de interés.",
+      "question": "14. ¿Qué es la tasa marginal de sustitución intertemporal?",
+      "options": [
+        "El ingreso futuro",
+        "La cantidad de consumo futuro que se renuncia por consumo presente",
+        "La tasa de inflación",
+        "El ahorro total"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>tasa marginal de sustitución intertemporal</u> mide cuánto <strong>consumo futuro</strong> está dispuesto a sacrificar un consumidor por una unidad adicional de <strong>consumo presente</strong>.</p><p>Es la <strong>pendiente</strong> de la curva de indiferencia intertemporal.</p><p>Depende de las <strong>preferencias temporales</strong> del consumidor.</p><p>En equilibrio, iguala a <strong>(1 + r)</strong>, donde r es la tasa de interés.</p>"
+    },
+    {
+      "intro": "La restricción presupuestaria intertemporal muestra las combinaciones de consumo presente y futuro que un consumidor puede alcanzar con su ingreso presente y futuro, y la tasa de interés. Si C1 es consumo presente y C2 futuro, la restricción es: C1 + C2/(1+r) = Y1 + Y2/(1+r). Representa el valor presente del consumo igual al valor presente del ingreso.",
+      "question": "15. ¿Qué muestra la restricción presupuestaria intertemporal?",
+      "options": [
+        "El ingreso total",
+        "Combinaciones de consumo presente y futuro alcanzables",
+        "El ahorro máximo",
+        "La tasa de inflación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>restricción presupuestaria intertemporal</u> muestra las combinaciones de <strong>consumo presente</strong> (C1) y <strong>futuro</strong> (C2) que un consumidor puede alcanzar con su ingreso presente (Y1) y futuro (Y2), y la tasa de interés (r).</p><p>Se expresa como: <strong>C1 + C2/(1+r) = Y1 + Y2/(1+r)</strong>.</p><p>Representa que el <strong>valor presente del consumo</strong> iguala al <strong>valor presente del ingreso</strong>.</p><p>Es clave para analizar decisiones de ahorro y consumo.</p>"
+    }
+  ]
+}
