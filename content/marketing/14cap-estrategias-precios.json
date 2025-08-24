@@ -1,0 +1,186 @@
+{
+  "title": "Desarrollo de Estrategias y Programas de Precios",
+  "description": "Quiz sobre los factores que influyen en el precio, estrategias de fijación de precios, psicología del precio y gestión de la mezcla de precios.",
+  "questions": [
+    {
+      "intro": "El precio es el único elemento del marketing mix que genera ingresos, mientras que los demás generan costos. Es una herramienta poderosa de posicionamiento y señalización de valor. Un precio alto puede indicar calidad o exclusividad, mientras que un precio bajo puede atraer a consumidores sensibles al precio. La fijación de precios debe alinearse con la estrategia de producto, la percepción del cliente y los objetivos de la empresa.",
+      "question": "1. ¿Por qué es el precio un elemento único en el marketing mix?",
+      "options": [
+        "Porque es el más fácil de cambiar",
+        "Porque es el único que genera ingresos",
+        "Solo por la competencia",
+        "Porque no importa al cliente"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>precio</u> es un elemento <strong>único y crítico</strong> en el marketing mix (4P) porque es el <strong>único</strong> que <strong>genera ingresos</strong>. Los otros elementos (Producto, Plaza, Promoción) generan <strong>costos</strong>.</p><p>Además, el precio es una <strong>herramienta poderosa</strong> de:<br>• <strong>Posicionamiento</strong>: un precio alto puede posicionar un producto como de <strong>lujo o premium</strong>, mientras que un precio bajo puede posicionarlo como <strong>económico o de valor</strong>.<br>• <strong>Señalización de valor</strong>: los consumidores a menudo asocian un precio alto con <strong>mayor calidad</strong> o <strong>exclusividad</strong>.<br>• <strong>Segmentación</strong>: permite atender a diferentes segmentos del mercado (premium, económico).<br>• <strong>Competitividad</strong>: es un arma clave en la competencia, especialmente en mercados con productos similares.</p><p>La fijación de precios debe <strong>alinearse</strong> con:<br>• La <strong>estrategia de producto</strong> y la propuesta de valor.<br>• La <strong>percepción del cliente</strong> sobre el valor.<br>• Los <strong>objetivos de la empresa</strong> (maximizar beneficios, ganar cuota de mercado, supervivencia).<br>• El <strong>comportamiento de la competencia</strong>.</p><p>Un cambio de precio puede tener un <strong>impacto inmediato</strong> en las ventas y los beneficios, lo que lo convierte en una <strong>palanca poderosa pero riesgosa</strong>.</p>"
+    },
+    {
+      "intro": "La fijación de precios debe considerar tanto el lado de la demanda como el de la oferta. Del lado de la demanda, se evalúa la disposición del cliente a pagar, la sensibilidad al precio (elasticidad) y la percepción de valor. Del lado de la oferta, se consideran los costos de producción, distribución y los objetivos de beneficio. Un equilibrio entre ambos lados es esencial para un precio óptimo.",
+      "question": "2. ¿Qué aspectos debe considerar la fijación de precios?",
+      "options": [
+        "Solo los costos de producción",
+        "Tanto la demanda (valor percibido) como la oferta (costos)",
+        "Solo la competencia",
+        "Ignorar al cliente"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>fijación de precios</u> debe considerar <strong>dos lados fundamentales</strong>: la <strong>demanda</strong> y la <strong>oferta</strong>.</p><p><strong>Lado de la demanda:</strong><br>• <strong>Disposición a pagar</strong> del cliente: ¿Cuánto está dispuesto a pagar por el valor que recibe?<br>• <strong>Sensibilidad al precio</strong> (elasticidad): cómo cambian las ventas con el precio. Productos de primera necesidad suelen ser inelásticos (poco sensibles al precio), mientras que productos de lujo pueden ser elásticos.<br>• <strong>Percepción de valor</strong>: el valor que el cliente percibe, no solo el costo.</p><p><strong>Lado de la oferta:</strong><br>• <strong>Costos</strong>: costos fijos y variables de producción, distribución, marketing y administración. El precio debe cubrir los costos y generar un beneficio.<br>• <strong>Objetivos de la empresa</strong>: maximizar beneficios, ganar cuota de mercado, supervivencia, posicionamiento.<br>• <strong>Capacidad de producción</strong>.</p><p>Un <strong>precio óptimo</strong> es aquel que <strong>equilibra</strong> estos factores, maximizando el beneficio a largo plazo.<br>Enfocarse solo en los costos puede llevar a precios demasiado altos para el mercado.<br>Enfocarse solo en la competencia puede iniciar guerras de precios destructivas.<br>Enfocarse solo en la demanda sin cubrir costos lleva a pérdidas.</p><p>El precio debe reflejar el <strong>valor total</strong> que el cliente recibe.</p>"
+    },
+    {
+      "intro": "La elasticidad de la demanda mide cuánto cambia la cantidad demandada de un producto cuando cambia su precio. Si la demanda es elástica, un pequeño cambio de precio causa un gran cambio en la cantidad. Si es inelástica, la cantidad cambia poco. Conocer la elasticidad es crucial para decidir si subir o bajar el precio para aumentar los ingresos.",
+      "question": "3. ¿Qué significa que la demanda es elástica?",
+      "options": [
+        "Que no cambia con el precio",
+        "Que la cantidad demandada cambia mucho con un pequeño cambio de precio",
+        "Solo para productos caros",
+        "Ignorar al cliente"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>elasticidad de la demanda</u> respecto al precio mide la <strong>sensibilidad</strong> de la <strong>cantidad demandada</strong> de un producto ante un <strong>cambio en su precio</strong>.</p><p>Se calcula como:<br><strong>Elasticidad = (% cambio en la cantidad demandada) / (% cambio en el precio)</strong></p><p>• <strong>Demanda elástica</strong> (|elasticidad| > 1):<br>  – Un pequeño cambio en el precio causa un <strong>cambio proporcionalmente mayor</strong> en la cantidad demandada.<br>  – Ejemplos: productos de lujo, bienes con muchos sustitutos (bebidas gaseosas, ropa).<br>  – Para aumentar los <strong>ingresos</strong>, se debe <strong>bajar el precio</strong> (la ganancia en volumen supera la pérdida por unidad).</p><p>• <strong>Demanda inelástica</strong> (|elasticidad| < 1):<br>  – Un cambio en el precio causa un <strong>cambio proporcionalmente menor</strong> en la cantidad demandada.<br>  – Ejemplos: productos de primera necesidad (pan, medicinas), bienes sin sustitutos (gasolina, insulina).<br>  – Para aumentar los <strong>ingresos</strong>, se puede <strong>subir el precio</strong> (la pérdida de volumen es pequeña comparada con la ganancia por unidad).</p><p>Conocer la elasticidad es <strong>crucial</strong> para tomar decisiones de precios estratégicas y maximizar los ingresos totales (precio x cantidad).</p>"
+    },
+    {
+      "intro": "La fijación de precios basada en el valor implica establecer el precio según el valor percibido por el cliente, no según los costos de producción. Este enfoque permite capturar más valor y justificar precios premium. Requiere una comprensión profunda de las necesidades del cliente y una comunicación efectiva del valor que el producto entrega.",
+      "question": "4. ¿En qué se basa la fijación de precios basada en el valor?",
+      "options": [
+        "Solo en los costos de producción",
+        "En el valor percibido por el cliente",
+        "Solo en el precio de la competencia",
+        "Ignorar al cliente"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>fijación de precios basada en el valor</u> (value-based pricing) establece el precio según el <strong>valor que el cliente percibe</strong> que recibe del producto o servicio, <strong>no según los costos de producción</strong>.</p><p>Este enfoque se centra en:<br>• <strong>¿Qué tan valioso es el producto para el cliente?</strong><br>• <strong>¿Cuánto está dispuesto a pagar?</strong><br>• <strong>¿Qué beneficios funcionales, emocionales o sociales entrega?</strong></p><p>Ventajas:<br>• <strong>Permite precios premium</strong> si el valor percibido es alto.<br>• <strong>Maximiza el beneficio</strong> al capturar más valor del mercado.<br>• <strong>Diferencia</strong> la oferta de la competencia basada en costos.<br>• <strong>Refuerza el posicionamiento</strong> de marca.</p><p>Para implementarla, la empresa necesita:<br>• <strong>Comprender profundamente</strong> al cliente y sus necesidades.<br>• <strong>Medir</strong> o <strong>estimar</strong> el valor percibido (encuestas, análisis de competencia, pruebas de mercado).<br>• <strong>Comunicar efectivamente</strong> el valor al mercado (marketing, branding).<br>• <strong>Entregar</strong> un producto o servicio que cumpla con la promesa de valor.</p><p>Es un enfoque <strong>más avanzado</strong> que la fijación basada en costos o competencia, y es común en productos de alto valor, innovación o servicios personalizados.</p>"
+    },
+    {
+      "intro": "La fijación de precios basada en costos es un enfoque sencillo que suma un margen de beneficio a los costos de producción. Aunque garantiza que se cubran los costos, ignora la percepción de valor del cliente y la competencia. Puede llevar a precios demasiado altos (si el valor es bajo) o demasiado bajos (si el valor es alto), dejando dinero en el mercado.",
+      "question": "5. ¿Cuál es una limitación de la fijación de precios basada en costos?",
+      "options": [
+        "Es muy compleja",
+        "Ignora la percepción de valor del cliente y la competencia",
+        "Solo para productos digitales",
+        "Siempre es la mejor opción"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>fijación de precios basada en costos</u> (cost-plus pricing) es un enfoque <strong>sencillo y común</strong> que consiste en sumar un <strong>margen de beneficio</strong> predeterminado a los <strong>costos totales</strong> del producto (producción, distribución, etc.).</p><p>Ejemplo: Si el costo es 10€ y el margen deseado es 50%, el precio será 15€.</p><p>Limitaciones:<br>• <strong>Ignora la percepción de valor del cliente</strong>: el precio no se basa en lo que el cliente está dispuesto a pagar, sino en los costos. Esto puede llevar a:<br>  – <strong>Precios demasiado altos</strong> si el valor percibido es bajo (el producto no se vende).<br>  – <strong>Precios demasiado bajos</strong> si el valor percibido es alto (la empresa deja dinero en el mercado).<br>• <strong>Ignora a la competencia</strong>: no considera los precios de los rivales, lo que puede hacer que el producto sea no competitivo.<br>• <strong>Desincentiva la eficiencia</strong>: si los costos suben, el precio sube automáticamente, sin incentivo para reducir costos.<br>• <strong>No fomenta la innovación</strong> en valor.</p><p>Aunque es fácil de calcular y garantiza que se cubran los costos, es un enfoque <strong>reactivo y limitado</strong> que no maximiza el potencial de ingresos.</p><p>Es más adecuado para productos <strong>comoditizados</strong> o en mercados donde el precio es el factor decisivo.</p>"
+    },
+    {
+      "intro": "La fijación de precios competitiva implica establecer el precio en función de lo que cobran los competidores. Puede ser igualar, superar o subcutar el precio de la competencia. Esta estrategia es común en mercados maduros con productos similares, pero puede llevar a guerras de precios que reduzcan la rentabilidad de toda la industria.",
+      "question": "6. ¿Qué riesgo tiene una fijación de precios basada solo en la competencia?",
+      "options": [
+        "Siempre aumenta la rentabilidad",
+        "Puede iniciar guerras de precios que reduzcan la rentabilidad de todos",
+        "Solo para productos nuevos",
+        "Ignorar al cliente"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>fijación de precios competitiva</u> implica establecer el precio de un producto <strong>en función directa de los precios de la competencia</strong>.</p><p>Enfoques:<br>• <strong>Igualar</strong> el precio del competidor líder.<br>• <strong>Superar</strong> el precio (cobrar más, basado en diferenciación).<br>• <strong>Subcutar</strong> el precio (cobrar menos para ganar cuota de mercado).</p><p>Esta estrategia es <strong>común</strong> en mercados maduros con productos similares (comoditizados) donde el precio es un factor decisivo.</p><p>Riesgos:<br>• <strong>Guerras de precios</strong>: si una empresa baja el precio, las demás suelen seguir, iniciando una espiral descendente que <strong>reduce los márgenes</strong> de beneficio para <strong>toda la industria</strong>.<br>• <strong>Destrucción de valor</strong>: se compite solo por precio, lo que lleva a la <strong>comoditización</strong> y destruye el valor de la marca.<br>• <strong>Ignora el valor percibido</strong>: el precio no se basa en lo que el cliente valora, sino en lo que hace el rival.<br>• <strong>Ignora los costos</strong>: puede llevar a precios que no cubren los costos.<br>• <strong>Falta de diferenciación</strong>: refuerza la percepción de que los productos son idénticos.</p><p>Es una estrategia de <strong>corto plazo</strong> que puede ganar cuota de mercado, pero es <strong>insostenible</strong> a largo plazo si no se acompaña de diferenciación o eficiencia operativa.</p><p>Debe usarse con <strong>precaución</strong> y como parte de una estrategia más amplia.</p>"
+    },
+    {
+      "intro": "La psicología del precio explora cómo los consumidores perciben y reaccionan a los precios de forma no racional. Tácticas como los precios terminados en 9 (9.99€), la anclaje (mostrar un precio alto antes del real) o la presentación de múltiples opciones pueden influir significativamente en la decisión de compra, a menudo más que el precio absoluto.",
+      "question": "7. ¿Qué táctica de psicología del precio utiliza un precio como 9.99€?",
+      "options": [
+        "Precio redondo",
+        "Precio de encanto",
+        "Solo para productos caros",
+        "Ignorar al cliente"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>psicología del precio</u> estudia cómo los consumidores <strong>perciben y reaccionan a los precios</strong> de forma <strong>no completamente racional</strong>, basándose en heurísticas y sesgos cognitivos.</p><p>Tácticas comunes:<br>• <strong>Precio de encanto</strong> (charm pricing): usar precios que terminan en .99, .95 o .90 (ej. 9.99€). El consumidor <strong>percibe</strong> el precio como mucho más bajo que el siguiente euro entero (10€), aunque la diferencia sea mínima. Funciona porque el ojo lee el <strong>primer dígito</strong>.<br>• <strong>Anclaje</strong> (anchoring): mostrar un <strong>precio alto de referencia</strong> (precio anterior, precio de lista) antes del precio de oferta, haciendo que este último parezca una ganga.<br>• <strong>Precios de prestigio</strong>: usar precios redondos y altos (100€, 1.000€) para transmitir calidad, lujo o exclusividad.<br>• <strong>Tres por el precio de dos</strong>: incentiva la compra de múltiples unidades.<br>• <strong>Presentación de opciones</strong>: ofrecer múltiples versiones (básica, estándar, premium) para que el cliente elija la que más le convenga, a menudo llevándolo a elegir la opción intermedia.</p><p>Estas tácticas pueden <strong>influir más</strong> en la decisión de compra que el <strong>precio absoluto</strong> del producto.</p><p>El marketing debe usarlas de forma <strong>ética</strong> y en combinación con una <strong>oferta de valor real</strong>.</p>"
+    },
+    {
+      "intro": "La fijación de precios por penetración consiste en establecer un precio inicialmente bajo para atraer a muchos clientes rápidamente, ganar cuota de mercado y desalentar a los competidores. Es efectiva en mercados sensibles al precio, pero requiere bajos costos para ser rentable. Una vez establecida la cuota, la empresa puede aumentar gradualmente el precio.",
+      "question": "8. ¿Cuál es el objetivo principal de la fijación de precios por penetración?",
+      "options": [
+        "Recuperar rápidamente los costos de desarrollo",
+        "Ganar cuota de mercado rápidamente con un precio bajo",
+        "Solo para productos de lujo",
+        "Ignorar a la competencia"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>fijación de precios por penetración</u> (penetration pricing) consiste en establecer un <strong>precio inicialmente bajo</strong> para un nuevo producto o servicio.</p><p>Objetivo principal: <strong>atraer a un gran número de compradores rápidamente</strong>, <strong>ganar cuota de mercado</strong> y <strong>desalentar la entrada de competidores</strong>.</p><p>Es efectiva cuando:<br>• El mercado es <strong>sensible al precio</strong>.<br>• Existe una <strong>elasticidad de demanda alta</strong> (bajar el precio aumenta mucho las ventas).<br>• La empresa puede <strong>beneficiarse de economías de escala</strong> y <strong>reducir costos unitarios</strong> con el volumen.<br>• El riesgo de <strong>guerras de precios</strong> es bajo.<br>• La empresa tiene <strong>recursos financieros</strong> para soportar márgenes bajos inicialmente.</p><p>Ventajas:<br>• <strong>Entrada rápida</strong> al mercado.<br>• <strong>Alta cuota de mercado</strong> desde el principio.<br>• <strong>Barrera para competidores</strong> (dificultan competir con precios tan bajos).<br>• <strong>Generación de efecto de red</strong> (más usuarios hacen el producto más valioso).</p><p>Desventajas:<br>• <strong>Bajos beneficios iniciales</strong> o pérdidas.<br>• <strong>Dificultad para aumentar precios</strong> después (los clientes se acostumbran al precio bajo).<br>• <strong>Percepción de baja calidad</strong> por parte de algunos consumidores.</p><p>Ejemplos: servicios de streaming, teléfonos inteligentes de gama media.</p>"
+    },
+    {
+      "intro": "La fijación de precios por desnatado (skimming) implica establecer un precio inicialmente alto para recuperar rápidamente los costos de desarrollo y aprovechar la demanda de consumidores innovadores dispuestos a pagar más. A medida que la competencia entra, el precio se reduce gradualmente para atraer a segmentos más sensibles al precio.",
+      "question": "9. ¿Para qué tipo de producto es más adecuada la fijación de precios por desnatado?",
+      "options": [
+        "Productos genéricos con poca competencia",
+        "Productos innovadores con poca competencia inicial",
+        "Solo productos de consumo masivo",
+        "Productos con alta elasticidad"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>fijación de precios por desnatado</u> (price skimming) consiste en establecer un <strong>precio inicialmente alto</strong> para un nuevo producto.</p><p>Objetivo: <strong>recuperar rápidamente los altos costos de I+D</strong> y <strong>aprovechar la demanda de consumidores innovadores</strong> (early adopters) que están dispuestos a pagar un precio premium por tener lo último.</p><p>Es más adecuada para:<br>• <strong>Productos innovadores</strong> o tecnológicamente avanzados (smartphones, nuevos medicamentos, dispositivos electrónicos).<br>• <strong>Poca competencia inicial</strong> (ventaja de primera en el mercado).<br>• <strong>Demanda inelástica</strong> en los segmentos iniciales (los consumidores no son sensibles al precio).<br>• <strong>Alto valor percibido</strong> de innovación, exclusividad o estatus.</p><p>El precio se <strong>reduce gradualmente</strong> a medida que:<br>• La competencia entra con productos similares.<br>• Los costos de producción disminuyen.<br>• La empresa busca atraer a segmentos más sensibles al precio (masa).</p><p>Ventajas:<br>• <strong>Altos beneficios iniciales</strong>.<br>• <strong>Recuperación rápida</strong> de inversiones en I+D.<br>• <strong>Posicionamiento de calidad y exclusividad</strong>.<br>• <strong>Control del mercado</strong> en las etapas iniciales.</p><p>Desventajas:<br>• <strong>Atrae a competidores</strong> que pueden entrar con precios más bajos.<br>• <strong>Limita el acceso</strong> al mercado inicial.<br>• <strong>Requiere una diferenciación clara</strong> para justificar el precio alto.</p><p>Ejemplos: lanzamientos de nuevos iPhone, consolas de videojuegos, coches eléctricos de alta gama.</p>"
+    },
+    {
+      "intro": "La fijación de precios por paquete o bundle consiste en vender múltiples productos juntos a un precio combinado que es menor que la suma de los precios individuales. Esta estrategia aumenta el valor percibido, incrementa el volumen de ventas y puede ayudar a vender productos lentos. Es común en servicios como telecomunicaciones o software.",
+      "question": "10. ¿Qué beneficio ofrece la fijación de precios por paquete?",
+      "options": [
+        "Solo reduce costos",
+        "Aumenta el valor percibido y el volumen de ventas",
+        "Solo para productos físicos",
+        "Ignorar al cliente"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>fijación de precios por paquete</u> (bundling) consiste en <strong>vender dos o más productos o servicios juntos</strong> a un <strong>precio combinado</strong> que es <strong>menor</strong> que la suma de sus precios individuales.</p><p>Ejemplo: Un paquete de internet, televisión y teléfono por 100€, cuando por separado costarían 120€.</p><p>Beneficios para la empresa:<br>• <strong>Aumenta el valor percibido</strong>: el cliente siente que está obteniendo una <strong>gangas</strong>.<br>• <strong>Incrementa el volumen de ventas</strong> y el ingreso promedio por cliente (ARPU).<br>• <strong>Vende productos lentos</strong> (con baja rotación) al emparejarlos con productos populares.<br>• <strong>Reduce la sensibilidad al precio</strong> del cliente.<br>• <strong>Dificulta la comparación</strong> con la competencia.<br>• <strong>Fortalece la relación</strong> con el cliente (mayor costo de cambio).</p><p>Beneficios para el cliente:<br>• <strong>Conveniencia</strong>: una sola factura, un solo proveedor.<br>• <strong>Ahorro de dinero</strong>.<br>• <strong>Simplificación</strong> del proceso de compra.</p><p>Tipos:<br>• <strong>Bundling obligatorio</strong>: los productos solo se venden juntos.<br>• <strong>Bundling opcional</strong>: el cliente puede elegir comprar el paquete o los productos por separado.</p><p>Es una estrategia muy común en <strong>telecomunicaciones</strong>, <strong>software</strong> (suites de oficina), <strong>alojamiento</strong> (paquetes de vacaciones) y <strong>entretenimiento</strong>.</p>"
+    },
+    {
+      "intro": "La fijación de precios dinámica ajusta los precios en tiempo real en función de la demanda, la competencia, el tiempo o el perfil del cliente. Es común en industrias como aerolíneas, hoteles o comercio electrónico. Permite maximizar los ingresos al cobrar más cuando la demanda es alta y menos cuando es baja.",
+      "question": "11. ¿En qué industria es común la fijación de precios dinámica?",
+      "options": [
+        "Agricultura",
+        "Aerolíneas y comercio electrónico",
+        "Solo productos físicos",
+        "Ignorar al cliente"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>fijación de precios dinámica</u> (dynamic pricing) es la práctica de <strong>ajustar los precios en tiempo real</strong> o con frecuencia, en función de factores como la <strong>demanda</strong>, la <strong>competencia</strong>, el <strong>tiempo</strong>, la <strong>ubicación</strong> o el <strong>perfil del cliente</strong>.</p><p>Es común en industrias donde:<br>• El <strong>producto es perecedero</strong> (no se puede almacenar).<br>• La <strong>demanda fluctúa</strong> significativamente.<br>• La <strong>capacidad es fija</strong>.<br>• Se puede <strong>segmentar a los clientes</strong>.</p><p>Industrias líderes:<br>• <strong>Aerolíneas</strong>: los precios de los boletos cambian constantemente según la demanda, la antelación, la ruta y el perfil del comprador.<br>• <strong>Hoteles</strong>: las tarifas varían según la temporada, el día de la semana y la ocupación.<br>• <strong>Comercio electrónico</strong>: plataformas como Amazon ajustan precios de forma algorítmica según la competencia y el comportamiento del usuario.<br>• <strong>Transporte</strong>: Uber y Lyft usan precios de punta (surge pricing) en horas de alta demanda.<br>• <strong>Eventos</strong>: precios de entradas que aumentan a medida que se acerca la fecha o se agotan.</p><p>Beneficios:<br>• <strong>Maximiza los ingresos</strong> al cobrar más cuando la demanda es alta.<br>• <strong>Optimiza la utilización</strong> de la capacidad.<br>• <strong>Permite segmentación de precios</strong> avanzada.</p><p>Riesgos:<br>• <strong>Percepción de injusticia</strong> si los clientes descubren que otros pagaron menos.<br>• <strong>Complejidad</strong> en la gestión.<br>• <strong>Requiere datos y algoritmos</strong> sofisticados.</p><p>Debe comunicarse de forma <strong>transparente</strong> para mantener la confianza del cliente.</p>"
+    },
+    {
+      "intro": "La fijación de precios por segmentación implica cobrar precios diferentes a diferentes segmentos de clientes por el mismo producto o servicio. Esto se basa en diferencias en la disposición a pagar, como la sensibilidad al precio, el momento de compra o la lealtad. Ejemplos incluyen descuentos para estudiantes, tarifas de negocios vs. turismo, o precios más altos en tiendas físicas que en línea.",
+      "question": "12. ¿Qué permite la fijación de precios por segmentación?",
+      "options": [
+        "Cobrar el mismo precio a todos",
+        "Cobrar precios diferentes a diferentes segmentos según su disposición a pagar",
+        "Solo reducir precios",
+        "Ignorar al cliente"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>fijación de precios por segmentación</u> (price discrimination) implica <strong>cobrar precios diferentes</strong> a <strong>diferentes segmentos de clientes</strong> por el <strong>mismo producto o servicio</strong>.</p><p>Se basa en la <strong>diferencia en la disposición a pagar</strong> entre segmentos. Los segmentos menos sensibles al precio pagan más, mientras que los más sensibles pagan menos.</p><p>Condiciones para que funcione:<br>• La empresa debe poder <strong>identificar y separar</strong> a los segmentos (por edad, ocupación, tiempo de compra, ubicación).<br>• Debe <strong>evitar la reventa</strong> (el segmento que paga menos no debe poder vender al segmento que paga más).<br>• La <strong>elasticidad de la demanda</strong> debe ser diferente entre segmentos.</p><p>Ejemplos:<br>• <strong>Descuentos para estudiantes</strong> o <strong>jubilados</strong>.<br>• <strong>Tarifas de negocios</strong> (más altas) vs. <strong>tarifas de turismo</strong> (más bajas) en aerolíneas.<br>• <strong>Precios más altos</strong> en tiendas físicas que en línea (por conveniencia).<br>• <strong>Versiones premium</strong> con funciones adicionales a un precio más alto.<br>• <strong>Precios más altos</strong> en ubicaciones turísticas.</p><p>Beneficios:<br>• <strong>Aumenta los ingresos totales</strong> y los beneficios.<br>• <strong>Captura más valor del mercado</strong>.<br>• <strong>Permite acceso</strong> a clientes con menor poder adquisitivo.</p><p>Debe hacerse de forma <strong>ética</strong> y <strong>transparente</strong> para no generar percepciones de injusticia.</p>"
+    },
+    {
+      "intro": "La mezcla de precios es el conjunto de precios que una empresa ofrece para sus diferentes productos o servicios. Incluye precios de entrada, precios medios y precios premium. Una mezcla bien diseñada permite atraer a diferentes segmentos del mercado, maximizar los ingresos y fortalecer la posición de la marca.",
+      "question": "13. ¿Qué es la mezcla de precios?",
+      "options": [
+        "El precio más bajo de la línea",
+        "El conjunto de precios para diferentes productos o servicios de una empresa",
+        "Solo el precio de venta",
+        "Ignorar al cliente"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>mezcla de precios</u> (price mix) es el <strong>conjunto de precios</strong> que una empresa ofrece para su <strong>variedad de productos o servicios</strong>.</p><p>Incluye:<br>• <strong>Precios de entrada</strong> (entry-level): productos básicos a precios bajos para atraer a nuevos clientes o segmentos sensibles al precio.<br>• <strong>Precios medios</strong> (mid-range): productos con características y calidad equilibradas para el mercado masivo.<br>• <strong>Precios premium</strong>: productos de alta gama con características avanzadas, calidad superior o exclusividad, a precios altos.</p><p>Una mezcla de precios bien diseñada permite a la empresa:<br>• <strong>Atraer a diferentes segmentos</strong> del mercado (económico, medio, premium).<br>• <strong>Maximizar los ingresos totales</strong> y el beneficio.<br>• <strong>Fortalecer la posición de la marca</strong> (el producto premium posiciona a toda la línea como de calidad).<br>• <strong>Facilitar el upgrade</strong> (el cliente puede empezar con un producto básico y luego pasar a uno premium).<br>• <strong>Defenderse de la competencia</strong> en diferentes niveles de precio.</p><p>La relación entre los precios debe ser <strong>coherente</strong> y <strong>lógico</strong> para el consumidor.<br>Por ejemplo, un automóvil de entrada de gama debe ser significativamente más barato que el modelo premium, reflejando las diferencias en características y calidad.</p><p>La mezcla de precios debe <strong>alinearse</strong> con la <strong>estrategia de producto</strong> y el <strong>posicionamiento de la marca</strong>.</p>"
+    },
+    {
+      "intro": "La fijación de precios psicológica utiliza tácticas para influir en la percepción del cliente más allá del número absoluto. Esto incluye precios terminados en 9, anclajes, precios de prestigio y la presentación de múltiples opciones. Estas tácticas aprovechan sesgos cognitivos para hacer que un precio parezca más atractivo, lo que puede aumentar las ventas sin cambiar el precio real.",
+      "question": "14. ¿Cómo puede la fijación de precios psicológica aumentar las ventas?",
+      "options": [
+        "Cambiar el precio real",
+        "Hacer que un precio parezca más atractivo mediante tácticas como los .99",
+        "Solo con publicidad",
+        "Ignorar al cliente"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>fijación de precios psicológica</u> utiliza <strong>tácticas</strong> para influir en la <strong>percepción del cliente</strong> sobre el precio, aprovechando <strong>sesgos cognitivos</strong> y <strong>heurísticas</strong> (atajos mentales).</p><p>No cambia el precio real, pero <strong>lo hace parecer más atractivo</strong>, lo que puede <strong>aumentar las ventas</strong>.</p><p>Tácticas clave:<br>• <strong>Precios de encanto</strong>: 9.99€ en lugar de 10.00€. El consumidor <strong>percibe</strong> el precio como mucho más bajo, enfocándose en el primer dígito (9 vs. 10).<br>• <strong>Anclaje</strong>: mostrar un <strong>precio alto de referencia</strong> (precio anterior, precio de lista) antes del precio de oferta. El precio real parece una <strong>gangas</strong>.<br>• <strong>Precios de prestigio</strong>: usar precios redondos y altos (1.000€) para transmitir <strong>calidad, lujo o exclusividad</strong>.<br>• <strong>Presentación de múltiples opciones</strong>: ofrecer tres versiones (básica, estándar, premium). El cliente tiende a elegir la <strong>opción intermedia</strong>, que es la más rentable para la empresa.<br>• <strong>Eliminación de símbolos monetarios</strong>: en restaurantes de lujo, listar precios sin € para enfocar en la experiencia, no en el costo.</p><p>Estas tácticas funcionan porque los consumidores no siempre toman decisiones de forma <strong>totalmente racional</strong>.<br>La percepción del precio es tan importante como el precio absoluto.</p><p>El marketing debe usarlas de forma <strong>ética</strong> y como <strong>complemento</strong> a una <strong>oferta de valor real</strong>, no como sustituto.</p>"
+    },
+    {
+      "intro": "La gestión del precio debe ser un proceso continuo, no una decisión única. Incluye el monitoreo de la competencia, la evaluación de la rentabilidad, la recopilación de retroalimentación del cliente y el ajuste de precios según las condiciones del mercado. Una política de precios clara y flexible es esencial para mantener la competitividad y la rentabilidad.",
+      "question": "15. ¿Por qué debe ser continua la gestión del precio?",
+      "options": [
+        "Porque el mercado nunca cambia",
+        "Porque el mercado, la competencia y las condiciones cambian constantemente",
+        "Solo para productos nuevos",
+        "Ignorar al cliente"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>gestión del precio</u> no debe ser una <strong>decisión única</strong> al lanzar un producto, sino un <strong>proceso continuo y dinámico</strong> durante todo el ciclo de vida del producto.</p><p>Debe ser continua porque:<br>• El <strong>mercado cambia</strong>: nuevas necesidades, tendencias, tecnologías.<br>• La <strong>competencia cambia</strong>: nuevos entrantes, nuevos productos, cambios de precios.<br>• Las <strong>condiciones económicas</strong> cambian (inflación, recesión).<br>• Los <strong>costos</strong> de producción y distribución fluctúan.<br>• La <strong>percepción de valor del cliente</strong> evoluciona.<br>• El producto pasa por <strong>diferentes etapas</strong> del ciclo de vida (introducción, crecimiento, madurez, declive), cada una con estrategias de precios diferentes.</p><p>Actividades clave de la gestión continua:<br>• <strong>Monitoreo constante</strong> de los precios de la competencia.<br>• <strong>Evaluación de la rentabilidad</strong> de los productos y líneas.<br>• <strong>Recopilación y análisis de retroalimentación</strong> del cliente sobre el precio.<br>• <strong>Pruebas de precios</strong> (A/B testing) para evaluar el impacto de cambios.<br>• <strong>Ajuste de precios</strong> según las condiciones (temporada, demanda, promociones).<br>• <strong>Revisión de la política de precios</strong> y la mezcla de precios.</p><p>Una <strong>política de precios clara, flexible y alineada con la estrategia</strong> es esencial para:<br>• <strong>Mantener la competitividad</strong>.<br>• <strong>Maximizar la rentabilidad</strong>.<br>• <strong>Proteger la posición de la marca</strong>.<br>• <strong>Responder rápidamente</strong> a los cambios del entorno.</p><p>El precio es una <strong>palanca estratégica</strong> que requiere atención constante.</p>"
+    }
+  ]
+}
