@@ -1,0 +1,186 @@
+{
+  "title": "La Desigualdad de la Renta y la Pobreza",
+  "description": "Quiz sobre medición de la desigualdad, curva de Lorenz, índice de Gini, políticas de redistribución y programas de ayuda a los pobres.",
+  "questions": [
+    {
+      "intro": "La desigualdad de la renta se refiere a la distribución desigual de los ingresos entre los individuos o hogares de una sociedad. Puede medirse de varias formas, como la proporción de ingresos que recibe cada quintil de la población. Aunque cierta desigualdad puede incentivar el esfuerzo y la innovación, una desigualdad extrema puede generar inestabilidad social, reducir el crecimiento económico y limitar las oportunidades para los más pobres. Comprender su magnitud y causas es clave para diseñar políticas efectivas.",
+      "question": "1. ¿Qué mide la desigualdad de la renta?",
+      "options": [
+        "El ingreso total de un país",
+        "La distribución de los ingresos entre los individuos o hogares",
+        "El nivel de precios",
+        "La tasa de desempleo"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>desigualdad de la renta</u> mide cómo se distribuyen los <strong>ingresos</strong> entre los individuos o hogares de una sociedad.</p><p>Puede medirse con:<br>• <strong>Quintiles</strong> de ingresos<br>• <strong>Curva de Lorenz</strong><br>• <strong>Índice de Gini</strong></p><p>Aunque cierta desigualdad puede incentivar el esfuerzo, una <strong>extrema</strong> puede generar inestabilidad social y reducir el crecimiento.</p>"
+    },
+    {
+      "intro": "La curva de Lorenz es una representación gráfica de la distribución del ingreso. En el eje X se muestra el porcentaje acumulado de la población, ordenada de menor a mayor ingreso, y en el eje Y el porcentaje acumulado de ingresos. Si la distribución fuera perfectamente igualitaria, la curva sería una línea diagonal de 45 grados. Cuanto más se aleje de esta línea, mayor será la desigualdad.",
+      "question": "2. ¿Qué muestra la curva de Lorenz?",
+      "options": [
+        "La relación entre oferta y demanda",
+        "La distribución del ingreso en una sociedad",
+        "El crecimiento del PIB",
+        "La tasa de inflación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>curva de Lorenz</u> muestra la <strong>distribución del ingreso</strong> en una sociedad.</p><p>Eje X: porcentaje acumulado de la población (ordenada de menor a mayor ingreso).</p><p>Eje Y: porcentaje acumulado de ingresos.</p><p>Si fuera perfectamente igualitaria, sería una línea diagonal de 45°. Cuanto más se <strong>aleje</strong> de esta línea, mayor es la desigualdad.</p>"
+    },
+    {
+      "intro": "El índice de Gini es una medida numérica de la desigualdad de ingresos que se deriva de la curva de Lorenz. Va de 0 a 1, donde 0 representa igualdad perfecta (todos tienen el mismo ingreso) y 1 representa desigualdad perfecta (una persona tiene todo el ingreso). Un índice más alto indica mayor desigualdad. Se calcula como el área entre la línea de igualdad y la curva de Lorenz, dividida por el área total bajo la línea de igualdad.",
+      "question": "3. ¿Qué valor tiene el índice de Gini en una distribución perfectamente igualitaria?",
+      "options": [
+        "1",
+        "0.5",
+        "0",
+        "100"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>El <u>índice de Gini</u> mide la desigualdad de ingresos y va de <strong>0 a 1</strong>.</p><p>0 = <strong>igualdad perfecta</strong> (todos tienen el mismo ingreso).</p><p>1 = <strong>desigualdad perfecta</strong> (una persona tiene todo el ingreso).</p><p>Se calcula como el área entre la línea de igualdad y la curva de Lorenz, dividida por el área total bajo la línea de igualdad.</p>"
+    },
+    {
+      "intro": "La línea de igualdad perfecta en la curva de Lorenz es una diagonal de 45 grados que representa una distribución de ingresos en la que cada porcentaje de la población recibe el mismo porcentaje de ingresos. Por ejemplo, el 20% más pobre recibe el 20% del ingreso total. Es la referencia contra la cual se mide la desigualdad real.",
+      "question": "4. ¿Qué representa la línea de igualdad perfecta en la curva de Lorenz?",
+      "options": [
+        "Máxima desigualdad",
+        "Distribución donde cada porcentaje de población recibe el mismo porcentaje de ingresos",
+        "La media de ingresos",
+        "El ingreso mínimo"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>línea de igualdad perfecta</u> en la curva de Lorenz es una diagonal de 45°.</p><p>Representa una distribución donde <strong>cada porcentaje de población</strong> recibe el <strong>mismo porcentaje de ingresos</strong>.</p><p>Por ejemplo: el 20% más pobre recibe el 20% del ingreso total.</p><p>Es la referencia contra la cual se mide la desigualdad real.</p>"
+    },
+    {
+      "intro": "La pobreza se define como la condición de no tener ingresos suficientes para satisfacer necesidades básicas como alimentación, vivienda y salud. La línea de pobreza es un umbral establecido por el gobierno o instituciones internacionales (como el Banco Mundial) para identificar a las personas en situación de pobreza. Puede ser absoluta (basada en necesidades básicas) o relativa (basada en la mediana de ingresos).",
+      "question": "5. ¿Qué es la línea de pobreza?",
+      "options": [
+        "El ingreso máximo permitido",
+        "Un umbral para identificar a las personas con ingresos insuficientes",
+        "El salario promedio",
+        "El ingreso de los ricos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>línea de pobreza</u> es un <strong>umbral</strong> que define el ingreso mínimo necesario para satisfacer <strong>necesidades básicas</strong> (alimentación, vivienda, salud).</p><p>Puede ser:<br>• <strong>Absoluta</strong>: basada en canasta básica<br>• <strong>Relativa</strong>: por ejemplo, 50% de la mediana de ingresos</p><p>Utilizada por gobiernos y organismos (como el Banco Mundial) para medir y combatir la pobreza.</p>"
+    },
+    {
+      "intro": "La pobreza absoluta se refiere a no tener ingresos suficientes para cubrir una canasta básica de bienes y servicios necesarios para la supervivencia. Es independiente del nivel de ingresos de la sociedad. La pobreza relativa, en cambio, se define en relación con el nivel de vida medio de la sociedad. Una persona puede no estar en pobreza absoluta pero sí en relativa si su ingreso está muy por debajo del promedio.",
+      "question": "6. ¿Qué diferencia a la pobreza absoluta de la relativa?",
+      "options": [
+        "La absoluta depende del ingreso promedio, la relativa no",
+        "La absoluta se basa en necesidades básicas, la relativa en el ingreso promedio",
+        "No hay diferencia",
+        "La relativa es más grave"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>pobreza absoluta</u> se define por no tener ingresos suficientes para una <strong>canasta básica</strong> de bienes y servicios necesarios para la supervivencia.</p><p>Es <strong>independiente</strong> del nivel de ingresos de la sociedad.</p><p>La <u>pobreza relativa</u> se define en relación con el <strong>nivel de vida medio</strong> (por ejemplo, 50% de la mediana).</p><p>Una persona puede no estar en pobreza absoluta pero sí en relativa.</p>"
+    },
+    {
+      "intro": "Los programas de ayuda a los pobres incluyen transferencias en efectivo, cupones alimentarios, subsidios de vivienda y asistencia médica. Estos programas pueden reducir la pobreza, pero también pueden crear trampas de pobreza si los beneficiarios pierden todos los beneficios al obtener un empleo o aumentar sus ingresos, lo que desincentiva el trabajo.",
+      "question": "7. ¿Qué es una trampa de pobreza?",
+      "options": [
+        "Un programa que ayuda a salir de la pobreza",
+        "Una situación donde trabajar más reduce los ingresos netos por pérdida de beneficios",
+        "Un aumento de salarios",
+        "Una reducción de impuestos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>trampa de pobreza</u> ocurre cuando los beneficiarios de programas sociales <strong>pierden todos sus beneficios</strong> al aumentar sus ingresos o conseguir empleo.</p><p>Esto puede hacer que sus <strong>ingresos netos</strong> disminuyan o no aumenten significativamente.</p><p>Desincentiva el trabajo y la movilidad económica.</p><p>Soluciones: <strong>retirar beneficios gradualmente</strong> (no abruptamente).</p>"
+    },
+    {
+      "intro": "La redistribución de la renta es el proceso mediante el cual el gobierno transfiere ingresos de grupos de mayores ingresos a grupos de menores ingresos, a través de impuestos progresivos y transferencias sociales. Busca reducir la desigualdad y la pobreza. Sin embargo, puede generar una disyuntiva entre equidad y eficiencia, ya que altos impuestos pueden desincentivar el trabajo, el ahorro y la inversión.",
+      "question": "8. ¿Qué disyuntiva enfrenta la redistribución de la renta?",
+      "options": [
+        "Eficiencia vs. simplicidad",
+        "Equidad vs. eficiencia",
+        "Ingresos vs. gastos",
+        "Pobreza vs. riqueza"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>redistribución de la renta</u> busca aumentar la <strong>equidad</strong> transfiriendo ingresos de ricos a pobres mediante impuestos progresivos y transferencias.</p><p>Pero puede reducir la <strong>eficiencia</strong> si altos impuestos desincentivan el trabajo, ahorro e inversión.</p><p>Es una <strong>disyuntiva clave</strong> en política económica.</p><p>El desafío es encontrar el equilibrio óptimo.</p>"
+    },
+    {
+      "intro": "El ingreso disponible es el ingreso que queda después de pagar impuestos y recibir transferencias del gobierno. Es el ingreso real que los hogares pueden gastar o ahorrar. A diferencia del ingreso bruto, refleja mejor el bienestar económico, ya que incluye el impacto de la política fiscal y social en la distribución de la renta.",
+      "question": "9. ¿Qué es el ingreso disponible?",
+      "options": [
+        "El ingreso antes de impuestos",
+        "El ingreso después de impuestos y transferencias",
+        "Solo el salario",
+        "El ingreso de los ricos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>ingreso disponible</u> es el ingreso que queda después de pagar <strong>impuestos</strong> y recibir <strong>transferencias</strong> del gobierno.</p><p>Es el ingreso real que los hogares pueden <strong>gastar o ahorrar</strong>.</p><p>A diferencia del ingreso bruto, refleja mejor el <strong>bienestar económico</strong>.</p><p>Es clave para analizar la <strong>distribución post-fiscal</strong> de la renta.</p>"
+    },
+    {
+      "intro": "La movilidad intergeneracional mide la capacidad de los hijos para tener un nivel de ingresos diferente al de sus padres. Alta movilidad significa que el origen socioeconómico no determina el destino económico. Es un indicador importante de igualdad de oportunidades. Países con alta movilidad tienden a tener mayor cohesión social y crecimiento económico sostenible.",
+      "question": "10. ¿Qué mide la movilidad intergeneracional?",
+      "options": [
+        "La riqueza total",
+        "La capacidad de los hijos para tener ingresos diferentes a sus padres",
+        "El ingreso promedio",
+        "La tasa de impuestos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>movilidad intergeneracional</u> mide la capacidad de los <strong>hijos</strong> para tener un nivel de ingresos <strong>diferente</strong> al de sus <strong>padres</strong>.</p><p>Alta movilidad = el origen socioeconómico no determina el destino.</p><p>Es un indicador clave de <strong>igualdad de oportunidades</strong>.</p><p>Países con alta movilidad tienden a tener mayor <strong>cohesión social</strong> y crecimiento sostenible.</p>"
+    },
+    {
+      "intro": "Los impuestos progresivos gravan más a quienes tienen mayores ingresos, lo que contribuye a la redistribución de la renta. Los programas de transferencias directas, como subsidios o rentas básicas, transfieren ingresos a los más pobres. Ambos instrumentos son herramientas clave para reducir la desigualdad y la pobreza, aunque deben diseñarse cuidadosamente para minimizar distorsiones.",
+      "question": "11. ¿Qué instrumentos usa el gobierno para reducir la desigualdad?",
+      "options": [
+        "Impuestos regresivos y recortes de gasto",
+        "Impuestos progresivos y transferencias directas",
+        "Eliminación de impuestos",
+        "Aumento de la deuda"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El gobierno usa:<br>• <strong>Impuestos progresivos</strong>: gravan más a quienes tienen mayores ingresos.<br>• <strong>Transferencias directas</strong>: subsidios, rentas mínimas, cupones alimentarios.</p><p>Ambos instrumentos <strong>redistribuyen</strong> la renta y reducen la desigualdad.</p><p>Deben diseñarse cuidadosamente para <strong>minimizar distorsiones</strong> y trampas de pobreza.</p>"
+    },
+    {
+      "intro": "La desigualdad de oportunidades se refiere a que las personas no tengan las mismas posibilidades de éxito debido a factores como el lugar de nacimiento, el género, la raza o el nivel socioeconómico de sus padres. A diferencia de la desigualdad de resultados, que puede reflejar esfuerzo o talento, la desigualdad de oportunidades es generalmente vista como injusta y perjudicial para la cohesión social.",
+      "question": "12. ¿Qué es la desigualdad de oportunidades?",
+      "options": [
+        "Diferencias en resultados por esfuerzo",
+        "Falta de igualdad en posibilidades por factores externos",
+        "Igualdad de ingresos",
+        "Mayor riqueza para todos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>desigualdad de oportunidades</u> ocurre cuando las personas no tienen las mismas <strong>posibilidades de éxito</strong> debido a factores como:<br>• Lugar de nacimiento<br>• Género<br>• Raza<br>• Nivel socioeconómico de los padres</p><p>A diferencia de la desigualdad de resultados (que puede reflejar esfuerzo), es vista como <strong>injusta</strong>.</p><p>Perjudica la <strong>cohesión social</strong> y el crecimiento económico.</p>"
+    },
+    {
+      "intro": "La brecha entre ricos y pobres puede medirse con ratios como el ingreso del 10% más rico dividido por el del 10% más pobre. También se usa el índice de Gini. Aunque algunos países tienen alto PIB per cápita, pueden tener alta desigualdad. La globalización y la tecnología han aumentado la desigualdad en algunos países, aunque reducido la pobreza global.",
+      "question": "13. ¿Qué mide el ratio entre el ingreso del 10% más rico y el 10% más pobre?",
+      "options": [
+        "El ingreso total",
+        "La brecha entre ricos y pobres",
+        "La tasa de crecimiento",
+        "El nivel de precios"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>ratio entre el ingreso del 10% más rico y el 10% más pobre</u> mide la <strong>brecha</strong> entre ambos grupos.</p><p>Un ratio alto indica <strong>alta desigualdad</strong>.</p><p>Se usa junto con el índice de Gini para comparar desigualdad entre países.</p><p>Algunos países ricos tienen ratios altos (alta desigualdad), mientras que otros son más igualitarios.</p>"
+    },
+    {
+      "intro": "La pobreza multidimensional va más allá del ingreso y considera otras dimensiones como educación, salud, vivienda y acceso a servicios. Un individuo puede no estar en pobreza monetaria pero sí carecer de acceso a educación o atención médica. Este enfoque es más completo y es utilizado por el PNUD en el Índice de Pobreza Multidimensional (IPM).",
+      "question": "14. ¿Qué es la pobreza multidimensional?",
+      "options": [
+        "Solo falta de ingresos",
+        "Carencia en múltiples aspectos como educación, salud y vivienda",
+        "Solo mala alimentación",
+        "Falta de trabajo"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>pobreza multidimensional</u> considera carencias en múltiples dimensiones:<br>• <strong>Educación</strong><br>• <strong>Salud</strong><br>• <strong>Vivienda</strong><br>• <strong>Acceso a servicios</strong></p><p>Un individuo puede no estar en pobreza <strong>monetaria</strong> pero sí carecer de educación o atención médica.</p><p>Es un enfoque más completo, usado por el <strong>PNUD</strong> en el Índice de Pobreza Multidimensional (IPM).</p>"
+    },
+    {
+      "intro": "La desigualdad extrema puede tener consecuencias negativas para la sociedad, como inestabilidad política, menor cohesión social, menor crecimiento económico y peores resultados en salud y educación. Por el contrario, sociedades más igualitarias tienden a tener mayor movilidad social, mejor salud mental y mayor confianza entre ciudadanos. El equilibrio entre incentivos y equidad es clave para el desarrollo sostenible.",
+      "question": "15. ¿Qué consecuencia puede tener la desigualdad extrema?",
+      "options": [
+        "Mayor cohesión social",
+        "Inestabilidad política y menor crecimiento",
+        "Mayor movilidad social",
+        "Mejor salud mental"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>desigualdad extrema</u> puede tener consecuencias negativas como:<br>• <strong>Inestabilidad política</strong><br>• <strong>Menor cohesión social</strong><br>• <strong>Menor crecimiento económico</strong><br>• <strong>Peores resultados</strong> en salud y educación</p><p>Sociedades más igualitarias tienden a tener mayor movilidad social y confianza.</p><p>El equilibrio entre <strong>incentivos</strong> y <strong>equidad</strong> es clave para el desarrollo sostenible.</p>"
+    }
+  ]
+}
