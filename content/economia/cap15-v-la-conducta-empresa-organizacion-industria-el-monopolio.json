@@ -1,0 +1,186 @@
+{
+  "title": "El Monopolio",
+  "description": "Quiz sobre el funcionamiento de los mercados monopolísticos, maximización de beneficios, poder de mercado, eficiencia y regulación.",
+  "questions": [
+    {
+      "intro": "Un monopolio es una estructura de mercado en la que un único vendedor controla todo el suministro de un bien o servicio sin sustitutos cercanos. A diferencia de la competencia perfecta, el monopolista es un formador de precios, no un tomador de precios. Puede fijar el precio o la cantidad, pero no ambos. El monopolio surge por barreras a la entrada, como patentes, recursos exclusivos, economías de escala o regulaciones gubernamentales. Estas barreras impiden que otras empresas entren al mercado, permitiendo al monopolista obtener beneficios económicos a largo plazo.",
+      "question": "1. ¿Qué caracteriza a un mercado monopolístico?",
+      "options": [
+        "Muchas empresas venden productos idénticos",
+        "Un solo vendedor sin sustitutos cercanos",
+        "Empresas que compiten en precios",
+        "Entrada libre de nuevas empresas"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>monopolio</u> se caracteriza por tener un <strong>solo vendedor</strong> que controla todo el mercado de un bien sin sustitutos cercanos.</p><p>El monopolista es un <strong>formador de precios</strong>: puede fijar el precio o la cantidad, pero no ambos.</p><p>Las <strong>barreras a la entrada</strong> (patentes, recursos exclusivos, economías de escala) evitan la competencia.</p><p>Permite obtener <strong>beneficios económicos a largo plazo</strong>.</p>"
+    },
+    {
+      "intro": "El ingreso marginal de un monopolista es menor que el precio porque para vender una unidad adicional, debe bajar el precio de todas las unidades vendidas. La curva de ingreso marginal está por debajo de la curva de demanda. Esto contrasta con la competencia perfecta, donde IMg = P. Esta relación es clave para entender por qué el monopolista produce menos y cobra más que en competencia.",
+      "question": "2. ¿Por qué el ingreso marginal de un monopolista es menor que el precio?",
+      "options": [
+        "Porque debe bajar el precio de todas las unidades para vender más",
+        "Porque tiene muchos competidores",
+        "Porque el costo marginal es alto",
+        "Porque el gobierno fija el precio"
+      ],
+      "correct": [0],
+      "saber_mas": "<p>En un <u>monopolio</u>, el <strong>ingreso marginal</strong> (IMg) es <strong>menor que el precio</strong> porque para vender una unidad adicional, el monopolista debe <strong>bajar el precio de todas las unidades</strong> vendidas.</p><p>La curva de IMg está por debajo de la curva de demanda.</p><p>Esto contrasta con la competencia perfecta, donde IMg = P.</p><p>Es clave para entender por qué el monopolista produce <strong>menos</strong> y cobra <strong>más</strong>.</p>"
+    },
+    {
+      "intro": "Un monopolista maximiza beneficios produciendo la cantidad donde el ingreso marginal iguala al costo marginal (IMg = CMg). Luego, utiliza la curva de demanda para determinar el precio que los consumidores están dispuestos a pagar por esa cantidad. Este precio es mayor que el costo marginal, lo que genera un beneficio económico. La diferencia entre el precio y el CMg mide el poder de mercado.",
+      "question": "3. ¿Cómo maximiza beneficios un monopolista?",
+      "options": [
+        "Produciendo donde P = CMg",
+        "Produciendo donde IMg = CMg y cobrando el precio de la demanda",
+        "Produciendo la máxima cantidad posible",
+        "Fijando el precio igual al costo medio"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>monopolista</u> maximiza beneficios produciendo la cantidad donde <strong>IMg = CMg</strong>.</p><p>Luego, utiliza la <strong>curva de demanda</strong> para determinar el precio que los consumidores están dispuestos a pagar por esa cantidad.</p><p>Este precio es <strong>mayor que el CMg</strong>, lo que genera <strong>beneficio económico</strong>.</p><p>La diferencia entre P y CMg mide el <strong>poder de mercado</strong>.</p>"
+    },
+    {
+      "intro": "El precio de un monopolista es mayor que el costo marginal, lo que significa que el valor marginal para los consumidores supera el costo de producir una unidad adicional. Esto lleva a una subproducción respecto al nivel eficiente. El monopolio no asigna recursos eficientemente, ya que no se producen unidades que tendrían beneficio neto positivo para la sociedad.",
+      "question": "4. ¿Por qué el monopolio es ineficiente?",
+      "options": [
+        "Porque produce más de lo socialmente óptimo",
+        "Porque produce menos de lo socialmente óptimo",
+        "Porque tiene costos fijos altos",
+        "Porque no paga impuestos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>monopolio</u> es <strong>ineficiente</strong> porque produce <strong>menos</strong> que el nivel socialmente óptimo.</p><p>El precio es mayor que el costo marginal, lo que significa que el <strong>valor marginal</strong> para los consumidores > <strong>costo marginal</strong> de producción.</p><p>Hay unidades que no se producen pero que tendrían <strong>beneficio neto positivo</strong> para la sociedad.</p><p>Se genera una <strong>pérdida de peso muerto</strong>.</p>"
+    },
+    {
+      "intro": "La pérdida de peso muerto del monopolio es la reducción del bienestar total que no se recupera como beneficio para el monopolista. Ocurre porque el monopolista restringe la producción para elevar el precio. El área entre la curva de demanda y la curva de costo marginal, desde la cantidad monopolística hasta la eficiente, representa esta pérdida. Es una medida de ineficiencia del mercado.",
+      "question": "5. ¿Qué es la pérdida de peso muerto del monopolio?",
+      "options": [
+        "El beneficio del monopolista",
+        "La ganancia del consumidor",
+        "La reducción del bienestar total no recuperada",
+        "El aumento de la producción"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>La <u>pérdida de peso muerto</u> del monopolio es la <strong>reducción del bienestar total</strong> que no se recupera como beneficio para el monopolista.</p><p>Ocurre porque el monopolista <strong>restringe la producción</strong> para elevar el precio.</p><p>Representa <strong>intercambios beneficiosos que no se realizan</strong>.</p><p>Área entre demanda y CMg, desde Q_monopolio hasta Q_eficiente.</p>"
+    },
+    {
+      "intro": "El poder de mercado es la capacidad de una empresa para fijar un precio por encima del costo marginal. En competencia perfecta, el poder de mercado es cero (P = CMg). En monopolio, es máximo. El índice de Lerner mide el poder de mercado como (P - CMg) / P. Cuanto mayor sea el índice, mayor será el poder de mercado y la ineficiencia.",
+      "question": "6. ¿Qué mide el índice de Lerner?",
+      "options": [
+        "El beneficio contable",
+        "El poder de mercado",
+        "La eficiencia técnica",
+        "La elasticidad de la oferta"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>índice de Lerner</u> mide el <strong>poder de mercado</strong> de una empresa.</p><p>Se calcula como: <strong>(P - CMg) / P</strong>.</p><p>En competencia perfecta: índice = 0 (P = CMg).</p><p>En monopolio: índice > 0 (P > CMg).</p><p>Cuanto mayor sea el índice, mayor será el poder de mercado y la ineficiencia.</p>"
+    },
+    {
+      "intro": "La discriminación de precios ocurre cuando un monopolista cobra diferentes precios a diferentes consumidores por el mismo bien. Para que funcione, debe poder segmentar mercados y evitar la reventa. La discriminación perfecta (de primer grado) cobra a cada consumidor su disposición a pagar, eliminando la pérdida de peso muerto pero transfiriendo todo el excedente del consumidor al monopolista.",
+      "question": "7. ¿Qué es la discriminación de precios de primer grado?",
+      "options": [
+        "Cobrar precios diferentes por productos diferentes",
+        "Cobrar a cada consumidor su disposición máxima a pagar",
+        "Ofrecer descuentos por volumen",
+        "Cobrar precios más bajos a estudiantes"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>discriminación de precios de primer grado</u> (perfecta) ocurre cuando el monopolista <strong>cobra a cada consumidor su disposición máxima a pagar</strong>.</p><p>Requiere conocimiento perfecto de las preferencias de cada consumidor.</p><p>Elimina la <strong>pérdida de peso muerto</strong> (produce cantidad eficiente).</p><p>Pero <strong>transfiere todo el excedente del consumidor</strong> al monopolista.</p>"
+    },
+    {
+      "intro": "Un monopolio natural surge cuando una sola empresa puede producir todo el mercado a un costo menor que si hubiera varias empresas. Esto se debe a fuertes economías de escala, donde el costo total medio disminuye continuamente con la producción. Ejemplos incluyen servicios públicos como agua, electricidad o ferrocarriles. La regulación es necesaria para evitar abusos de poder de mercado.",
+      "question": "8. ¿Qué es un monopolio natural?",
+      "options": [
+        "Un monopolio creado por el gobierno",
+        "Una empresa que tiene recursos exclusivos",
+        "Una sola empresa que puede producir a menor costo que varias",
+        "Un monopolio con muchos competidores"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>Un <u>monopolio natural</u> surge cuando una sola empresa puede <strong>producir todo el mercado a un costo menor</strong> que si hubiera varias empresas.</p><p>Se debe a <strong>fuertes economías de escala</strong>: el CTMe disminuye continuamente con la producción.</p><p>Ejemplos: servicios públicos (agua, electricidad, gas).</p><p>La regulación es necesaria para evitar abusos de poder de mercado.</p>"
+    },
+    {
+      "intro": "La regulación del precio en un monopolio puede mejorar el bienestar. Un precio igual al costo marginal (P = CMg) restaura la eficiencia, pero puede hacer que la empresa tenga pérdidas si el CMg está por debajo del CTMe. Una alternativa es fijar el precio igual al CTMe, lo que permite la supervivencia de la empresa pero mantiene alguna ineficiencia.",
+      "question": "9. ¿Qué problema puede surgir al fijar P = CMg en un monopolio natural?",
+      "options": [
+        "La empresa obtiene beneficios excesivos",
+        "La empresa puede tener pérdidas",
+        "Aumenta la competencia",
+        "Disminuye la demanda"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Al fijar <strong>P = CMg</strong> en un monopolio natural, se restaura la <strong>eficiencia</strong> (elimina pérdida de peso muerto).</p><p>Pero si el <strong>CMg < CTMe</strong>, la empresa <strong>tendrá pérdidas</strong> porque no cubre sus costos totales.</p><p>Esto puede llevar al cierre de la empresa.</p><p>Alternativa: fijar <strong>P = CTMe</strong> (precio de costo medio), que permite la supervivencia pero mantiene algo de ineficiencia.</p>"
+    },
+    {
+      "intro": "El excedente del productor en un monopolio es mayor que en competencia perfecta porque el monopolista obtiene beneficios económicos a largo plazo. Sin embargo, el excedente del consumidor es menor porque el precio es más alto y la cantidad es menor. El bienestar total es menor debido a la pérdida de peso muerto.",
+      "question": "10. ¿Qué ocurre con el excedente del consumidor en un monopolio?",
+      "options": [
+        "Aumenta respecto a la competencia",
+        "Permanece constante",
+        "Disminuye respecto a la competencia",
+        "Se vuelve negativo"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>En un <u>monopolio</u>, el <strong>excedente del consumidor</strong> es <strong>menor</strong> que en competencia perfecta.</p><p>El precio es más alto y la cantidad es menor.</p><p>Parte del excedente del consumidor se transfiere al productor.</p><p>Además, hay una <strong>pérdida de peso muerto</strong> que reduce el bienestar total.</p>"
+    },
+    {
+      "intro": "La curva de oferta de un monopolista no existe como tal, porque el monopolista no produce donde P = CMg, sino donde IMg = CMg. La cantidad producida depende de la curva de demanda, no solo del costo marginal. Por lo tanto, no hay una relación única entre precio y cantidad ofrecida, como en competencia perfecta.",
+      "question": "11. ¿Por qué no existe una curva de oferta en un monopolio?",
+      "options": [
+        "Porque el monopolista no tiene costos",
+        "Porque la cantidad depende de la demanda, no solo del costo",
+        "Porque el gobierno fija la producción",
+        "Porque no hay competencia"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>En un <u>monopolio</u>, <strong>no existe una curva de oferta</strong> como en competencia perfecta.</p><p>El monopolista produce donde <strong>IMg = CMg</strong>, no donde P = CMg.</p><p>La cantidad depende de la <strong>curva de demanda</strong> (que determina IMg), no solo del CMg.</p><p>Por lo tanto, no hay una relación única entre precio y cantidad ofrecida.</p>"
+    },
+    {
+      "intro": "La regulación por precios máximos puede mejorar la situación en un monopolio. Si el precio máximo está por debajo del precio monopolístico pero por encima del costo marginal, puede aumentar la cantidad producida y reducir la pérdida de peso muerto. Pero si está demasiado bajo, puede crear escasez o incentivar la salida del mercado.",
+      "question": "12. ¿Qué efecto puede tener un precio máximo en un monopolio?",
+      "options": [
+        "Aumentar el precio monopolístico",
+        "Aumentar la cantidad producida",
+        "Eliminar la competencia",
+        "Aumentar la pérdida de peso muerto"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>precio máximo</u> en un monopolio puede <strong>aumentar la cantidad producida</strong> si está por debajo del precio monopolístico pero por encima del CMg.</p><p>Reduce la pérdida de peso muerto y mejora el bienestar.</p><p>Pero si está <strong>demasiado bajo</strong>, puede crear escasez o incentivar al monopolista a salir del mercado.</p><p>Es una herramienta de regulación, pero debe usarse con cuidado.</p>"
+    },
+    {
+      "intro": "Los beneficios económicos en un monopolio pueden persistir a largo plazo debido a las barreras a la entrada. A diferencia de la competencia perfecta, donde los beneficios atraen entrada de nuevas empresas, en el monopolio las barreras previenen la entrada, permitiendo que el monopolista mantenga beneficios económicos indefinidamente.",
+      "question": "13. ¿Por qué persisten los beneficios económicos en un monopolio a largo plazo?",
+      "options": [
+        "Porque hay muchas empresas",
+        "Por las barreras a la entrada",
+        "Porque el gobierno los subvenciona",
+        "Porque los costos son cero"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Los <u>beneficios económicos</u> en un monopolio <strong>persisten a largo plazo</strong> debido a las <strong>barreras a la entrada</strong>.</p><p>A diferencia de la competencia perfecta, donde los beneficios atraen entrada de nuevas empresas, en el monopolio las barreras (patentes, recursos exclusivos, economías de escala) <strong>previenen la entrada</strong>.</p><p>Esto permite que el monopolista mantenga beneficios económicos indefinidamente.</p>"
+    },
+    {
+      "intro": "La fijación de precios en dos tramos es una forma de discriminación de precios en la que el monopolista cobra un derecho de acceso más un precio por unidad. Por ejemplo, un club de golf cobra una cuota de membresía más un precio por partida. Esto permite capturar parte del excedente del consumidor a través de la cuota fija.",
+      "question": "14. ¿Qué es la fijación de precios en dos tramos?",
+      "options": [
+        "Cobrar un precio fijo por todas las unidades",
+        "Cobrar un derecho de acceso más un precio por unidad",
+        "Cobrar precios diferentes en diferentes regiones",
+        "Ofrecer descuentos por lealtad"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>fijación de precios en dos tramos</u> es una forma de discriminación de precios en la que el monopolista cobra un <strong>precio fijo</strong> (derecho de acceso) más un <strong>precio por unidad</strong>.</p><p>Ejemplo: club de golf (cuota de membresía + precio por partida).</p><p>Permite capturar parte del <strong>excedente del consumidor</strong> a través de la cuota fija.</p><p>El precio por unidad puede ser igual al CMg para maximizar el consumo.</p>"
+    },
+    {
+      "intro": "La competencia monopolística es diferente del monopolio puro. Aunque las empresas tienen poder de mercado sobre su producto diferenciado, hay libre entrada de nuevas empresas, lo que elimina los beneficios económicos a largo plazo. El monopolio puro, en cambio, tiene barreras a la entrada que permiten beneficios persistentes.",
+      "question": "15. ¿Qué diferencia al monopolio de la competencia monopolística?",
+      "options": [
+        "El número de empresas",
+        "La diferenciación del producto",
+        "La presencia de barreras a la entrada",
+        "El precio del bien"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>La principal diferencia entre <u>monopolio</u> y <u>competencia monopolística</u> es la <strong>presencia de barreras a la entrada</strong>.</p><p>En el monopolio, hay <strong>barreras altas</strong> que previenen la entrada, permitiendo beneficios económicos a largo plazo.</p><p>En la competencia monopolística, hay <strong>libre entrada</strong>, lo que elimina los beneficios económicos a largo plazo.</p><p>Ambos tienen poder de mercado por diferenciación, pero solo el monopolio lo mantiene en el largo plazo.</p>"
+    }
+  ]
+}
