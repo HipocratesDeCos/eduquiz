@@ -1,0 +1,186 @@
+{
+  "title": "Una Teoría Macroeconómica de la Economía Abierta",
+  "description": "Quiz sobre el mercado de fondos prestables global, el tipo de cambio real, la inversión extranjera neta y cómo las políticas económicas afectan a las economías abiertas.",
+  "questions": [
+    {
+      "intro": "En una economía abierta, el mercado de fondos prestables se extiende a nivel global. El ahorro mundial debe igualar a la inversión mundial. El tipo de interés real mundial es el precio que equilibra el ahorro e inversión global. Los países con ahorro insuficiente pueden financiarse desde el exterior, mientras que los que ahorran más de lo que invierten prestan al resto del mundo. Este modelo unifica el ahorro, la inversión y los flujos de capital.",
+      "question": "1. ¿Qué determina el tipo de interés real en una economía abierta?",
+      "options": [
+        "Solo el banco central",
+        "El equilibrio entre ahorro e inversión mundial",
+        "La inflación",
+        "El tipo de cambio nominal"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>En una <u>economía abierta</u>, el <strong>mercado de fondos prestables</strong> es <strong>global</strong>.</p><p>El <strong>ahorro mundial</strong> debe igualar a la <strong>inversión mundial</strong>.</p><p>El <strong>tipo de interés real mundial</strong> es el precio que <strong>equilibra</strong> el ahorro e inversión global.</p><p>Países con <strong>ahorro insuficiente</strong> (S < I) se <strong>financian</strong> desde el exterior (reciben inversión extranjera).</p><p>Países con <strong>exceso de ahorro</strong> (S > I) <strong>prestan</strong> al resto del mundo (inversión extranjera neta positiva).</p><p>Este modelo unifica el ahorro, la inversión y los flujos de capital internacional.</p>"
+    },
+    {
+      "intro": "La inversión extranjera neta (IEN) es la diferencia entre la inversión de residentes nacionales en el extranjero y la inversión de extranjeros en el país. Es igual a la exportaciones netas (X - M). Si un país tiene superávit comercial, tiene IEN positiva (invierte más en el extranjero del que recibe). Si tiene déficit, tiene IEN negativa (recibe más inversión del exterior de la que realiza).",
+      "question": "2. ¿Qué relación existe entre la inversión extranjera neta y las exportaciones netas?",
+      "options": [
+        "Son independientes",
+        "IEN = X - M",
+        "IEN = M - X",
+        "No hay relación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>inversión extranjera neta</u> (IEN) es la diferencia entre la <strong>inversión de residentes nacionales en el extranjero</strong> y la <strong>inversión de extranjeros en el país</strong>.</p><p>Se calcula como: <strong>IEN = Inversión nacional en el extranjero - Inversión extranjera en el país</strong></p><p>Por la identidad contable de la balanza de pagos: <strong>IEN = X - M</strong> (exportaciones netas)</p><p>• Si X > M (superávit comercial), IEN > 0: el país <strong>invierte más</strong> en el extranjero del que recibe.<br>• Si X < M (déficit comercial), IEN < 0: el país <strong>recibe más inversión</strong> del exterior de la que realiza.</p><p>Es una medida del flujo neto de capital.</p>"
+    },
+    {
+      "intro": "El tipo de cambio real es el precio relativo de los bienes domésticos frente a los extranjeros. Determina la competitividad internacional de un país. A un tipo de cambio real más bajo, los bienes domésticos son más baratos en el extranjero, lo que aumenta las exportaciones y disminuye las importaciones, mejorando la balanza comercial.",
+      "question": "3. ¿Qué efecto tiene una depreciación del tipo de cambio real?",
+      "options": [
+        "Hace más caros los bienes domésticos en el extranjero",
+        "Hace más baratos los bienes domésticos en el extranjero",
+        "No tiene efecto",
+        "Elimina las importaciones"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>tipo de cambio real</u> es el <strong>precio relativo</strong> de los bienes y servicios <strong>domésticos</strong> frente a los <strong>extranjeros</strong>.</p><p>Una <strong>depreciación</strong> (bajada) del tipo de cambio real hace que los bienes domésticos sean <strong>más baratos</strong> en el extranjero y los extranjeros <strong>más caros</strong> en el país.</p><p>Esto:<br>• <strong>Aumenta las exportaciones</strong> (más competitivos)<br>• <strong>Disminuye las importaciones</strong> (más caras)<br>• <strong>Mejora la balanza comercial</strong> (X - M)</p><p>Es un mecanismo de ajuste clave en economías abiertas.</p><p>Una apreciación tiene el efecto contrario.</p>"
+    },
+    {
+      "intro": "La demanda de divisas se deriva de la necesidad de comprar bienes, servicios o activos en el extranjero. Por ejemplo, si un español quiere comprar un coche estadounidense o invertir en acciones de EE.UU., necesita dólares. La oferta de divisas proviene de quienes venden bienes o activos a extranjeros y reciben divisas, que luego venden por euros. El mercado de divisas determina el tipo de cambio nominal.",
+      "question": "4. ¿Qué determina la demanda de dólares en el mercado de divisas?",
+      "options": [
+        "La inflación en EE.UU.",
+        "La necesidad de comprar bienes o activos en EE.UU.",
+        "El tipo de interés real mundial",
+        "La inversión extranjera neta"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>demanda de dólares</u> en el mercado de divisas proviene de quienes necesitan dólares para:<br>• <strong>Comprar bienes y servicios</strong> en EE.UU. (importaciones)<br>• <strong>Comprar activos</strong> en EE.UU. (inversión extranjera directa, acciones, bonos)</p><p>Por ejemplo, si un español quiere comprar un coche estadounidense o invertir en Apple, necesita dólares.</p><p>La <strong>oferta de dólares</strong> proviene de quienes venden bienes o activos a EE.UU. y reciben dólares, que luego venden por euros (por ejemplo, un estadounidense que compra vino español).</p><p>El equilibrio entre oferta y demanda determina el <strong>tipo de cambio nominal</strong>.</p>"
+    },
+    {
+      "intro": "Si un país aumenta su ahorro nacional, por ejemplo mediante una reducción del déficit público, la oferta de fondos prestables aumenta. Esto reduce el tipo de interés real nacional, lo que puede aumentar la inversión. En una economía abierta, también puede llevar a un superávit exterior, ya que el país presta más al resto del mundo. Esto se refleja en un aumento de la inversión extranjera neta.",
+      "question": "5. ¿Qué ocurre si aumenta el ahorro nacional en una economía abierta?",
+      "options": [
+        "Disminuye la inversión extranjera neta",
+        "Aumenta la inversión extranjera neta",
+        "No tiene efecto",
+        "Aumenta el déficit comercial"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Si aumenta el <u>ahorro nacional</u> (por ejemplo, al reducir el déficit público), la <strong>oferta de fondos prestables</strong> aumenta.</p><p>En una economía abierta, esto puede:<br>• <strong>Reducir el tipo de interés real</strong> (si el ahorro crece más que la inversión)<br>• <strong>Aumentar la inversión</strong> (si el tipo baja)<br>• <strong>Aumentar el superávit exterior</strong> (S - I)</p><p>Como <strong>IEN = S - I</strong>, si S aumenta más que I, la <strong>inversión extranjera neta aumenta</strong>.</p><p>El país <strong>invierte más</strong> en el extranjero del que recibe inversión extranjera.</p><p>Esto se refleja en un <strong>superávit en cuenta corriente</strong>.</p>"
+    },
+    {
+      "intro": "Si un país tiene una alta tasa de retorno sobre la inversión, atraerá inversión extranjera. Esto aumenta la demanda de su moneda, lo que aprecia el tipo de cambio real. Aunque esto puede hacer más caros sus bienes en el extranjero, también refleja una economía dinámica y productiva. El equilibrio entre retorno y competitividad es clave para el crecimiento sostenido.",
+      "question": "6. ¿Qué efecto tiene una alta tasa de retorno sobre la inversión en un país?",
+      "options": [
+        "Disminuye la inversión extranjera",
+        "Atrae inversión extranjera y aprecia la moneda",
+        "No tiene efecto",
+        "Reduce el ahorro"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Una <u>alta tasa de retorno sobre la inversión</u> en un país <strong>atrae inversión extranjera</strong> (tanto directa como en cartera).</p><p>Los inversores buscan maximizar sus beneficios, por lo que trasladan fondos a donde el retorno es más alto.</p><p>Esto <strong>aumenta la demanda de la moneda</strong> local (para comprar activos), lo que <strong>aprecia</strong> el tipo de cambio real.</p><p>La apreciación hace los bienes locales <strong>más caros</strong> en el extranjero, lo que puede <strong>reducir las exportaciones</strong>.</p><p>Refleja una economía <strong>dinámica y productiva</strong>, pero requiere equilibrio para no perder competitividad.</p>"
+    },
+    {
+      "intro": "Un aumento en la inversión interior, por ejemplo por un boom tecnológico, aumenta la demanda de fondos prestables. Esto eleva el tipo de interés real, lo que puede reducir el ahorro. En una economía abierta, también puede atraer capital extranjero, reduciendo la inversión extranjera neta y generando un déficit exterior. Esto se refleja en un aumento de las importaciones de capital.",
+      "question": "7. ¿Qué ocurre si aumenta la inversión interior en una economía abierta?",
+      "options": [
+        "Aumenta la inversión extranjera neta",
+        "Disminuye la inversión extranjera neta",
+        "No tiene efecto",
+        "Aumenta el ahorro nacional"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Si aumenta la <u>inversión interior</u> (por ejemplo, por un boom tecnológico), la <strong>demanda de fondos prestables</strong> aumenta.</p><p>Esto <strong>eleva el tipo de interés real</strong>.</p><p>En una economía abierta, el mayor tipo de interés <strong>atrae capital extranjero</strong> (inversión en cartera, préstamos).</p><p>Esto <strong>reduce la inversión extranjera neta</strong> (IEN), ya que el país <strong>recibe más inversión</strong> del exterior.</p><p>Se refleja en un <strong>déficit en cuenta corriente</strong> (X - M < 0).</p><p>El país se <strong>financia desde el exterior</strong> para financiar su alta inversión.</p>"
+    },
+    {
+      "intro": "Las políticas comerciales, como aranceles o cuotas, no afectan directamente la inversión extranjera neta, ya que esta está determinada por el ahorro e inversión nacional. Un arancel puede reducir las importaciones, pero también puede provocar una apreciación del tipo de cambio real, que contrarresta el efecto. En última instancia, las políticas comerciales afectan la composición del comercio, no el saldo total.",
+      "question": "8. ¿Qué efecto tiene un arancel sobre la inversión extranjera neta?",
+      "options": [
+        "Aumenta la IEN",
+        "Disminuye la IEN",
+        "No tiene efecto directo",
+        "Elimina la IEN"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>Los <u>aranceles</u> (impuestos a las importaciones) o <u>cuotas</u> (límites a las importaciones) <strong>no afectan directamente</strong> la <strong>inversión extranjera neta</strong> (IEN).</p><p>La IEN está determinada por el <strong>ahorro e inversión nacional</strong>: IEN = S - I.</p><p>Un arancel puede <strong>reducir las importaciones</strong>, mejorando temporalmente la balanza comercial.</p><p>Pero también provoca una <strong>apreciación del tipo de cambio real</strong>, que hace más caros los exportables y más baratos los importables, <strong>contrarrestando</strong> el efecto del arancel.</p><p>En última instancia, no cambia el saldo exterior, solo la <strong>composición</strong> del comercio y puede provocar represalias.</p>"
+    },
+    {
+      "intro": "La confianza de los inversores en un país es crucial para atraer inversión extranjera. Factores como estabilidad política, reglas claras, protección de derechos de propiedad y transparencia aumentan la confianza. La falta de confianza puede llevar a salidas de capital (capital flight), depreciación de la moneda y crisis financieras. La reputación económica es un activo clave.",
+      "question": "9. ¿Qué factor aumenta la confianza de los inversores extranjeros?",
+      "options": [
+        "Inestabilidad política",
+        "Protección de derechos de propiedad",
+        "Corrupción",
+        "Falta de transparencia"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>confianza de los inversores</u> extranjeros es crucial para atraer inversión.</p><p>Factores que la <strong>aumentan</strong>:<br>• <strong>Estabilidad política</strong><br>• <strong>Reglas claras y predecibles</strong><br>• <strong>Protección de derechos de propiedad</strong><br>• <strong>Transparencia</strong> en políticas económicas<br>• <strong>Supervisión financiera sólida</strong></p><p>La <strong>falta de confianza</strong> puede llevar a <strong>salidas de capital</strong> (capital flight), <strong>depreciación</strong> de la moneda y <strong>crisis financieras</strong>.</p><p>Países con buena reputación atraen más inversión, incluso con tasas de retorno similares.</p><p>La <strong>reputación económica</strong> es un activo clave difícil de construir y fácil de perder.</p>"
+    },
+    {
+      "intro": "Un aumento en la inversión extranjera neta significa que los residentes nacionales están invirtiendo más en el extranjero del que los extranjeros invierten en el país. Esto se refleja en un superávit en cuenta corriente. Puede deberse a un aumento del ahorro nacional o a una disminución de la inversión interior. Es una señal de que el país está prestando al resto del mundo.",
+      "question": "10. ¿Qué indica un aumento en la inversión extranjera neta?",
+      "options": [
+        "Que el país está recibiendo más inversión del exterior",
+        "Que el país está invirtiendo más en el exterior del que recibe",
+        "Que hay déficit comercial",
+        "Que el ahorro ha disminuido"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>aumento en la inversión extranjera neta</u> (IEN) indica que los <strong>residentes nacionales</strong> están <strong>invirtiendo más</strong> en el <strong>extranjero</strong> del que los <strong>extranjeros</strong> están invirtiendo en el <strong>país</strong>.</p><p>Se refleja en un <strong>superávit en cuenta corriente</strong> (X - M > 0).</p><p>Puede deberse a:<br>• <strong>Aumento del ahorro nacional</strong> (más fondos para invertir en el exterior)<br>• <strong>Disminución de la inversión interior</strong> (menor demanda de fondos)</p><p>Es una señal de que el país está <strong>prestando</strong> al resto del mundo.</p><p>Países como Alemania o Japón suelen tener alta IEN.</p>"
+    },
+    {
+      "intro": "El tipo de cambio real de equilibrio se alcanza cuando la cantidad de divisas demandada iguala a la cantidad ofrecida. La demanda de divisas depende de la inversión extranjera neta, que a su vez depende del ahorro e inversión nacional. A mayor IEN, mayor oferta de divisas (los residentes venden euros para comprar dólares), lo que tiende a depreciar el tipo de cambio real.",
+      "question": "11. ¿Qué determina la oferta de euros en el mercado de divisas?",
+      "options": [
+        "La inflación en Alemania",
+        "La inversión extranjera neta",
+        "El tipo de interés nominal",
+        "La balanza comercial"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>oferta de euros</u> en el mercado de divisas proviene de quienes necesitan <strong>dólares</strong> (u otras divisas) para:<br>• <strong>Comprar bienes y servicios</strong> en el extranjero (importaciones)<br>• <strong>Comprar activos</strong> en el extranjero (inversión extranjera directa, acciones)</p><p>Esta oferta está directamente relacionada con la <strong>inversión extranjera neta</strong> (IEN).</p><p>A mayor IEN, mayor oferta de euros (los residentes venden euros para comprar activos extranjeros), lo que <strong>tiende a depreciar</strong> el tipo de cambio real.</p><p>La demanda de euros proviene de quienes venden bienes o activos a extranjeros y reciben euros.</p><p>El equilibrio entre oferta y demanda determina el tipo de cambio real de equilibrio.</p>"
+    },
+    {
+      "intro": "Una política fiscal expansiva, como aumentar el gasto público o reducir impuestos, reduce el ahorro nacional. Esto disminuye la oferta de fondos prestables, eleva el tipo de interés real y reduce la inversión extranjera neta. En el mercado de divisas, esto reduce la oferta de divisas, apreciando el tipo de cambio real y reduciendo las exportaciones netas.",
+      "question": "12. ¿Qué efecto tiene una política fiscal expansiva en el tipo de cambio real?",
+      "options": [
+        "Lo deprecia",
+        "Lo aprecia",
+        "No tiene efecto",
+        "Lo hace fijo"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Una <u>política fiscal expansiva</u> (aumentar gasto o reducir impuestos) <strong>reduce el ahorro público</strong> y, por tanto, el <strong>ahorro nacional</strong>.</p><p>Esto <strong>reduce la oferta de fondos prestables</strong>, <strong>sube el tipo de interés real</strong> y <strong>reduce la inversión extranjera neta</strong> (IEN).</p><p>En el mercado de divisas, una menor IEN <strong>reduce la oferta de euros</strong> (menos residentes invierten en el extranjero).</p><p>Con menos oferta de euros, el tipo de cambio real <strong>se aprecia</strong>.</p><p>La apreciación hace los bienes locales <strong>más caros</strong> en el extranjero, <strong>reduciendo las exportaciones netas</strong>.</p><p>Este proceso se llama <strong>efecto expulsión internacional</strong>.</p>"
+    },
+    {
+      "intro": "Una política monetaria expansiva reduce el tipo de interés real, lo que puede aumentar la inversión y reducir el ahorro. En una economía abierta, también puede llevar a una salida de capital, depreciando el tipo de cambio real. Una moneda más débil hace los bienes locales más competitivos, aumentando las exportaciones netas. Este es un canal de transmisión clave de la política monetaria.",
+      "question": "13. ¿Qué efecto tiene una política monetaria expansiva en el tipo de cambio real?",
+      "options": [
+        "Lo aprecia",
+        "Lo deprecia",
+        "No tiene efecto",
+        "Lo hace más volátil"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Una <u>política monetaria expansiva</u> (comprar bonos, bajar tipos) <strong>reduce el tipo de interés real</strong>.</p><p>Esto puede <strong>aumentar la inversión</strong> y <strong>reducir el ahorro</strong>.</p><p>En una economía abierta, los inversores buscan mayores retornos en el extranjero, lo que genera <strong>salida de capital</strong>.</p><p>Esta salida <strong>aumenta la oferta de euros</strong> en el mercado de divisas, <strong>depreciando</strong> el tipo de cambio real.</p><p>Una moneda más débil hace los bienes locales <strong>más baratos</strong> en el extranjero, <strong>aumentando las exportaciones netas</strong>.</p><p>Este es un canal de transmisión clave de la política monetaria en economías abiertas.</p>"
+    },
+    {
+      "intro": "Las expectativas sobre el tipo de cambio futuro afectan la demanda de activos en diferentes monedas. Si los inversores esperan que una moneda se aprecie, demandarán más activos en esa moneda hoy, lo que puede hacer que se aprecie incluso antes. Las expectativas son un factor clave en la volatilidad del mercado de divisas.",
+      "question": "14. ¿Cómo afectan las expectativas al tipo de cambio?",
+      "options": [
+        "No tienen efecto",
+        "Pueden causar apreciación anticipada si se espera",
+        "Eliminan la necesidad de divisas",
+        "Fijan el tipo de cambio"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Las <u>expectativas</u> sobre el tipo de cambio futuro <strong>afectan fuertemente</strong> la demanda de activos en diferentes monedas.</p><p>Si los inversores <strong>esperan que una moneda se aprecie</strong>, demandarán más activos en esa moneda hoy para beneficiarse de la ganancia de cambio.</p><p>Este aumento en la demanda puede <strong>hacer que la moneda se aprecie incluso antes</strong> de que ocurra el evento esperado.</p><p>Por ejemplo, si se espera una subida de tipos en EE.UU., los inversores comprarán dólares hoy, <strong>apreciándolos</strong>.</p><p>Las expectativas son un factor clave en la <strong>volatilidad</strong> del mercado de divisas y pueden generar burbujas o crisis.</p>"
+    },
+    {
+      "intro": "La movilidad perfecta de capitales significa que los fondos pueden fluir libremente entre países en busca del mejor retorno. En este caso, los tipos de interés reales tienden a igualarse entre países, ya que cualquier diferencia generaría flujos de capital que la eliminan. Este supuesto simplifica el modelo de economía abierta y es razonable para países desarrollados con mercados financieros integrados.",
+      "question": "15. ¿Qué implica la movilidad perfecta de capitales?",
+      "options": [
+        "Que los tipos de interés reales se igualan entre países",
+        "Que no hay comercio exterior",
+        "Que los tipos de interés son fijos",
+        "Que no hay inversión extranjera"
+      ],
+      "correct": [0],
+      "saber_mas": "<p>La <u>movilidad perfecta de capitales</u> significa que los fondos pueden <strong>fluir libremente</strong> entre países en busca del mejor retorno, sin barreras ni costes significativos.</p><p>En este caso, los <strong>tipos de interés reales</strong> tienden a <strong>igualarse</strong> entre países.</p><p>Si un país tiene un tipo de interés real más alto, los inversores trasladarán fondos hacia él, aumentando la demanda de su moneda y reduciendo el tipo hasta que se iguale.</p><p>Este supuesto <strong>simplifica</strong> el modelo de economía abierta y es razonable para países desarrollados con mercados financieros <strong>integrados</strong>.</p><p>En la realidad, hay <strong>costes de transacción</strong>, <strong>riesgos</strong> y <strong>regulaciones</strong>, pero la tendencia a la igualación existe.</p>"
+    }
+  ]
+}
