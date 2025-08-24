@@ -1,0 +1,186 @@
+{
+  "title": "El Oligopolio",
+  "description": "Quiz sobre el funcionamiento de los mercados oligopolísticos, interdependencia estratégica, teoría de juegos, colusión y equilibrio de Nash.",
+  "questions": [
+    {
+      "intro": "Un oligopolio es una estructura de mercado en la que unas pocas empresas dominan el mercado. Las decisiones de una empresa afectan directamente a las demás, creando interdependencia estratégica. Los productos pueden ser homogéneos (acero, petróleo) o diferenciados (automóviles, bebidas). Debido a esta interdependencia, el comportamiento de las empresas es impredecible sin un modelo de teoría de juegos. Las barreras a la entrada son altas, lo que permite beneficios económicos a largo plazo.",
+      "question": "1. ¿Qué caracteriza a un oligopolio?",
+      "options": [
+        "Muchas empresas con productos idénticos",
+        "Una sola empresa sin competencia",
+        "Unas pocas empresas con interdependencia estratégica",
+        "Libre entrada de nuevas empresas"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>Un <u>oligopolio</u> se caracteriza por tener <strong>un número pequeño de empresas</strong> que dominan el mercado.</p><p>Existe <strong>interdependencia estratégica</strong>: las decisiones de una empresa afectan directamente a las demás.</p><p>Los productos pueden ser <strong>homogéneos</strong> (acero) o <strong>diferenciados</strong> (automóviles).</p><p>Las <strong>barreras a la entrada</strong> son altas, permitiendo beneficios económicos a largo plazo.</p>"
+    },
+    {
+      "intro": "La interdependencia estratégica es la característica clave del oligopolio. Cada empresa debe considerar cómo sus competidores reaccionarán a sus decisiones de precios, producción o marketing. Esto hace que el análisis sea complejo y requiera herramientas como la teoría de juegos para predecir el comportamiento.",
+      "question": "2. ¿Qué es la interdependencia estratégica?",
+      "options": [
+        "Que las empresas no se afectan entre sí",
+        "Que cada empresa debe considerar las reacciones de sus competidores",
+        "Que el gobierno regula los precios",
+        "Que las empresas cooperan siempre"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>interdependencia estratégica</u> es la característica clave del oligopolio.</p><p>Cada empresa debe <strong>considerar cómo sus competidores reaccionarán</strong> a sus decisiones de precios, producción o marketing.</p><p>Esto hace que el análisis sea complejo y requiera herramientas como la <strong>teoría de juegos</strong>.</p><p>Una decisión puede desencadenar una guerra de precios o una respuesta estratégica.</p>"
+    },
+    {
+      "intro": "La teoría de juegos es el estudio de cómo las personas y empresas se comportan en situaciones estratégicas donde el resultado depende de las decisiones de múltiples agentes. En el oligopolio, se usa para analizar decisiones como fijar precios, producir más o lanzar campañas publicitarias. El dilema del prisionero es un ejemplo clásico que muestra por qué la cooperación es difícil incluso cuando es mutuamente beneficiosa.",
+      "question": "3. ¿Para qué se usa la teoría de juegos en el oligopolio?",
+      "options": [
+        "Para calcular costos contables",
+        "Para analizar decisiones estratégicas considerando las reacciones de los competidores",
+        "Para determinar el precio de equilibrio en competencia perfecta",
+        "Para evitar la producción"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>teoría de juegos</u> estudia cómo los agentes se comportan en situaciones estratégicas donde el resultado depende de las decisiones de múltiples jugadores.</p><p>En el oligopolio, se usa para analizar decisiones como fijar precios, producir más o lanzar publicidad.</p><p>El <strong>dilema del prisionero</strong> muestra por qué la <strong>cooperación es difícil</strong> incluso cuando es mutuamente beneficiosa.</p><p>Es clave para entender la colusión y el equilibrio de Nash.</p>"
+    },
+    {
+      "intro": "El equilibrio de Nash es un conjunto de estrategias en el que cada jugador elige la mejor respuesta posible dadas las estrategias de los demás. En este equilibrio, nadie tiene incentivo para cambiar unilateralmente su estrategia. En el oligopolio, puede explicar por qué las empresas no cooperan, incluso cuando sería mejor para todas.",
+      "question": "4. ¿Qué es un equilibrio de Nash?",
+      "options": [
+        "Un acuerdo colusorio entre empresas",
+        "Un conjunto de estrategias donde nadie tiene incentivo para cambiar unilateralmente",
+        "Un mercado con competencia perfecta",
+        "Un monopolio natural"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>equilibrio de Nash</u> es un conjunto de estrategias en el que <strong>cada jugador elige la mejor respuesta</strong> posible dadas las estrategias de los demás.</p><p>En este equilibrio, <strong>nadie tiene incentivo para cambiar unilateralmente</strong> su estrategia.</p><p>En el oligopolio, puede explicar por qué las empresas no cooperan, incluso cuando sería mejor para todas.</p><p>Es un resultado estable, aunque no necesariamente eficiente.</p>"
+    },
+    {
+      "intro": "La colusión ocurre cuando empresas en un oligopolio acuerdan coordinar sus decisiones, como fijar precios o limitar la producción, para actuar como un monopolio. Aunque es mutuamente beneficiosa, es inestable porque cada empresa tiene incentivo a incumplir el acuerdo para ganar más mercado. Además, es ilegal en muchos países.",
+      "question": "5. ¿Por qué es inestable la colusión en un oligopolio?",
+      "options": [
+        "Porque las empresas no se comunican",
+        "Porque cada empresa tiene incentivo a incumplir el acuerdo",
+        "Porque el gobierno siempre lo permite",
+        "Porque no hay beneficios"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>colusión</u> ocurre cuando empresas oligopolísticas acuerdan coordinar precios o producción para actuar como un monopolio.</p><p>Es <strong>mutuamente beneficiosa</strong>, pero <strong>inestable</strong> porque cada empresa tiene <strong>incentivo a incumplir</strong> el acuerdo (por ejemplo, bajar el precio para ganar más mercado).</p><p>Además, es <strong>ilegal</strong> en muchos países por violar leyes antimonopolio.</p><p>Se conoce como <strong>cártel</strong> cuando es formal.</p>"
+    },
+    {
+      "intro": "Un cártel es una forma formal de colusión en la que empresas acuerdan fijar precios, limitar producción o dividir mercados. El ejemplo más conocido es OPEP, que coordina la producción de petróleo. Los cárteles son inestables por el incentivo al incumplimiento y están prohibidos en muchos países por leyes antimonopolio.",
+      "question": "6. ¿Qué es un cártel?",
+      "options": [
+        "Una empresa que domina el mercado",
+        "Un acuerdo formal entre empresas para fijar precios o producción",
+        "Un mercado con libre entrada",
+        "Un monopolio natural"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>cártel</u> es un <strong>acuerdo formal</strong> entre empresas oligopolísticas para <strong>fijar precios, limitar producción o dividir mercados</strong>.</p><p>Buscan actuar como un monopolio para maximizar beneficios conjuntos.</p><p>Ejemplo: <strong>OPEP</strong> (Organización de Países Exportadores de Petróleo).</p><p>Son <strong>inestables</strong> por el incentivo al incumplimiento y <strong>ilegales</strong> en muchos países.</p>"
+    },
+    {
+      "intro": "En el dilema del prisionero, dos prisioneros deben decidir si confiesan o no. La estrategia dominante es confesar, lo que lleva a un equilibrio de Nash subóptimo. Este modelo ilustra por qué la cooperación es difícil incluso cuando es mejor para todos. Se aplica al oligopolio: las empresas no cooperan aunque sería mejor para ellas.",
+      "question": "7. ¿Qué enseña el dilema del prisionero sobre el oligopolio?",
+      "options": [
+        "Que la cooperación siempre es fácil",
+        "Que la no cooperación puede ser un equilibrio estable aunque sea subóptimo",
+        "Que las empresas siempre compiten en precios",
+        "Que el gobierno debe intervenir"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>dilema del prisionero</u> muestra que la <strong>no cooperación</strong> puede ser un <strong>equilibrio de Nash</strong> estable, aunque sea <strong>subóptimo</strong> para todos.</p><p>La estrategia dominante es <strong>confesar</strong> (no cooperar), lo que lleva a un peor resultado conjunto.</p><p>Se aplica al oligopolio: las empresas no cooperan (coluden) aunque sería mejor para todas.</p><p>Ilustra la <strong>inestabilidad de la colusión</strong>.</p>"
+    },
+    {
+      "intro": "La competencia en precios en un oligopolio puede llevar a guerras de precios si las empresas no cooperan. El modelo de Bertrand muestra que con productos homogéneos y capacidad ilimitada, el equilibrio es P = CMg, como en competencia perfecta. Esto se debe a que cada empresa tiene incentivo a bajar el precio para capturar todo el mercado.",
+      "question": "8. ¿Qué predice el modelo de Bertrand para productos homogéneos?",
+      "options": [
+        "Precios altos y beneficios altos",
+        "Precios iguales al costo marginal, como en competencia perfecta",
+        "Precios bajos pero beneficios altos",
+        "No hay competencia"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>modelo de Bertrand</u> analiza la competencia en precios en un oligopolio con productos <strong>homogéneos</strong>.</p><p>Con capacidad ilimitada, el equilibrio es <strong>P = CMg</strong>, como en competencia perfecta.</p><p>Esto se debe a que cada empresa tiene <strong>incentivo a bajar el precio</strong> un poco para capturar <strong>todo el mercado</strong>.</p><p>Es un resultado paradójico: con solo dos empresas, se alcanza la eficiencia competitiva.</p>"
+    },
+    {
+      "intro": "El modelo de Cournot analiza la competencia en cantidades. Las empresas eligen simultáneamente cuánto producir, tomando como dada la producción del rival. El equilibrio de Cournot es un equilibrio de Nash en cantidades. La producción total es mayor que en monopolio pero menor que en competencia perfecta, y el precio está entre ambos extremos.",
+      "question": "9. ¿Qué variable elige una empresa en el modelo de Cournot?",
+      "options": [
+        "El precio",
+        "La cantidad",
+        "La publicidad",
+        "La calidad"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>En el <u>modelo de Cournot</u>, las empresas eligen <strong>simultáneamente la cantidad</strong> que producirán, tomando como dada la producción del rival.</p><p>El equilibrio es un <strong>equilibrio de Nash en cantidades</strong>.</p><p>La producción total es <strong>mayor que en monopolio</strong> pero <strong>menor que en competencia perfecta</strong>.</p><p>El precio está entre el precio monopolístico y el competitivo.</p>"
+    },
+    {
+      "intro": "El modelo de Stackelberg es un modelo de liderazgo en cantidades, donde una empresa (líder) elige primero su producción, y la otra (seguidora) responde. El líder tiene ventaja al mover primero y puede producir más que en Cournot, obteniendo mayores beneficios. Este modelo aplica a industrias con una empresa dominante.",
+      "question": "10. ¿Qué ventaja tiene el líder en el modelo de Stackelberg?",
+      "options": [
+        "Puede fijar el precio",
+        "Mueve primero y puede producir más",
+        "Tiene costos más bajos",
+        "Controla todo el mercado"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>En el <u>modelo de Stackelberg</u>, una empresa (<strong>líder</strong>) elige su producción <strong>primero</strong>, y la otra (<strong>seguidora</strong>) responde.</p><p>El líder tiene <strong>ventaja al mover primero</strong>: puede anticipar la reacción de la seguidora.</p><p>Produce <strong>más que en Cournot</strong> y obtiene <strong>mayores beneficios</strong>.</p><p>Aplica a industrias con una empresa dominante (ej. IBM en computadoras antiguas).</p>"
+    },
+    {
+      "intro": "La competencia en calidad o publicidad puede ser una forma de diferenciar el producto en un oligopolio. En lugar de competir en precios, las empresas compiten mejorando el producto o su imagen. Esto puede beneficiar a los consumidores, pero también puede ser una forma de gastar recursos en actividades no productivas (competencia por derroche).",
+      "question": "11. ¿Cómo pueden competir las empresas en un oligopolio sin bajar precios?",
+      "options": [
+        "Mejorando la calidad o aumentando la publicidad",
+        "Reduciendo la producción",
+        "Formando un monopolio",
+        "Ignorando al consumidor"
+      ],
+      "correct": [0],
+      "saber_mas": "<p>En un oligopolio, las empresas pueden competir sin bajar precios mediante:<br>• <strong>Mejora de la calidad</strong> del producto<br>• <strong>Aumento de la publicidad</strong> y marketing<br>• Innovación tecnológica</p><p>Esto puede <strong>beneficiar a los consumidores</strong> con mejores productos.</p><p>Pero la publicidad excesiva puede ser <strong>competencia por derroche</strong> (gasto en actividades no productivas).</p>"
+    },
+    {
+      "intro": "La teoría de los juegos repetidos sugiere que la cooperación puede sostenirse en oligopolios si las empresas interactúan repetidamente. Estrategias como \"ojo por ojo\" (tit-for-tat) pueden castigar el incumplimiento y recompensar la cooperación. Esto hace que la colusión sea más estable en la práctica que en el dilema del prisionero de un solo periodo.",
+      "question": "12. ¿Cómo puede sostenerse la cooperación en un oligopolio repetido?",
+      "options": [
+        "Con estrategias que castigan el incumplimiento",
+        "Con precios fijos por ley",
+        "Con entrada de nuevas empresas",
+        "Con productos idénticos"
+      ],
+      "correct": [0],
+      "saber_mas": "<p>En <u>juegos repetidos</u>, la cooperación puede sostenerse mediante estrategias que <strong>castigan el incumplimiento</strong> y recompensan la cooperación.</p><p>Ejemplo: estrategia <strong>\"ojo por ojo\"</strong> (tit-for-tat): cooperar al principio, luego hacer lo que hizo el rival en el periodo anterior.</p><p>Si un rival baja el precio, en el siguiente periodo se responde bajando el precio.</p><p>Esto hace que la <strong>colusión sea más estable</strong> en la práctica.</p>"
+    },
+    {
+      "intro": "La guerra de precios es una competencia intensa en la que las empresas reducen precios agresivamente para ganar mercado. Puede ser iniciada por una empresa que busca dominar el mercado o por el colapso de un acuerdo colusorio. Puede llevar a pérdidas temporales, pero puede eliminar competidores más débiles.",
+      "question": "13. ¿Qué puede desencadenar una guerra de precios en un oligopolio?",
+      "options": [
+        "Un acuerdo colusorio",
+        "El colapso de un acuerdo colusorio",
+        "La entrada de una empresa con productos idénticos",
+        "La reducción de la publicidad"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Una <u>guerra de precios</u> es una competencia intensa en la que las empresas <strong>reducen precios agresivamente</strong> para ganar mercado.</p><p>Puede ser iniciada por:<br>• <strong>Colapso de un acuerdo colusorio</strong><br>• Entrada de un nuevo competidor<br>• Estrategia de una empresa para dominar el mercado</p><p>Puede llevar a <strong>pérdidas temporales</strong>, pero puede <strong>eliminar competidores más débiles</strong>.</p>"
+    },
+    {
+      "intro": "La diferenciación del producto en un oligopolio permite a las empresas tener cierto poder de mercado. Aunque hay pocos competidores, cada uno puede fijar un precio por encima del costo marginal si su producto es percibido como único. Esto reduce la competencia directa y puede beneficiar a los consumidores con más variedad, aunque a precios más altos.",
+      "question": "14. ¿Cómo afecta la diferenciación del producto en un oligopolio?",
+      "options": [
+        "Elimina toda la competencia",
+        "Permite cierto poder de mercado y variedad para consumidores",
+        "Reduce los precios a nivel de competencia",
+        "Hace que los productos sean idénticos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>diferenciación del producto</u> en un oligopolio permite a las empresas tener <strong>cierto poder de mercado</strong>.</p><p>Cada empresa puede fijar un precio por encima del CMg si su producto es percibido como único.</p><p>Reduce la competencia directa y puede <strong>beneficiar a los consumidores</strong> con más variedad y opciones.</p><p>Pero también puede llevar a <strong>precios más altos</strong> y gasto en publicidad no productiva.</p>"
+    },
+    {
+      "intro": "Las barreras a la entrada en un oligopolio pueden ser naturales (economías de escala, patentes) o estratégicas (amenazas de guerra de precios, capacidad excesiva). Estas barreras protegen a las empresas existentes y permiten beneficios económicos a largo plazo. Son clave para mantener la estructura del mercado.",
+      "question": "15. ¿Qué papel juegan las barreras a la entrada en un oligopolio?",
+      "options": [
+        "Permiten la libre entrada de nuevas empresas",
+        "Protegen a las empresas existentes y permiten beneficios a largo plazo",
+        "Eliminan la competencia",
+        "Hacen que el mercado sea inestable"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Las <u>barreras a la entrada</u> en un oligopolio <strong>protegen a las empresas existentes</strong> y <strong>permiten beneficios económicos a largo plazo</strong>.</p><p>Pueden ser:<br>• <strong>Naturales</strong>: economías de escala, patentes, recursos exclusivos<br>• <strong>Estratégicas</strong>: amenazas de guerra de precios, capacidad excesiva</p><p>Son clave para mantener la estructura del mercado con pocas empresas.</p><p>Impiden que nuevos competidores entren y reduzcan los precios.</p>"
+    }
+  ]
+}
