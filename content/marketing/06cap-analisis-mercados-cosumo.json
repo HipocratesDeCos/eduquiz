@@ -1,0 +1,186 @@
+{
+  "title": "Análisis de los Mercados de Consumo",
+  "description": "Quiz sobre el comportamiento del consumidor, factores que influyen en la compra, proceso de decisión y segmentación de mercados.",
+  "questions": [
+    {
+      "intro": "El comportamiento del consumidor es el estudio de cómo los individuos, grupos y organizaciones seleccionan, compran, usan y desechan bienes, servicios, ideas o experiencias para satisfacer necesidades y deseos. Incluye factores culturales, sociales, personales y psicológicos que influyen en la decisión de compra. Comprender este comportamiento es clave para diseñar estrategias de marketing efectivas.",
+      "question": "1. ¿Qué estudia el comportamiento del consumidor?",
+      "options": [
+        "Solo el precio de los productos",
+        "Cómo los individuos seleccionan, compran, usan y desechan productos para satisfacer necesidades",
+        "Solo la publicidad",
+        "Solo la producción interna"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>comportamiento del consumidor</u> es el estudio de cómo los individuos, grupos y organizaciones <strong>seleccionan, compran, usan y desechan</strong> productos, servicios, ideas o experiencias para satisfacer necesidades y deseos.</p><p>Es un campo <strong>interdisciplinario</strong> que incorpora conocimientos de la psicología, la sociología, la antropología y la economía.</p><p>Factores que influyen:<br>• <strong>Culturales</strong>: cultura, subcultura, clase social.<br>• <strong>Sociales</strong>: grupos de referencia, familia, roles y estatus.<br>• <strong>Personales</strong>: edad, ciclo de vida, ocupación, situación económica, estilo de vida, personalidad.<br>• <strong>Psicológicos</strong>: motivación, percepción, aprendizaje, creencias y actitudes.</p><p>Comprender este comportamiento permite a las empresas:<br>• <strong>Segmentar</strong> el mercado.<br>• <strong>Diseñar productos</strong> que resuenen con el cliente.<br>• <strong>Comunicar</strong> mensajes relevantes.<br>• <strong>Pronosticar</strong> cambios en el comportamiento.</p><p>Es fundamental para una <strong>estrategia de marketing centrada en el cliente</strong>.</p>"
+    },
+    {
+      "intro": "Las decisiones de compra de los consumidores están influenciadas por cuatro tipos de factores: culturales, sociales, personales y psicológicos. Los factores culturales son los más profundos y amplios, ya que incluyen la cultura, subcultura y clase social a la que pertenece el individuo. Estos factores moldean las necesidades, deseos y comportamientos desde una edad temprana.",
+      "question": "2. ¿Cuál es el factor más profundo que influye en el comportamiento del consumidor?",
+      "options": [
+        "El precio",
+        "Los factores culturales",
+        "La publicidad",
+        "La producción"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Los <u>factores culturales</u> son los <strong>más profundos y amplios</strong> que influyen en el comportamiento del consumidor.</p><p>Incluyen:<br>• <strong>Cultura</strong>: el conjunto de valores, percepciones, deseos y comportamientos que aprende un individuo desde la infancia en su sociedad. Es la <strong>fuente primaria</strong> de las necesidades y deseos.<br>• <strong>Subcultura</strong>: grupos dentro de una cultura mayor que comparten valores comunes (nacionalidad, religión, etnia, generación).<br>• <strong>Clase social</strong>: divisiones relativamente homogéneas y jerárquicas en una sociedad, cuyos miembros comparten valores, intereses y comportamientos similares.</p><p>Estos factores:<br>• <strong>Moldean</strong> las necesidades y deseos desde una edad temprana.<br>• <strong>Influyen</strong> en las preferencias por marcas, productos y estilos de vida.<br>• <strong>Varían</strong> significativamente entre países y regiones.</p><p>Por ejemplo, la cultura influye en la dieta, la vestimenta, la elección de marcas de lujo y las actitudes hacia el ahorro o el consumo.</p><p>Las empresas deben <strong>adaptar</strong> sus ofertas y mensajes a las diferencias culturales para tener éxito en mercados internacionales.</p>"
+    },
+    {
+      "intro": "Los factores sociales incluyen grupos de referencia, familia, roles y estatus. Los grupos de referencia son grupos que influyen directa o indirectamente en las actitudes o comportamientos de una persona. Pueden ser de pertenencia (familia, amigos) o aspiracionales (grupos a los que se desea pertenecer). La familia es el grupo de referencia más influyente durante la infancia y la adolescencia.",
+      "question": "3. ¿Qué es un grupo de referencia?",
+      "options": [
+        "Un grupo de trabajo",
+        "Un grupo que influye en las actitudes o comportamientos de una persona",
+        "Un grupo de competidores",
+        "Un grupo de empleados"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>grupo de referencia</u> es cualquier grupo que influye <strong>directa o indirectamente</strong> en las <strong>actitudes o comportamientos</strong> de una persona.</p><p>Tipos:<br>• <strong>Grupos de pertenencia</strong>: a los que la persona pertenece actualmente (familia, amigos, colegas, clubes).<br>• <strong>Grupos aspiracionales</strong>: a los que la persona desea pertenecer (deportistas profesionales, celebridades, ejecutivos exitosos).<br>• <strong>Grupos de rechazo</strong>: a los que la persona no desea asociarse.</p><p>Influencia:<br>• <strong>Normativa</strong>: el grupo establece normas de comportamiento (qué es apropiado o no).<br>• <strong>Comparación</strong>: la persona se compara con los miembros del grupo.<br>• <strong>Identidad social</strong>: pertenecer al grupo refuerza la autoestima.</p><p>La <strong>familia</strong> es el grupo de referencia más influyente durante la infancia y la adolescencia, moldeando valores, actitudes hacia el dinero y patrones de consumo.</p><p>Las empresas utilizan <strong>influencers</strong> (personas con alto estatus en grupos aspiracionales) para influir en las decisiones de compra de sus seguidores.</p>"
+    },
+    {
+      "intro": "Los factores personales que influyen en la compra incluyen la edad, el ciclo de vida familiar, la ocupación, la situación económica, el estilo de vida y la personalidad. El estilo de vida es el patrón de vida de una persona expresado a través de sus actividades, intereses y opiniones (AIO). La personalidad influye en la elección de marcas que reflejan su autoimagen.",
+      "question": "4. ¿Qué es el estilo de vida en el contexto del comportamiento del consumidor?",
+      "options": [
+        "Solo el ingreso",
+        "El patrón de vida expresado a través de actividades, intereses y opiniones (AIO)",
+        "Solo la ocupación",
+        "Solo la edad"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>estilo de vida</u> es el <strong>patrón de vida</strong> de una persona, expresado a través de sus <strong>Actividades, Intereses y Opiniones</strong> (AIO).</p><p>Describe cómo una persona gasta su tiempo y dinero, qué valora y cómo se ve a sí misma y al mundo.</p><p>Componentes AIO:<br>• <strong>Actividades</strong>: trabajo, hobbies, vacaciones, eventos sociales.<br>• <strong>Intereses</strong>: familia, hogar, moda, comida, medios de comunicación.<br>• <strong>Opiniones</strong>: sobre uno mismo, la sociedad, las políticas, las marcas.</p><p>El estilo de vida influye en:<br>• <strong>Elección de productos</strong> (ej. una persona activa puede preferir ropa deportiva).<br>• <strong>Preferencias de marca</strong> (marcas que reflejan su estilo de vida).<br>• <strong>Medios de comunicación</strong> que consume.</p><p>Es más útil que la demografía pura para <strong>segmentar</strong> el mercado, ya que refleja actitudes y comportamientos más profundos.</p><p>Las empresas diseñan productos y mensajes que <strong>resuenan</strong> con estilos de vida específicos (ej. 'vida saludable', 'lujo discreto', 'aventura al aire libre').</p>"
+    },
+    {
+      "intro": "Los factores psicológicos incluyen la motivación, la percepción, el aprendizaje y las creencias y actitudes. La motivación es la necesidad que impulsa al comportamiento. La percepción es el proceso por el cual una persona selecciona, organiza e interpreta la información para formar una imagen significativa del mundo. El aprendizaje son los cambios en el comportamiento que resultan de la experiencia.",
+      "question": "5. ¿Qué es la percepción en el comportamiento del consumidor?",
+      "options": [
+        "El precio real de un producto",
+        "El proceso de seleccionar, organizar e interpretar la información para formar una imagen del mundo",
+        "La producción interna",
+        "La publicidad pagada"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>percepción</u> es el proceso por el cual una persona <strong>selecciona, organiza e interpreta</strong> la información de los estímulos para formar una <strong>imagen significativa</strong> del mundo.</p><p>No es una copia fiel de la realidad, sino una <strong>interpretación</strong> influenciada por factores personales.</p><p>Etapa clave en la decisión de compra: los consumidores no responden a la <strong>realidad objetiva</strong>, sino a su <strong>percepción</strong> de la realidad.</p><p>Factores que influyen en la percepción:<br>• <strong>Selección</strong>: los consumidores están expuestos a miles de estímulos, pero solo <strong>perciben</strong> unos pocos (por atención selectiva, percepción selectiva).<br>• <strong>Organización</strong>: agrupan la información en patrones (leyes de la Gestalt).<br>• <strong>Interpretación</strong>: dan significado a los estímulos basados en experiencias pasadas, expectativas y contexto.</p><p>Ejemplos:<br>• Dos personas pueden percibir el <strong>mismo anuncio</strong> de forma muy diferente.<br>• Un <strong>empaque</strong> puede hacer que un producto parezca más premium.<br>• Un <strong>precio alto</strong> puede percibirse como indicador de calidad.</p><p>El marketing debe diseñar estímulos que <strong>guíen</strong> la percepción hacia una interpretación favorable.</p>"
+    },
+    {
+      "intro": "El proceso de decisión del consumidor consta de cinco etapas: reconocimiento de la necesidad, búsqueda de información, evaluación de alternativas, decisión de compra y comportamiento posterior a la compra. En cada etapa, el consumidor puede ser influenciado por factores internos y externos. Comprender este proceso permite a las empresas intervenir con estrategias de marketing efectivas en el momento adecuado.",
+      "question": "6. ¿Cuál es la primera etapa del proceso de decisión del consumidor?",
+      "options": [
+        "Búsqueda de información",
+        "Reconocimiento de la necesidad",
+        "Evaluación de alternativas",
+        "Decisión de compra"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>primera etapa del proceso de decisión del consumidor</u> es el <strong>reconocimiento de la necesidad</strong>.</p><p>Esta etapa ocurre cuando el consumidor percibe una diferencia entre su estado actual y su estado deseado.</p><p>La necesidad puede ser:<br>• <strong>Desencadenada internamente</strong>: por necesidades fisiológicas (hambre, sed) o psicológicas (aburrimiento, deseo de estatus).<br>• <strong>Desencadenada externamente</strong>: por estímulos del marketing (publicidad, promociones) o del entorno (un amigo compra un nuevo teléfono).</p><p>Una vez reconocida la necesidad, el consumidor puede pasar a la <strong>búsqueda de información</strong>.</p><p>El marketing puede <strong>influir</strong> en esta etapa mediante:<br>• <strong>Publicidad</strong> que resalta carencias (ej. “¿Tiene la piel seca?”).<br>• <strong>Branding</strong> que asocia la marca con un estado deseado (ej. felicidad, éxito).<br>• <strong>Experiencias</strong> que crean deseo (ej. pruebas de productos).</p><p>Comprender qué desencadena la necesidad permite a las empresas <strong>anticipar</strong> y <strong>activar</strong> el proceso de compra.</p>"
+    },
+    {
+      "intro": "La búsqueda de información ocurre cuando el consumidor busca más detalles sobre los productos o servicios que pueden satisfacer su necesidad. Puede recurrir a fuentes personales (familia, amigos), comerciales (publicidad, vendedores), públicas (revistas, sitios web) o experimentales (probar el producto). El nivel de búsqueda depende del grado de implicación del consumidor.",
+      "question": "7. ¿Qué tipo de fuente de información es una reseña en un sitio web de consumidores?",
+      "options": [
+        "Fuente personal",
+        "Fuente comercial",
+        "Fuente pública",
+        "Fuente experimental"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>La <u>búsqueda de información</u> es la segunda etapa del proceso de decisión del consumidor, donde busca más detalles sobre las opciones disponibles para satisfacer su necesidad.</p><p>Fuentes de información:<br>• <strong>Personales</strong>: familia, amigos, conocidos (más confiables).<br>• <strong>Comerciales</strong>: publicidad, vendedores, sitios web de la empresa, exposiciones (controladas por el vendedor).<br>• <strong>Públicas</strong>: revistas, periódicos, organismos de consumo, sitios web de reseñas (como Trustpilot o Google Reviews).<br>• <strong>Experimentales</strong>: manipular, probar, usar el producto (la más convincente).</p><p>El <strong>nivel de búsqueda</strong> depende del <strong>grado de implicación</strong> del consumidor (importancia del producto, riesgo percibido).<br>Para productos de alto riesgo (coche, casa), la búsqueda es intensa.<br>Para productos de bajo riesgo (chicles), es mínima.</p><p>Una <strong>reseña en un sitio web de consumidores</strong> es una <strong>fuente pública</strong>, ya que es generada por terceros independientes y no por el vendedor o el círculo personal del consumidor.</p><p>Las empresas deben gestionar su presencia en estas plataformas, ya que influyen fuertemente en la percepción del consumidor.</p>"
+    },
+    {
+      "intro": "En la etapa de evaluación de alternativas, el consumidor compara diferentes marcas o productos para decidir cuál satisface mejor sus necesidades. Utiliza un conjunto de criterios de evaluación, que pueden ser racionales (precio, calidad) o emocionales (marca, estilo). La marca fuerte tiene ventaja en esta etapa, ya que reduce la percepción de riesgo.",
+      "question": "8. ¿Qué ventaja tiene una marca fuerte en la evaluación de alternativas?",
+      "options": [
+        "Aumenta el precio sin justificación",
+        "Reduce la percepción de riesgo y facilita la decisión",
+        "Elimina la competencia",
+        "No necesita publicidad"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>En la etapa de <u>evaluación de alternativas</u>, el consumidor compara diferentes marcas o productos para decidir cuál satisface mejor sus necesidades.</p><p>Utiliza un <strong>conjunto de criterios de evaluación</strong>, que pueden ser:<br>• <strong>Racionales</strong>: precio, calidad, características, garantía.<br>• <strong>Emocionales</strong>: imagen de marca, estilo, asociaciones emocionales.</p><p>Una <strong>marca fuerte</strong> tiene una <strong>ventaja competitiva clave</strong> en esta etapa:<br>• <strong>Reduce la percepción de riesgo</strong>: el consumidor confía en que la marca cumplirá con sus promesas.<br>• <strong>Facilita la decisión</strong>: con una marca fuerte, el consumidor no necesita comparar minuciosamente todas las opciones.<br>• <strong>Justifica precios superiores</strong>: el consumidor está dispuesto a pagar más por la confianza y el estatus que aporta la marca.<br>• <strong>Actúa como atajo mental</strong> (heurística): en lugar de analizar todos los atributos, el consumidor elige la marca conocida.</p><p>Por eso, las empresas invierten fuertemente en <strong>branding</strong> para construir una marca fuerte que sea la <strong>elección predilecta</strong> en la mente del consumidor.</p>"
+    },
+    {
+      "intro": "La decisión de compra puede verse afectada por factores externos como la actitud de terceros (opinión de familiares) y factores situacionales (disponibilidad, urgencia, condiciones económicas). Aunque el consumidor haya evaluado las alternativas, su decisión final puede cambiar en el punto de venta debido a promociones, sugerencias del vendedor o falta de stock.",
+      "question": "9. ¿Qué puede afectar la decisión de compra en el punto de venta?",
+      "options": [
+        "Solo el precio",
+        "Promociones, sugerencias del vendedor y disponibilidad",
+        "Solo la publicidad televisiva",
+        "La producción interna"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>decisión de compra</u> puede verse afectada por <strong>factores externos</strong> que no fueron considerados en etapas anteriores.</p><p>Factores clave:<br>• <strong>Actitud de terceros</strong>: la opinión de familiares, amigos o expertos puede reforzar o debilitar la decisión.<br>• <strong>Factores situacionales</strong>:<br>  – <strong>Disponibilidad</strong>: si el producto deseado no está en stock.<br>  – <strong>Urgencia</strong>: necesidad inmediata.<br>  – <strong>Condiciones económicas</strong>: pérdida de empleo, cambio de ingresos.<br>  – <strong>Estado de ánimo</strong> del consumidor.</p><p>En el <strong>punto de venta</strong>, muchos consumidores cambian su decisión original debido a:<br>• <strong>Promociones</strong> de última hora (descuentos, regalos).<br>• <strong>Sugerencias del vendedor</strong>.<br>• <strong>Presentación del producto</strong> (empaque, exposición).<br>• <strong>Experiencias sensoriales</strong> (oler, probar, tocar).<br>• <strong>Presión social</strong> (ver a otros comprando un producto).</p><p>El <strong>marketing en el punto de venta</strong> (merchandising) es crucial para influir en esta etapa final y convertir la intención de compra en una compra real.</p>"
+    },
+    {
+      "intro": "El comportamiento posterior a la compra incluye la satisfacción del cliente y la disonancia cognitiva. Si el producto cumple o supera las expectativas, el cliente está satisfecho y puede convertirse en defensor de la marca. Si no cumple, puede experimentar disonancia cognitiva (arrepentimiento) y buscar información que confirme que tomó la decisión correcta.",
+      "question": "10. ¿Qué es la disonancia cognitiva en el comportamiento del consumidor?",
+      "options": [
+        "Satisfacción total con la compra",
+        "Arrepentimiento o duda después de una compra de alto riesgo",
+        "Ignorar el producto",
+        "No recordar la compra"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>disonancia cognitiva</u> es el <strong>estado de tensión psicológica</strong> que siente un consumidor después de realizar una <strong>compra importante</strong> o de <strong>alto riesgo</strong>.</p><p>Ocurre porque el consumidor reconoce que la alternativa elegida tiene <strong>desventajas</strong> y la alternativa no elegida tiene <strong>ventajas</strong>.</p><p>Manifestaciones:<br>• <strong>Arrepentimiento</strong>: “¿Habré tomado la decisión correcta?”<br>• <strong>Duda</strong>: cuestionar si el producto elegido era el mejor.<br>• <strong>Búsqueda de confirmación</strong>: buscar información que justifique la compra (reseñas positivas, elogios).</p><p>Factores que la aumentan:<br>• <strong>Importancia de la decisión</strong> (coche, casa).<br>• <strong>Grado de compromiso</strong> (costo, irreversibilidad).<br>• <strong>Disponibilidad de alternativas atractivas</strong>.</p><p>El marketing puede <strong>reducirla</strong> mediante:<br>• <strong>Comunicación postventa</strong> que refuerce los beneficios.<br>• <strong>Garantías</strong> y <strong>políticas de devolución</strong> flexibles.<br>• <strong>Atención al cliente</strong> excelente.<br>• <strong>Programas de bienvenida</strong> para nuevos clientes.</p><p>Minimizar la disonancia aumenta la <strong>satisfacción</strong> y la <strong>probabilidad de repetición de compra</strong>.</p>"
+    },
+    {
+      "intro": "La segmentación de mercados divide un mercado heterogéneo en subgrupos más pequeños y homogéneos de consumidores con necesidades, comportamientos o características similares. Permite a las empresas diseñar ofertas y mensajes más relevantes para cada segmento. Los criterios comunes incluyen geográficos, demográficos, psicográficos y conductuales.",
+      "question": "11. ¿Para qué sirve la segmentación de mercados?",
+      "options": [
+        "Para vender a todos los consumidores igual",
+        "Para dividir el mercado en grupos homogéneos y diseñar ofertas más relevantes",
+        "Para reducir el número de productos",
+        "Para aumentar el precio"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>segmentación de mercados</u> consiste en <strong>dividir un mercado amplio y heterogéneo</strong> en subgrupos más pequeños y <strong>homogéneos</strong> de consumidores que comparten necesidades, comportamientos o características similares.</p><p>Sirve para:<br>• <strong>Diseñar productos y servicios</strong> más relevantes para cada grupo.<br>• <strong>Personalizar mensajes de comunicación</strong> que resuenen con cada segmento.<br>• <strong>Asignar eficientemente</strong> recursos de marketing.<br>• <strong>Diferenciarse</strong> de la competencia que sigue una estrategia de masa.</p><p>Criterios comunes:<br>• <strong>Geográficos</strong>: país, región, ciudad.<br>• <strong>Demográficos</strong>: edad, género, ingresos, educación, tamaño del hogar.<br>• <strong>Psicográficos</strong>: estilo de vida, valores, personalidad.<br>• <strong>Conductuales</strong>: uso del producto, lealtad, beneficios buscados, ocasión de compra.</p><p>Permite una <strong>estrategia de marketing más eficaz y rentable</strong>, ya que se evita el 'marketing de tiro al aire'.</p><p>El objetivo es identificar <strong>segmentos atractivos</strong> (grandes, crecientes, accesibles) y <strong>enfocar</strong> los esfuerzos en ellos.</p>"
+    },
+    {
+      "intro": "El posicionamiento es el proceso de diseñar la oferta y la imagen de la marca para ocupar un lugar claro, distinto y atractivo en la mente del consumidor objetivo. No es lo que la empresa hace al producto, sino lo que hace en la mente del cliente. Un buen posicionamiento responde a la pregunta: ¿Cómo queremos que nos perciban frente a la competencia?",
+      "question": "12. ¿Qué es el posicionamiento de marca?",
+      "options": [
+        "El lugar físico donde se vende el producto",
+        "El precio del producto",
+        "El lugar que ocupa la marca en la mente del consumidor frente a la competencia",
+        "La cantidad de publicidad"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>El <u>posicionamiento de marca</u> es el proceso de <strong>diseñar la oferta y la imagen</strong> de una marca para que ocupe un <strong>lugar claro, distinto y atractivo</strong> en la mente del consumidor objetivo.</p><p>Como dijo Al Ries y Jack Trout: <em>“El posicionamiento no es lo que haces al producto. Es lo que haces en la mente del cliente”</em>.</p><p>Responde a la pregunta: <strong>¿Cómo queremos que nos perciban frente a la competencia?</strong></p><p>Ejemplos:<br>• Volvo: <strong>“Seguridad”</strong><br>• Apple: <strong>“Innovación y diseño”</strong><br>• Walmart: <strong>“Precios bajos todos los días”</strong></p><p>Un buen posicionamiento:<br>• Es <strong>diferenciado</strong>.<br>• Es <strong>relevante</strong> para el cliente.<br>• Es <strong>creíble</strong>.<br>• Es <strong>sostenible</strong> en el tiempo.</p><p>Guía todas las decisiones de marketing: producto, precio, comunicación.</p><p>Se comunica a través de todos los puntos de contacto con el cliente.</p>"
+    },
+    {
+      "intro": "El marketing de masas tradicional se está desplazando hacia el marketing individualizado, donde las ofertas y mensajes se personalizan para cada consumidor. Esto es posible gracias al big data, el CRM y el marketing digital. El objetivo es aumentar la relevancia, el engagement y la conversión, tratando a cada cliente como un segmento de uno.",
+      "question": "13. ¿Qué permite el marketing digital para la personalización?",
+      "options": [
+        "Enviar mensajes genéricos",
+        "Personalizar ofertas y mensajes para cada consumidor",
+        "Reducir la calidad",
+        "Aumentar los precios automáticamente"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>marketing digital</u> ha hecho posible el <strong>marketing individualizado</strong> o <strong>masas personalizadas</strong>, donde las ofertas y mensajes se <strong>personalizan para cada consumidor</strong>.</p><p>Gracias al <strong>big data</strong> y al <strong>CRM</strong>, las empresas pueden recopilar y analizar vastas cantidades de datos sobre el comportamiento, preferencias e interacciones de cada cliente.</p><p>Esto permite:<br>• <strong>Enviar emails</strong> con el nombre del cliente y productos recomendados.<br>• <strong>Mostrar anuncios</strong> en redes sociales basados en intereses y comportamientos recientes.<br>• <strong>Personalizar el sitio web</strong> según el historial de navegación.<br>• <strong>Ofrecer descuentos</strong> en productos que ha visto pero no comprado.</p><p>Beneficios:<br>• <strong>Mayor relevancia</strong>: el mensaje llega al cliente en el momento adecuado con la oferta adecuada.<br>• <strong>Mayor engagement</strong> y <strong>conversión</strong>.<br>• <strong>Mejor experiencia del cliente</strong>.<br>• <strong>Mayor eficiencia</strong> del presupuesto de marketing.</p><p>El objetivo es <strong>tratar a cada cliente como un segmento de uno</strong>, aumentando su valor a largo plazo.</p>"
+    },
+    {
+      "intro": "La cultura del consumidor influye profundamente en sus necesidades, deseos y comportamientos. Las empresas que operan en múltiples países deben adaptar sus productos, precios, promociones y distribución a las diferencias culturales. Un fallo en esta adaptación puede llevar al fracaso del producto, incluso si es exitoso en otros mercados.",
+      "question": "14. ¿Por qué es importante adaptar el marketing a la cultura local?",
+      "options": [
+        "Porque todos los consumidores son iguales",
+        "Porque la cultura influye en las necesidades, deseos y comportamientos",
+        "Para reducir costos",
+        "Para usar el mismo mensaje en todos los países"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>cultura del consumidor</u> influye <strong>profundamente</strong> en sus necesidades, deseos, valores, actitudes y comportamientos.</p><p>Las empresas que operan en múltiples países <strong>deben adaptar</strong> sus estrategias de marketing a las diferencias culturales.</p><p>Aspectos a adaptar:<br>• <strong>Producto</strong>: ingredientes, diseño, funcionalidad (ej. coches más pequeños en Europa).<br>• <strong>Precio</strong>: según el poder adquisitivo y la sensibilidad al precio.<br>• <strong>Promoción</strong>: mensajes, símbolos, colores, celebridades (lo que es positivo en un país puede ser ofensivo en otro).<br>• <strong>Distribución</strong>: canales de venta (mercados tradicionales vs. supermercados).</p><p>Un fallo en la adaptación cultural puede llevar al <strong>fracaso del producto</strong>, incluso si es un éxito en otros mercados.</p><p>Ejemplos de fracasos:<br>• Un anuncio con gestos que son ofensivos en ciertos países.<br>• Un producto con un nombre que tiene un significado negativo en el idioma local.</p><p>El <strong>marketing global</strong> requiere un equilibrio entre <strong>estandarización</strong> (eficiencia) y <strong>adaptación local</strong> (relevancia).</p>"
+    },
+    {
+      "intro": "La tecnología ha transformado el comportamiento del consumidor, dándole más poder, información y opciones. Los consumidores investigan en línea, comparan precios, leen reseñas y compran en múltiples canales. Las empresas deben tener una presencia omnicanal y utilizar herramientas digitales para interactuar con los consumidores en cada etapa del viaje.",
+      "question": "15. ¿Cómo ha cambiado la tecnología el comportamiento del consumidor?",
+      "options": [
+        "Ha reducido su poder",
+        "Le ha dado más poder, información y opciones",
+        "Ha eliminado el internet",
+        "Ha hecho que ignoren las reseñas"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>tecnología</u> ha <strong>transformado radicalmente</strong> el comportamiento del consumidor, <strong>dándole más poder, información y opciones</strong> que nunca.</p><p>El consumidor moderno:<br>• <strong>Investiga en línea</strong> antes de comprar (compara precios, características, reseñas).<br>• <strong>Lee y escribe reseñas</strong> que influyen en otros consumidores.<br>• <strong>Compra en múltiples canales</strong> (online, móvil, tienda física - omnicanal).<br>• <strong>Espera respuestas inmediatas</strong> a través de chat, redes sociales o email.<br>• <strong>Comparte experiencias</strong> en redes sociales (positivas o negativas).</p><p>Este cambio ha <strong>desplazado el poder</strong> de las empresas hacia los consumidores.</p><p>Las empresas deben:<br>• Tener una <strong>presencia omnicanal</strong> coherente.<br>• <strong>Monitorear</strong> las redes sociales y las reseñas.<br>• <strong>Responder rápidamente</strong> a consultas y quejas.<br>• <strong>Personalizar</strong> la experiencia en todos los canales.<br>• <strong>Facilitar</strong> la comparación y la compra.</p><p>El consumidor está en el <strong>centro del proceso</strong>, y las empresas deben adaptarse para sobrevivir.</p>"
+    }
+  ]
+}
