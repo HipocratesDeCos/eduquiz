@@ -1,0 +1,186 @@
+{
+  "title": "La Producción y el Crecimiento",
+  "description": "Quiz sobre el crecimiento económico, productividad, factores de producción, capital humano, tecnología y políticas para fomentar el crecimiento.",
+  "questions": [
+    {
+      "intro": "El crecimiento económico a largo plazo se mide por el aumento sostenido del Producto Interior Bruto (PIB) real per cápita. Es el indicador más importante del bienestar económico, ya que determina la capacidad de una sociedad para mejorar el nivel de vida. Aunque las economías experimentan fluctuaciones a corto plazo (recesiones y expansiones), lo que realmente importa para el bienestar es el crecimiento a largo plazo, impulsado por la productividad. Países como Estados Unidos o Japón han visto aumentos significativos en su PIB per cápita durante el último siglo, lo que se traduce en mejor salud, educación y acceso a bienes y servicios.",
+      "question": "1. ¿Qué mide el crecimiento económico a largo plazo?",
+      "options": [
+        "La inflación anual",
+        "El aumento del PIB real per cápita",
+        "La tasa de desempleo",
+        "El déficit público"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>crecimiento económico a largo plazo</u> se mide por el aumento sostenido del <strong>PIB real per cápita</strong>.</p><p>Es el indicador más importante del <strong>bienestar económico</strong>, ya que refleja la capacidad de una sociedad para mejorar su nivel de vida.</p><p>Países con alto crecimiento a largo plazo tienen mejores resultados en salud, educación y acceso a tecnología.</p><p>Las fluctuaciones a corto plazo (recesiones) son importantes, pero el crecimiento sostenido es clave para el progreso.</p>"
+    },
+    {
+      "intro": "La productividad es la cantidad de bienes y servicios producidos por unidad de trabajo. Es el determinante fundamental del nivel de vida en una economía. A mayor productividad, mayor ingreso por trabajador y mayor capacidad para consumir. La productividad depende de factores como el capital físico (máquinas, infraestructura), el capital humano (educación, habilidades), la tecnología y la eficiencia en la organización de la producción.",
+      "question": "2. ¿Qué determina fundamentalmente el nivel de vida en una economía?",
+      "options": [
+        "La cantidad de dinero en circulación",
+        "La productividad",
+        "La tasa de interés",
+        "El tamaño del gobierno"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>productividad</u> es el determinante <strong>fundamental</strong> del nivel de vida.</p><p>Se define como la cantidad de bienes y servicios producidos por <strong>unidad de trabajo</strong>.</p><p>A mayor productividad, mayor ingreso por trabajador y mayor capacidad para consumir.</p><p>Depende de:<br>• <strong>Capital físico</strong> (máquinas, infraestructura)<br>• <strong>Capital humano</strong> (educación, habilidades)<br>• <strong>Tecnología</strong><br>• <strong>Eficiencia organizativa</strong></p>"
+    },
+    {
+      "intro": "El capital físico es el conjunto de instalaciones e infraestructuras que utiliza la fuerza de trabajo para producir bienes y servicios. Incluye fábricas, maquinaria, herramientas, carreteras y redes de comunicación. Invertir en capital físico aumenta la productividad, pero está sujeto a rendimientos decrecientes: cada unidad adicional de capital aporta menos producción que la anterior, si otros factores (como trabajo o tecnología) no aumentan.",
+      "question": "3. ¿Qué es el capital físico?",
+      "options": [
+        "El dinero en efectivo",
+        "Las instalaciones e infraestructuras utilizadas en la producción",
+        "La educación de los trabajadores",
+        "Las ideas y conocimientos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>capital físico</u> es el conjunto de <strong>instalaciones, maquinaria, herramientas e infraestructuras</strong> que utiliza la fuerza de trabajo para producir bienes y servicios.</p><p>Ejemplos: fábricas, carreteras, ordenadores, redes eléctricas.</p><p>Invertir en capital físico aumenta la <strong>productividad</strong>.</p><p>Pero está sujeto a <strong>rendimientos decrecientes</strong>: cada unidad adicional de capital aporta menos producción si otros factores no aumentan.</p>"
+    },
+    {
+      "intro": "El capital humano es el conjunto de conocimientos, habilidades y experiencia que poseen los trabajadores. Se adquiere a través de la educación, la formación profesional y el aprendizaje en el trabajo. Al igual que el capital físico, el capital humano aumenta la productividad. La inversión en educación y formación es una de las formas más efectivas de fomentar el crecimiento económico a largo plazo.",
+      "question": "4. ¿Cómo se adquiere el capital humano?",
+      "options": [
+        "Comprando maquinaria",
+        "A través de la educación y la experiencia",
+        "Construyendo carreteras",
+        "Aumentando el dinero en circulación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>capital humano</u> es el conjunto de <strong>conocimientos, habilidades y experiencia</strong> de los trabajadores.</p><p>Se adquiere mediante:<br>• <strong>Educación</strong><br>• <strong>Formación profesional</strong><br>• <strong>Aprendizaje en el trabajo</strong></p><p>Al igual que el capital físico, aumenta la <strong>productividad</strong>.</p><p>La inversión en educación es una de las formas más efectivas de fomentar el <strong>crecimiento económico a largo plazo</strong>.</p>"
+    },
+    {
+      "intro": "Los rendimientos decrecientes ocurren cuando, al aumentar un factor de producción (como el capital físico), manteniendo constantes los demás (como trabajo o tecnología), cada unidad adicional del factor aporta menos producción que la anterior. Esto implica que, sin innovación tecnológica, el crecimiento se ralentizará con el tiempo. Por eso, la tecnología es crucial para mantener el crecimiento sostenido.",
+      "question": "5. ¿Qué son los rendimientos decrecientes?",
+      "options": [
+        "Cada unidad adicional de un factor de producción aporta más producción",
+        "Cada unidad adicional de un factor de producción aporta menos producción",
+        "La producción disminuye con más trabajo",
+        "No hay relación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Los <u>rendimientos decrecientes</u> ocurren cuando, al aumentar un factor de producción (ej. capital físico), manteniendo constantes los demás (trabajo, tecnología), <strong>cada unidad adicional</strong> del factor aporta <strong>menos producción</strong> que la anterior.</p><p>Implica que, sin innovación tecnológica, el crecimiento se <strong>ralentizará</strong> con el tiempo.</p><p>Por eso, la <strong>tecnología</strong> es crucial para mantener el crecimiento sostenido.</p><p>Es una razón por la que los países ricos no crecen indefinidamente solo con inversión en capital.</p>"
+    },
+    {
+      "intro": "La tecnología es el conocimiento sobre las mejores formas de producir bienes y servicios. Permite producir más con los mismos recursos. La innovación tecnológica es clave para superar los rendimientos decrecientes del capital físico. Ejemplos incluyen la revolución industrial, la informática o la biotecnología. La tecnología puede propagarse entre países, lo que permite a los países más pobres crecer más rápido si adoptan tecnologías existentes.",
+      "question": "6. ¿Cómo ayuda la tecnología al crecimiento económico?",
+      "options": [
+        "Aumentando el dinero en circulación",
+        "Permitiendo producir más con los mismos recursos",
+        "Reduciendo la educación",
+        "Eliminando el trabajo"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>tecnología</u> es el conocimiento sobre las mejores formas de producir bienes y servicios.</p><p>Permite <strong>producir más con los mismos recursos</strong>, aumentando la productividad.</p><p>Es clave para <strong>superar los rendimientos decrecientes</strong> del capital físico.</p><p>Ejemplos: revolución industrial, informática, internet, biotecnología.</p><p>Puede <strong>propagarse entre países</strong>, permitiendo a los más pobres crecer más rápido al adoptar tecnologías existentes.</p>"
+    },
+    {
+      "intro": "La propiedad de los derechos de propiedad es esencial para el crecimiento económico. Si los individuos y empresas no pueden apropiarse de los frutos de su trabajo o inversión, no tendrán incentivos para trabajar, ahorrar o innovar. Un sistema legal que proteja los contratos y los derechos de propiedad fomenta la inversión y la eficiencia en la asignación de recursos.",
+      "question": "7. ¿Por qué son importantes los derechos de propiedad para el crecimiento?",
+      "options": [
+        "Porque permiten la inflación",
+        "Porque dan incentivos para trabajar, ahorrar e invertir",
+        "Porque eliminan la competencia",
+        "Porque reducen la educación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Los <u>derechos de propiedad</u> son esenciales para el crecimiento económico.</p><p>Si los individuos y empresas no pueden <strong>apropiarse de los frutos</strong> de su trabajo o inversión, no tendrán <strong>incentivos</strong> para trabajar, ahorrar o innovar.</p><p>Un sistema legal que proteja los contratos y los derechos de propiedad fomenta la <strong>inversión</strong> y la <strong>eficiencia</strong> en la asignación de recursos.</p><p>En economías donde estos derechos no están garantizados, el crecimiento tiende a ser más lento.</p>"
+    },
+    {
+      "intro": "El comercio internacional puede fomentar el crecimiento económico al permitir a los países especializarse según su ventaja comparativa, acceder a mercados más grandes, importar tecnología y capital, y aumentar la competencia. Los países más abiertos al comercio tienden a crecer más rápido que los que están cerrados. Sin embargo, el comercio también puede generar perdedores, lo que requiere políticas de ajuste.",
+      "question": "8. ¿Cómo puede el comercio internacional fomentar el crecimiento?",
+      "options": [
+        "Aumentando la inflación",
+        "Permitiendo la especialización, acceso a tecnología y mayor competencia",
+        "Reduciendo la educación",
+        "Eliminando el ahorro"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>comercio internacional</u> puede fomentar el crecimiento económico al permitir que los países:<br>• <strong>Se especialicen</strong> según su ventaja comparativa<br>• <strong>Accedan a mercados más grandes</strong><br>• <strong>Importen tecnología y capital</strong><br>• <strong>Aumenten la competencia</strong></p><p>Los países más abiertos al comercio tienden a crecer más rápido.</p><p>Sin embargo, también puede generar <strong>perdedores</strong> (sectores que compiten con importaciones), lo que requiere políticas de ajuste (reentrenamiento, seguridad social).</p>"
+    },
+    {
+      "intro": "La inversión en investigación y desarrollo (I+D) es una fuente clave de innovación tecnológica. Aunque es costosa y arriesgada, genera conocimientos que pueden beneficiar a toda la sociedad. A menudo tiene carácter de bien público, ya que es difícil excluir a otros de usar una nueva idea. Por eso, los gobiernos suelen subvencionar la I+D para incentivar la innovación.",
+      "question": "9. ¿Por qué los gobiernos subvencionan la investigación y desarrollo?",
+      "options": [
+        "Porque es una forma de gastar dinero",
+        "Porque la I+D tiene beneficios sociales que no se capturan completamente en el mercado",
+        "Porque reduce la competencia",
+        "Porque elimina la necesidad de empresas"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>investigación y desarrollo (I+D)</u> es una fuente clave de <strong>innovación tecnológica</strong>.</p><p>Tiene <strong>beneficios sociales</strong> que no se capturan completamente en el mercado (es un <strong>bien público</strong>).</p><p>Una empresa que inventa una nueva tecnología no puede excluir completamente a otros de usarla.</p><p>Por eso, el mercado <strong>subinvierte</strong> en I+D.</p><p>Los gobiernos la subvencionan para incentivar la innovación y aprovechar sus beneficios para toda la sociedad.</p>"
+    },
+    {
+      "intro": "La población activa es el número de personas que trabajan o buscan trabajo. A mayor población activa, mayor producción total. Sin embargo, el crecimiento de la población activa no garantiza un aumento en el PIB per cápita, ya que también aumenta el denominador. El crecimiento del PIB per cápita depende de la productividad, no solo de la cantidad de trabajadores.",
+      "question": "10. ¿Qué determina el crecimiento del PIB per cápita?",
+      "options": [
+        "Solo el crecimiento de la población",
+        "El crecimiento de la población activa y la productividad",
+        "Solo el crecimiento del dinero",
+        "La inflación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>crecimiento del PIB per cápita</u> depende del crecimiento de:<br>• <strong>La población activa</strong><br>• <strong>La productividad</strong> (PIB por trabajador)</p><p>Aunque más trabajadores aumentan la producción total, también aumentan el denominador (población).</p><p>Para que el nivel de vida mejore, la <strong>productividad</strong> debe crecer.</p><p>Países con baja tasa de crecimiento de población pueden crecer si aumentan la productividad.</p>"
+    },
+    {
+      "intro": "La acumulación de capital está sujeta a rendimientos decrecientes, lo que significa que, sin innovación, cada unidad adicional de capital aporta menos producción. Esto implica que un país puede crecer rápidamente al principio al acumular capital, pero el crecimiento se ralentiza con el tiempo. Para mantener el crecimiento sostenido, se necesita innovación tecnológica.",
+      "question": "11. ¿Por qué la acumulación de capital no garantiza crecimiento sostenido?",
+      "options": [
+        "Porque el capital se vuelve obsoleto",
+        "Por los rendimientos decrecientes",
+        "Porque la población no crece",
+        "Porque no hay trabajo"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>acumulación de capital</u> está sujeta a <strong>rendimientos decrecientes</strong>.</p><p>Esto significa que, sin innovación tecnológica, cada unidad adicional de capital aporta <strong>menos producción</strong> que la anterior.</p><p>Un país puede crecer rápidamente al principio al acumular capital (como fábricas o máquinas), pero el crecimiento se <strong>ralentiza</strong> con el tiempo.</p><p>Para mantener el crecimiento <strong>sostenido</strong>, se necesita <strong>innovación tecnológica</strong>.</p>"
+    },
+    {
+      "intro": "La convergencia es la hipótesis de que los países más pobres crecen más rápido que los más ricos y, por lo tanto, tienden a alcanzarlos en términos de ingreso per cápita. Esto se debe a que los países pobres pueden adoptar tecnologías existentes y acumular capital con altos rendimientos iniciales. Aunque no ocurre siempre, muchos países asiáticos (como Corea del Sur o China) han mostrado convergencia en las últimas décadas.",
+      "question": "12. ¿Qué es la convergencia en crecimiento económico?",
+      "options": [
+        "Que todos los países tienen el mismo ingreso",
+        "Que los países más pobres crecen más rápido y tienden a alcanzar a los ricos",
+        "Que los países ricos crecen más rápido",
+        "Que no hay diferencias entre países"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>convergencia</u> es la hipótesis de que los <strong>países más pobres</strong> crecen más rápido que los más ricos y, por lo tanto, tienden a <strong>alcanzarlos</strong> en ingreso per cápita.</p><p>Se debe a:<br>• <strong>Adopción de tecnologías</strong> existentes<br>• <strong>Altos rendimientos iniciales</strong> de la acumulación de capital</p><p>Aunque no ocurre siempre, muchos países asiáticos (Corea, China, Singapur) han mostrado convergencia.</p><p>Factores como instituciones débiles o falta de educación pueden impedirla.</p>"
+    },
+    {
+      "intro": "La salud es un componente clave del capital humano. Trabajadores más sanos son más productivos, trabajan más días y pueden aprender más fácilmente. Las mejoras en salud (como acceso a atención médica, saneamiento o nutrición) han sido un factor importante en el crecimiento económico de muchos países. La inversión en salud pública tiene altos retornos económicos.",
+      "question": "13. ¿Cómo afecta la salud al crecimiento económico?",
+      "options": [
+        "No tiene efecto",
+        "Mejora la productividad al aumentar el capital humano",
+        "Reduce el ahorro",
+        "Aumenta la inflación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>salud</u> es un componente clave del <strong>capital humano</strong>.</p><p>Trabajadores más sanos son:<br>• <strong>Más productivos</strong><br>• <strong>Trabajan más días</strong> (menos ausentismo)<br>• <strong>Aprenden más fácilmente</strong></p><p>Mejoras en salud (atención médica, saneamiento, nutrición) han sido un factor importante en el crecimiento de muchos países.</p><p>La inversión en salud pública tiene <strong>altos retornos económicos</strong>.</p>"
+    },
+    {
+      "intro": "La educación es una de las formas más efectivas de aumentar el capital humano y fomentar el crecimiento económico. Mejora la productividad, fomenta la innovación y permite una mejor adopción de tecnologías. Los países con sistemas educativos de calidad tienden a crecer más rápido. Además, la educación tiene beneficios sociales más allá del crecimiento, como mejor gobernanza y menor desigualdad.",
+      "question": "14. ¿Por qué es importante la educación para el crecimiento económico?",
+      "options": [
+        "Porque reduce la población",
+        "Porque aumenta el capital humano y la productividad",
+        "Porque elimina la necesidad de trabajo",
+        "Porque aumenta la inflación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>educación</u> es una de las formas más efectivas de aumentar el <strong>capital humano</strong> y fomentar el crecimiento económico.</p><p>Mejora la <strong>productividad</strong>, fomenta la <strong>innovación</strong> y permite una mejor <strong>adopción de tecnologías</strong>.</p><p>Países con sistemas educativos de calidad tienden a crecer más rápido.</p><p>Además, tiene beneficios sociales:<br>• <strong>Mejor gobernanza</strong><br>• <strong>Menor desigualdad</strong><br>• <strong>Mayor participación ciudadana</strong></p>"
+    },
+    {
+      "intro": "El crecimiento económico sostenido requiere una combinación de acumulación de capital (físico y humano), innovación tecnológica, instituciones sólidas (derechos de propiedad, estado de derecho), apertura al comercio y políticas macroeconómicas estables. No hay una fórmula única, pero los países que han crecido rápidamente han combinado estos factores. La política económica debe enfocarse en crear un entorno favorable para la inversión, la innovación y la eficiencia.",
+      "question": "15. ¿Qué factores son clave para el crecimiento económico sostenido?",
+      "options": [
+        "Solo el aumento de la población",
+        "Acumulación de capital, innovación, instituciones sólidas y apertura al comercio",
+        "Reducción del ahorro",
+        "Control de precios"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>crecimiento económico sostenido</u> requiere una combinación de:<br>• <strong>Acumulación de capital</strong> (físico y humano)<br>• <strong>Innovación tecnológica</strong><br>• <strong>Instituciones sólidas</strong> (derechos de propiedad, estado de derecho)<br>• <strong>Apertura al comercio</strong><br>• <strong>Políticas macroeconómicas estables</strong></p><p>No hay una fórmula única, pero los países que han crecido rápidamente (Corea, Singapur, China) han combinado estos factores.</p><p>La política económica debe crear un entorno favorable para la <strong>inversión</strong>, la <strong>innovación</strong> y la <strong>eficiencia</strong>.</p>"
+    }
+  ]
+}
