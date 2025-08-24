@@ -1,0 +1,186 @@
+{
+  "title": "La Demanda y la Oferta Agregadas",
+  "description": "Quiz sobre el modelo de demanda y oferta agregadas, sus determinantes, el equilibrio macroeconómico y cómo explican las fluctuaciones económicas a corto plazo.",
+  "questions": [
+    {
+      "intro": "El modelo de demanda y oferta agregadas es la herramienta fundamental para analizar las fluctuaciones económicas a corto plazo, como recesiones y expansiones. La demanda agregada (DA) representa la cantidad total de bienes y servicios que los hogares, empresas, gobierno y extranjeros desean comprar a diferentes niveles de precios. La oferta agregada (OA) representa la cantidad total que las empresas están dispuestas a producir. El equilibrio entre DA y OA determina el nivel de producción real y el nivel de precios en la economía.",
+      "question": "1. ¿Qué representa la demanda agregada?",
+      "options": [
+        "La producción total de bienes y servicios",
+        "La cantidad total de bienes y servicios demandados a diferentes niveles de precios",
+        "El consumo de los hogares",
+        "La inversión empresarial"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>demanda agregada</u> (DA) representa la <strong>cantidad total de bienes y servicios</strong> que los <strong>hogares, empresas, gobierno y extranjeros</strong> desean comprar a <strong>diferentes niveles de precios</strong>.</p><p>Tiene pendiente <strong>negativa</strong>: a menor nivel de precios, mayor cantidad demandada.</p><p>Esto se debe a tres efectos:<br>• <strong>Efecto riqueza</strong>: precios más bajos aumentan el poder adquisitivo.<br>• <strong>Efecto tipo de interés</strong>: menor demanda de dinero → tipos más bajos → más inversión.<br>• <strong>Efecto tipo de cambio</strong>: tipos de interés más bajos → depreciación → más exportaciones.</p><p>Es clave para entender las <strong>fluctuaciones económicas</strong> a corto plazo.</p>"
+    },
+    {
+      "intro": "La curva de demanda agregada tiene pendiente negativa porque un nivel de precios más bajo aumenta el poder adquisitivo del dinero (efecto riqueza), reduce los tipos de interés (efecto tipo de interés) y hace que la moneda se deprecie, aumentando las exportaciones netas (efecto tipo de cambio). Estos efectos combinados hacen que las familias, empresas y extranjeros compren más bienes y servicios cuando los precios bajan.",
+      "question": "2. ¿Por qué tiene pendiente negativa la curva de demanda agregada?",
+      "options": [
+        "Porque la producción disminuye con los precios",
+        "Por el efecto riqueza, el efecto tipo de interés y el efecto tipo de cambio",
+        "Porque el gobierno gasta menos",
+        "Porque las empresas producen menos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>curva de demanda agregada</u> tiene pendiente <strong>negativa</strong> debido a tres efectos clave:</p><p>• <strong>Efecto riqueza</strong>: un nivel de precios más bajo aumenta el <strong>poder adquisitivo</strong> del dinero, lo que estimula el <strong>consumo</strong>.</p><p>• <strong>Efecto tipo de interés</strong>: precios más bajos reducen la <strong>demanda de dinero</strong>, lo que baja los <strong>tipos de interés</strong> y estimula la <strong>inversión</strong>.</p><p>• <strong>Efecto tipo de cambio</strong>: tipos de interés más bajos hacen que los inversores busquen rentabilidad en el extranjero, <strong>depreciando</strong> la moneda y aumentando las <strong>exportaciones netas</strong>.</p><p>Estos efectos hacen que la <strong>cantidad demandada</strong> aumente cuando el <strong>nivel de precios</strong> disminuye.</p>"
+    },
+    {
+      "intro": "Los desplazamientos de la curva de demanda agregada ocurren cuando cambian factores distintos del nivel de precios, como el consumo, la inversión, el gasto público o las exportaciones netas. Por ejemplo, un aumento del gasto público o una bajada de impuestos desplaza la DA a la derecha. Una caída en la confianza de los consumidores o una recesión mundial puede desplazarla a la izquierda.",
+      "question": "3. ¿Qué desplaza la curva de demanda agregada a la derecha?",
+      "options": [
+        "Una subida de impuestos",
+        "Una bajada del gasto público",
+        "Un aumento de la confianza de los consumidores",
+        "Una recesión mundial"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>La <u>curva de demanda agregada</u> se <strong>desplaza</strong> cuando cambian factores distintos del <strong>nivel de precios</strong>.</p><p>Un desplazamiento a la <strong>derecha</strong> indica un aumento en la demanda agregada a cualquier nivel de precios.</p><p>Causas comunes:<br>• <strong>Aumento del consumo</strong> (por confianza, riqueza o bajada de impuestos)<br>• <strong>Aumento de la inversión</strong> (por bajas tasas de interés o optimismo empresarial)<br>• <strong>Aumento del gasto público</strong><br>• <strong>Aumento de las exportaciones netas</strong> (por crecimiento mundial o depreciación)</p><p>Por ejemplo, una <strong>bajada de impuestos</strong> aumenta el ingreso disponible y desplaza la DA a la derecha.</p>"
+    },
+    {
+      "intro": "La oferta agregada a corto plazo (OAcp) tiene pendiente positiva porque los precios de los bienes y servicios suelen ajustarse más rápido que los salarios. Cuando sube el nivel de precios, los costes de producción no suben proporcionalmente, lo que aumenta los beneficios y la producción. Los salarios pueden estar fijos por contratos o por ilusión monetaria, lo que permite a las empresas producir más cuando los precios suben.",
+      "question": "4. ¿Por qué tiene pendiente positiva la oferta agregada a corto plazo?",
+      "options": [
+        "Porque los salarios nominales son rígidos a corto plazo",
+        "Porque los precios de los bienes bajan",
+        "Porque el gasto público aumenta",
+        "Porque la inversión disminuye"
+      ],
+      "correct": [0],
+      "saber_mas": "<p>La <u>oferta agregada a corto plazo</u> (OAcp) tiene pendiente <strong>positiva</strong> porque los <strong>salarios nominales</strong> son <strong>rígidos</strong> a corto plazo.</p><p>Los salarios están fijados por <strong>contratos</strong> o por <strong>ilusión monetaria</strong> (los trabajadores no ajustan inmediatamente sus expectativas a la inflación).</p><p>Cuando el <strong>nivel de precios</strong> sube, los <strong>costes de producción</strong> (salarios) no suben proporcionalmente, lo que <strong>aumenta los beneficios reales</strong> de las empresas.</p><p>Esto incentiva a las empresas a <strong>aumentar la producción</strong> y el empleo.</p><p>Por eso, a mayor nivel de precios, mayor producción a corto plazo.</p>"
+    },
+    {
+      "intro": "La oferta agregada a largo plazo (OAlp) es vertical porque, a largo plazo, la producción está determinada por factores reales como la cantidad de trabajo, capital, recursos naturales y tecnología. El nivel de precios no afecta a estos factores. Por lo tanto, el PIB real a largo plazo, también llamado PIB potencial, es independiente del nivel de precios. La OAlp representa el nivel de producción cuando la economía está en su tasa natural de desempleo.",
+      "question": "5. ¿Por qué es vertical la curva de oferta agregada a largo plazo?",
+      "options": [
+        "Porque los precios no afectan la producción a largo plazo",
+        "Porque los salarios son flexibles",
+        "Porque el gasto público es constante",
+        "Porque la inversión no cambia"
+      ],
+      "correct": [0],
+      "saber_mas": "<p>La <u>oferta agregada a largo plazo</u> (OAlp) es <strong>vertical</strong> porque, a largo plazo, la <strong>producción</strong> está determinada por factores <strong>reales</strong>:<br>• <strong>Cantidad de trabajo</strong><br>• <strong>Capital físico y humano</strong><br>• <strong>Recursos naturales</strong><br>• <strong>Tecnología</strong></p><p>El <strong>nivel de precios</strong> no afecta a estos factores.</p><p>Por lo tanto, el <strong>PIB real</strong> a largo plazo (o <strong>PIB potencial</strong>) es <strong>independiente</strong> del nivel de precios.</p><p>La OAlp representa el nivel de producción cuando la economía está en su <strong>tasa natural de desempleo</strong>.</p><p>En el largo plazo, el dinero es <strong>neutral</strong>: cambios en la oferta monetaria afectan solo a variables <strong>nominales</strong> (precios), no a <strong>reales</strong> (producción).</p>"
+    },
+    {
+      "intro": "Un shock de demanda agregada es un cambio repentino en la demanda agregada, como una caída en la confianza de los consumidores o un aumento del gasto público. Un shock positivo (DA se desplaza a la derecha) aumenta el PIB y el nivel de precios. Un shock negativo (DA se desplaza a la izquierda) causa una recesión con caída del PIB y deflación o baja inflación.",
+      "question": "6. ¿Qué efecto tiene un shock negativo de demanda agregada?",
+      "options": [
+        "Aumenta el PIB y la inflación",
+        "Disminuye el PIB y la inflación",
+        "Aumenta el PIB y disminuye la inflación",
+        "No tiene efecto"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>shock negativo de demanda agregada</u> (por ejemplo, una caída en la <strong>confianza de los consumidores</strong> o una <strong>crisis financiera</strong>) desplaza la curva DA hacia la <strong>izquierda</strong>.</p><p>Este desplazamiento reduce tanto el <strong>PIB real</strong> como el <strong>nivel de precios</strong>.</p><p>El resultado es una <strong>recesión</strong>: caída de la producción, aumento del desempleo y <strong>deflación</strong> o <strong>baja inflación</strong>.</p><p>Este fue el efecto de la crisis financiera de 2008, cuando la demanda agregada cayó drásticamente.</p><p>La política económica (monetaria y fiscal) busca contrarrestar estos shocks para estabilizar la economía.</p>"
+    },
+    {
+      "intro": "Un shock de oferta agregada es un cambio repentino en la oferta agregada, como un aumento en el precio del petróleo o una sequía. Un shock negativo (OA se desplaza a la izquierda) provoca estanflación: caída del PIB y aumento del nivel de precios. Un shock positivo (OA se desplaza a la derecha) aumenta el PIB y reduce el nivel de precios.",
+      "question": "7. ¿Qué es la estanflación?",
+      "options": [
+        "Crecimiento económico con baja inflación",
+        "Recesión con deflación",
+        "Caída del PIB y aumento del nivel de precios",
+        "Aumento del PIB y de la inflación"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>La <u>estanflación</u> es una situación en la que la economía experimenta <strong>recesión</strong> (caída del PIB) y <strong>alta inflación</strong> al mismo tiempo.</p><p>Se produce por un <strong>shock negativo de oferta agregada</strong>, como un <strong>aumento repentino en el precio del petróleo</strong> o una <strong>sequía</strong> que reduce la producción agrícola.</p><p>Este shock desplaza la curva OAcp hacia la <strong>izquierda</strong>.</p><p>El resultado es:<br>• <strong>Menor producción</strong> (recesión)<br>• <strong>Más altos precios</strong> (inflación)</p><p>Fue un fenómeno común en la década de 1970 tras los shocks petroleros.</p><p>Es difícil de combatir porque las políticas para reducir la inflación pueden empeorar la recesión, y viceversa.</p>"
+    },
+    {
+      "intro": "El equilibrio macroeconómico a corto plazo se alcanza en la intersección de la curva de demanda agregada y la oferta agregada a corto plazo. Este equilibrio determina el nivel de producción real y el nivel de precios en un momento dado. No necesariamente coincide con el PIB potencial, por lo que puede haber desempleo cíclico si el PIB real está por debajo del potencial.",
+      "question": "8. ¿Dónde se determina el equilibrio macroeconómico a corto plazo?",
+      "options": [
+        "En la intersección de DA y OAlp",
+        "En la intersección de DA y OAcp",
+        "En el pleno empleo",
+        "En el nivel de precios cero"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>equilibrio macroeconómico a corto plazo</u> se alcanza en la <strong>intersección</strong> de la curva de <strong>demanda agregada</strong> (DA) y la <strong>oferta agregada a corto plazo</strong> (OAcp).</p><p>Este equilibrio determina:<br>• El <strong>nivel de producción real</strong> (PIB real)<br>• El <strong>nivel de precios</strong> en la economía</p><p>No necesariamente coincide con el <strong>PIB potencial</strong> (producción a largo plazo).</p><p>Si el PIB real está <strong>por debajo</strong> del potencial, hay <strong>desempleo cíclico</strong>.</p><p>Si está <strong>por encima</strong>, hay presión inflacionaria.</p><p>El equilibrio cambia cuando las curvas DA u OAcp se desplazan por shocks o políticas económicas.</p>"
+    },
+    {
+      "intro": "El ajuste automático hacia el equilibrio a largo plazo ocurre cuando, tras un shock, los salarios nominales y los precios se ajustan lentamente. Por ejemplo, tras una recesión, los salarios bajan, reduciendo los costes de producción y desplazando la OAcp a la derecha hasta que el PIB real vuelva al potencial. Este proceso puede ser lento, lo que justifica la intervención de la política económica.",
+      "question": "9. ¿Cómo se ajusta la economía hacia el equilibrio a largo plazo tras una recesión?",
+      "options": [
+        "Los salarios nominales bajan, desplazando OAcp a la derecha",
+        "Los precios suben rápidamente",
+        "La demanda agregada aumenta automáticamente",
+        "No hay ajuste"
+      ],
+      "correct": [0],
+      "saber_mas": "<p>Tras una <u>recesión</u> (PIB real < PIB potencial), la economía se ajusta lentamente hacia el equilibrio a largo plazo mediante el <strong>ajuste de salarios nominales</strong>.</p><p>El desempleo elevado ejerce <strong>presión a la baja</strong> sobre los salarios.</p><p>A medida que los <strong>salarios nominales</strong> bajan, los <strong>costes de producción</strong> disminuyen.</p><p>Esto <strong>desplaza la curva OAcp hacia la derecha</strong>, aumentando la producción y reduciendo el desempleo.</p><p>El proceso continúa hasta que el PIB real <strong>iguala al potencial</strong> y se alcanza el nuevo equilibrio a largo plazo.</p><p>Este ajuste puede ser <strong>muy lento</strong>, lo que justifica la intervención de <strong>políticas fiscales y monetarias</strong> para acelerarlo.</p>"
+    },
+    {
+      "intro": "Las expectativas de inflación afectan la oferta agregada a corto plazo. Si los trabajadores esperan inflación, exigirán salarios más altos, lo que aumenta los costes de producción y desplaza la OAcp a la izquierda. Si esperan deflación, aceptarán salarios más bajos, desplazando la OAcp a la derecha. Las expectativas influyen en el comportamiento económico y en la velocidad del ajuste.",
+      "question": "10. ¿Cómo afectan las expectativas de inflación a la oferta agregada a corto plazo?",
+      "options": [
+        "No tienen efecto",
+        "Aumentan la producción",
+        "Desplazan OAcp a la izquierda si son altas",
+        "Eliminan la demanda agregada"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>Las <u>expectativas de inflación</u> afectan directamente la <strong>oferta agregada a corto plazo</strong> (OAcp).</p><p>Si los trabajadores <strong>esperan inflación</strong>, exigirán <strong>salarios más altos</strong> en los nuevos contratos para mantener su poder adquisitivo.</p><p>Esto <strong>aumenta los costes de producción</strong> para las empresas.</p><p>Como resultado, las empresas producen <strong>menos</strong> a cualquier nivel de precios, lo que <strong>desplaza la OAcp hacia la izquierda</strong>.</p><p>Si esperan <strong>deflación</strong>, aceptarán salarios más bajos, <strong>desplazando OAcp a la derecha</strong>.</p><p>Por eso, los bancos centrales intentan <strong>anclar las expectativas de inflación</strong> cerca de su meta (por ejemplo, 2%) para mantener la estabilidad.</p>"
+    },
+    {
+      "intro": "El multiplicador del gasto es el factor por el cual un cambio en el gasto autónomo (como el gasto público) provoca un cambio más que proporcional en la renta nacional. Ocurre porque el gasto inicial genera ingresos, que a su vez generan más gasto, en una cadena de efectos. El tamaño del multiplicador depende de la propensión marginal a consumir: cuanto mayor sea, mayor será el multiplicador.",
+      "question": "11. ¿Qué determina el tamaño del multiplicador del gasto?",
+      "options": [
+        "La tasa de interés",
+        "La propensión marginal a consumir",
+        "El nivel de precios",
+        "La oferta monetaria"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>multiplicador del gasto</u> es el factor por el cual un cambio en el <strong>gasto autónomo</strong> (como el gasto público o la inversión) provoca un cambio <strong>más que proporcional</strong> en la <strong>renta nacional</strong> (PIB).</p><p>Funciona en cadena: el gasto inicial genera <strong>ingresos</strong> para alguien, que a su vez <strong>gasta</strong> parte de ese ingreso, generando más ingresos, y así sucesivamente.</p><p>El tamaño del multiplicador depende de la <strong>propensión marginal a consumir</strong> (PMC): la fracción del ingreso adicional que se gasta en consumo.</p><p>Fórmula: <strong>Multiplicador = 1 / (1 - PMC)</strong></p><p>Si PMC = 0.8, multiplicador = 5. Un aumento de 100 en el gasto público aumenta el PIB en 500.</p><p>El multiplicador es clave para la <strong>efectividad de la política fiscal</strong>.</p>"
+    },
+    {
+      "intro": "La trampa de liquidez ocurre cuando las tasas de interés nominales están cerca de cero y la política monetaria pierde efectividad para estimular la economía. En este contexto, incluso con tipos bajos, la demanda agregada puede seguir siendo débil. La deflación puede llevar a esta situación, ya que las tasas reales pueden ser altas incluso con tipos nominales bajos. Requiere políticas fiscales o monetarias no convencionales.",
+      "question": "12. ¿Qué es la trampa de liquidez?",
+      "options": [
+        "Cuando hay demasiado dinero en circulación",
+        "Cuando las tasas de interés están cerca de cero y la política monetaria pierde efectividad",
+        "Cuando los bancos prestan demasiado",
+        "Cuando no hay inflación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>trampa de liquidez</u> ocurre cuando las <strong>tasas de interés nominales</strong> están cerca de <strong>cero</strong> y la política monetaria pierde efectividad para estimular la economía.</p><p>Aunque el banco central inyecte dinero, la <strong>demanda agregada</strong> puede seguir siendo débil porque no puede bajar más las tasas.</p><p>Es más probable en contextos de <strong>deflación</strong> o <strong>expectativas de deflación</strong>, ya que las tasas de interés <strong>reales</strong> pueden ser altas incluso con tipos nominales bajos.</p><p>Limita la capacidad del banco central para actuar.</p><p>Requiere políticas fiscales o monetarias no convencionales (como <strong>QE</strong> o <strong>forward guidance</strong>).</p><p>Es un riesgo en economías con baja inflación y débil crecimiento.</p>"
+    },
+    {
+      "intro": "La política fiscal expansiva, como aumentar el gasto público o reducir impuestos, desplaza la demanda agregada a la derecha. Esto aumenta el PIB y el nivel de precios a corto plazo. Es una herramienta clave para combatir recesiones. Sin embargo, puede aumentar el déficit público y tener efectos de expulsión si eleva las tasas de interés y reduce la inversión privada.",
+      "question": "13. ¿Qué efecto tiene una política fiscal expansiva en la demanda agregada?",
+      "options": [
+        "La desplaza a la izquierda",
+        "La desplaza a la derecha",
+        "No tiene efecto",
+        "La hace más vertical"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>política fiscal expansiva</u> (aumentar el <strong>gasto público</strong> o <strong>reducir impuestos</strong>) desplaza la <strong>demanda agregada</strong> (DA) hacia la <strong>derecha</strong>.</p><p>El aumento del gasto público aumenta directamente la DA.</p><p>La reducción de impuestos aumenta el <strong>ingreso disponible</strong> de los hogares, lo que aumenta el <strong>consumo</strong> y, por tanto, la DA.</p><p>Este desplazamiento aumenta el <strong>PIB real</strong> y el <strong>nivel de precios</strong> a corto plazo.</p><p>Es una herramienta clave para <strong>combatir recesiones</strong> y el <strong>desempleo cíclico</strong>.</p><p>Sin embargo, puede aumentar el <strong>déficit público</strong> y tener <strong>efecto expulsión</strong> si eleva las tasas de interés y reduce la inversión privada.</p>"
+    },
+    {
+      "intro": "La política monetaria expansiva, como comprar bonos o bajar tipos de interés, aumenta la oferta de dinero, lo que reduce las tasas de interés y estimula la inversión y el consumo. Esto desplaza la demanda agregada a la derecha, aumentando el PIB y el nivel de precios. Es la herramienta principal del banco central para estabilizar la economía.",
+      "question": "14. ¿Cómo actúa la política monetaria expansiva sobre la demanda agregada?",
+      "options": [
+        "La reduce al aumentar tipos",
+        "La aumenta al reducir tipos de interés",
+        "No tiene efecto",
+        "La desplaza a la izquierda"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>política monetaria expansiva</u> (comprar bonos, bajar tipos de interés) <strong>aumenta la oferta de dinero</strong>.</p><p>Esto <strong>reduce las tasas de interés</strong> de mercado.</p><p>Las tasas más bajas <strong>estimulan la inversión</strong> (empresas piden préstamos para invertir) y el <strong>consumo</strong> (hipotecas, préstamos al consumo).</p><p>Este aumento en la inversión y el consumo <strong>desplaza la demanda agregada</strong> (DA) hacia la <strong>derecha</strong>.</p><p>Resultado: <strong>aumenta el PIB real</strong> y el <strong>nivel de precios</strong> a corto plazo.</p><p>Es la herramienta principal del <strong>banco central</strong> para <strong>estimular la economía</strong> en recesiones.</p><p>En una <strong>trampa de liquidez</strong>, puede perder efectividad.</p>"
+    },
+    {
+      "intro": "El modelo de demanda y oferta agregadas combina elementos del modelo keynesiano (rigidez de salarios, importancia de la demanda) con elementos clásicos (neutralidad del dinero a largo plazo, PIB potencial determinado por factores reales). Es un marco unificado para analizar tanto el corto como el largo plazo, y para evaluar la efectividad de las políticas económicas.",
+      "question": "15. ¿Qué combina el modelo de demanda y oferta agregadas?",
+      "options": [
+        "Solo teoría clásica",
+        "Solo teoría keynesiana",
+        "Elementos clásicos y keynesianos",
+        "Teoría monetarista pura"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>El <u>modelo de demanda y oferta agregadas</u> combina elementos de la <strong>teoría keynesiana</strong> y la <strong>teoría clásica</strong>.</p><p>A <strong>corto plazo</strong> es <strong>keynesiano</strong>:<br>• <strong>Salarios rígidos</strong><br>• <strong>Oferta agregada con pendiente positiva</strong><br>• <strong>Demanda agregada</strong> como motor de fluctuaciones<br>• <strong>Política económica</strong> puede estabilizar la economía</p><p>A <strong>largo plazo</strong> es <strong>clásico</strong>:<br>• <strong>Salarios flexibles</strong><br>• <strong>Oferta agregada vertical</strong> (PIB potencial)<br>• <strong>Dinero neutral</strong> (afecta solo a precios)<br>• Economía se autoregula</p><p>Es un <strong>marco unificado</strong> que permite analizar tanto recesiones como crecimiento de largo plazo.</p>"
+    }
+  ]
+}
