@@ -1,0 +1,66 @@
+{
+  "title": "Recopilación de la Información y Pronósticos de la Demanda",
+  "description": "Quiz sobre sistemas de información de marketing, investigación de mercados, fuentes de datos, métodos de pronóstico y análisis de la demanda.",
+  "questions": [
+    {
+      "intro": "La recopilación de información es una función esencial del marketing, ya que permite a la empresa entender el entorno, identificar oportunidades y evaluar el desempeño de sus estrategias. Un sistema de información de marketing (SIM) estructurado recoge, clasifica, almacena y distribuye información de manera continua y sistemática para apoyar la toma de decisiones. Este sistema incluye datos internos, inteligencia competitiva, investigación de mercados y un sistema de apoyo a las decisiones.",
+      "question": "1. ¿Qué es un sistema de información de marketing (SIM)?",
+      "options": [
+        "Una base de datos de clientes",
+        "Un sistema que recoge y distribuye información para apoyar decisiones de marketing",
+        "Solo un software de ventas",
+        "Un informe anual de resultados"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>sistema de información de marketing (SIM)</u> es un conjunto <strong>estructurado de personas, equipos y procedimientos</strong> que recoge, clasifica, analiza, almacena y distribuye información de marketing de manera <strong>continua y sistemática</strong>.</p><p>Su objetivo es transformar datos en <strong>información útil</strong> para la toma de decisiones de marketing.</p><p>Componentes clave:<br>• <strong>Datos internos</strong>: ventas, inventarios, costos.<br>• <strong>Inteligencia competitiva</strong>: información sobre competidores, tendencias del mercado.<br>• <strong>Investigación de mercados</strong>: estudios específicos para resolver problemas o aprovechar oportunidades.<br>• <strong>Sistema de apoyo a las decisiones</strong>: herramientas analíticas y modelos predictivos.</p><p>Un buen SIM permite a la empresa <strong>anticiparse a cambios</strong>, <strong>identificar oportunidades</strong> y <strong>evaluar el impacto de sus estrategias</strong>.</p>"
+    },
+    {
+      "intro": "Los datos internos son la fuente más accesible y económica de información para el marketing. Incluyen registros de ventas, inventarios, cuentas por cobrar y por pagar, y datos de clientes. Este tipo de información permite monitorear el desempeño de productos, canales y clientes clave, y es fundamental para la gestión diaria y la planificación estratégica.",
+      "question": "2. ¿Qué incluyen los datos internos de marketing?",
+      "options": [
+        "Información sobre competidores",
+        "Registros de ventas, inventarios y clientes",
+        "Encuestas a consumidores",
+        "Estudios de mercado externos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Los <u>datos internos</u> son la fuente de información <strong>más accesible, económica y rápida</strong> para el marketing.</p><p>Incluyen:<br>• <strong>Registros de ventas</strong> por producto, región, canal, cliente.<br>• <strong>Niveles de inventario</strong> y rotación.<br>• <strong>Cuentas por cobrar y por pagar</strong>.<br>• <strong>Base de datos de clientes</strong> (compras, preferencias, interacciones).<br>• <strong>Costos de operación y logística</strong>.</p><p>Permiten:<br>• <strong>Monitorear el desempeño</strong> de productos y campañas.<br>• <strong>Identificar clientes más rentables</strong>.<br>• <strong>Optimizar la gestión de inventarios</strong>.<br>• <strong>Evaluar la eficiencia de canales de distribución</strong>.</p><p>Son fundamentales para la <strong>gestión diaria</strong> y la <strong>planificación estratégica</strong>, pero deben complementarse con información externa para una visión completa.</p>"
+    },
+    {
+      "intro": "La inteligencia competitiva es el proceso sistemático de recopilación y análisis de información sobre competidores, mercados y tendencias del entorno. No implica espionaje, sino el uso de fuentes públicas como sitios web, informes financieros, ferias comerciales, redes sociales y noticias. Permite anticipar movimientos de la competencia y adaptar la estrategia de manera proactiva.",
+      "question": "3. ¿Qué es la inteligencia competitiva?",
+      "options": [
+        "Espionaje industrial",
+        "El uso de fuentes públicas para entender a competidores y el entorno",
+        "Solo analizar precios",
+        "Ignorar a la competencia"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>inteligencia competitiva</u> es el proceso <strong>sistemático y ético</strong> de recopilación, análisis y distribución de información sobre competidores, mercados, tecnologías y tendencias del entorno.</p><p>No es <strong>espionaje</strong>, sino el uso de <strong>fuentes públicas y legales</strong>, como:<br>• Sitios web y redes sociales de competidores.<br>• Informes financieros y presentaciones a inversores.<br>• Ferias comerciales y conferencias.<br>• Publicaciones especializadas y noticias.<br>• Opiniones de clientes y reseñas.</p><p>Permite:<br>• <strong>Anticipar movimientos</strong> de la competencia (lanzamientos, precios).<br>• <strong>Identificar amenazas y oportunidades</strong>.<br>• <strong>Adaptar la estrategia</strong> de forma proactiva.<br>• <strong>Diferenciarse</strong> en el mercado.</p><p>Es una <strong>ventaja competitiva</strong> clave en entornos dinámicos.</p>"
+    },
+    {
+      "intro": "La investigación de mercados es la función que planifica, recoge, analiza e interpreta información sobre un problema específico de marketing. Puede ser exploratoria (para identificar problemas), descriptiva (para medir variables) o causal (para determinar relaciones de causa-efecto). Es esencial para tomar decisiones basadas en evidencia, no en suposiciones.",
+      "question": "4. ¿Cuál es el objetivo de la investigación de mercados?",
+      "options": [
+        "Vender más productos",
+        "Planificar, recoger y analizar información para resolver problemas de marketing",
+        "Crear publicidad",
+        "Reducir costos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>investigación de mercados</u> es la función que <strong>planifica, recoge, analiza e interpreta</strong> información relevante sobre un problema o oportunidad de marketing específico.</p><p>Tipos de investigación:<br>• <strong>Exploratoria</strong>: para <strong>identificar</strong> problemas o generar hipótesis (entrevistas cualitativas, grupos focales).<br>• <strong>Descriptiva</strong>: para <strong>medir</strong> variables como preferencias, actitudes o comportamientos (encuestas cuantitativas).<br>• <strong>Causal</strong>: para <strong>determinar relaciones de causa-efecto</strong> (experimentos, pruebas A/B).</p><p>Proceso típico:<br>1. Definir el problema.<br>2. Diseñar la investigación.<br>3. Recoger datos.<br>4. Analizar resultados.<br>5. Presentar conclusiones.</p><p>Permite tomar decisiones <strong>basadas en evidencia</strong>, no en intuición o suposiciones.</p>"
+    },
+    {
+      "intro": "Las fuentes primarias de datos se obtienen directamente para un propósito específico mediante métodos como encuestas, entrevistas, observación o experimentos. Son altamente relevantes y actuales, pero su recolección puede ser costosa y lenta. Las fuentes secundarias son datos ya existentes, como informes gubernamentales, estudios de mercado o bases de datos comerciales, que son más económicas y rápidas de obtener.",
+      "question": "5. ¿Qué diferencia hay entre datos primarios y secundarios?",
+      "options": [
+        "Los primarios son más baratos",
+        "Los primarios se recogen para un propósito específico; los secundarios ya existen",
+        "Los secundarios son siempre más precisos",
+        "No hay diferencia"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Los <u>datos primarios</u> se recogen <strong>directamente</strong> por la empresa o un investigador para <strong>un propósito específico</strong>.</p><p>Métodos:<br>• <strong>Encuestas</strong> (online, telefónicas, personales).<br>• <strong>Entrevistas en profundidad</strong>.<br>• <strong>Grupos focales</strong>.<br>• <strong>Observación</strong> (comportamiento en tiendas).<br>• <strong>Experimentos</strong> (pruebas A/B).</p><p>Ventajas: <strong>Altamente relevantes y actuales</strong>.<br>Desventajas: <strong>Costosos y lentos</strong> de recolectar.</p><p>Los <u>datos secundarios</u> son <strong>información ya existente</strong> recopilada para otro propósito.</p><p>Fuentes:<br>• Informes gubernamentales (INE, Eurostat).<br>• Estudios de mercado (Nielsen, Kantar).<br>• Bases de datos comerciales (Statista, Euromonitor).<br>• Publicaciones académicas.</p><p>Ventajas: <strong>Rápidos y económicos</strong>.<br>Desventajas: Pueden no ser <strong>completos o actuales</strong> para el problema específico.</p><p>Se recomienda usar ambos: <strong>secundarios para contexto</strong>, <strong>primarios para profundizar</strong>.</p>"
+    },
+    {
+      "intro": "El muestreo es el proceso de seleccionar un subconjunto representativo de la población para estudiar. Un buen diseño de muestreo asegura que los resultados
