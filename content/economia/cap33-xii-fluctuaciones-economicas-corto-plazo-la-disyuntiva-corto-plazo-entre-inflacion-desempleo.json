@@ -1,0 +1,186 @@
+{
+  "title": "La Disyuntiva a Corto Plazo entre la Inflación y el Desempleo",
+  "description": "Quiz sobre la curva de Phillips, expectativas de inflación, la curva de Phillips a largo plazo y cómo las políticas económicas enfrentan la relación entre inflación y desempleo.",
+  "questions": [
+    {
+      "intro": "La curva de Phillips describe la relación inversa entre la inflación y el desempleo a corto plazo. Fue observada por primera vez en los datos del Reino Unido por A.W. Phillips en la década de 1950. Muestra que cuando el desempleo es bajo, la inflación tiende a ser alta, y cuando el desempleo es alto, la inflación tiende a ser baja. Esta relación sugiere una disyuntiva para los responsables de la política económica: pueden reducir el desempleo a costa de más inflación, o reducir la inflación a costa de más desempleo.",
+      "question": "1. ¿Qué muestra la curva de Phillips a corto plazo?",
+      "options": [
+        "Una relación directa entre inflación y desempleo",
+        "Una relación inversa entre inflación y desempleo",
+        "Que ambos siempre aumentan juntos",
+        "Que no hay relación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>curva de Phillips</u> a corto plazo muestra una <strong>relación inversa</strong> entre la <strong>inflación</strong> y el <strong>desempleo</strong>.</p><p>Cuando el desempleo es <strong>bajo</strong>, la inflación tiende a ser <strong>alta</strong>.</p><p>Cuando el desempleo es <strong>alto</strong>, la inflación tiende a ser <strong>baja</strong> (o incluso deflación).</p><p>Esta relación fue observada por A.W. Phillips en datos del Reino Unido en la década de 1950.</p><p>Refleja una <strong>disyuntiva</strong> para la política económica: reducir el desempleo a costa de más inflación, o viceversa.</p><p>A largo plazo, esta relación desaparece.</p>"
+    },
+    {
+      "intro": "La curva de Phillips a corto plazo se desplaza cuando cambian las expectativas de inflación. Si los trabajadores y empresas esperan más inflación, exigen salarios más altos, lo que aumenta los costes y los precios, elevando la inflación incluso si el desempleo no ha cambiado. Por eso, una política que intenta mantener el desempleo por debajo de su tasa natural lleva a inflación cada vez mayor.",
+      "question": "2. ¿Qué desplaza la curva de Phillips a corto plazo hacia arriba?",
+      "options": [
+        "Una caída en la productividad",
+        "Un aumento en las expectativas de inflación",
+        "Un aumento en la inversión",
+        "Una reducción del déficit"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>curva de Phillips a corto plazo</u> se <strong>desplaza hacia arriba</strong> cuando aumentan las <strong>expectativas de inflación</strong>.</p><p>Si los trabajadores y empresas <strong>esperan más inflación</strong>, exigen <strong>salarios más altos</strong> para mantener su poder adquisitivo.</p><p>Esto <strong>aumenta los costes de producción</strong> para las empresas.</p><p>Las empresas <strong>suben los precios</strong>, lo que genera <strong>más inflación</strong> incluso si el desempleo no ha cambiado.</p><p>Por eso, una política que intenta mantener el desempleo <strong>por debajo de su tasa natural</strong> lleva a <strong>inflación cada vez mayor</strong> (aceleración inflacionaria).</p><p>Para mantener una tasa baja de desempleo, se necesitaría una inflación cada vez más alta.</p>"
+    },
+    {
+      "intro": "La curva de Phillips a largo plazo es vertical en la tasa natural de desempleo. Esto significa que, a largo plazo, no existe una disyuntiva entre inflación y desempleo. Independientemente del nivel de inflación, el desempleo tiende a volver a su tasa natural. Los agentes económicos ajustan sus expectativas, y los salarios y precios se adaptan, eliminando cualquier efecto permanente de la inflación sobre el empleo.",
+      "question": "3. ¿Cómo es la curva de Phillips a largo plazo?",
+      "options": [
+        "Descendente",
+        "Horizontal",
+        "Vertical en la tasa natural de desempleo",
+        "Ascendente"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>La <u>curva de Phillips a largo plazo</u> es <strong>vertical</strong> en el nivel de la <strong>tasa natural de desempleo</strong>.</p><p>Esto significa que, a <strong>largo plazo</strong>, <strong>no existe una disyuntiva</strong> entre inflación y desempleo.</p><p>Independientemente del nivel de <strong>inflación</strong> (1%, 5%, 10%), el desempleo tiende a volver a su <strong>tasa natural</strong>.</p><p>Los agentes económicos <strong>ajustan sus expectativas</strong> de inflación.</p><p>Los <strong>salarios nominales</strong> y <strong>precios</strong> se adaptan, eliminando cualquier efecto permanente de la inflación sobre el empleo.</p><p>Este resultado fue defendido por Milton Friedman y Edmund Phelps, y confirmado por la experiencia de la estanflación en los años 70.</p>"
+    },
+    {
+      "intro": "La tasa natural de desempleo es el nivel de desempleo al que tiende una economía en el largo plazo, cuando no hay fluctuaciones cíclicas. Incluye desempleo friccional (por transición entre trabajos) y estructural (por desajustes entre habilidades y demanda). La curva de Phillips a largo plazo es vertical en este nivel, indicando que la política monetaria no puede mantener el desempleo por debajo de este nivel sin generar inflación creciente.",
+      "question": "4. ¿Dónde se sitúa la curva de Phillips a largo plazo?",
+      "options": [
+        "En el pleno empleo",
+        "En la tasa natural de desempleo",
+        "En el desempleo cero",
+        "Depende de la inflación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>curva de Phillips a largo plazo</u> es vertical en el nivel de la <strong>tasa natural de desempleo</strong>.</p><p>Este nivel incluye:<br>• <strong>Desempleo friccional</strong>: por transición entre trabajos.<br>• <strong>Desempleo estructural</strong>: por desajustes de habilidades, ubicación o salarios mínimos.</p><p>No incluye <strong>desempleo cíclico</strong> (por recesiones).</p><p>Indica que la política monetaria <strong>no puede mantener el desempleo por debajo</strong> de este nivel sin generar <strong>inflación creciente</strong>.</p><p>Intentar hacerlo solo lleva a una <strong>aceleración inflacionaria</strong>, no a un empleo más alto permanente.</p><p>El banco central debe enfocarse en la <strong>estabilidad de precios</strong>, no en reducir el desempleo por debajo de su tasa natural.</p>"
+    },
+    {
+      "intro": "La expectativa de inflación juega un papel crucial en la curva de Phillips. Si los agentes esperan inflación, sus decisiones sobre salarios y precios la hacen realidad. La inflación inesperada puede reducir temporalmente el desempleo, pero la inflación esperada no tiene efecto real. Por eso, los bancos centrales buscan anclar las expectativas de inflación cerca de su meta (por ejemplo, 2%).",
+      "question": "5. ¿Qué efecto tiene la inflación esperada sobre el desempleo?",
+      "options": [
+        "Lo reduce permanentemente",
+        "No tiene efecto a largo plazo",
+        "Lo aumenta",
+        "Elimina el desempleo friccional"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>inflación esperada</u> <strong>no tiene efecto</strong> sobre el desempleo a <strong>largo plazo</strong>.</p><p>Si los trabajadores y empresas <strong>esperan inflación</strong>, ajustan sus decisiones de salarios y precios en consecuencia.</p><p>Por ejemplo, si esperan 3% de inflación, exigirán salarios 3% más altos.</p><p>Los costes y precios suben en la misma proporción, por lo que no hay cambio en la <strong>competitividad</strong> ni en el <strong>empleo</strong>.</p><p>Solo la <strong>inflación inesperada</strong> puede reducir temporalmente el desempleo, porque los salarios nominales no se ajustan inmediatamente.</p><p>Por eso, los bancos centrales buscan <strong>anclar las expectativas</strong> de inflación cerca de su meta (por ejemplo, 2%) para mantener la estabilidad.</p>"
+    },
+    {
+      "intro": "La estanflación es una situación en la que la economía experimenta alta inflación y alta tasa de desempleo simultáneamente. Desafió la idea original de la curva de Phillips, que sugería que inflación y desempleo eran inversamente relacionados. La estanflación de los años 70, causada por shocks de oferta como el aumento del precio del petróleo, mostró que ambos podían subir al mismo tiempo.",
+      "question": "6. ¿Qué es la estanflación?",
+      "options": [
+        "Baja inflación y bajo desempleo",
+        "Alta inflación y alta tasa de desempleo",
+        "Recesión con deflación",
+        "Crecimiento con baja inflación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>estanflación</u> es una situación en la que la economía experimenta <strong>alta inflación</strong> y <strong>alta tasa de desempleo</strong> al mismo tiempo.</p><p>Desafió la idea original de la <strong>curva de Phillips</strong>, que sugería que inflación y desempleo eran <strong>inversamente relacionados</strong>.</p><p>Fue un fenómeno común en la década de 1970, causado por <strong>shocks de oferta negativos</strong>, como el <strong>aumento del precio del petróleo</strong> tras las crisis del 1973 y 1979.</p><p>Estos shocks <strong>redujeron la producción</strong> (aumentando el desempleo) y <strong>aumentaron los costes</strong> (aumentando la inflación).</p><p>Mostró que la política monetaria no podía controlar ambos objetivos a la vez y llevó al redescubrimiento de la <strong>curva de Phillips a largo plazo</strong>.</p>"
+    },
+    {
+      "intro": "El sacrificio ratio mide el costo en términos de producción perdida de reducir la inflación. Por ejemplo, si el sacrificio ratio es 4, significa que se debe sacrificar el 4% del PIB durante un año (o 2% durante dos años) para reducir la inflación un punto porcentual. Este costo surge porque reducir la inflación requiere reducir la demanda agregada, lo que aumenta temporalmente el desempleo.",
+      "question": "7. ¿Qué mide el sacrificio ratio?",
+      "options": [
+        "El aumento de empleo por reducción de inflación",
+        "La producción perdida para reducir la inflación",
+        "La tasa de crecimiento del PIB",
+        "La reducción de impuestos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>sacrificio ratio</u> mide el <strong>costo en términos de producción perdida</strong> de reducir la inflación.</p><p>Por ejemplo, si el sacrificio ratio es 4, significa que se debe sacrificar el <strong>4% del PIB</strong> durante un año (o 2% durante dos años) para reducir la inflación un <strong>punto porcentual</strong>.</p><p>Este costo surge porque reducir la inflación requiere una <strong>política monetaria contractiva</strong>: reducir la demanda agregada, lo que <strong>aumenta temporalmente el desempleo</strong>.</p><p>El tamaño del sacrificio ratio depende de:<br>• <strong>Flexibilidad</strong> de salarios y precios<br>• <strong>Credibilidad</strong> del banco central<br>• <strong>Expectativas</strong> de los agentes</p><p>Si el banco central es creíble, el sacrificio puede ser menor.</p>"
+    },
+    {
+      "intro": "La hipótesis de expectativas racionales sostiene que los agentes económicos usan toda la información disponible para formar sus expectativas de inflación. Si creen que el banco central está comprometido con la baja inflación, ajustarán sus expectativas rápidamente, reduciendo el costo de desinflación. Esta hipótesis implica que las políticas económicas no pueden engañar sistemáticamente a los agentes.",
+      "question": "8. ¿Qué implica la hipótesis de expectativas racionales?",
+      "options": [
+        "Que los agentes ignoran la información",
+        "Que los agentes usan toda la información disponible para predecir la inflación",
+        "Que las políticas siempre sorprenden a los agentes",
+        "Que las expectativas son siempre erróneas"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>hipótesis de expectativas racionales</u> sostiene que los agentes económicos usan <strong>toda la información disponible</strong> para formar sus expectativas de inflación.</p><p>No cometen errores sistemáticos.</p><p>Si creen que el banco central está <strong>comprometido con la baja inflación</strong>, ajustarán sus expectativas <strong>rápidamente</strong>, incluso antes de que la inflación baje.</p><p>Esto reduce el <strong>costo de desinflación</strong> (sacrificio ratio), porque no es necesario aumentar mucho el desempleo.</p><p>Implica que las <strong>políticas económicas no pueden engañar sistemáticamente</strong> a los agentes.</p><p>Es un desafío para la política discrecional, ya que los agentes anticipan sus efectos.</p>"
+    },
+    {
+      "intro": "La desinflación es el proceso de reducir la tasa de inflación. Puede ser costosa si requiere aumentar el desempleo (según el sacrificio ratio). Sin embargo, si el banco central es creíble y ancla las expectativas, la desinflación puede lograrse con bajo costo. Países como Estados Unidos en los años 80 lograron desinflación con alto costo inicial, mientras que otros lo hicieron con menor costo gracias a la credibilidad.",
+      "question": "9. ¿Qué puede reducir el costo de la desinflación?",
+      "options": [
+        "Una política discrecional",
+        "La credibilidad del banco central",
+        "Aumentar el déficit público",
+        "Reducir la inversión"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>desinflación</u> es el proceso de <strong>reducir la tasa de inflación</strong>.</p><p>Puede ser <strong>costosa</strong> si requiere aumentar el desempleo (según el <strong>sacrificio ratio</strong>).</p><p>Sin embargo, si el <strong>banco central es creíble</strong> y los agentes creen que está comprometido con la baja inflación, <strong>ajustarán sus expectativas rápidamente</strong>.</p><p>Esto permite lograr la desinflación con <strong>menor aumento del desempleo</strong> y menor costo en términos de producción perdida.</p><p>La <strong>credibilidad</strong> se construye con:<br>• <strong>Independencia</strong> del banco central<br>• <strong>Transparencia</strong><br>• <strong>Acciones coherentes</strong> con la meta de inflación</p><p>Países como Nueva Zelanda o Canadá lograron desinflación con bajo costo gracias a la credibilidad.</p>"
+    },
+    {
+      "intro": "La curva de oferta agregada a corto plazo (OAcp) y la curva de Phillips están estrechamente relacionadas. Ambas muestran una relación inversa entre una variable real (producción o desempleo) y una nominal (nivel de precios o inflación). De hecho, la curva de Phillips puede derivarse de la OAcp, ya que cambios en la demanda agregada afectan tanto al PIB como al desempleo y a la inflación.",
+      "question": "10. ¿Cómo se relaciona la curva de oferta agregada a corto plazo con la curva de Phillips?",
+      "options": [
+        "Son independientes",
+        "La curva de Phillips puede derivarse de la OAcp",
+        "Ambas son verticales",
+        "No tienen relación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>curva de oferta agregada a corto plazo</u> (OAcp) y la <u>curva de Phillips</u> están <strong>estrechamente relacionadas</strong>.</p><p>• OAcp: relación entre <strong>producción</strong> (PIB real) y <strong>nivel de precios</strong>.<br>• Curva de Phillips: relación entre <strong>desempleo</strong> e <strong>inflación</strong>.</p><p>Como el <strong>desempleo</strong> y la <strong>producción</strong> están relacionados por la <strong>ley de Okun</strong> (cuando el PIB crece, el desempleo baja), y el <strong>nivel de precios</strong> y la <strong>inflación</strong> están relacionados (inflación = cambio en el nivel de precios), ambas curvas capturan la <strong>misma relación</strong>.</p><p>De hecho, la <strong>curva de Phillips puede derivarse</strong> de la OAcp.</p><p>Una expansión de la demanda agregada aumenta el PIB y el nivel de precios (movimiento en OAcp), lo que reduce el desempleo y aumenta la inflación (movimiento en Phillips).</p>"
+    },
+    {
+      "intro": "La ley de Okun establece una relación empírica entre el crecimiento del PIB y el cambio en la tasa de desempleo. Por ejemplo, si el PIB crece un 2% por encima de su tasa normal, el desempleo tiende a caer un 1%. Esta relación permite a los responsables de la política económica estimar el impacto de las políticas sobre el empleo.",
+      "question": "11. ¿Qué relación establece la ley de Okun?",
+      "options": [
+        "Entre inflación y tipos de interés",
+        "Entre crecimiento del PIB y cambio en el desempleo",
+        "Entre oferta monetaria e inflación",
+        "Entre inversión y ahorro"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>ley de Okun</u> establece una <strong>relación empírica</strong> entre el <strong>crecimiento del PIB real</strong> y el <strong>cambio en la tasa de desempleo</strong>.</p><p>Por ejemplo, si el PIB crece un 2% por encima de su tasa normal de crecimiento (tendencia), el desempleo tiende a <strong>caer un 1%</strong>.</p><p>La relación no es exacta, pero es útil para estimar el impacto de las políticas económicas.</p><p>Permite a los responsables de la política:<br>• Estimar cuánto debe crecer el PIB para reducir el desempleo.<br>• Evaluar el costo en empleo de una política contractiva.</p><p>La relación puede variar entre países y épocas, pero es una herramienta clave para la <strong>gestión macroeconómica</strong>.</p>"
+    },
+    {
+      "intro": "Si el banco central anuncia una política de desinflación creíble, los agentes pueden ajustar sus expectativas inmediatamente, reduciendo los salarios y precios esperados. Esto puede permitir una desinflación sin aumentar el desempleo, un fenómeno conocido como desinflación sin costo. Depende de la credibilidad del banco central y de la flexibilidad de los mercados.",
+      "question": "12. ¿Qué es la desinflación sin costo?",
+      "options": [
+        "Reducir la inflación sin afectar el crecimiento",
+        "Reducir la inflación sin aumentar el desempleo",
+        "Aumentar el empleo con inflación",
+        "Eliminar la inflación con políticas fiscales"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>desinflación sin costo</u> es la posibilidad de <strong>reducir la inflación</strong> sin <strong>aumentar el desempleo</strong> o sin costo en términos de producción perdida.</p><p>Ocurre si el <strong>banco central es creíble</strong> y anuncia una política de baja inflación.</p><p>Los agentes económicos <strong>ajustan sus expectativas inmediatamente</strong>: esperan menos inflación, por lo que exigen salarios más bajos y fijan precios más bajos.</p><p>Esto <strong>reduce la inflación actual</strong> sin necesidad de una recesión.</p><p>Depende de:<br>• <strong>Credibilidad</strong> del banco central<br>• <strong>Flexibilidad</strong> de salarios y precios<br>• <strong>Transparencia</strong> en la política</p><p>Es más probable en economías con instituciones sólidas y bancos centrales independientes.</p>"
+    },
+    {
+      "intro": "La inflación inesperada puede reducir temporalmente el desempleo porque los salarios nominales no se ajustan inmediatamente. Las empresas ven sus ingresos subir más rápido que sus costes (salarios), lo que aumenta los beneficios y la producción, reduciendo el desempleo. Pero una vez que los trabajadores ajustan sus expectativas, el desempleo vuelve a su tasa natural.",
+      "question": "13. ¿Cómo puede la inflación inesperada reducir el desempleo?",
+      "options": [
+        "Porque aumenta los salarios reales",
+        "Porque los salarios nominales no se ajustan inmediatamente",
+        "Porque reduce la demanda agregada",
+        "Porque aumenta el ahorro"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>inflación inesperada</u> puede <strong>reducir temporalmente</strong> el desempleo.</p><p>Razón: los <strong>salarios nominales</strong> no se ajustan inmediatamente a la inflación (rigidez nominal).</p><p>Las empresas ven sus <strong>ingresos subir</strong> (por precios más altos) mientras sus <strong>costes (salarios)</strong> se mantienen.</p><p>Esto <strong>aumenta los beneficios reales</strong>, incentivando a las empresas a <strong>producir más</strong> y <strong>contratar más</strong>.</p><p>Resultado: <strong>desempleo baja</strong>.</p><p>Pero una vez que los trabajadores <strong>ajustan sus expectativas</strong> de inflación y exigen salarios más altos, los costes suben, los beneficios se reducen, y el desempleo <strong>vuelve a su tasa natural</strong>.</p><p>Este efecto es <strong>temporal</strong> y no puede explotarse permanentemente.</p>"
+    },
+    {
+      "intro": "La política de alta frecuencia de Friedman argumenta que los efectos de la política monetaria sobre la producción y el empleo ocurren con retraso, mientras que los efectos sobre los precios son más inmediatos. Por eso, intentar estabilizar la economía con política monetaria puede ser contraproducente, ya que podría amplificar las fluctuaciones en lugar de suavizarlas.",
+      "question": "14. ¿Qué argumenta la crítica de alta frecuencia de Friedman?",
+      "options": [
+        "Que la política monetaria es siempre efectiva",
+        "Que los retrasos en la política pueden amplificar las fluctuaciones",
+        "Que no hay retrasos en la política",
+        "Que la política fiscal es inútil"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>crítica de alta frecuencia</u> de Milton Friedman argumenta que los <strong>efectos de la política monetaria</strong> sobre la <strong>producción y el empleo</strong> ocurren con <strong>retraso</strong> (de 6 a 18 meses).</p><p>En cambio, los efectos sobre los <strong>precios</strong> (inflación) son más <strong>inmediatos</strong>.</p><p>Por eso, si el banco central intenta <strong>estabilizar</strong> la economía respondiendo a recesiones con política expansiva, podría actuar <strong>demasiado tarde</strong>.</p><p>La economía ya podría estar recuperándose, y la política expansiva llegaría en un momento de expansión, <strong>calentando más la economía</strong> y generando inflación.</p><p>Este <strong>error de temporización</strong> puede <strong>amplificar</strong> las fluctuaciones en lugar de suavizarlas.</p><p>Por eso, Friedman abogaba por una <strong>regla monetaria</strong> (crecimiento constante del dinero) en lugar de política discrecional.</p>"
+    },
+    {
+      "intro": "La independencia del banco central es crucial para mantener la estabilidad de precios. Un banco central independiente puede tomar decisiones impopulares (como subir tipos para combatir la inflación) sin presión política a corto plazo. Los estudios muestran que países con bancos centrales más independientes tienden a tener menor inflación sin costo en crecimiento.",
+      "question": "15. ¿Por qué es importante la independencia del banco central?",
+      "options": [
+        "Para que siga las órdenes del gobierno",
+        "Para tomar decisiones basadas en objetivos económicos, no políticos",
+        "Para aumentar el gasto público",
+        "Para reducir los impuestos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>independencia del banco central</u> es crucial para que pueda tomar decisiones de <strong>política monetaria</strong> basadas en <strong>objetivos económicos a largo plazo</strong> (como la estabilidad de precios), sin presión política para estimular la economía antes de elecciones.</p><p>Un banco central <strong>independiente</strong> es más <strong>creíble</strong> en su compromiso con la <strong>estabilidad de precios</strong>.</p><p>Esto ayuda a <strong>anclar las expectativas de inflación</strong>, reduciendo el riesgo de inflación crónica.</p><p>Estudios muestran que países con bancos centrales más independientes tienden a tener <strong>menor inflación</strong> sin costo en crecimiento.</p><p>La independencia no significa falta de responsabilidad: los bancos centrales deben rendir cuentas al público y al parlamento.</p>"
+    }
+  ]
+}
