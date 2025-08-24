@@ -1,0 +1,186 @@
+{
+  "title": "Cinco Debates sobre la Política Macroeconómica",
+  "description": "Quiz sobre debates clave en política macroeconómica: activa vs. pasiva, reglas vs. discreción, objetivos del banco central, reforma del sistema tributario y estabilización del PIB.",
+  "questions": [
+    {
+      "intro": "Uno de los grandes debates en macroeconomía es si la política económica debe ser activa o pasiva. Los defensores de una política activa creen que los responsables de la política deben intervenir para estabilizar la economía frente a shocks. Los defensores de una política pasiva argumentan que los retrasos en la implementación y los errores de juicio pueden hacer que la intervención empeore las fluctuaciones.",
+      "question": "1. ¿Cuál es el argumento principal de los defensores de una política pasiva?",
+      "options": [
+        "Que los shocks son predecibles",
+        "Que los retrasos y errores pueden empeorar las fluctuaciones",
+        "Que no hay ciclos económicos",
+        "Que la economía siempre está en equilibrio"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El debate entre <strong>política activa vs. pasiva</strong> es uno de los más importantes en macroeconomía.</p><p>Defensores de la <strong>política activa</strong>: creen que los responsables de la política (gobierno y banco central) deben <strong>intervenir</strong> para estabilizar la economía frente a shocks (recesiones, inflación).</p><p>Defensores de la <strong>política pasiva</strong>: argumentan que:<br>• Hay <strong>retrasos</strong> en el reconocimiento, decisión e implementación de políticas.<br>• Los responsables pueden cometer <strong>errores de juicio</strong>.<br>• La intervención puede <strong>amplificar</strong> las fluctuaciones en lugar de suavizarlas (por errores de temporización).</p><p>Por ejemplo, una política expansiva podría llegar en un momento de expansión, calentando más la economía y generando inflación.</p><p>Abogan por <strong>reglas</strong> simples (como crecimiento constante del dinero) en lugar de discreción.</p>"
+    },
+    {
+      "intro": "El debate entre reglas y discreción se refiere a si los responsables de la política deben seguir reglas preestablecidas o actuar según las circunstancias. Las reglas aumentan la predictibilidad y la credibilidad, pero pueden ser rígidas. La discreción permite flexibilidad, pero puede generar incertidumbre y sesgos políticos. Muchos economistas favorecen reglas con cierta flexibilidad (como una regla de Taylor).",
+      "question": "2. ¿Qué ventaja tiene una regla de política económica sobre la discreción?",
+      "options": [
+        "Mayor flexibilidad",
+        "Mayor predictibilidad y credibilidad",
+        "Menor necesidad de bancos centrales",
+        "Eliminan la inflación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El debate entre <strong>reglas vs. discreción</strong> es central en política macroeconómica.</p><p>Una <u>regla</u> es una directriz preestablecida (ej. mantener la inflación en 2%, o crecimiento del dinero del 3%).</p><p>La <u>discreción</u> permite actuar según las circunstancias de cada momento.</p><p>Ventajas de las <strong>reglas</strong>:<br>• <strong>Predictibilidad</strong>: los agentes económicos pueden planificar mejor.<br>• <strong>Credibilidad</strong>: el banco central cumple su compromiso, anclando expectativas.<br>• Evita <strong>sesgos políticos</strong> (actuar antes de elecciones).</p><p>Desventajas: <strong>rigidez</strong> ante shocks inesperados.</p><p>Las <strong>políticas discrecionales</strong> son <strong>flexibles</strong>, pero pueden generar <strong>incertidumbre</strong> y falta de credibilidad.</p><p>Una solución intermedia es una <strong>regla con escape</strong> (como la <strong>regla de Taylor</strong>), que permite flexibilidad en casos extremos.</p>"
+    },
+    {
+      "intro": "Los bancos centrales modernos suelen tener como objetivo principal la estabilidad de precios. Algunos también tienen un mandato dual que incluye el empleo máximo. La estabilidad de precios ayuda a anclar expectativas, reduce la incertidumbre y permite un mejor funcionamiento del sistema de precios. Algunos argumentan que deberían tener múltiples objetivos, mientras que otros defienden un enfoque más estrecho.",
+      "question": "3. ¿Cuál es el objetivo principal de la mayoría de los bancos centrales modernos?",
+      "options": [
+        "Maximizar el empleo",
+        "Estabilidad de precios",
+        "Crecimiento del PIB",
+        "Tipo de cambio fijo"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La mayoría de los <strong>bancos centrales modernos</strong> tienen como <strong>objetivo principal</strong> la <strong>estabilidad de precios</strong> (baja y estable inflación).</p><p>Algunos, como la FED de EE.UU., tienen un <strong>mandato dual</strong>: estabilidad de precios y <strong>empleo máximo</strong>.</p><p>La estabilidad de precios es clave porque:<br>• <strong>Ancla las expectativas</strong> de inflación.<br>• <strong>Reduce la incertidumbre</strong> en contratos y decisiones.<br>• Permite que el sistema de <strong>precios</strong> funcione eficientemente.<br>• Evita los <strong>costes de la inflación</strong> (ilusión monetaria, distorsiones fiscales).</p><p>Algunos argumentan que deberían tener <strong>múltiples objetivos</strong> (PIB, empleo, finanzas estables), pero otros defienden un enfoque <strong>estrecho</strong> para mantener la independencia y claridad.</p>"
+    },
+    {
+      "intro": "El debate sobre el sistema tributario se centra en si debe ser más simple, justo y eficiente. Algunas propuestas incluyen el impuesto sobre el valor añadido (IVA), el impuesto negativo sobre la renta o la reforma integral del sistema. El objetivo es recaudar ingresos con el menor costo posible y sin distorsionar las decisiones económicas (como trabajo, ahorro e inversión).",
+      "question": "4. ¿Qué objetivo persigue una reforma del sistema tributario?",
+      "options": [
+        "Aumentar la complejidad",
+        "Recaudar ingresos con bajo costo y sin distorsiones",
+        "Eliminar todos los impuestos",
+        "Reducir el gasto público"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>debate sobre el sistema tributario</u> busca un sistema que sea:<br>• <strong>Justo</strong> (equidad)<br>• <strong>Eficiente</strong> (bajo costo de cumplimiento)<br>• <strong>Simple</strong> (fácil de entender y administrar)<br>• <strong>Neutral</strong> (sin distorsionar decisiones económicas)</p><p>Objetivo: <strong>recaudar ingresos</strong> necesarios para el gasto público con el <strong>mínimo costo</strong> para la economía.</p><p>Propuestas:<br>• <strong>Impuesto sobre el valor añadido (IVA)</strong>: amplia base, baja tasa.<br>• <strong>Impuesto negativo sobre la renta</strong>: combina impuesto y asistencia social.<br>• <strong>Reforma integral</strong>: simplificar, reducir tasas, ampliar base.</p><p>Un sistema tributario <strong>distorsionado</strong> desincentiva el trabajo, el ahorro y la inversión, reduciendo el crecimiento económico.</p>"
+    },
+    {
+      "intro": "El debate sobre si el gobierno debe estabilizar el PIB se centra en si las políticas fiscales y monetarias pueden y deben suavizar las fluctuaciones económicas. Los defensores de la estabilización argumentan que las recesiones causan sufrimiento humano y desperdicio de recursos. Los críticos argumentan que los errores de política pueden empeorar la situación y que la economía se autoregula a medio plazo.",
+      "question": "5. ¿Qué argumento usan los defensores de la estabilización del PIB?",
+      "options": [
+        "Que las recesiones son beneficiosas",
+        "Que las recesiones causan sufrimiento y desperdicio de recursos",
+        "Que el PIB siempre crece",
+        "Que no hay ciclos económicos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El debate sobre si el gobierno debe <strong>estabilizar el PIB</strong> es fundamental.</p><p>Defensores de la <strong>estabilización</strong>:<br>• Las <strong>recesiones</strong> causan <strong>sufrimiento humano</strong> (desempleo, quiebras).<br>• Hay <strong>desperdicio de recursos</strong> (trabajadores desempleados, fábricas paradas).<br>• Las <strong>políticas económicas</strong> (fiscal y monetaria) pueden <strong>suavizar</strong> las fluctuaciones.<br>• Los costes de la inacción son altos.</p><p>Críticos de la estabilización:<br>• Hay <strong>retrasos</strong> en la política que pueden llevar a errores de temporización.<br>• Los responsables pueden cometer <strong>errores de juicio</strong>.<br>• La intervención puede <strong>amplificar</strong> las fluctuaciones.<br>• La economía se <strong>autoregula</strong> a medio plazo.</p><p>La mayoría de economistas modernos favorecen una política <strong>moderadamente activa</strong>, especialmente en recesiones profundas.</p>"
+    },
+    {
+      "intro": "La regla de Taylor es una regla para la política monetaria que sugiere cómo debería ajustar el banco central la tasa de interés de referencia en respuesta a desviaciones de la inflación respecto a su meta y del PIB respecto a su nivel potencial. Es un ejemplo de regla con flexibilidad, ampliamente utilizada como guía por muchos bancos centrales.",
+      "question": "6. ¿Qué variables considera la regla de Taylor?",
+      "options": [
+        "Solo la inflación",
+        "La inflación y la brecha del PIB",
+        "Solo el desempleo",
+        "El tipo de cambio"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>regla de Taylor</u> es una <strong>regla para la política monetaria</strong> propuesta por John Taylor.</p><p>Sugiere cómo debería ajustar el banco central la <strong>tasa de interés de referencia</strong> en respuesta a:<br>• <strong>Desviación de la inflación</strong> respecto a su meta (ej. 2%).<br>• <strong>Brecha del PIB</strong> (diferencia entre PIB real y PIB potencial).</p><p>Fórmula aproximada:<br><strong>Tasa de interés = Tasa neutral + 0.5×(inflación - meta) + 0.5×(brecha del PIB)</strong></p><p>Si la inflación está por encima de la meta o el PIB está por encima del potencial, la regla sugiere <strong>subir tipos</strong>.</p><p>Si está por debajo, <strong>bajar tipos</strong>.</p><p>Es un ejemplo de <strong>regla con flexibilidad</strong>, ampliamente utilizada como <strong>guía</strong> por muchos bancos centrales.</p>"
+    },
+    {
+      "intro": "El debate sobre la política fiscal discrecional se centra en si el gobierno debe usar cambios en el gasto o impuestos para estabilizar la economía. Los defensores argumentan que puede ser potente, especialmente en trampas de liquidez. Los críticos argumentan que los retrasos legislativos y el riesgo de déficits sostenidos la hacen problemática. Muchos prefieren políticas automáticas (estabilizadores automáticos).",
+      "question": "7. ¿Qué desventaja tiene la política fiscal discrecional?",
+      "options": [
+        "Es muy rápida de implementar",
+        "Tiene retrasos legislativos y puede aumentar el déficit",
+        "No afecta al PIB",
+        "Siempre reduce la inflación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El debate sobre la <strong>política fiscal discrecional</strong> (cambios deliberados en gasto o impuestos) es intenso.</p><p>Defensores:<br>• Puede ser <strong>muy potente</strong> para estimular la demanda, especialmente en <strong>trampas de liquidez</strong> (tipos de interés cercanos a cero).<br>• Actúa directamente sobre la demanda agregada.</p><p>Críticos:<br>• Tiene <strong>retrasos legislativos</strong> largos (discusión y aprobación en el parlamento).<br>• Puede <strong>llegar tarde</strong> (en un momento de expansión).<br>• Puede <strong>aumentar el déficit y la deuda pública</strong> de forma sostenida.<br>• Riesgo de <strong>ineficiencia</strong> en el gasto.</p><p>Por eso, muchos economistas prefieren los <strong>estabilizadores automáticos</strong> (impuestos progresivos, beneficios de desempleo), que actúan sin intervención deliberada.</p>"
+    },
+    {
+      "intro": "Los estabilizadores automáticos son mecanismos fiscales que actúan sin intervención deliberada del gobierno, como los impuestos progresivos y los beneficios de desempleo. En recesiones, reducen los ingresos fiscales y aumentan los gastos sociales, estimulando la demanda. En expansiones, ocurre lo contrario, enfriando la economía. Son ampliamente apoyados por economistas por su eficacia y rapidez.",
+      "question": "8. ¿Qué son los estabilizadores automáticos?",
+      "options": [
+        "Políticas decididas por el gobierno en cada momento",
+        "Mecanismos fiscales que actúan sin intervención deliberada",
+        "Políticas monetarias",
+        "Reglas de gasto rígidas"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Los <u>estabilizadores automáticos</u> son mecanismos fiscales que <strong>actúan automáticamente</strong> sin necesidad de una decisión deliberada del gobierno.</p><p>Ejemplos:<br>• <strong>Impuestos progresivos</strong>: en recesión, los ingresos bajan → impuestos bajan → ingreso disponible sube → estimula demanda.<br>• <strong>Beneficios de desempleo</strong>: en recesión, más personas los cobran → gasto social sube → estimula demanda.</p><p>En <strong>expansiones</strong>, ocurre lo contrario: impuestos suben, beneficios bajan → enfrian la economía.</p><p>Estos mecanismos <strong>suavizan</strong> el ciclo económico de forma <strong>automática</strong>.</p><p>Reducen la necesidad de <strong>políticas fiscales discrecionales</strong>, que pueden tener retrasos.</p><p>Son ampliamente <strong>apoyados</strong> por economistas por su eficacia, rapidez y bajo costo político.</p>"
+    },
+    {
+      "intro": "El debate sobre la independencia del banco central se centra en si debe estar libre de presión política para tomar decisiones basadas en criterios económicos. Un banco central independiente puede tomar decisiones impopulares (como subir tipos para combatir la inflación) sin temor a represalias políticas. La evidencia muestra que mayor independencia está asociada con menor inflación.",
+      "question": "9. ¿Qué beneficio tiene un banco central independiente?",
+      "options": [
+        "Puede ignorar la inflación",
+        "Puede tomar decisiones basadas en criterios económicos, no políticos",
+        "Debe seguir órdenes del gobierno",
+        "No necesita rendir cuentas"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>debate sobre la independencia del banco central</u> es crucial.</p><p>Un banco central <strong>independiente</strong> puede tomar decisiones de <strong>política monetaria</strong> basadas en <strong>criterios económicos</strong>, sin presión política a corto plazo (como bajar tipos antes de elecciones).</p><p>Beneficios:<br>• Puede tomar decisiones <strong>impopulares</strong> pero necesarias (subir tipos para combatir la inflación).<br>• Mayor <strong>credibilidad</strong> en el compromiso con la estabilidad de precios.<br>• <strong>Expectativas de inflación</strong> mejor ancladas.<br>• <strong>Menor inflación</strong> a largo plazo (evidencia empírica).</p><p>La independencia no significa falta de <strong>responsabilidad</strong>: debe rendir cuentas al parlamento y ser transparente.</p><p>Países con bancos centrales más independientes tienden a tener <strong>menor inflación</strong> sin costo en crecimiento.</p>"
+    },
+    {
+      "intro": "El debate sobre la reforma del sistema de seguridad social se centra en su sostenibilidad financiera a largo plazo, dada el envejecimiento de la población. Algunas propuestas incluyen subir la edad de jubilación, aumentar las cotizaciones o cambiar a sistemas de capitalización. El objetivo es garantizar beneficios sin poner en riesgo la estabilidad fiscal.",
+      "question": "10. ¿Por qué se debate la reforma del sistema de seguridad social?",
+      "options": [
+        "Porque es demasiado generoso para jóvenes",
+        "Por su sostenibilidad financiera ante el envejecimiento",
+        "Porque no existe",
+        "Porque reduce el crecimiento"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>debate sobre la reforma del sistema de seguridad social</u> (pensiones, salud) es urgente en muchos países.</p><p>Razón principal: el <strong>envejecimiento de la población</strong> (más jubilados, menos trabajadores activos).</p><p>Esto pone presión sobre la <strong>sostenibilidad financiera</strong> de los sistemas de reparto (donde los trabajadores pagan las pensiones de los jubilados).</p><p>Propuestas de reforma:<br>• <strong>Subir la edad de jubilación</strong><br>• <strong>Aumentar las cotizaciones</strong><br>• <strong>Reducir beneficios</strong><br>• <strong>Cambiar a sistemas de capitalización</strong> (cuentas individuales)<br>• <strong>Incentivar la prolongación de la vida laboral</strong></p><p>Objetivo: garantizar <strong>beneficios razonables</strong> sin poner en riesgo la <strong>estabilidad fiscal</strong> ni imponer cargas excesivas a las generaciones futuras.</p>"
+    },
+    {
+      "intro": "El debate sobre el tipo de cambio se centra en si debe ser fijo, flotante o intermedio. Un tipo de cambio fijo ofrece estabilidad pero limita la independencia de la política monetaria. Un tipo flotante permite ajustes automáticos pero puede ser volátil. Algunos países optan por bandas o anclas intermedias para combinar beneficios.",
+      "question": "11. ¿Qué ventaja tiene un tipo de cambio fijo?",
+      "options": [
+        "Mayor independencia de la política monetaria",
+        "Estabilidad en las transacciones internacionales",
+        "Elimina la necesidad de reservas",
+        "Reduce el comercio exterior"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>debate sobre el régimen de tipo de cambio</u> es clave en economías abiertas.</p><p>Un <strong>tipo de cambio fijo</strong> ofrece:<br>• <strong>Estabilidad</strong> en precios de importaciones/exportaciones.<br>• <strong>Reducida incertidumbre</strong> para comerciantes e inversores.<br>• Puede <strong>anclar expectativas</strong> de inflación (si se fija a una moneda estable).</p><p>Desventajas:<br>• <strong>Limita la independencia</strong> de la política monetaria (el banco central debe defender el tipo).<br>• Requiere <strong>reservas internacionales</strong> altas.<br>• Puede llevar a <strong>crisis</strong> si el tipo es insostenible.</p><p>Un <strong>tipo flotante</strong> permite ajustes automáticos pero puede ser <strong>volátil</strong>.<br>Algunos países optan por <strong>régimenes intermedios</strong> (bandas, anclas).</p>"
+    },
+    {
+      "intro": "El debate sobre la globalización se centra en sus beneficios (crecimiento, eficiencia, acceso a mercados) y sus costes (desigualdad, pérdida de empleos en sectores competidos, volatilidad). La mayoría de economistas apoyan la apertura comercial, pero reconocen la necesidad de políticas para ayudar a los perdedores (reentrenamiento, seguridad social).",
+      "question": "12. ¿Qué beneficio de la globalización reconocen los economistas?",
+      "options": [
+        "Aumento de la inflación",
+        "Crecimiento económico y eficiencia",
+        "Reducción del comercio",
+        "Mayor aislamiento"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>debate sobre la globalización</u> (comercio, inversión internacional) es intenso.</p><p>Beneficios reconocidos por la mayoría de economistas:<br>• <strong>Crecimiento económico</strong> (acceso a mercados, tecnología, eficiencia).<br>• <strong>Mayor eficiencia</strong> (ventaja comparativa, especialización).<br>• <strong>Acceso a bienes y servicios más baratos</strong> para consumidores.<br>• <strong>Transferencia de tecnología</strong> y conocimientos.</p><p>Costes:<br>• <strong>Desigualdad</strong> (ganadores y perdedores).<br>• <strong>Pérdida de empleos</strong> en sectores competidos por importaciones.<br>• <strong>Volatilidad</strong> financiera (capital flight).</p><p>Solución: <strong>apoyar la apertura</strong> pero con <strong>políticas de ajuste</strong> (reentrenamiento, seguridad social) para ayudar a los perdedores.</p>"
+    },
+    {
+      "intro": "El debate sobre la política monetaria no convencional se centra en herramientas como la compra de bonos a largo plazo (QE) o la orientación futura (forward guidance), usadas cuando los tipos de interés están cerca de cero. Son efectivas pero pueden tener costes (distorsiones en mercados, riesgo de burbujas). Su uso debe ser temporal y comunicado claramente.",
+      "question": "13. ¿Cuándo se usan políticas monetarias no convencionales?",
+      "options": [
+        "Cuando hay alta inflación",
+        "Cuando los tipos de interés están cerca de cero",
+        "Cuando el PIB crece rápido",
+        "Cuando hay superávit comercial"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Las <u>políticas monetarias no convencionales</u> se usan cuando los <strong>tipos de interés</strong> están cerca de <strong>cero</strong> y la política convencional pierde efectividad (trampa de liquidez).</p><p>Herramientas:<br>• <strong>Quantitative easing (QE)</strong>: compra de bonos a largo plazo para bajar tipos a largo plazo.<br>• <strong>Forward guidance</strong>: compromiso de mantener tipos bajos por más tiempo.<br>• <strong>Tipos de interés negativos</strong>.</p><p>Objetivo: <strong>estimular la economía</strong> cuando no se puede bajar más los tipos cortos.</p><p>Efectivas, pero con costes:<br>• <strong>Distorsiones</strong> en mercados financieros.<br>• <strong>Riesgo de burbujas</strong> (activos sobrevaluados).<br>• <strong>Dificultad para retirar</strong> la política.</p><p>Deben ser <strong>temporales</strong> y <strong>comunicadas claramente</strong>.</p>"
+    },
+    {
+      "intro": "El debate sobre la deuda pública se centra en su sostenibilidad. Una deuda alta puede limitar el gasto futuro, aumentar los tipos de interés o generar riesgo de crisis. Pero también puede ser útil para financiar inversiones productivas o estabilizar la economía en recesiones. El contexto (crecimiento, tipo de interés, uso del gasto) es clave.",
+      "question": "14. ¿Qué factor es clave para la sostenibilidad de la deuda pública?",
+      "options": [
+        "El tamaño absoluto de la deuda",
+        "La relación deuda/PIB y el crecimiento económico",
+        "El número de acreedores",
+        "La moneda en que está denominada"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>debate sobre la deuda pública</u> se centra en su <strong>sostenibilidad</strong>.</p><p>Factores clave:<br>• <strong>Relación deuda/PIB</strong>: mide la capacidad de pago relativa al tamaño de la economía.<br>• <strong>Crecimiento económico</strong>: si el PIB crece más rápido que la deuda, la relación mejora.<br>• <strong>Tipo de interés</strong>: si r < g (tipo de interés < crecimiento), la deuda es más sostenible.<br>• <strong>Uso del gasto</strong>: deuda para <strong>inversión productiva</strong> (infraestructura, educación) es más sostenible que para <strong>consumo corriente</strong>.</p><p>Una deuda alta puede:<br>• <strong>Limitar</strong> el gasto futuro (intereses altos).<br>• <strong>Aumentar tipos</strong> (riesgo percibido).<br>• <strong>Generar crisis</strong> si pierde confianza.</p><p>Pero también puede ser <strong>útil</strong> para estabilizar en recesiones o financiar crecimiento.</p>"
+    },
+    {
+      "intro": "El debate sobre la regulación financiera se intensificó tras la crisis de 2008. Una regulación adecuada puede prevenir crisis, proteger a los consumidores y garantizar la estabilidad del sistema. Pero una regulación excesiva puede reducir el crédito y el crecimiento. El equilibrio entre estabilidad y eficiencia es clave.",
+      "question": "15. ¿Qué objetivo busca la regulación financiera?",
+      "options": [
+        "Eliminar todo riesgo",
+        "Prevenir crisis y garantizar estabilidad",
+        "Aumentar la especulación",
+        "Reducir el ahorro"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>debate sobre la regulación financiera</u> se intensificó tras la <strong>crisis de 2008</strong>.</p><p>Objetivos de una buena regulación:<br>• <strong>Prevenir crisis</strong> (excesos de crédito, burbujas).<br>• <strong>Garantizar la estabilidad</strong> del sistema financiero.<br>• <strong>Proteger a los consumidores</strong> (transparencia, prácticas justas).<br>• <strong>Evitar riesgos sistémicos</strong> (quiebras de instituciones clave).</p><p>Instrumentos:<br>• <strong>Requisitos de capital</strong> (para absorber pérdidas).<br>• <strong>Supervisión</strong> de instituciones.<br>• <strong>Límites</strong> a prácticas riesgosas.</p><p>Desafío: <strong>equilibrio</strong> entre estabilidad y eficiencia.<br>Una regulación <strong>excesiva</strong> puede <strong>reducir el crédito</strong> y el crecimiento.<br>Una <strong>insuficiente</strong> puede llevar a <strong>crisis costosas</strong>.</p>"
+    }
+  ]
+}
