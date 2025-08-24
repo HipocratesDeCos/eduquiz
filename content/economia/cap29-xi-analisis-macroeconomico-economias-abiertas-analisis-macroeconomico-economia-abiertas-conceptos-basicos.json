@@ -1,0 +1,186 @@
+{
+  "title": "Análisis Macroeconómico de las Economías Abiertas: Conceptos Básicos",
+  "description": "Quiz sobre balanza comercial, balanza de pagos, tipos de cambio, flujos de capital y la conexión entre ahorro e inversión en economías abiertas.",
+  "questions": [
+    {
+      "intro": "Una economía abierta es aquella que interactúa con otras economías a través del comercio de bienes y servicios y de flujos internacionales de capital. A diferencia de una economía cerrada, puede exportar e importar, y sus residentes pueden invertir en el extranjero o recibir inversión extranjera. Esta apertura permite una mejor asignación de recursos, acceso a tecnologías y diversificación de riesgos, pero también la hace vulnerable a shocks externos.",
+      "question": "1. ¿Qué caracteriza a una economía abierta?",
+      "options": [
+        "No tiene relaciones con otras economías",
+        "Interactúa con otras economías mediante comercio y flujos de capital",
+        "Solo produce para su consumo interno",
+        "No tiene comercio exterior"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Una <u>economía abierta</u> es aquella que <strong>interactúa</strong> con otras economías del mundo.</p><p>Esta interacción ocurre a través de:<br>• <strong>Comercio internacional</strong>: exportación e importación de bienes y servicios.<br>• <strong>Flujos internacionales de capital</strong>: inversión extranjera directa, compra de bonos o acciones.</p><p>Permite:<br>• <strong>Mejor asignación de recursos</strong><br>• <strong>Acceso a tecnologías</strong><br>• <strong>Diversificación de riesgos</strong></p><p>Pero también la hace <strong>vulnerable</strong> a shocks externos (crisis financieras, cambios en precios de materias primas).</p>"
+    },
+    {
+      "intro": "La balanza comercial es la diferencia entre las exportaciones y las importaciones de bienes y servicios. Un superávit comercial ocurre cuando las exportaciones superan a las importaciones. Un déficit ocurre cuando las importaciones superan a las exportaciones. La balanza comercial es una componente clave de la balanza de pagos y refleja la posición de un país en el comercio internacional.",
+      "question": "2. ¿Qué es la balanza comercial?",
+      "options": [
+        "La diferencia entre ingresos y gastos del gobierno",
+        "La diferencia entre exportaciones e importaciones de bienes y servicios",
+        "El ahorro nacional",
+        "La inversión extranjera"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>balanza comercial</u> es la diferencia entre las <strong>exportaciones</strong> (X) y las <strong>importaciones</strong> (M) de <strong>bienes y servicios</strong>.</p><p>Se calcula como: <strong>X - M</strong></p><p>• Si X > M: <strong>superávit comercial</strong><br>• Si X < M: <strong>déficit comercial</strong></p><p>Es una componente clave de la <strong>balanza de pagos</strong>.</p><p>Refleja la posición de un país en el <strong>comercio internacional</strong>.</p><p>No debe confundirse con la balanza por cuenta corriente, que incluye también transferencias y rentas de factores.</p>"
+    },
+    {
+      "intro": "La balanza por cuenta corriente incluye la balanza comercial, más las rentas netas de los factores (como intereses, dividendos) y las transferencias netas (como remesas o ayuda internacional). Un superávit en cuenta corriente significa que el país está ahorrando más de lo que invierte, y por tanto prestando al resto del mundo. Un déficit indica que está invirtiendo más de lo que ahorra, financiándose desde el exterior.",
+      "question": "3. ¿Qué incluye la balanza por cuenta corriente?",
+      "options": [
+        "Solo exportaciones e importaciones",
+        "Balanza comercial, rentas netas de factores y transferencias netas",
+        "Solo inversión extranjera",
+        "Solo transferencias"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>balanza por cuenta corriente</u> es un registro de:<br>• <strong>Balanza comercial</strong> (exportaciones - importaciones de bienes y servicios)<br>• <strong>Rentas netas de factores</strong> (intereses, dividendos, salarios de residentes en el extranjero menos pagos a extranjeros)<br>• <strong>Transferencias netas</strong> (remesas, ayuda internacional, donaciones)</p><p>Un <strong>superávit</strong> en cuenta corriente significa que el país está <strong>ahorrando más</strong> de lo que <strong>invierte</strong>, y por tanto <strong>prestando</strong> al resto del mundo.</p><p>Un <strong>déficit</strong> indica que está <strong>invirtiendo más</strong> de lo que <strong>ahorra</strong>, <strong>financiándose</strong> desde el exterior.</p>"
+    },
+    {
+      "intro": "La balanza de pagos es un registro sistemático de todas las transacciones económicas entre los residentes de un país y el resto del mundo. Se divide en cuenta corriente y cuenta de capital y financiera. Por definición, la suma de ambas debe ser cero, ya que cada transacción tiene dos lados (por ejemplo, una exportación es un ingreso en cuenta corriente y un pago en cuenta de capital).",
+      "question": "4. ¿Qué relación existe entre la cuenta corriente y la cuenta de capital y financiera?",
+      "options": [
+        "Son independientes",
+        "Su suma debe ser cero",
+        "Ambas siempre son superavitarias",
+        "No están relacionadas"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>balanza de pagos</u> registra todas las transacciones entre residentes de un país y el resto del mundo.</p><p>Se divide en:<br>• <strong>Cuenta corriente</strong> (comercio, rentas, transferencias)<br>• <strong>Cuenta de capital y financiera</strong> (inversión extranjera, préstamos, cambios en reservas)</p><p>Por definición contable, la suma de ambas <strong>debe ser cero</strong>.</p><p>Por ejemplo: si un país tiene un <strong>déficit</strong> en cuenta corriente, debe tener un <strong>superávit</strong> en cuenta de capital y financiera (recibe inversión extranjera).</p><p>Es una identidad contable: <strong>CC = - (K + F)</strong></p>"
+    },
+    {
+      "intro": "El ahorro nacional es la suma del ahorro privado y público. En una economía abierta, el ahorro nacional no tiene que igualar a la inversión nacional. La diferencia es el saldo exterior (exportaciones netas). Si el ahorro nacional es mayor que la inversión, hay superávit exterior (el país presta al resto del mundo). Si es menor, hay déficit exterior (el país se financia desde el exterior).",
+      "question": "5. ¿Qué ocurre si el ahorro nacional es mayor que la inversión?",
+      "options": [
+        "Hay déficit exterior",
+        "Hay superávit exterior",
+        "El tipo de interés sube",
+        "No hay comercio"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>En una <u>economía abierta</u>, el <strong>ahorro nacional</strong> no tiene que igualar a la <strong>inversión nacional</strong>.</p><p>La diferencia es el <strong>saldo exterior</strong> (exportaciones netas):<br>• Si S > I: <strong>superávit exterior</strong> (el país presta al resto del mundo)<br>• Si S < I: <strong>déficit exterior</strong> (el país se financia desde el exterior)</p><p>Esta relación se deriva de la identidad contable:<br>Y = C + I + G + (X - M)<br>S = (Y - T - C) + (T - G) = Y - C - G<br>Por tanto: S - I = X - M</p><p>El ahorro e inversión se coordinan a nivel global.</p>"
+    },
+    {
+      "intro": "La inversión extranjera directa (IED) ocurre cuando una empresa de un país adquiere o construye activos productivos en otro país, como una fábrica o una empresa. A diferencia de la inversión en cartera (comprar acciones o bonos), la IED implica control sobre la operación. La IED puede transferir tecnología, conocimientos y empleo al país receptor.",
+      "question": "6. ¿Qué caracteriza a la inversión extranjera directa?",
+      "options": [
+        "Comprar acciones en bolsa",
+        "Adquirir o construir activos productivos en otro país con control",
+        "Prestar dinero al gobierno",
+        "Invertir en fondos mutuos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>inversión extranjera directa</u> (IED) ocurre cuando una empresa de un país <strong>adquiere o construye activos productivos</strong> en otro país (ej. fábrica, empresa).</p><p>A diferencia de la inversión en cartera (comprar acciones), la IED implica <strong>control</strong> sobre la operación.</p><p>Puede transferir:<br>• <strong>Tecnología</strong><br>• <strong>Conocimientos</strong><br>• <strong>Empleo</strong> al país receptor.</p><p>Beneficia al país inversor (mayores beneficios) y al receptor (crecimiento, empleo).</p><p>Es una forma de integración económica más profunda que el comercio.</p>"
+    },
+    {
+      "intro": "La inversión en cartera consiste en la compra de acciones, bonos u otros activos financieros en el extranjero sin control sobre la empresa. Es más líquida y volátil que la IED. Los flujos de inversión en cartera pueden ser importantes para la financiación de déficits, pero también pueden ser inestables y provocar crisis financieras si salen rápidamente del país (capital flight).",
+      "question": "7. ¿Qué caracteriza a la inversión en cartera?",
+      "options": [
+        "Control sobre la empresa",
+        "Compra de activos financieros sin control",
+        "Construcción de fábricas",
+        "Préstamos al gobierno"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>inversión en cartera</u> consiste en la compra de <strong>activos financieros</strong> en el extranjero (acciones, bonos) <strong>sin control</strong> sobre la empresa.</p><p>Es más <strong>líquida</strong> y <strong>volátil</strong> que la inversión extranjera directa (IED).</p><p>Puede ser importante para la <strong>financiación</strong> de déficits de cuenta corriente.</p><p>Pero también puede ser <strong>inestable</strong>: si los inversores pierden confianza, pueden retirar sus fondos rápidamente (<strong>capital flight</strong>), provocando crisis financieras.</p><p>Países con sistemas financieros débiles son más vulnerables a estos flujos.</p>"
+    },
+    {
+      "intro": "El tipo de cambio es el precio de una moneda en términos de otra. Puede ser nominal (el precio de mercado) o real (ajustado por diferencias de precios entre países). El tipo de cambio real mide la competitividad de un país: si baja, sus bienes se vuelven más baratos en el extranjero, lo que puede aumentar las exportaciones.",
+      "question": "8. ¿Qué mide el tipo de cambio real?",
+      "options": [
+        "El precio de mercado de una moneda",
+        "La competitividad de un país ajustada por precios",
+        "La inflación",
+        "El tipo de interés"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>tipo de cambio nominal</u> es el precio de una moneda en términos de otra (ej. 1€ = 1.1$).</p><p>El <u>tipo de cambio real</u> ajusta el nominal por las <strong>diferencias de precios</strong> entre países.</p><p>Se calcula como: <strong>e × (P / P*)</strong><br>Donde e es el tipo nominal, P el nivel de precios doméstico, P* el extranjero.</p><p>Mide la <strong>competitividad</strong> de un país: si baja, los bienes domésticos se vuelven <strong>más baratos</strong> en el extranjero, lo que puede <strong>aumentar las exportaciones</strong>.</p><p>Es clave para el equilibrio de la balanza comercial.</p>"
+    },
+    {
+      "intro": "Un tipo de cambio fijo es aquel en el que el banco central compromete mantener el valor de su moneda frente a otra moneda o cesta de monedas. Para ello, debe intervenir en el mercado de divisas, comprando o vendiendo su moneda. Este sistema limita la independencia de la política monetaria, ya que el banco central debe ajustar la oferta de dinero para mantener el tipo de cambio.",
+      "question": "9. ¿Qué caracteriza a un tipo de cambio fijo?",
+      "options": [
+        "El mercado determina libremente el tipo",
+        "El banco central compromete mantener el valor de la moneda",
+        "No hay intervención del banco central",
+        "El tipo cambia diariamente"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>tipo de cambio fijo</u> es aquel en el que el <strong>banco central</strong> se compromete a mantener el valor de su moneda frente a otra moneda (como el dólar) o una cesta de monedas.</p><p>Para mantenerlo, debe <strong>intervenir</strong> en el mercado de divisas:<br>• Si hay <strong>presión a la baja</strong> (exceso de oferta de la moneda), compra su moneda (vende reservas).<br>• Si hay <strong>presión al alza</strong>, la vende (compra reservas).</p><p>Limita la <strong>independencia de la política monetaria</strong>: el banco central debe ajustar la oferta de dinero para mantener el tipo.</p><p>Ejemplo histórico: sistema de Bretton Woods.</p>"
+    },
+    {
+      "intro": "Un tipo de cambio flotante es aquel en el que el valor de la moneda se determina por la oferta y la demanda en el mercado de divisas, sin intervención del banco central. Permite que la política monetaria sea independiente, ya que el banco central puede enfocarse en la inflación sin preocuparse por el tipo de cambio. Es el sistema más común en economías desarrolladas.",
+      "question": "10. ¿Qué ventaja tiene un tipo de cambio flotante?",
+      "options": [
+        "Elimina la inflación",
+        "Permite independencia de la política monetaria",
+        "Evita el comercio exterior",
+        "Reduce el déficit comercial"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>tipo de cambio flotante</u> es aquel en el que el valor de la moneda se determina por la <strong>oferta y demanda</strong> en el mercado de divisas, sin intervención del banco central.</p><p>Permite que la <strong>política monetaria</strong> sea <strong>independiente</strong>: el banco central puede enfocarse en objetivos como la <strong>inflación</strong> sin preocuparse por el tipo de cambio.</p><p>Actúa como <strong>amortiguador</strong> frente a shocks: si hay un shock negativo, el tipo de cambio puede depreciarse, ayudando a las exportaciones.</p><p>Es el sistema más común en economías desarrolladas (EE.UU., Japón, Reino Unido).</p><p>El banco central puede intervenir ocasionalmente (flotación sucia), pero no para mantener un nivel fijo.</p>"
+    },
+    {
+      "intro": "La paridad del poder adquisitivo (PPA) es una teoría que sugiere que, en el largo plazo, los tipos de cambio deben ajustarse para que una canasta de bienes tenga el mismo precio en todos los países. Si un dólar compra más en un país que en otro, habrá incentivos para arbitrar, lo que igualaría los precios. Aunque no se cumple perfectamente por costes de transporte y diferencias de productos, es útil para comparar niveles de vida.",
+      "question": "11. ¿Qué predice la paridad del poder adquisitivo?",
+      "options": [
+        "Que los tipos de interés son iguales",
+        "Que una canasta de bienes debe tener el mismo precio en todos los países",
+        "Que la inflación es cero",
+        "Que no hay comercio"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>paridad del poder adquisitivo</u> (PPA) es una teoría que sugiere que, en el <strong>largo plazo</strong>, los <strong>tipos de cambio</strong> deben ajustarse para que una <strong>canasta de bienes</strong> tenga el <strong>mismo precio</strong> en todos los países.</p><p>Si un dólar compra más en un país que en otro, habrá <strong>incentivos para arbitrar</strong> (comprar barato en un país, vender caro en otro), lo que igualaría los precios.</p><p>No se cumple perfectamente por:<br>• <strong>Costes de transporte</strong><br>• <strong>Bienes no comerciables</strong><br>• <strong>Diferencias de impuestos y regulaciones</strong></p><p>Pero es útil para <strong>comparar niveles de vida</strong> (como en el Índice Big Mac).</p>"
+    },
+    {
+      "intro": "La cuenta de capital y financiera registra los flujos de capital entre un país y el resto del mundo. Incluye inversión extranjera directa, inversión en cartera, préstamos y cambios en las reservas del banco central. Un superávit en esta cuenta significa que el país está recibiendo más capital del exterior del que envía, lo que generalmente acompaña a un déficit en cuenta corriente.",
+      "question": "12. ¿Qué registra la cuenta de capital y financiera?",
+      "options": [
+        "Solo exportaciones e importaciones",
+        "Flujos de capital como inversión y préstamos",
+        "Solo transferencias",
+        "Solo rentas de factores"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>cuenta de capital y financiera</u> registra los <strong>flujos de capital</strong> entre un país y el resto del mundo.</p><p>Incluye:<br>• <strong>Inversión extranjera directa</strong> (IED)<br>• <strong>Inversión en cartera</strong> (acciones, bonos)<br>• <strong>Préstamos</strong> y depósitos<br>• <strong>Cambios en reservas</strong> del banco central</p><p>Un <strong>superávit</strong> significa que el país está <strong>recibiendo más capital</strong> del exterior del que envía.</p><p>Generalmente <strong>acompaña a un déficit</strong> en cuenta corriente: el país se financia desde el exterior para financiar su inversión.</p><p>Es el otro lado de la balanza de pagos: <strong>CC = - (K + F)</strong></p>"
+    },
+    {
+      "intro": "Las reservas internacionales son activos en divisas extranjeras, oro y derechos especiales de giro (DEG) que posee el banco central. Se utilizan para intervenir en el mercado de divisas y mantener un tipo de cambio fijo, o para enfrentar crisis de liquidez. Un aumento de reservas ocurre cuando el banco central compra divisas, lo que reduce la oferta de dinero nacional.",
+      "question": "13. ¿Para qué utiliza el banco central las reservas internacionales?",
+      "options": [
+        "Para financiar el gasto público",
+        "Para intervenir en el mercado de divisas",
+        "Para pagar salarios",
+        "Para prestar a empresas"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Las <u>reservas internacionales</u> son activos en <strong>divisas extranjeras</strong>, <strong>oro</strong> y <strong>derechos especiales de giro</strong> (DEG) que posee el banco central.</p><p>Se utilizan principalmente para:<br>• <strong>Intervenir en el mercado de divisas</strong> y mantener un tipo de cambio fijo o gestionar un flotante.<br>• <strong>Enfrentar crisis de liquidez</strong> o salidas de capital.<br>• <strong>Fortalecer la confianza</strong> en la moneda.</p><p>Un <strong>aumento de reservas</strong> ocurre cuando el banco central <strong>compra divisas</strong>, lo que reduce la oferta de dinero nacional (drenaje de liquidez).</p><p>Países con tipos de cambio fijos acumulan o pierden reservas según las presiones del mercado.</p>"
+    },
+    {
+      "intro": "La liberalización del capital permite que los flujos de inversión entren y salgan de un país libremente. Puede traer beneficios como acceso a financiamiento y transferencia de tecnología, pero también riesgos como volatilidad financiera y crisis. Los países deben equilibrar la apertura con regulaciones prudentes para proteger su estabilidad financiera.",
+      "question": "14. ¿Qué riesgo puede tener la liberalización del capital?",
+      "options": [
+        "Mayor acceso a financiamiento",
+        "Transferencia de tecnología",
+        "Volatilidad financiera y crisis",
+        "Mayor crecimiento económico"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>La <u>liberalización del capital</u> permite que los flujos de inversión entren y salgan de un país <strong>libremente</strong>.</p><p><strong>Beneficios</strong>:<br>• Acceso a <strong>financiamiento</strong> internacional<br>• <strong>Transferencia de tecnología</strong> y conocimientos<br>• <strong>Diversificación de riesgos</strong> para inversores</p><p><strong>Riesgos</strong>:<br>• <strong>Volatilidad financiera</strong>: flujos de entrada y salida rápidos<br>• <strong>Crises</strong> por <strong>capital flight</strong> (salida masiva de capitales)<br>• <strong>Choques externos</strong> transmitidos al sistema financiero interno</p><p>Países deben <strong>equilibrar</strong> la apertura con <strong>regulaciones prudentes</strong> (supervisión bancaria, requisitos de reservas).</p>"
+    },
+    {
+      "intro": "Un país puede tener déficit comercial y superávit en cuenta de capital simultáneamente. De hecho, por la identidad contable de la balanza de pagos, un déficit en cuenta corriente (que incluye el comercial) debe ser financiado por un superávit en cuenta de capital y financiera. Esto significa que el país está invirtiendo más de lo que ahorra, financiándose con inversión extranjera.",
+      "question": "15. ¿Puede un país tener déficit comercial y superávit en cuenta de capital?",
+      "options": [
+        "No, son mutuamente excluyentes",
+        "Sí, por la identidad de la balanza de pagos",
+        "Solo si tiene tipo de cambio fijo",
+        "Solo si es un país pobre"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Sí, un país puede tener <strong>déficit comercial</strong> y <strong>superávit en cuenta de capital</strong> simultáneamente.</p><p>De hecho, por la <strong>identidad contable</strong> de la balanza de pagos:<br><strong>Superávit en cuenta de capital = Déficit en cuenta corriente</strong></p><p>Un déficit comercial es parte de un déficit en cuenta corriente.</p><p>Este déficit debe ser <strong>financiado</strong> por un superávit en cuenta de capital (entrada de inversión extranjera, préstamos).</p><p>Significa que el país está <strong>invirtiendo más</strong> de lo que <strong>ahorra</strong>, <strong>financiándose</strong> desde el exterior.</p><p>Es común en países en desarrollo o con altas tasas de inversión.</p>"
+    }
+  ]
+}
