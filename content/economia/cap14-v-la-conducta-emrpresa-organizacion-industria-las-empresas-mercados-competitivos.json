@@ -1,0 +1,186 @@
+{
+  "title": "La Empresa en Mercados Competitivos",
+  "description": "Quiz sobre maximización de beneficios, ingreso marginal, coste marginal, oferta de la empresa y equilibrio de mercado en competencia perfecta.",
+  "questions": [
+    {
+      "intro": "Un mercado competitivo tiene muchas empresas que venden productos idénticos y ninguna puede influir en el precio. Son tomadores de precios (price takers). El precio está determinado por la oferta y la demanda de mercado. Para maximizar beneficios, una empresa competitiva produce donde el ingreso marginal iguala al costo marginal.",
+      "question": "1. ¿Qué caracteriza a un mercado competitivo?",
+      "options": [
+        "Un solo vendedor",
+        "Pocos vendedores con productos diferentes",
+        "Muchas empresas vendiendo productos idénticos",
+        "Empresas que fijan precios"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>Un <u>mercado competitivo</u> tiene muchas empresas que venden productos <strong>idénticos</strong>.</p><p>Ninguna empresa puede influir en el precio: son <strong>tomadores de precios</strong>.</p><p>El precio está determinado por la oferta y demanda de mercado.</p><p>Para maximizar beneficios, producen donde <strong>IMg = CMg</strong>.</p>"
+    },
+    {
+      "intro": "En un mercado competitivo, el ingreso marginal de una empresa es igual al precio del producto. Esto se debe a que la empresa puede vender todo lo que quiera al precio de mercado sin afectarlo. Por lo tanto, vender una unidad adicional aumenta el ingreso total en una cantidad igual al precio.",
+      "question": "2. ¿Qué es el ingreso marginal en un mercado competitivo?",
+      "options": [
+        "Mayor que el precio",
+        "Menor que el precio",
+        "Igual al precio",
+        "Cero"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>En un mercado competitivo, el <u>ingreso marginal</u> (IMg) es <strong>igual al precio</strong> del producto.</p><p>La empresa puede vender todo lo que quiera al precio de mercado sin afectarlo.</p><p>Vender una unidad adicional aumenta el ingreso total en una cantidad igual al precio.</p><p>Por lo tanto, IMg = P.</p>"
+    },
+    {
+      "intro": "Una empresa maximiza beneficios produciendo la cantidad donde el ingreso marginal iguala al costo marginal. En competencia perfecta, como IMg = P, esto significa producir donde P = CMg. Esta regla es clave para la oferta de la empresa.",
+      "question": "3. ¿Cómo maximiza beneficios una empresa competitiva?",
+      "options": [
+        "Produciendo donde IMg > CMg",
+        "Produciendo donde IMg < CMg",
+        "Produciendo donde IMg = CMg",
+        "Produciendo la máxima cantidad posible"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>Una empresa competitiva maximiza beneficios produciendo la cantidad donde el <strong>ingreso marginal</strong> (IMg) iguala al <strong>costo marginal</strong> (CMg).</p><p>En competencia perfecta, IMg = P, por lo que maximiza beneficios donde <strong>P = CMg</strong>.</p><p>Esta regla determina la <strong>oferta</strong> de la empresa.</p>"
+    },
+    {
+      "intro": "La curva de oferta de una empresa competitiva es la parte de su curva de costo marginal que está por encima del costo variable medio. A precios por debajo del CVMe mínimo, la empresa cierra temporalmente porque no puede cubrir sus costes variables. A precios por encima, produce donde P = CMg.",
+      "question": "4. ¿Qué es la curva de oferta de una empresa competitiva?",
+      "options": [
+        "La curva de costo total",
+        "La curva de costo fijo",
+        "La parte del CMg por encima del CVMe",
+        "La curva de demanda"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>La <u>curva de oferta</u> de una empresa competitiva es la parte de su curva de <strong>costo marginal</strong> que está por encima del <strong>costo variable medio</strong> (CVMe).</p><p>Por debajo del CVMe mínimo, la empresa <strong>cierra temporalmente</strong> porque no puede cubrir costes variables.</p><p>Por encima, produce donde <strong>P = CMg</strong>.</p>"
+    },
+    {
+      "intro": "El punto de cierre es el nivel de precio más bajo al que una empresa sigue operando a corto plazo. Es el mínimo del costo variable medio. Si el precio cae por debajo, la empresa no puede cubrir sus costes variables y es mejor cerrar temporalmente, aunque siga teniendo costes fijos.",
+      "question": "5. ¿Qué es el punto de cierre?",
+      "options": [
+        "El mínimo del costo total medio",
+        "El mínimo del costo variable medio",
+        "El mínimo del costo fijo",
+        "El precio de equilibrio"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>punto de cierre</u> es el precio más bajo al que una empresa sigue operando a corto plazo.</p><p>Es el <strong>mínimo</strong> del <strong>costo variable medio</strong> (CVMe).</p><p>Si el precio cae por debajo, la empresa no puede cubrir sus costes variables.</p><p>Es mejor <strong>cerrar temporalmente</strong>, aunque siga teniendo costes fijos.</p>"
+    },
+    {
+      "intro": "El punto de beneficio cero es el nivel de precio donde el ingreso total iguala al costo total. Es el mínimo del costo total medio. A ese precio, la empresa cubre todos sus costes, incluidos los costes de oportunidad. No tiene beneficio económico, pero sí beneficio contable.",
+      "question": "6. ¿Qué es el punto de beneficio cero?",
+      "options": [
+        "Donde el ingreso iguala al costo variable",
+        "Donde el ingreso iguala al costo total",
+        "Donde el CMg es mínimo",
+        "Donde la producción es cero"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>punto de beneficio cero</u> es el nivel de precio donde el <strong>ingreso total</strong> iguala al <strong>costo total</strong>.</p><p>Es el <strong>mínimo</strong> del <strong>costo total medio</strong> (CTMe).</p><p>A ese precio, la empresa cubre todos sus costes, incluidos los <strong>costes de oportunidad</strong>.</p><p>No tiene <strong>beneficio económico</strong>, pero sí beneficio contable.</p>"
+    },
+    {
+      "intro": "A largo plazo, en un mercado competitivo, las empresas entran o salen del mercado según los beneficios. Si hay beneficios económicos, entran nuevas empresas, aumentando la oferta y bajando el precio. Si hay pérdidas, salen empresas, reduciendo la oferta y subiendo el precio. El equilibrio de largo plazo ocurre cuando P = CTMe mínimo y el beneficio económico es cero.",
+      "question": "7. ¿Qué ocurre a largo plazo en un mercado competitivo?",
+      "options": [
+        "Las empresas siempre tienen beneficios",
+        "Las empresas siempre tienen pérdidas",
+        "El beneficio económico es cero",
+        "No hay entrada ni salida de empresas"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>A <u>largo plazo</u>, en un mercado competitivo, las empresas entran o salen según los beneficios.</p><p>Si hay <strong>beneficios económicos</strong>, entran nuevas empresas, aumentando la oferta y bajando el precio.</p><p>Si hay <strong>pérdidas</strong>, salen empresas, reduciendo la oferta y subiendo el precio.</p><p>El equilibrio ocurre cuando <strong>P = CTMe mínimo</strong> y el beneficio económico es <strong>cero</strong>.</p>"
+    },
+    {
+      "intro": "El ingreso total es el precio por la cantidad vendida. El costo total es la suma de costes fijos y variables. El beneficio total es la diferencia entre ingreso total y costo total. Una empresa debe producir si el ingreso total cubre al menos el costo variable total.",
+      "question": "8. ¿Cómo se calcula el beneficio total?",
+      "options": [
+        "Ingreso total menos costo fijo",
+        "Ingreso total menos costo variable",
+        "Ingreso total menos costo total",
+        "Precio por cantidad"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>El <u>beneficio total</u> = <strong>ingreso total</strong> - <strong>costo total</strong>.</p><p>El ingreso total = precio × cantidad.</p><p>El costo total = costo fijo + costo variable.</p><p>Una empresa debe producir si el ingreso total cubre al menos el <strong>costo variable total</strong>.</p>"
+    },
+    {
+      "intro": "El beneficio económico incluye todos los costes, incluidos los de oportunidad. El beneficio contable solo incluye costes monetarios. Una empresa puede tener beneficio contable pero pérdida económica si no cubre el costo de oportunidad de los recursos propios.",
+      "question": "9. ¿Qué diferencia hay entre beneficio económico y contable?",
+      "options": [
+        "El económico incluye costes de oportunidad",
+        "El contable incluye costes de oportunidad",
+        "No hay diferencia",
+        "El económico es siempre mayor"
+      ],
+      "correct": [0],
+      "saber_mas": "<p>El <u>beneficio económico</u> incluye <strong>todos los costes</strong>, incluidos los <strong>costes de oportunidad</strong> (salario no pagado, renta del local propio).</p><p>El <u>beneficio contable</u> solo incluye costes monetarios.</p><p>Una empresa puede tener <strong>beneficio contable</strong> pero <strong>pérdida económica</strong> si no cubre el costo de oportunidad.</p>"
+    },
+    {
+      "intro": "En el equilibrio de largo plazo en competencia perfecta, el precio iguala al costo total medio mínimo. Todas las empresas producen en su escala mínima eficiente. No hay incentivos para entrar o salir del mercado. El beneficio económico es cero, pero las empresas cubren todos sus costes, incluidos los de oportunidad.",
+      "question": "10. ¿Qué caracteriza al equilibrio de largo plazo en competencia perfecta?",
+      "options": [
+        "P > CTMe",
+        "P = CTMe mínimo",
+        "P < CTMe",
+        "Beneficio económico positivo"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>En el <u>equilibrio de largo plazo</u> en competencia perfecta:<br>• <strong>P = CTMe mínimo</strong><br>• Todas las empresas producen en su <strong>escala mínima eficiente</strong><br>• No hay incentivos para entrar o salir<br>• <strong>Beneficio económico = 0</strong></p><p>Las empresas cubren todos sus costes, incluidos los de oportunidad.</p>"
+    },
+    {
+      "intro": "La oferta de mercado a corto plazo es la suma horizontal de las curvas de oferta de todas las empresas individuales. Muestra la cantidad total que todas las empresas están dispuestas a vender a cada precio. Tiene pendiente positiva porque a mayor precio, más empresas producen más.",
+      "question": "11. ¿Cómo se obtiene la oferta de mercado?",
+      "options": [
+        "Suma vertical de ofertas individuales",
+        "Suma horizontal de ofertas individuales",
+        "Promedio de precios",
+        "Demanda menos costes"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>oferta de mercado</u> a corto plazo es la <strong>suma horizontal</strong> de las curvas de oferta de todas las empresas individuales.</p><p>Muestra la cantidad total que todas las empresas están dispuestas a vender a cada precio.</p><p>Tiene pendiente positiva porque a mayor precio, más empresas producen más.</p><p>Es clave para determinar el equilibrio de mercado.</p>"
+    },
+    {
+      "intro": "Si el precio está por encima del costo marginal, la empresa puede aumentar su beneficio produciendo más. Si el precio está por debajo, puede aumentar su beneficio produciendo menos. El beneficio máximo se alcanza cuando P = CMg.",
+      "question": "12. ¿Qué debe hacer una empresa si P > CMg?",
+      "options": [
+        "Reducir la producción",
+        "Aumentar la producción",
+        "Cerrar",
+        "Mantener la producción"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Si <strong>P > CMg</strong>, el ingreso por una unidad adicional supera su costo.</p><p>La empresa puede <strong>aumentar su beneficio</strong> produciendo más.</p><p>Debe seguir aumentando hasta que <strong>P = CMg</strong>.</p><p>Es la regla de maximización de beneficios.</p>"
+    },
+    {
+      "intro": "Si el precio está por debajo del costo marginal, la empresa pierde dinero con cada unidad adicional producida. Debe reducir la producción para aumentar su beneficio. El beneficio máximo se alcanza cuando P = CMg.",
+      "question": "13. ¿Qué debe hacer una empresa si P < CMg?",
+      "options": [
+        "Aumentar la producción",
+        "Reducir la producción",
+        "Cerrar inmediatamente",
+        "Mantener la producción"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Si <strong>P < CMg</strong>, el costo de producir una unidad adicional supera el ingreso que genera.</p><p>La empresa <strong>pierde dinero</strong> con cada unidad extra.</p><p>Debe <strong>reducir la producción</strong> para aumentar su beneficio.</p><p>Debe seguir reduciendo hasta que <strong>P = CMg</strong>.</p>"
+    },
+    {
+      "intro": "En competencia perfecta, la entrada de nuevas empresas en el mercado aumenta la oferta, lo que reduce el precio de equilibrio. Esto reduce los beneficios de todas las empresas. El proceso continúa hasta que el beneficio económico es cero.",
+      "question": "14. ¿Qué efecto tiene la entrada de nuevas empresas en un mercado competitivo?",
+      "options": [
+        "Aumenta el precio",
+        "Reduce el precio",
+        "No tiene efecto",
+        "Elimina la competencia"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>entrada de nuevas empresas</u> en un mercado competitivo <strong>aumenta la oferta</strong>.</p><p>Esto <strong>reduce el precio</strong> de equilibrio.</p><p>Reduce los beneficios de todas las empresas.</p><p>El proceso continúa hasta que el <strong>beneficio económico es cero</strong>.</p>"
+    },
+    {
+      "intro": "En competencia perfecta, la salida de empresas del mercado reduce la oferta, lo que aumenta el precio de equilibrio. Esto reduce las pérdidas de las empresas restantes. El proceso continúa hasta que el beneficio económico es cero.",
+      "question": "15. ¿Qué efecto tiene la salida de empresas en un mercado competitivo?",
+      "options": [
+        "Aumenta el precio",
+        "Reduce el precio",
+        "No tiene efecto",
+        "Elimina la demanda"
+      ],
+      "correct": [0],
+      "saber_mas": "<p>La <u>salida de empresas</u> en un mercado competitivo <strong>reduce la oferta</strong>.</p><p>Esto <strong>aumenta el precio</strong> de equilibrio.</p><p>Reduce las pérdidas de las empresas restantes.</p><p>El proceso continúa hasta que el <strong>beneficio económico es cero</strong>.</p>"
+    }
+  ]
+}
