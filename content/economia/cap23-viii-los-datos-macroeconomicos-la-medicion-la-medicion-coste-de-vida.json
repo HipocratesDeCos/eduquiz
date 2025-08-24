@@ -1,0 +1,186 @@
+{
+  "title": "La Medición del Coste de Vida",
+  "description": "Quiz sobre el índice de precios al consumo (IPC), deflactor del PIB, inflación, sesgos del IPC y cómo se mide el poder adquisitivo.",
+  "questions": [
+    {
+      "intro": "El coste de vida es el gasto necesario para mantener un determinado nivel de vida. Para medirlo, los economistas usan índices de precios como el Índice de Precios al Consumo (IPC), que sigue el precio de una cesta representativa de bienes y servicios que consume una familia típica. El IPC es crucial para ajustar salarios, pensiones y beneficios por inflación, y para comparar el poder adquisitivo a lo largo del tiempo.",
+      "question": "1. ¿Qué mide el Índice de Precios al Consumo (IPC)?",
+      "options": [
+        "El precio de todos los bienes producidos",
+        "El precio de una cesta representativa de bienes y servicios de consumo",
+        "El salario medio",
+        "La tasa de desempleo"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>Índice de Precios al Consumo (IPC)</u> mide el precio de una <strong>cesta representativa</strong> de bienes y servicios que consume una <strong>familia típica</strong>.</p><p>Incluye:<br>• <strong>Alimentación</strong><br>• <strong>Vivienda</strong><br>• <strong>Transporte</strong><br>• <strong>Salud</strong><br>• <strong>Educación</strong></p><p>Se utiliza para:<br>• Medir la <strong>inflación</strong><br>• Ajustar <strong>salarios, pensiones y beneficios</strong><br>• Comparar el <strong>poder adquisitivo</strong> a lo largo del tiempo</p>"
+    },
+    {
+      "intro": "El IPC se calcula comparando el costo actual de una cesta fija de bienes y servicios con su costo en un año base. Se expresa como un índice, donde el año base tiene un valor de 100. Por ejemplo, si el IPC es 120, significa que la cesta cuesta 20% más que en el año base. El cambio porcentual del IPC mide la tasa de inflación.",
+      "question": "2. ¿Cómo se calcula el IPC?",
+      "options": [
+        "Sumando todos los precios",
+        "Comparando el costo actual de una cesta con su costo en un año base",
+        "Dividiendo el PIB por la población",
+        "Promediando salarios"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>IPC</u> se calcula comparando el <strong>costo actual</strong> de una <strong>cesta fija</strong> de bienes y servicios con su costo en un <strong>año base</strong>.</p><p>Se expresa como un índice: año base = 100.</p><p>Ejemplo: si el IPC es 120, la cesta cuesta 20% más que en el año base.</p><p>El <strong>cambio porcentual</strong> del IPC mide la <strong>tasa de inflación</strong> entre dos periodos.</p><p>Es un <strong>índice de Laspeyres</strong>, que no considera cambios en los hábitos de consumo.</p>"
+    },
+    {
+      "intro": "La inflación es el aumento sostenido en el nivel general de precios. Se mide como el cambio porcentual del IPC o del deflactor del PIB. La inflación reduce el poder adquisitivo del dinero: con el tiempo, se necesita más dinero para comprar los mismos bienes. Una inflación moderada es normal, pero alta inflación puede distorsionar la economía y generar incertidumbre.",
+      "question": "3. ¿Qué es la inflación?",
+      "options": [
+        "Una disminución en el nivel de precios",
+        "Un aumento sostenido en el nivel general de precios",
+        "Un aumento en el salario",
+        "Una reducción del desempleo"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>inflación</u> es el <strong>aumento sostenido</strong> en el <strong>nivel general de precios</strong> de bienes y servicios.</p><p>Se mide como el <strong>cambio porcentual</strong> del <strong>IPC</strong> o del <strong>deflactor del PIB</strong>.</p><p>Reduce el <strong>poder adquisitivo</strong> del dinero: con el tiempo, se necesita más dinero para comprar los mismos bienes.</p><p>Una <strong>inflación moderada</strong> (2-3%) es normal, pero <strong>alta inflación</strong> puede distorsionar contratos, generar incertidumbre y erosionar ahorros.</p>"
+    },
+    {
+      "intro": "El deflactor del PIB es un índice de precios que mide el nivel general de precios de todos los bienes y servicios incluidos en el PIB. A diferencia del IPC, que usa una cesta fija de consumo, el deflactor del PIB refleja los precios de todos los bienes producidos, incluyendo inversión y gasto público. Es más amplio que el IPC y se ajusta automáticamente a cambios en la producción.",
+      "question": "4. ¿Qué diferencia al deflactor del PIB del IPC?",
+      "options": [
+        "El deflactor mide solo precios de consumo",
+        "El deflactor mide precios de todos los bienes del PIB, no solo de consumo",
+        "El IPC incluye inversión",
+        "No hay diferencia"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>deflactor del PIB</u> mide el nivel general de precios de <strong>todos los bienes y servicios incluidos en el PIB</strong>.</p><p>A diferencia del <strong>IPC</strong>, que usa una <strong>cesta fija</strong> de consumo, el deflactor:<br>• Incluye <strong>inversión</strong>, <strong>gasto público</strong>, <strong>exportaciones netas</strong><br>• Se <strong>ajusta automáticamente</strong> a cambios en la producción y consumo</p><p>Es un <strong>índice de Paasche</strong>, más flexible que el IPC.</p><p>Es más amplio y refleja mejor el nivel general de precios.</p>"
+    },
+    {
+      "intro": "El sesgo de sustitución ocurre cuando el IPC no refleja que los consumidores sustituyen hacia bienes cuyos precios han subido menos. Por ejemplo, si sube el precio de la carne, los consumidores pueden comprar más pollo. Como el IPC usa una cesta fija, sobreestima el aumento del coste de vida. Este sesgo hace que el IPC crezca más rápido de lo que debería.",
+      "question": "5. ¿Qué es el sesgo de sustitución en el IPC?",
+      "options": [
+        "Que el IPC subestima la inflación",
+        "Que el IPC no refleja que los consumidores cambian a bienes más baratos",
+        "Que el IPC mide solo precios de lujo",
+        "Que no hay cambio en los precios"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>sesgo de sustitución</u> ocurre porque el IPC usa una <strong>cesta fija</strong> de bienes y no refleja que los consumidores <strong>sustituyen</strong> hacia bienes cuyos precios han subido menos.</p><p>Ejemplo: si sube el precio de la carne, los consumidores compran más pollo.</p><p>Como el IPC no captura este cambio, <strong>sobreestima</strong> el aumento del coste de vida.</p><p>Este sesgo hace que el IPC <strong>crezca más rápido</strong> de lo que debería.</p><p>Es una razón por la que el IPC puede exagerar la inflación real.</p>"
+    },
+    {
+      "intro": "El sesgo por nuevos productos ocurre porque el IPC tarda en incluir nuevos bienes y servicios en su cesta. Mientras no se incluyan, el IPC no refleja la mejora en el bienestar que proporcionan. Por ejemplo, productos como smartphones o internet no estaban en el IPC cuando surgieron, por lo que su impacto positivo en el nivel de vida no se contabilizó inicialmente.",
+      "question": "6. ¿Qué es el sesgo por nuevos productos en el IPC?",
+      "options": [
+        "Que el IPC incluye todos los productos inmediatamente",
+        "Que el IPC tarda en incluir nuevos productos, subestimando la mejora del bienestar",
+        "Que los nuevos productos no tienen precio",
+        "Que el IPC los valora muy alto"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>sesgo por nuevos productos</u> ocurre porque el IPC <strong>tarda en incluir</strong> nuevos bienes y servicios en su cesta.</p><p>Mientras no se incluyan, el IPC no refleja la <strong>mejora en el bienestar</strong> que proporcionan.</p><p>Ejemplo: <strong>smartphones</strong>, <strong>internet</strong>, <strong>apps</strong> no estaban en el IPC cuando surgieron.</p><p>Su impacto positivo en el nivel de vida no se contabilizó inicialmente.</p><p>Este sesgo <strong>subestima</strong> la mejora del bienestar real.</p>"
+    },
+    {
+      "intro": "El sesgo por calidad ocurre cuando el IPC no ajusta completamente los precios por mejoras en la calidad de los productos. Por ejemplo, un coche nuevo puede costar más que uno antiguo, pero es mucho más seguro, eficiente y cómodo. Si el IPC no ajusta por calidad, interpreta todo el aumento de precio como inflación, aunque parte sea por mejoras.",
+      "question": "7. ¿Qué es el sesgo por calidad en el IPC?",
+      "options": [
+        "Que el IPC mide solo productos de baja calidad",
+        "Que el IPC no ajusta completamente los precios por mejoras de calidad",
+        "Que los productos no cambian",
+        "Que la calidad no importa"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>sesgo por calidad</u> ocurre cuando el IPC <strong>no ajusta completamente</strong> los precios por <strong>mejoras en la calidad</strong> de los productos.</p><p>Ejemplo: un coche nuevo cuesta más que uno antiguo, pero es más seguro, eficiente y cómodo.</p><p>Si el IPC no ajusta por calidad, interpreta todo el aumento de precio como <strong>inflación</strong>, aunque parte sea por mejoras.</p><p>Este sesgo <strong>sobreestima</strong> la inflación.</p><p>Los estadísticos intentan ajustar por calidad, pero es difícil y subjetivo.</p>"
+    },
+    {
+      "intro": "El sesgo de outlet ocurre porque el IPC se basa principalmente en precios de tiendas tradicionales y puede no reflejar adecuadamente los descuentos en tiendas de descuento, ventas por internet o supermercados. Como muchos consumidores compran en estos canales más baratos, el IPC puede sobreestimar el coste de vida real.",
+      "question": "8. ¿Qué es el sesgo de outlet en el IPC?",
+      "options": [
+        "Que el IPC mide solo tiendas de lujo",
+        "Que el IPC puede no reflejar adecuadamente descuentos en tiendas baratas o internet",
+        "Que todos los precios son iguales",
+        "Que no hay descuentos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>sesgo de outlet</u> ocurre porque el IPC se basa principalmente en precios de <strong>tiendas tradicionales</strong> y puede no reflejar adecuadamente los descuentos en:<br>• <strong>Tiendas de descuento</strong><br>• <strong>Ventas por internet</strong><br>• <strong>Supermercados</strong></p><p>Como muchos consumidores compran en estos canales más baratos, el IPC puede <strong>sobreestimar</strong> el coste de vida real.</p><p>Este sesgo es más relevante con el auge del <strong>comercio electrónico</strong>.</p><p>Los métodos de recolección de precios están evolucionando para reducirlo.</p>"
+    },
+    {
+      "intro": "El poder adquisitivo es la cantidad de bienes y servicios que puede comprar una unidad de dinero. Disminuye con la inflación: si los precios suben, cada euro compra menos. Para comparar salarios o ingresos a lo largo del tiempo, se debe ajustar por inflación para ver el cambio en el poder adquisitivo real.",
+      "question": "9. ¿Qué ocurre con el poder adquisitivo si hay inflación?",
+      "options": [
+        "Aumenta",
+        "Permanece constante",
+        "Disminuye",
+        "Se vuelve negativo"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>El <u>poder adquisitivo</u> es la cantidad de bienes y servicios que puede comprar una unidad de dinero.</p><p>Disminuye con la <strong>inflación</strong>: si los precios suben, cada euro compra <strong>menos</strong>.</p><p>Por ejemplo, si la inflación es 5%, un euro vale 5% menos en términos reales.</p><p>Para comparar salarios o ingresos a lo largo del tiempo, se debe <strong>ajustar por inflación</strong> para ver el cambio en el poder adquisitivo real.</p><p>El salario <strong>real</strong> = salario nominal / nivel de precios.</p>"
+    },
+    {
+      "intro": "Un salario nominal es el monto de dinero que se recibe como pago, sin ajustar por inflación. Un salario real es el salario nominal ajustado por el nivel de precios, es decir, lo que realmente puede comprar. El salario real mide mejor el bienestar, ya que refleja el poder adquisitivo.",
+      "question": "10. ¿Qué diferencia al salario real del nominal?",
+      "options": [
+        "El real no se paga en dinero",
+        "El real está ajustado por el nivel de precios",
+        "El nominal es siempre mayor",
+        "No hay diferencia"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>salario nominal</u> es el monto de dinero que se recibe como pago, <strong>sin ajustar por inflación</strong>.</p><p>El <u>salario real</u> es el salario nominal <strong>ajustado por el nivel de precios</strong> (IPC).</p><p>Mide lo que realmente puede <strong>comprar</strong> el trabajador.</p><p>El salario real = salario nominal / nivel de precios.</p><p>Es una mejor medida del <strong>bienestar</strong> que el salario nominal.</p>"
+    },
+    {
+      "intro": "La inflación esperada es la tasa de inflación que los agentes económicos anticipan en el futuro. Afecta decisiones como salarios, contratos y tasas de interés. Si la inflación esperada es alta, los trabajadores exigirán aumentos salariales más altos y los prestamistas pedirán tasas de interés más altas para compensar la pérdida de valor del dinero.",
+      "question": "11. ¿Qué es la inflación esperada?",
+      "options": [
+        "La inflación del pasado",
+        "La tasa de inflación que los agentes anticipan en el futuro",
+        "La inflación medida por el gobierno",
+        "La inflación cero"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>inflación esperada</u> es la tasa de inflación que <strong>los agentes económicos anticipan</strong> que ocurrirá en el futuro.</p><p>Afecta decisiones clave:<br>• <strong>Trabajadores</strong>: exigen aumentos salariales más altos<br>• <strong>Prestamistas</strong>: piden tasas de interés más altas<br>• <strong>Empresas</strong>: ajustan precios y contratos</p><p>Si la inflación esperada es alta, puede <strong>auto cumplirse</strong> si no se controla.</p><p>Los bancos centrales intentan <strong>anclar</strong> las expectativas de inflación para mantenerla baja y estable.</p>"
+    },
+    {
+      "intro": "La tasa de interés nominal es el porcentaje que se paga por un préstamo sin ajustar por inflación. La tasa de interés real es la nominal menos la tasa de inflación. Mide el verdadero costo del préstamo o el verdadero rendimiento de un ahorro. Por ejemplo, si la tasa nominal es 5% y la inflación es 3%, la tasa real es 2%.",
+      "question": "12. ¿Cómo se calcula la tasa de interés real?",
+      "options": [
+        "Nominal más inflación",
+        "Nominal menos inflación",
+        "Nominal por inflación",
+        "Nominal dividido por inflación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>tasa de interés real</u> es la <strong>tasa nominal</strong> menos la <strong>tasa de inflación</strong>.</p><p>Mide el <strong>verdadero costo</strong> del préstamo o el <strong>verdadero rendimiento</strong> del ahorro.</p><p>Fórmula: <strong>i_real = i_nominal - π</strong></p><p>Ejemplo: si i_nominal = 5% y π = 3%, entonces i_real = 2%.</p><p>Es más relevante que la nominal para decisiones de inversión y ahorro.</p>"
+    },
+    {
+      "intro": "La paradoja de Gibson señala que, en algunos períodos, los tipos de interés nominales y los precios parecen moverse juntos, lo que contradice la teoría de que los tipos de interés reales deberían ser más estables. Hoy se entiende que esto ocurre porque los tipos nominales ajustan lentamente a cambios en la inflación esperada.",
+      "question": "13. ¿Qué sugiere la paradoja de Gibson?",
+      "options": [
+        "Que los tipos de interés y precios no están relacionados",
+        "Que los tipos nominales y precios pueden moverse juntos",
+        "Que la inflación siempre baja",
+        "Que los tipos reales son constantes"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>paradoja de Gibson</u> señaló que, en algunos períodos históricos, los <strong>tipos de interés nominales</strong> y los <strong>precios</strong> parecían moverse juntos.</p><p>Contradecía la teoría de que los <strong>tipos reales</strong> deberían ser más estables.</p><p>Hoy se entiende que ocurre porque los tipos nominales ajustan <strong>lentamente</strong> a cambios en la <strong>inflación esperada</strong>.</p><p>Es un fenómeno temporal, no una relación causal directa.</p><p>Ilustra la importancia de distinguir entre tipos nominales y reales.</p>"
+    },
+    {
+      "intro": "La deflación es una disminución sostenida en el nivel general de precios. Puede parecer beneficiosa (los precios bajan), pero tiene efectos negativos: aumenta el valor real de la deuda, desincentiva el consumo (los consumidores esperan precios más bajos), y puede llevar a una trampa de liquidez donde las tasas de interés nominales no pueden bajar lo suficiente para estimular la economía.",
+      "question": "14. ¿Qué es la deflación?",
+      "options": [
+        "Un aumento en los precios",
+        "Una disminución sostenida en el nivel general de precios",
+        "Una estabilidad de precios",
+        "Una inflación alta"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>deflación</u> es una <strong>disminución sostenida</strong> en el <strong>nivel general de precios</strong>.</p><p>Aunque parezca beneficiosa (los precios bajan), tiene efectos negativos:<br>• <strong>Aumenta el valor real de la deuda</strong><br>• <strong>Desincentiva el consumo</strong> (los consumidores esperan precios más bajos)<br>• <strong>Desincentiva la inversión</strong><br>• Puede llevar a una <strong>trampa de liquidez</strong></p><p>Es difícil de combatir porque las tasas de interés nominales no pueden bajar por debajo de cero.</p><p>Japón sufrió deflación durante décadas, lo que afectó su crecimiento.</p>"
+    },
+    {
+      "intro": "La trampa de liquidez ocurre cuando las tasas de interés nominales están cerca de cero y la política monetaria pierde efectividad para estimular la economía. En este contexto, incluso con tipos bajos, la demanda agregada puede seguir siendo débil. La deflación puede llevar a esta situación, ya que las tasas reales pueden ser altas incluso con tipos nominales bajos.",
+      "question": "15. ¿Qué es la trampa de liquidez?",
+      "options": [
+        "Cuando hay demasiado dinero en circulación",
+        "Cuando las tasas de interés están cerca de cero y la política monetaria pierde efectividad",
+        "Cuando los bancos prestan demasiado",
+        "Cuando no hay inflación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>trampa de liquidez</u> ocurre cuando las <strong>tasas de interés nominales</strong> están cerca de <strong>cero</strong> y la política monetaria pierde efectividad para estimular la economía.</p><p>Aunque el banco central inyecte dinero, la <strong>demanda agregada</strong> puede seguir siendo débil.</p><p>Es más probable en contextos de <strong>deflación</strong> o <strong>expectativas de deflación</strong>, ya que las tasas de interés <strong>reales</strong> pueden ser altas incluso con tipos nominales bajos.</p><p>Limita la capacidad del banco central para actuar.</p><p>Requiere políticas fiscales o monetarias no convencionales (como QE).</p>"
+    }
+  ]
+}
