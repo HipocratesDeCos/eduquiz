@@ -1,0 +1,186 @@
+{
+  "title": "La Influencia de la Política Monetaria y Fiscal sobre la Demanda Agregada",
+  "description": "Quiz sobre cómo las políticas monetaria y fiscal afectan la demanda agregada, el multiplicador del gasto, el efecto expulsión y la efectividad de las políticas en diferentes contextos económicos.",
+  "questions": [
+    {
+      "intro": "La política fiscal y la política monetaria son las dos herramientas principales que los gobiernos y bancos centrales utilizan para influir en la demanda agregada y estabilizar la economía. La política fiscal, controlada por el gobierno, consiste en cambiar el gasto público o los impuestos. La política monetaria, controlada por el banco central, consiste en cambiar la oferta de dinero y las tasas de interés. Ambas buscan suavizar las fluctuaciones económicas, combatiendo recesiones y conteniendo expansiones excesivas.",
+      "question": "1. ¿Quién controla la política fiscal y la monetaria?",
+      "options": [
+        "El banco central controla ambas",
+        "El gobierno controla ambas",
+        "El gobierno controla la fiscal, el banco central la monetaria",
+        "El parlamento controla la monetaria"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>La <u>política fiscal</u> es controlada por el <strong>gobierno</strong> (y el parlamento), que decide sobre el <strong>gasto público</strong> y los <strong>impuestos</strong>.</p><p>La <u>política monetaria</u> es controlada por el <strong>banco central</strong> (como el BCE o la FED), que decide sobre la <strong>oferta de dinero</strong> y las <strong>tasas de interés</strong>.</p><p>Ambas políticas buscan influir en la <strong>demanda agregada</strong> para <strong>estabilizar la economía</strong>:<br>• <strong>Contra recesiones</strong>: políticas <strong>expansivas</strong><br>• <strong>Contra inflación</strong>: políticas <strong>contractivas</strong></p><p>La coordinación entre ambas es clave para una gestión macroeconómica efectiva.</p>"
+    },
+    {
+      "intro": "Una política fiscal expansiva implica aumentar el gasto público o reducir los impuestos para estimular la demanda agregada. Aumentar el gasto público inyecta directamente demanda en la economía. Reducir impuestos aumenta el ingreso disponible de los hogares, lo que tiende a aumentar el consumo. Ambas medidas desplazan la curva de demanda agregada hacia la derecha, aumentando el PIB y el nivel de precios a corto plazo.",
+      "question": "2. ¿Cómo desplaza la demanda agregada una política fiscal expansiva?",
+      "options": [
+        "A la izquierda",
+        "A la derecha",
+        "No la desplaza",
+        "La vuelve vertical"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Una <u>política fiscal expansiva</u> (aumentar gasto público o reducir impuestos) <strong>desplaza la demanda agregada</strong> (DA) hacia la <strong>derecha</strong>.</p><p>• <strong>Aumento del gasto público</strong>: inyección directa de demanda (ej. construcción de carreteras, salarios de empleados públicos).</p><p>• <strong>Reducción de impuestos</strong>: aumenta el <strong>ingreso disponible</strong> de hogares y empresas, lo que tiende a aumentar el <strong>consumo</strong> y la <strong>inversión</strong>.</p><p>Este desplazamiento aumenta el <strong>PIB real</strong> y el <strong>nivel de precios</strong> a corto plazo.</p><p>Es una herramienta clave para <strong>combatir recesiones</strong> y el <strong>desempleo cíclico</strong>.</p><p>El tamaño del efecto depende del <strong>multiplicador del gasto</strong> y del contexto económico.</p>"
+    },
+    {
+      "intro": "Una política fiscal contractiva implica reducir el gasto público o aumentar los impuestos para enfriar una economía sobrecalentada. Reduce el ingreso disponible y la demanda agregada, desplazando la curva DA hacia la izquierda. Esto puede reducir la inflación y el déficit público, pero también puede aumentar el desempleo si la economía está cerca del pleno empleo. Se utiliza principalmente para contener expansiones excesivas.",
+      "question": "3. ¿Para qué se utiliza una política fiscal contractiva?",
+      "options": [
+        "Estimular la economía en recesión",
+        "Enfriar una economía sobrecalentada",
+        "Reducir el desempleo",
+        "Aumentar el déficit"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Una <u>política fiscal contractiva</u> (reducir gasto público o aumentar impuestos) busca <strong>enfriar una economía sobrecalentada</strong>.</p><p>Reduce el <strong>ingreso disponible</strong> de hogares y empresas, lo que <strong>disminuye el consumo</strong> y la <strong>inversión</strong>.</p><p>Esto <strong>desplaza la demanda agregada</strong> (DA) hacia la <strong>izquierda</strong>.</p><p>Resultado:<br>• <strong>Reducción de la inflación</strong><br>• <strong>Reducción del déficit público</strong><br>• Posible <strong>aumento del desempleo</strong> si la economía está cerca del pleno empleo</p><p>Se utiliza para <strong>contener expansiones excesivas</strong> y <strong>reducir el riesgo de estanflación</strong>.</p><p>El timing es crucial: aplicarla en recesión puede empeorarla.</p>"
+    },
+    {
+      "intro": "El multiplicador del gasto mide el impacto total en la renta nacional de un cambio en el gasto autónomo. Por ejemplo, si el gobierno aumenta el gasto en 100 millones, el PIB puede aumentar en 300 millones si el multiplicador es 3. El multiplicador surge porque el gasto inicial genera ingresos, que a su vez generan más gasto, en una cadena de efectos. Su tamaño depende de la propensión marginal a consumir y a importar.",
+      "question": "4. ¿Qué determina el tamaño del multiplicador del gasto?",
+      "options": [
+        "La tasa de interés",
+        "La propensión marginal a consumir",
+        "El nivel de precios",
+        "La oferta monetaria"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>multiplicador del gasto</u> mide el <strong>cambio total en la renta nacional</strong> (PIB) provocado por un <strong>cambio en el gasto autónomo</strong> (como el gasto público).</p><p>Por ejemplo, si el gobierno gasta 100 millones y el PIB aumenta en 300 millones, el multiplicador es 3.</p><p>El multiplicador surge porque el <strong>gasto inicial</strong> genera <strong>ingresos</strong> para alguien, que <strong>gasta</strong> parte de ese ingreso, generando más ingresos, y así sucesivamente.</p><p>Su tamaño depende de:<br>• <strong>Propensión marginal a consumir</strong> (PMC): cuanto mayor sea, mayor será el multiplicador.<br>• <strong>Propensión marginal a importar</strong> (PMI): cuanto mayor sea, menor será el multiplicador (parte del gasto sale del país).</p><p>Fórmula aproximada: <strong>1 / (1 - PMC + PMI)</strong></p>"
+    },
+    {
+      "intro": "El efecto expulsión ocurre cuando una política fiscal expansiva aumenta la demanda de fondos prestables, elevando las tasas de interés. Esto desincentiva la inversión privada, reduciendo parte del estímulo inicial. El grado del efecto depende de la sensibilidad de la inversión a las tasas de interés y de si la economía está cerca del pleno empleo. En una trampa de liquidez, el efecto expulsión es mínimo.",
+      "question": "5. ¿Qué es el efecto expulsión?",
+      "options": [
+        "El aumento de la inversión por política fiscal",
+        "La reducción de la inversión privada por un aumento de tasas de interés",
+        "El aumento del ahorro",
+        "La disminución de impuestos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>efecto expulsión</u> (crowding out) ocurre cuando una <strong>política fiscal expansiva</strong> (como aumentar el gasto público con déficit) <strong>aumenta la demanda de fondos prestables</strong>.</p><p>Esto <strong>eleva las tasas de interés de equilibrio</strong>.</p><p>A mayores tasas de interés, la <strong>inversión privada</strong> (empresas que piden préstamos para invertir) <strong>disminuye</strong>.</p><p>Así, parte del estímulo fiscal se <strong>compensa</strong> con una caída en la inversión privada.</p><p>El grado del efecto depende de:<br>• <strong>Sensibilidad de la inversión</strong> a las tasas de interés<br>• <strong>Proximidad al pleno empleo</strong> (más fuerte si la economía está cerca del límite)<br>• <strong>Contexto monetario</strong> (mínimo en una <strong>trampa de liquidez</strong>)</p><p>Es un trade-off de la política fiscal.</p>"
+    },
+    {
+      "intro": "La política monetaria expansiva consiste en aumentar la oferta de dinero, generalmente mediante operaciones de mercado abierto (compra de bonos). Esto reduce las tasas de interés, lo que estimula la inversión y el consumo. Como resultado, la demanda agregada se desplaza a la derecha, aumentando el PIB y el nivel de precios. Es la herramienta principal del banco central para combatir recesiones.",
+      "question": "6. ¿Cómo actúa la política monetaria expansiva sobre la demanda agregada?",
+      "options": [
+        "La reduce al aumentar tipos",
+        "La aumenta al reducir tipos de interés",
+        "No tiene efecto",
+        "La desplaza a la izquierda"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>política monetaria expansiva</u> busca <strong>estimular la economía</strong>, generalmente durante una recesión.</p><p>El banco central:<br>• <strong>Compra bonos</strong> en el mercado abierto<br>• <strong>Baja el tipo de interés de referencia</strong><br>• <strong>Reduce la tasa de reservas</strong></p><p>Esto <strong>aumenta la oferta monetaria</strong> y <strong>reduce las tasas de interés</strong> de mercado.</p><p>Resultado: más <strong>crédito</strong>, más <strong>consumo</strong> y <strong>inversión</strong>, mayor <strong>demanda agregada</strong>.</p><p>Es la herramienta principal del banco central para <strong>combatir el desempleo cíclico</strong>.</p><p>En una <strong>trampa de liquidez</strong>, puede perder efectividad.</p>"
+    },
+    {
+      "intro": "La política monetaria contractiva consiste en reducir la oferta de dinero, generalmente mediante la venta de bonos. Esto aumenta las tasas de interés, desincentivando el crédito y el gasto. Como resultado, la demanda agregada se desplaza a la izquierda, reduciendo la inflación. Es la herramienta principal del banco central para combatir la inflación en economías sobrecalentadas.",
+      "question": "7. ¿Qué objetivo persigue una política monetaria contractiva?",
+      "options": [
+        "Estimular el crecimiento en recesión",
+        "Reducir la inflación en una economía sobrecalentada",
+        "Aumentar el desempleo",
+        "Reducir los impuestos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>política monetaria contractiva</u> busca <strong>reducir la inflación</strong> al enfriar una economía sobrecalentada.</p><p>El banco central:<br>• <strong>Vende bonos</strong> en el mercado abierto<br>• <strong>Sube el tipo de interés de referencia</strong><br>• <strong>Aumenta la tasa de reservas</strong></p><p>Esto <strong>reduce la oferta monetaria</strong> y <strong>aumenta las tasas de interés</strong> de mercado.</p><p>Resultado: menos <strong>crédito</strong>, menos <strong>consumo</strong> y <strong>inversión</strong>, menor <strong>demanda agregada</strong>.</p><p>Reduce la inflación, pero puede aumentar temporalmente el <strong>desempleo cíclico</strong>.</p><p>Es la herramienta principal del banco central para <strong>mantener la estabilidad de precios</strong>.</p>"
+    },
+    {
+      "intro": "La efectividad de la política monetaria depende de la sensibilidad de la inversión a las tasas de interés. Si la inversión es muy sensible, pequeñas bajadas de tipos pueden estimular mucho la demanda agregada. Si es poco sensible, la política monetaria será menos efectiva. En una trampa de liquidez, donde los tipos están cerca de cero, la política monetaria puede ser ineficaz, requiriendo intervención fiscal.",
+      "question": "8. ¿Cuándo es menos efectiva la política monetaria?",
+      "options": [
+        "Cuando la inversión es muy sensible a tipos",
+        "Cuando está en una trampa de liquidez",
+        "Cuando hay alta inflación",
+        "Cuando el déficit es bajo"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>efectividad de la política monetaria</u> depende de cómo responde la <strong>inversión</strong> a los cambios en las <strong>tasas de interés</strong>.</p><p>• Si la inversión es <strong>muy sensible</strong> a los tipos, la política monetaria es <strong>muy efectiva</strong>.<br>• Si es <strong>poco sensible</strong>, la política es <strong>menos efectiva</strong>.</p><p>En una <strong>trampa de liquidez</strong> (tipos nominales cerca de cero), la política monetaria <strong>pierde efectividad</strong> porque no puede bajar más los tipos.</p><p>En este contexto, la <strong>política fiscal</strong> (gasto público) se vuelve más importante para estimular la economía.</p><p>La <strong>crisis de 2008</strong> mostró este límite, llevando a políticas no convencionales como la <strong>QE</strong> (quantitative easing).</p>"
+    },
+    {
+      "intro": "La política fiscal puede ser más efectiva que la monetaria en recesiones profundas o en trampas de liquidez, ya que actúa directamente sobre la demanda agregada sin depender de las tasas de interés. Además, puede dirigirse a sectores específicos (infraestructura, educación). Sin embargo, tiene desventajas como retrasos en la implementación y el riesgo de aumentar la deuda pública.",
+      "question": "9. ¿Qué ventaja tiene la política fiscal sobre la monetaria en recesiones profundas?",
+      "options": [
+        "Es más rápida de implementar",
+        "Actúa directamente sobre la demanda agregada sin depender de tipos",
+        "No afecta al déficit",
+        "Es controlada por el banco central"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>En <u>recesiones profundas</u> o en <strong>trampas de liquidez</strong>, la <strong>política fiscal</strong> puede ser <strong>más efectiva</strong> que la monetaria.</p><p>Razones:<br>• Actúa <strong>directamente</strong> sobre la demanda agregada (ej. gasto en infraestructura).<br>• No depende de que las <strong>tasas de interés</strong> bajen para estimular inversión.<br>• Puede <strong>dirigirse</strong> a sectores clave (educación, salud, energía).</p><p>Desventajas:<br>• <strong>Retrasos</strong> en la toma de decisiones políticas (legislación).<br>• Puede <strong>aumentar el déficit y la deuda pública</strong>.<br>• Riesgo de <strong>ineficiencia</strong> en el gasto.</p><p>En contextos normales, ambas políticas se complementan.</p>"
+    },
+    {
+      "intro": "Las reglas de política económica son directrices preestablecidas para la acción del banco central o el gobierno, como mantener la inflación en un 2%. Las políticas discrecionales permiten actuar según las circunstancias. Las reglas aumentan la predictibilidad y la credibilidad, pero pueden ser rígidas. Las políticas discrecionales son flexibles, pero pueden generar incertidumbre y sesgos políticos.",
+      "question": "10. ¿Qué ventaja tienen las reglas de política económica?",
+      "options": [
+        "Mayor flexibilidad",
+        "Mayor predictibilidad y credibilidad",
+        "Menor necesidad de bancos centrales",
+        "Eliminan la inflación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Las <u>reglas de política económica</u> son directrices <strong>preestablecidas</strong> para la acción del banco central o el gobierno (ej. mantener la inflación en 2%).</p><p>Las <u>políticas discrecionales</u> permiten actuar según las <strong>circunstancias</strong> de cada momento.</p><p>Ventajas de las <strong>reglas</strong>:<br>• <strong>Predictibilidad</strong>: los agentes económicos pueden planificar mejor.<br>• <strong>Credibilidad</strong>: el banco central cumple su compromiso, anclando expectativas.<br>• Evita <strong>sesgos políticos</strong> (actuar antes de elecciones).</p><p>Desventajas: <strong>rigidez</strong> ante shocks inesperados.</p><p>Las <strong>discrecionales</strong> son <strong>flexibles</strong>, pero pueden generar <strong>incertidumbre</strong> y falta de credibilidad.</p>"
+    },
+    {
+      "intro": "La política fiscal puede tener efectos de oferta a largo plazo si se invierte en capital humano, infraestructura o I+D. Estas inversiones aumentan la productividad y el PIB potencial. Sin embargo, si se financia con deuda excesiva, puede desplazar inversión privada y reducir el crecimiento. La calidad del gasto es clave para que la política fiscal tenga efectos positivos duraderos.",
+      "question": "11. ¿Cómo puede la política fiscal afectar la oferta agregada a largo plazo?",
+      "options": [
+        "Solo afecta a la demanda",
+        "Puede aumentar el PIB potencial si se invierte en educación o infraestructura",
+        "Siempre reduce la oferta",
+        "No tiene efecto a largo plazo"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>A <strong>corto plazo</strong>, la política fiscal afecta principalmente a la <strong>demanda agregada</strong>.</p><p>A <strong>largo plazo</strong>, también puede afectar a la <strong>oferta agregada</strong> (PIB potencial) si el gasto se dirige a:<br>• <strong>Capital humano</strong> (educación, formación)<br>• <strong>Infraestructura</strong> (carreteras, puertos, internet)<br>• <strong>I+D</strong> (investigación y desarrollo)</p><p>Estas inversiones <strong>aumentan la productividad</strong> y el <strong>crecimiento potencial</strong>.</p><p>Sin embargo, si el gasto es <strong>ineficiente</strong> o se financia con <strong>deuda excesiva</strong>, puede <strong>desplazar inversión privada</strong> y <strong>reducir el crecimiento</strong>.</p><p>La <strong>calidad del gasto</strong> es clave para que la política fiscal tenga efectos <strong>positivos duraderos</strong>.</p>"
+    },
+    {
+      "intro": "La política monetaria no puede controlar directamente variables como el desempleo o el crecimiento del PIB, sino solo indirectamente a través de la demanda agregada. Su objetivo principal es la estabilidad de precios. Aunque puede influir en el empleo a corto plazo, a largo plazo el desempleo está determinado por factores reales (tasa natural), no por la política monetaria.",
+      "question": "12. ¿Qué no puede controlar directamente la política monetaria?",
+      "options": [
+        "La inflación",
+        "La tasa de desempleo a largo plazo",
+        "Las tasas de interés",
+        "La oferta de dinero"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>política monetaria</u> puede controlar directamente:<br>• <strong>Oferta de dinero</strong><br>• <strong>Tasas de interés</strong><br>• <strong>Inflación</strong> (a largo plazo)</p><p>Pero <strong>no puede controlar directamente</strong>:<br>• <strong>El desempleo a largo plazo</strong><br>• <strong>El crecimiento del PIB potencial</strong><br>• <strong>La productividad</strong></p><p>A <strong>corto plazo</strong>, puede influir en el desempleo cíclico estimulando la demanda.</p><p>Pero a <strong>largo plazo</strong>, el desempleo está determinado por factores <strong>reales</strong> (mercado de trabajo, instituciones, tasa natural), no por la política monetaria.</p><p>Por eso, el objetivo principal del banco central es la <strong>estabilidad de precios</strong>, no el empleo a largo plazo.</p>"
+    },
+    {
+      "intro": "La política fiscal puede ser procíclica si amplifica las fluctuaciones económicas, como aumentar el gasto en expansiones o reducirlo en recesiones. Es contracíclica si las mitiga, como aumentar el gasto en recesiones o reducirlo en expansiones. Las políticas automáticas (como impuestos progresivos y beneficios de desempleo) son inherentemente contracíclicas y ayudan a estabilizar la economía.",
+      "question": "13. ¿Qué es una política fiscal contracíclica?",
+      "options": [
+        "Amplificar las fluctuaciones económicas",
+        "Mitigar las fluctuaciones económicas",
+        "Ser independiente del ciclo",
+        "Depender del tipo de cambio"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Una <u>política fiscal contracíclica</u> busca <strong>mitigar</strong> las fluctuaciones económicas.</p><p>• En <strong>recesiones</strong>: aumenta el gasto o reduce impuestos (política expansiva).<br>• En <strong>expansiones</strong>: reduce el gasto o aumenta impuestos (política contractiva).</p><p>Esto <strong>suaviza</strong> el ciclo económico.</p><p>Una política <strong>procíclica</strong> las <strong>amplifica</strong> (gastar más en auge, recortar en crisis).</p><p>Las <strong>políticas automáticas</strong> (como impuestos progresivos y beneficios de desempleo) son inherentemente <strong>contracíclicas</strong>:<br>• En recesión: impuestos bajan, beneficios suben → estimulan demanda.<br>• En auge: impuestos suben, beneficios bajan → enfrian economía.</p><p>Son estabilizadores automáticos clave.</p>"
+    },
+    {
+      "intro": "Los estabilizadores automáticos son mecanismos fiscales que actúan sin intervención deliberada del gobierno, como los impuestos progresivos y los beneficios de desempleo. En recesiones, los ingresos fiscales bajan y los gastos sociales suben, estimulando la demanda. En expansiones, ocurre lo contrario, enfriando la economía. Reducen la necesidad de políticas discrecionales.",
+      "question": "14. ¿Qué son los estabilizadores automáticos?",
+      "options": [
+        "Políticas decididas por el gobierno en cada momento",
+        "Mecanismos fiscales que actúan sin intervención deliberada",
+        "Políticas monetarias",
+        "Reglas de gasto rígidas"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Los <u>estabilizadores automáticos</u> son mecanismos fiscales que <strong>actúan automáticamente</strong> sin necesidad de una decisión deliberada del gobierno.</p><p>Ejemplos:<br>• <strong>Impuestos progresivos</strong>: en recesión, los ingresos bajan → impuestos bajan → ingreso disponible sube → estimula demanda.<br>• <strong>Beneficios de desempleo</strong>: en recesión, más personas los cobran → gasto social sube → estimula demanda.</p><p>En <strong>expansiones</strong>, ocurre lo contrario: impuestos suben, beneficios bajan → enfrian la economía.</p><p>Estos mecanismos <strong>suavizan</strong> el ciclo económico de forma <strong>automática</strong>.</p><p>Reducen la necesidad de <strong>políticas fiscales discrecionales</strong>, que pueden tener retrasos.</p>"
+    },
+    {
+      "intro": "La coordinación entre política fiscal y monetaria es crucial para evitar conflictos. Por ejemplo, si el banco central busca reducir la inflación (política contractiva), pero el gobierno aumenta el gasto (política expansiva), sus efectos se contrarrestan. Una buena coordinación permite una gestión macroeconómica más efectiva y predecible.",
+      "question": "15. ¿Por qué es importante la coordinación entre política fiscal y monetaria?",
+      "options": [
+        "Para que ambas sean expansivas siempre",
+        "Para evitar que sus efectos se contrarresten",
+        "Para eliminar el banco central",
+        "Para aumentar el déficit"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>coordinación</u> entre política fiscal y monetaria es crucial para una <strong>gestión macroeconómica efectiva</strong>.</p><p>Si no están coordinadas, sus efectos pueden <strong>contrarrestarse</strong>:</p><p>• Ejemplo: el banco central quiere <strong>reducir la inflación</strong> (política monetaria <strong>contractiva</strong>), pero el gobierno <strong>aumenta el gasto</strong> (política fiscal <strong>expansiva</strong>).<br>→ El estímulo fiscal <strong>anula</strong> el enfriamiento monetario.</p><p>Una buena coordinación permite:<br>• <strong>Evitar conflictos</strong> de objetivos<br>• <strong>Maximizar</strong> el impacto de las políticas<br>• <strong>Mejorar la predictibilidad</strong> y credibilidad</p><p>Aunque los bancos centrales suelen ser <strong>independientes</strong>, el diálogo y la transparencia son clave para una economía estable.</p>"
+    }
+  ]
+}
