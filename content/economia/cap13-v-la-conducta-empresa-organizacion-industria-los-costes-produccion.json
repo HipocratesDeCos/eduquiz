@@ -1,0 +1,186 @@
+{
+  "title": "Los Costes de Producción",
+  "description": "Quiz sobre costes fijos, variables, marginales, medios, economías de escala y la función de producción.",
+  "questions": [
+    {
+      "intro": "Los costes de producción son los gastos que una empresa incurre para fabricar bienes o servicios. Se dividen en costes fijos (que no varían con la producción, como alquiler) y costes variables (que sí varían, como materias primas). El costo total es la suma de ambos. Comprender estos costes es clave para fijar precios, decidir niveles de producción y evaluar la rentabilidad.",
+      "question": "1. ¿Qué son los costes fijos?",
+      "options": [
+        "Costes que varían con la producción",
+        "Costes que no varían con la producción",
+        "Costes de oportunidad",
+        "Costes de los recursos propios"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Los <u>costes fijos</u> no varían con el nivel de producción a corto plazo.</p><p>Ejemplos: alquiler, salarios de administrativos, seguros.</p><p>Existen incluso si la producción es cero.</p><p>Se pagan independientemente de cuánto se produzca.</p>"
+    },
+    {
+      "intro": "Los costes variables aumentan a medida que aumenta la producción. Incluyen materias primas, energía, mano de obra directa. A mayor producción, mayores costes variables. La suma de costes fijos y variables da el costo total. Este concepto es clave para analizar la rentabilidad marginal.",
+      "question": "2. ¿Qué son los costes variables?",
+      "options": [
+        "Costes que no cambian con la producción",
+        "Costes que aumentan con la producción",
+        "Costes de oportunidad",
+        "Costes de capital"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Los <u>costes variables</u> aumentan a medida que aumenta la producción.</p><p>Ejemplos: materias primas, energía, mano de obra directa.</p><p>A mayor producción, mayores costes variables.</p><p>La suma de costes fijos y variables da el <strong>costo total</strong>.</p>"
+    },
+    {
+      "intro": "El costo marginal es el costo de producir una unidad adicional. Es clave para decisiones de producción: una empresa debe producir hasta que el costo marginal iguala al ingreso marginal. Si el ingreso por una unidad adicional supera su costo, conviene producirla.",
+      "question": "3. ¿Qué es el costo marginal?",
+      "options": [
+        "El costo promedio por unidad",
+        "El costo de producir una unidad adicional",
+        "El costo fijo por unidad",
+        "El costo total dividido por la cantidad"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>costo marginal</u> es el costo de producir <strong>una unidad adicional</strong>.</p><p>Es clave para decisiones de producción: una empresa debe producir hasta que el <strong>costo marginal</strong> iguala al <strong>ingreso marginal</strong>.</p><p>Si el ingreso por una unidad adicional supera su costo, conviene producirla.</p>"
+    },
+    {
+      "intro": "El costo total medio (CTMe) es el costo total dividido por la cantidad producida. Combina el costo fijo medio (CFMe) y el costo variable medio (CVMe). Tiene forma de U: a bajo nivel de producción, el CFMe es alto; a alto nivel, el CVMe aumenta por costos marginales crecientes.",
+      "question": "4. ¿Cómo es típicamente la curva de costo total medio?",
+      "options": [
+        "Recta horizontal",
+        "Recta vertical",
+        "Forma de U",
+        "Forma de V"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>La curva de <u>costo total medio</u> (CTMe) tiene forma de <strong>U</strong>.</p><p>Al principio, baja porque el <strong>costo fijo medio</strong> (CFMe) disminuye con la producción.</p><p>Luego sube porque el <strong>costo variable medio</strong> (CVMe) aumenta por costos marginales crecientes.</p><p>El punto más bajo es la escala mínima eficiente.</p>"
+    },
+    {
+      "intro": "La función de producción muestra la relación entre los factores de producción (trabajo, capital) y la cantidad de producto. A corto plazo, algunos factores son fijos (capital), otros variables (trabajo). La ley de rendimientos decrecientes establece que añadir más trabajo a capital fijo aumenta la producción, pero cada vez menos.",
+      "question": "5. ¿Qué muestra la función de producción?",
+      "options": [
+        "La relación entre precio y cantidad",
+        "La relación entre factores de producción y producto",
+        "La relación entre oferta y demanda",
+        "La relación entre ingresos y costes"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>función de producción</u> muestra la relación entre los <strong>factores de producción</strong> (trabajo, capital) y la <strong>cantidad de producto</strong>.</p><p>A corto plazo, algunos factores son fijos (capital), otros variables (trabajo).</p><p>La ley de <strong>rendimientos decrecientes</strong> establece que añadir más trabajo a capital fijo aumenta la producción, pero cada vez menos.</p>"
+    },
+    {
+      "intro": "La ley de rendimientos decrecientes establece que si se aumenta un factor variable (como el trabajo) manteniendo fijos los demás (como el capital), cada unidad adicional de trabajo añadirá menos producto que la anterior. Esto ocurre porque el capital se vuelve un cuello de botella.",
+      "question": "6. ¿Qué es la ley de rendimientos decrecientes?",
+      "options": [
+        "Cada unidad adicional de trabajo aumenta más la producción",
+        "Cada unidad adicional de trabajo aumenta menos la producción",
+        "La producción disminuye con más trabajo",
+        "No hay relación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>ley de rendimientos decrecientes</u> establece que si se aumenta un factor variable (trabajo) manteniendo fijos los demás (capital), cada unidad adicional de trabajo añadirá <strong>menos producto</strong> que la anterior.</p><p>Esto ocurre porque el capital se vuelve un cuello de botella.</p><p>Explica por qué el costo marginal tiende a aumentar.</p>"
+    },
+    {
+      "intro": "El producto marginal del trabajo es el aumento en la producción al añadir una unidad de trabajo. Inicialmente puede aumentar (por especialización), pero luego disminuye por rendimientos decrecientes. Cuando el producto marginal es cero, la producción total es máxima.",
+      "question": "7. ¿Qué es el producto marginal del trabajo?",
+      "options": [
+        "La producción total",
+        "El aumento en la producción al añadir una unidad de trabajo",
+        "El costo de contratar un trabajador",
+        "El salario promedio"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>producto marginal del trabajo</u> es el aumento en la <strong>producción total</strong> al añadir una unidad de trabajo.</p><p>Inicialmente puede aumentar (por especialización), pero luego disminuye por <strong>rendimientos decrecientes</strong>.</p><p>Cuando el producto marginal es cero, la producción total es máxima.</p>"
+    },
+    {
+      "intro": "Economías de escala ocurren cuando el costo total medio disminuye a medida que aumenta la producción. Esto puede deberse a especialización, compra al por mayor, tecnología eficiente. Desconomías de escala ocurren cuando el CTMe aumenta por problemas de coordinación en empresas muy grandes.",
+      "question": "8. ¿Qué son las economías de escala?",
+      "options": [
+        "El CTMe aumenta con la producción",
+        "El CTMe disminuye con la producción",
+        "El CTMe es constante",
+        "El CMg es cero"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Las <u>economías de escala</u> ocurren cuando el <strong>costo total medio</strong> (CTMe) <strong>disminuye</strong> a medida que aumenta la producción.</p><p>Puede deberse a:<br>• Especialización del trabajo<br>• Compra al por mayor<br>• Tecnología más eficiente</p><p>Es común en industrias con altos costes fijos.</p>"
+    },
+    {
+      "intro": "Deseconomías de escala ocurren cuando el costo total medio aumenta a medida que aumenta la producción. Esto suele ocurrir en empresas muy grandes, donde los problemas de coordinación, burocracia y comunicación aumentan los costes. El CTMe vuelve a subir, formando la parte ascendente de la curva en forma de U.",
+      "question": "9. ¿Qué causa desconomías de escala?",
+      "options": [
+        "Mejora en la eficiencia",
+        "Problemas de coordinación en empresas grandes",
+        "Reducción de costes fijos",
+        "Aumento de la competencia"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Las <u>deseconomías de escala</u> ocurren cuando el <strong>costo total medio</strong> (CTMe) <strong>aumenta</strong> a medida que aumenta la producción.</p><p>Suele ocurrir en empresas muy grandes, donde los problemas de <strong>coordinación, burocracia y comunicación</strong> aumentan los costes.</p><p>Forma la parte ascendente de la curva de CTMe en forma de U.</p>"
+    },
+    {
+      "intro": "El costo fijo medio (CFMe) es el costo fijo total dividido por la cantidad producida. Disminuye a medida que aumenta la producción, porque el mismo costo fijo se reparte entre más unidades. Es clave para entender por qué el CTMe baja inicialmente.",
+      "question": "10. ¿Cómo cambia el costo fijo medio con la producción?",
+      "options": [
+        "Aumenta",
+        "Permanece constante",
+        "Disminuye",
+        "No existe"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>El <u>costo fijo medio</u> (CFMe) = <strong>costo fijo total / cantidad producida</strong>.</p><p>Disminuye a medida que aumenta la producción, porque el mismo costo fijo se reparte entre más unidades.</p><p>Es clave para entender por qué el CTMe baja inicialmente.</p><p>A producción muy alta, el CFMe tiende a cero.</p>"
+    },
+    {
+      "intro": "El costo variable medio (CVMe) es el costo variable total dividido por la cantidad producida. Tiene forma de U: inicialmente baja por eficiencias, luego sube por rendimientos decrecientes y costos marginales crecientes. Es parte clave del CTMe.",
+      "question": "11. ¿Cómo es típicamente la curva de costo variable medio?",
+      "options": [
+        "Horizontal",
+        "Vertical",
+        "Forma de U",
+        "Forma de V"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>La curva de <u>costo variable medio</u> (CVMe) tiene forma de <strong>U</strong>.</p><p>Al principio baja por eficiencias y especialización.</p><p>Luego sube por <strong>rendimientos decrecientes</strong> y <strong>costos marginales crecientes</strong>.</p><p>Es parte clave del CTMe, junto con el CFMe.</p>"
+    },
+    {
+      "intro": "El costo marginal corta al costo total medio en su punto mínimo. Cuando el CMg es menor que el CTMe, el CTMe está bajando. Cuando el CMg es mayor que el CTMe, el CTMe está subiendo. Este punto es clave para determinar la escala eficiente de producción.",
+      "question": "12. ¿Dónde corta el costo marginal al costo total medio?",
+      "options": [
+        "En su punto máximo",
+        "En su punto mínimo",
+        "Nunca se cruzan",
+        "En el origen"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>costo marginal</u> (CMg) corta al <u>costo total medio</u> (CTMe) en su <strong>punto mínimo</strong>.</p><p>Cuando CMg < CTMe, el CTMe está <strong>bajando</strong>.</p><p>Cuando CMg > CTMe, el CTMe está <strong>subiendo</strong>.</p><p>Este punto es clave para determinar la <strong>escala eficiente</strong> de producción.</p>"
+    },
+    {
+      "intro": "A largo plazo, todos los factores de producción son variables. La empresa puede ajustar su tamaño, construir nuevas fábricas, adoptar nueva tecnología. Por eso, no hay costes fijos a largo plazo. La curva de costo total medio a largo plazo (CTMeLP) envuelve a todas las curvas de CTMe a corto plazo.",
+      "question": "13. ¿Qué caracteriza al largo plazo en la producción?",
+      "options": [
+        "Todos los factores son fijos",
+        "Todos los factores son variables",
+        "Solo el trabajo es variable",
+        "Solo el capital es fijo"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>A <u>largo plazo</u>, <strong>todos los factores de producción</strong> son <strong>variables</strong>.</p><p>La empresa puede ajustar su tamaño, construir nuevas fábricas, adoptar nueva tecnología.</p><p>Por eso, no hay <strong>costes fijos</strong> a largo plazo.</p><p>La curva de CTMeLP envuelve a todas las curvas de CTMe a corto plazo.</p>"
+    },
+    {
+      "intro": "La escala mínima eficiente es el nivel de producción más bajo en el que el costo total medio a largo plazo alcanza su mínimo. Por debajo de este nivel, la empresa no es competitiva. Por encima, puede enfrentar desconomías de escala. Es clave para entender la estructura de mercado.",
+      "question": "14. ¿Qué es la escala mínima eficiente?",
+      "options": [
+        "El nivel más alto de producción",
+        "El nivel más bajo de producción con CTMe mínimo",
+        "El punto donde el CMg es cero",
+        "El punto donde el CVMe es máximo"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>escala mínima eficiente</u> es el nivel de producción más bajo en el que el <strong>costo total medio a largo plazo</strong> alcanza su mínimo.</p><p>Por debajo, la empresa no es competitiva.</p><p>Por encima, puede enfrentar desconomías de escala.</p><p>Es clave para entender la <strong>estructura de mercado</strong> (número de empresas).</p>"
+    },
+    {
+      "intro": "El costo de oportunidad de la producción incluye no solo los costes monetarios, sino también el valor de los recursos propios. Por ejemplo, si un empresario trabaja en su empresa, el costo de oportunidad incluye el salario que podría ganar en otro trabajo. Este concepto es clave para el costo económico, que es mayor que el costo contable.",
+      "question": "15. ¿Qué incluye el costo de oportunidad en la producción?",
+      "options": [
+        "Solo costes monetarios",
+        "Costes monetarios y valor de recursos propios",
+        "Solo salarios",
+        "Solo costes fijos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>costo de oportunidad</u> en la producción incluye:<br>• <strong>Costes monetarios</strong> (materias primas, salarios)<br>• <strong>Valor de recursos propios</strong> (salario no pagado del dueño, renta del local propio)</p><p>Es clave para el <strong>costo económico</strong>, que es mayor que el costo contable.</p><p>Un negocio puede tener beneficio contable pero pérdida económica.</p>"
+    }
+  ]
+}
