@@ -1,0 +1,186 @@
+{
+  "title": "Creación de Relaciones de Lealtad de Largo Plazo",
+  "description": "Quiz sobre el marketing relacional, la gestión de la experiencia del cliente, programas de fidelización y la creación de valor para retener clientes.",
+  "questions": [
+    {
+      "intro": "El marketing relacional se centra en construir relaciones duraderas y rentables con los clientes, más allá de una simple transacción. Se basa en la confianza, el compromiso y el valor mutuo. En lugar de maximizar cada venta, busca maximizar el valor del cliente a lo largo del tiempo (CLV). Este enfoque es más rentable que el marketing transaccional, ya que retener un cliente es más económico que adquirir uno nuevo.",
+      "question": "1. ¿Cuál es el objetivo principal del marketing relacional?",
+      "options": [
+        "Maximizar cada venta individual",
+        "Construir relaciones duraderas y rentables con los clientes",
+        "Reducir los costos de producción",
+        "Aumentar la publicidad"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>marketing relacional</u> tiene como objetivo principal <strong>construir relaciones duraderas, mutuamente beneficiosas</strong> con los clientes, proveedores y socios.</p><p>Se opone al <strong>marketing transaccional</strong>, que se centra en maximizar cada venta individual.</p><p>Se basa en:<br>• <strong>Confianza</strong><br>• <strong>Compromiso</strong><br>• <strong>Valor mutuo</strong></p><p>El foco no está en <strong>una sola transacción</strong>, sino en <strong>maximizar el valor del cliente a lo largo del tiempo</strong> (Customer Lifetime Value, CLV).</p><p>Beneficios:<br>• <strong>Mayor lealtad</strong> y retención de clientes.<br>• <strong>Reducción de costos</strong> de adquisición (retener es más barato que adquirir).<br>• <strong>Clientes más rentables</strong> a largo plazo.<br>• <strong>Marketing de boca en boca</strong> positivo.</p><p>Se aplica mediante programas de fidelización, atención personalizada, comunicación constante y resolución eficaz de problemas.</p><p>Es esencial en mercados donde la diferenciación es difícil y la competencia por precios es intensa.</p>"
+    },
+    {
+      "intro": "El valor del cliente es la diferencia entre el valor total que recibe un cliente (beneficios funcionales, emocionales, sociales) y el costo total de obtenerlo (monetario, temporal, esfuerzo). Las empresas deben gestionar este valor de forma superior a la competencia para atraer y retener clientes. Una propuesta de valor clara y diferenciada es clave para el éxito.",
+      "question": "2. ¿Qué es el valor del cliente?",
+      "options": [
+        "El precio más bajo del mercado",
+        "La calidad del producto",
+        "La relación entre beneficios percibidos y costo total de obtención",
+        "La publicidad de la marca"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>El <u>valor del cliente</u> es la <strong>relación entre los beneficios totales percibidos</strong> por el cliente y el <strong>costo total de obtenerlos</strong>.</p><p>No se reduce al <strong>precio</strong>, sino que incluye:<br>• <strong>Beneficios funcionales</strong>: rendimiento, calidad, fiabilidad, conveniencia.<br>• <strong>Beneficios emocionales</strong>: placer, seguridad, estatus, pertenencia.<br>• <strong>Beneficios sociales</strong>: aceptación social, recomendaciones.<br>• <strong>Costos monetarios</strong>: precio, impuestos.<br>• <strong>Costos no monetarios</strong>: tiempo, esfuerzo, riesgo percibido.</p><p>Una empresa crea valor cuando ofrece <strong>más beneficios</strong> por el mismo costo, o el <strong>mismo beneficio</strong> a menor costo que la competencia.</p><p>Gestionar el valor del cliente es clave para:<br>• <strong>Atraer</strong> nuevos clientes.<br>• <strong>Retener</strong> clientes existentes.<br>• <strong>Diferenciarse</strong> de la competencia.<br>• <strong>Justificar precios superiores</strong>.</p><p>La <strong>propuesta de valor</strong> es la promesa clara de cómo la empresa crea este valor.</p>"
+    },
+    {
+      "intro": "La propuesta de valor es la promesa clara y convincente que una empresa hace a sus clientes sobre el valor que recibirán al elegir su producto o servicio. Debe ser diferenciada, relevante y creíble. Una buena propuesta de valor responde a la pregunta: ¿Por qué debería elegirnos? y es el núcleo de la estrategia de marketing.",
+      "question": "3. ¿Qué es una propuesta de valor?",
+      "options": [
+        "Un descuento temporal",
+        "La promesa de valor que explica por qué un cliente debería elegir un producto",
+        "Una campaña publicitaria",
+        "El precio de lista"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>propuesta de valor</u> es la <strong>promesa clara y convincente</strong> que una empresa hace a sus clientes sobre el valor que recibirán al elegir su producto o servicio.</p><p>Responde a la pregunta fundamental: <strong>¿Por qué debería elegirnos?</strong></p><p>Debe ser:<br>• <strong>Diferenciada</strong>: que destaque frente a la competencia.<br>• <strong>Relevante</strong>: que responda a necesidades reales del cliente.<br>• <strong>Creíble</strong>: que la empresa pueda cumplir.<br>• <strong>Clara</strong>: fácil de entender.</p><p>Se basa en una <strong>comprensión profunda</strong> del cliente y en las <strong>capacidades únicas</strong> de la empresa.</p><p>Ejemplos:<br>• Uber: <strong>“Viajes en minutos, sin dinero en efectivo”</strong>.<br>• Spotify: <strong>“Acceso a millones de canciones, sin anuncios”</strong>.<br>• Amazon: <strong>“Entrega rápida y amplia selección”</strong>.</p><p>Es el núcleo de la estrategia de marketing y guía todas las decisiones de producto, precio, comunicación y servicio.</p>"
+    },
+    {
+      "intro": "El valor del tiempo de vida del cliente (CLV) es una métrica que estima los beneficios totales que una empresa espera obtener de una relación completa con un cliente. Ayuda a decidir cuánto invertir en adquirir y retener a un cliente. Los clientes con alto CLV son más rentables y merecen más atención y recursos.",
+      "question": "4. ¿Qué mide el valor del tiempo de vida del cliente (CLV)?",
+      "options": [
+        "El costo de adquirir un cliente",
+        "Los beneficios totales esperados de una relación completa con un cliente",
+        "El precio promedio de sus compras",
+        "El número de productos que compra"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>valor del tiempo de vida del cliente</u> (Customer Lifetime Value, CLV) es una métrica que <strong>estima los beneficios netos totales</strong> que una empresa espera obtener de toda la relación futura con un cliente.</p><p>Es una <strong>proyección</strong> basada en:<br>• <strong>Frecuencia de compra</strong><br>• <strong>Monto promedio por compra</strong><br>• <strong>Margen de beneficio</strong> por transacción<br>• <strong>Duración esperada de la relación</strong></p><p>Fórmula básica: <strong>CLV = (Valor promedio de compra × Frecuencia × Margen) × Duración</strong></p><p>Importancia:<br>• Ayuda a decidir <strong>cuánto invertir</strong> en adquirir y retener a un cliente.<br>• Permite <strong>segmentar clientes</strong> por rentabilidad.<br>• Identifica a los <strong>clientes más valiosos</strong> para enfocar esfuerzos de marketing y servicio.<br>• Justifica inversiones en programas de fidelización.</p><p>Un cliente con alto CLV es más rentable a largo plazo, incluso si tiene un costo de adquisición alto.</p>"
+    },
+    {
+      "intro": "Los programas de fidelización son sistemas diseñados para recompensar a los clientes por su lealtad repetida. Pueden basarse en puntos, niveles, descuentos o beneficios exclusivos. Son efectivos para aumentar la retención, el gasto y el engagement, pero deben estar alineados con la propuesta de valor de la marca para ser percibidos como auténticos.",
+      "question": "5. ¿Cuál es el objetivo principal de un programa de fidelización?",
+      "options": [
+        "Aumentar el precio de los productos",
+        "Retener clientes y aumentar su gasto a lo largo del tiempo",
+        "Reducir la calidad del servicio",
+        "Atraer solo a nuevos clientes"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>objetivo principal de un programa de fidelización</u> es <strong>retener a los clientes existentes</strong> y <strong>incrementar su valor a lo largo del tiempo</strong> (CLV).</p><p>Funciona mediante:<br>• <strong>Recompensas</strong>: puntos, descuentos, productos gratis, beneficios exclusivos.<br>• <strong>Incentivos para compras repetidas</strong>.<br>• <strong>Creación de un sentido de pertenencia</strong> (niveles, estatus).</p><p>Beneficios para la empresa:<br>• <strong>Mayor retención de clientes</strong>.<br>• <strong>Aumento del gasto</strong> (los clientes leales compran más y con más frecuencia).<br>• <strong>Mayor engagement</strong> y conexión emocional con la marca.<br>• <strong>Datos valiosos</strong> sobre el comportamiento del cliente.</p><p>Para ser efectivo, el programa debe:<br>• Estar <strong>alineado</strong> con la propuesta de valor de la marca.<br>• Ofrecer <strong>recompensas relevantes y deseables</strong>.<br>• Ser <strong>fácil de entender y usar</strong>.<br>• No parecer <strong>transaccional o calculador</strong>.</p><p>Si no está bien diseñado, puede atraer a clientes que solo buscan recompensas, no lealtad real.</p>"
+    },
+    {
+      "intro": "La experiencia del cliente (CX) es la suma de todas las interacciones que un cliente tiene con una marca a lo largo de su viaje, desde la conciencia hasta la postventa. Una experiencia positiva, coherente y memorable genera satisfacción, fidelidad y recomendaciones. Las empresas deben gestionar cada punto de contacto para crear una experiencia fluida y positiva.",
+      "question": "6. ¿Qué es la experiencia del cliente (CX)?",
+      "options": [
+        "Solo el servicio postventa",
+        "La suma de todas las interacciones con la marca a lo largo del viaje del cliente",
+        "Solo la calidad del producto",
+        "La publicidad de la marca"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>experiencia del cliente</u> (Customer Experience, CX) es la <strong>suma de todas las interacciones</strong> que un cliente tiene con una marca a lo largo de su <strong>viaje completo</strong>.</p><p>Desde la <strong>conciencia</strong> y la <strong>consideración</strong>, hasta la <strong>compra</strong>, el <strong>uso</strong> y el <strong>servicio postventa</strong>.</p><p>Incluye:<br>• Interacciones con el <strong>sitio web</strong> y <strong>aplicaciones</strong>.<br>• <strong>Atención al cliente</strong> (teléfono, chat, redes sociales).<br>• <strong>Tienda física</strong> (diseño, personal, proceso de compra).<br>• <strong>Empaque</strong> y <strong>entrega</strong>.<br>• <strong>Comunicación</strong> (email, publicidad).</p><p>Una CX positiva es:<br>• <strong>Coherente</strong> en todos los canales.<br>• <strong>Fluida</strong> y sin fricciones.<br>• <strong>Memorable</strong> y positiva.<br>• <strong>Centrada en el cliente</strong>.</p><p>Una buena CX genera:<br>• <strong>Satisfacción</strong> del cliente.<br>• <strong>Fidelidad</strong> y <strong>retención</strong>.<br>• <strong>Recomendaciones</strong> (NPS alto).<br>• <strong>Mayor rentabilidad</strong>.</p><p>Las empresas deben <strong>mapear el viaje del cliente</strong> para identificar y mejorar puntos de contacto críticos.</p>"
+    },
+    {
+      "intro": "La gestión de relaciones con los clientes (CRM) es una estrategia y tecnología para gestionar todas las interacciones con los clientes. Un sistema CRM centraliza la información del cliente (historial de compras, preferencias, interacciones) para personalizar la comunicación, mejorar el servicio y aumentar la retención. Es una herramienta clave para el marketing relacional.",
+      "question": "7. ¿Qué permite un sistema de CRM?",
+      "options": [
+        "Ignorar las preferencias del cliente",
+        "Centralizar la información del cliente para personalizar la comunicación y el servicio",
+        "Reducir la calidad del producto",
+        "Aumentar los precios sin justificación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>sistema de gestión de relaciones con los clientes</u> (CRM) es una <strong>estrategia y tecnología</strong> para gestionar todas las interacciones y datos de los clientes.</p><p>Su función principal es <strong>centralizar</strong> toda la información del cliente en una sola base de datos, incluyendo:<br>• Historial de <strong>compras</strong>.<br>• <strong>Preferencias</strong> y <strong>comportamientos</strong>.<br>• <strong>Interacciones</strong> (email, llamadas, redes sociales).<br>• <strong>Notas</strong> del equipo de ventas y servicio.</p><p>Beneficios:<br>• <strong>Personalización</strong> de ofertas, mensajes y experiencias.<br>• <strong>Mejora del servicio al cliente</strong> (los agentes tienen toda la información).<br>• <strong>Mayor eficiencia</strong> en ventas y marketing.<br>• <strong>Identificación de oportunidades</strong> de venta cruzada y upselling.<br>• <strong>Mayor retención</strong> de clientes.</p><p>Un CRM moderno va más allá de un simple contacto; es una <strong>plataforma integral</strong> que integra marketing, ventas y servicio al cliente para crear una visión 360° del cliente.</p><p>Es una <strong>herramienta esencial</strong> para implementar una estrategia de marketing relacional efectiva.</p>"
+    },
+    {
+      "intro": "La lealtad del cliente es el resultado de una relación positiva y de alto valor. Los clientes leales no solo compran repetidamente, sino que también recomiendan la marca y son menos sensibles al precio. La lealtad se construye a través de la calidad del producto, el servicio excepcional, la confianza y la conexión emocional con la marca.",
+      "question": "8. ¿Qué caracteriza a un cliente leal?",
+      "options": [
+        "Solo compra cuando hay descuentos",
+        "Compra repetidamente, recomienda la marca y es menos sensible al precio",
+        "Cambia de marca frecuentemente",
+        "Nunca da su opinión"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>cliente leal</u> es aquel que tiene una <strong>relación positiva y duradera</strong> con una marca.</p><p>Se caracteriza por:<br>• <strong>Compras repetidas</strong> a lo largo del tiempo.<br>• <strong>Menor sensibilidad al precio</strong> (está dispuesto a pagar más por la marca que valora).<br>• <strong>Recomendaciones activas</strong> a amigos y familiares (boca en boca positivo).<br>• <strong>Resistencia a la competencia</strong> (no cambia fácilmente de marca).<br>• <strong>Disposición a dar feedback</strong> para ayudar a mejorar.</p><p>La lealtad no es solo <strong>frecuencia de compra</strong>, sino un <strong>compromiso emocional</strong> con la marca.</p><p>Se construye a través de:<br>• <strong>Calidad del producto</strong> y <strong>consistencia</strong>.<br>• <strong>Servicio al cliente excepcional</strong>.<br>• <strong>Confianza</strong> en la marca.<br>• <strong>Conexión emocional</strong> (valores compartidos, experiencias memorables).</p><p>Los clientes leales son <strong>los activos más valiosos</strong> de una empresa, ya que son más rentables y actúan como defensores de la marca.</p>"
+    },
+    {
+      "intro": "El marketing de contenidos es una estrategia que consiste en crear y distribuir información valiosa, relevante y consistente para atraer y retener a un público objetivo. No vende directamente, sino que educa, entretiene o ayuda al consumidor, construyendo confianza y autoridad. Con el tiempo, este valor atrae a clientes potenciales y fortalece la relación con los existentes.",
+      "question": "9. ¿Cuál es el objetivo del marketing de contenidos?",
+      "options": [
+        "Vender productos de forma directa",
+        "Crear publicidad intrusiva",
+        "Atraer y retener a un público mediante contenido valioso",
+        "Reducir costos de producción"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>El <u>marketing de contenidos</u> es una estrategia de <strong>marketing de atracción</strong> (inbound marketing) que consiste en <strong>crear y distribuir información valiosa, relevante y consistente</strong> para atraer, retener y convertir a un público objetivo.</p><p>Su objetivo no es <strong>vender directamente</strong>, sino <strong>construir relaciones</strong> mediante la entrega de valor.</p><p>Tipos de contenido:<br>• Blog posts<br>• Videos<br>• Podcasts<br>• Infografías<br>• eBooks<br>• Webinars</p><p>Beneficios:<br>• <strong>Atrae tráfico orgánico</strong> (especialmente mediante SEO).<br>• <strong>Establece autoridad</strong> y confianza en el mercado.<br>• <strong>Educa al cliente</strong> en su proceso de compra.<br>• <strong>Fomenta la lealtad</strong> y el engagement.<br>• <strong>Genera leads</strong> cualificados.</p><p>Es una estrategia de <strong>largo plazo</strong> que construye activos intangibles (tráfico, autoridad, comunidad).</p><p>Para ser efectivo, el contenido debe estar alineado con las <strong>necesidades y etapas del viaje del cliente</strong> (conciencia, consideración, decisión).</p>"
+    },
+    {
+      "intro": "El servicio al cliente es un componente clave de la experiencia del cliente y un poderoso generador de lealtad. Un servicio excepcional, personalizado y resolutivo puede convertir una experiencia negativa en una oportunidad para fortalecer la relación. Las empresas deben empoderar a sus empleados para resolver problemas de forma rápida y efectiva.",
+      "question": "10. ¿Cómo puede el servicio al cliente fortalecer la lealtad?",
+      "options": [
+        "Ignorando las quejas",
+        "Resolviendo problemas de forma rápida y efectiva, convirtiendo experiencias negativas en positivas",
+        "Haciendo que el proceso sea más lento",
+        "Reduciendo la calidad del producto"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>servicio al cliente</u> es un <strong>componente crítico</strong> de la experiencia del cliente y un <strong>generador poderoso de lealtad</strong>.</p><p>Un servicio <strong>excepcional</strong> puede:<br>• <strong>Convertir una experiencia negativa</strong> (como un producto defectuoso) <strong>en una oportunidad</strong> para fortalecer la relación.<br>• <strong>Generar sorpresa positiva</strong> y agradecimiento.<br>• <strong>Construir confianza</strong> y <strong>credibilidad</strong> en la marca.<br>• <strong>Diferenciar</strong> de la competencia cuando los productos son similares.</p><p>Características del servicio que fomenta la lealtad:<br>• <strong>Resolución rápida</strong> de problemas.<br>• <strong>Personalización</strong> (tratar al cliente por su nombre, conocer su historial).<br>• <strong>Empatía</strong> y <strong>escucha activa</strong>.<br>• <strong>Empoderamiento</strong> de los empleados para tomar decisiones sin supervisión.<br>• <strong>Seguimiento</strong> después de la resolución.</p><p>Estudios muestran que los clientes que tienen una queja resuelta de forma excelente <strong>son más leales</strong> que aquellos que nunca tuvieron problemas.</p><p>El servicio al cliente no es un <strong>costo</strong>, sino una <strong>inversión</strong> en la relación con el cliente.</p>"
+    },
+    {
+      "intro": "La confianza es la base de cualquier relación duradera, incluyendo la relación entre una marca y sus clientes. Se construye a través de la consistencia, la transparencia, la calidad y la integridad. Una vez perdida, es extremadamente difícil de recuperar. Las empresas deben actuar de forma ética y coherente en todos los puntos de contacto para ganar y mantener la confianza.",
+      "question": "11. ¿Cómo se construye la confianza con los clientes?",
+      "options": [
+        "Con publicidad engañosa",
+        "Con consistencia, transparencia y calidad",
+        "Ignorando sus quejas",
+        "Cambiar de producto frecuentemente"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>confianza</u> es la <strong>base fundamental</strong> de cualquier relación duradera, incluyendo la relación entre una marca y sus clientes.</p><p>Se construye a través de:<br>• <strong>Consistencia</strong>: cumplir con las promesas día tras día, en todos los canales.<br>• <strong>Transparencia</strong>: ser honesto sobre productos, precios, políticas y errores.<br>• <strong>Calidad</strong>: ofrecer productos y servicios que funcionen como se promete.<br>• <strong>Integridad</strong>: actuar de forma ética, incluso cuando nadie mira.<br>• <strong>Responsabilidad</strong>: asumir errores y corregirlos rápidamente.</p><p>Una vez <strong>perdida</strong>, la confianza es <strong>extremadamente difícil de recuperar</strong>. Una sola experiencia negativa puede destruir años de construcción de marca.</p><p>Factores que la destruyen:<br>• <strong>Publicidad engañosa</strong>.<br>• <strong>Productos defectuosos</strong> o no como se describen.<br>• <strong>Servicio al cliente deficiente</strong>.<br>• <strong>Falta de transparencia</strong> en precios o condiciones.<br>• <strong>Violaciones de privacidad</strong>.</p><p>Las empresas deben tratar la confianza como un <strong>activo intangible</strong> precioso y actuar de forma coherente en todos los puntos de contacto para ganarla y mantenerla.</p>"
+    },
+    {
+      "intro": "El marketing experiencial se centra en crear experiencias memorables y emocionales para el cliente que vayan más allá del producto o servicio. Busca conectar profundamente con el consumidor a través de eventos, interacciones sensoriales o servicios personalizados. Estas experiencias generan recuerdos positivos, fortalecen la relación con la marca y fomentan la lealtad.",
+      "question": "12. ¿Qué busca el marketing experiencial?",
+      "options": [
+        "Vender más productos",
+        "Crear experiencias memorables que conecten emocionalmente con el cliente",
+        "Reducir el precio",
+        "Aumentar la producción"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>marketing experiencial</u> busca <strong>crear experiencias memorables</strong> para el cliente que vayan más allá del producto o servicio.</p><p>Se centra en <strong>conectar emocionalmente</strong> con el consumidor a través de:<br>• <strong>Eventos interactivos</strong><br>• <strong>Interacciones sensoriales</strong> (vista, sonido, tacto, olfato)<br>• <strong>Servicios personalizados</strong><br>• <strong>Entornos inmersivos</strong></p><p>Busca que el cliente no solo compre, sino que <strong>viva una experiencia</strong> que recuerde positivamente.</p><p>Ejemplos:<br>• Pop-up stores interactivas.<br>• Eventos de lanzamiento con demostraciones.<br>• Programas de fidelización con beneficios exclusivos.<br>• Rutas de compra diseñadas para sorprender.</p><p>Estas experiencias:<br>• <strong>Fortalecen la relación</strong> con la marca.<br>• <strong>Generan engagement</strong> y contenido compartido.<br>• <strong>Fomentan la lealtad</strong> y el boca en boca.<br>• <strong>Diferencian</strong> en mercados saturados.</p><p>Es clave en un entorno donde los productos son cada vez más intercambiables y el valor emocional es un diferenciador clave.</p>"
+    },
+    {
+      "intro": "La comunicación personalizada es el envío de mensajes relevantes y específicos a individuos o segmentos pequeños, basados en sus datos y comportamientos. Gracias al big data y al CRM, las empresas pueden personalizar emails, ofertas, contenido y recomendaciones, lo que aumenta la relevancia, el engagement y la conversión.",
+      "question": "13. ¿Qué ventaja ofrece la comunicación personalizada?",
+      "options": [
+        "Mensajes genéricos para todos",
+        "Mayor relevancia, engagement y conversión",
+        "Mayor costo por contacto",
+        "Menor efectividad"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>comunicación personalizada</u> consiste en enviar <strong>mensajes relevantes y específicos</strong> a individuos o segmentos pequeños, basados en sus <strong>datos, preferencias y comportamientos</strong>.</p><p>Gracias al <strong>big data</strong> y al <strong>CRM</strong>, las empresas pueden personalizar:<br>• <strong>Emails</strong> (con nombre, productos recomendados).<br>• <strong>Ofertas</strong> (descuentos en productos que ha visto).<br>• <strong>Contenido</strong> en sitios web y apps.<br>• <strong>Recomendaciones</strong> (como en Amazon o Netflix).</p><p>Ventajas:<br>• <strong>Mayor relevancia</strong>: el mensaje llega al cliente en el momento adecuado con la oferta adecuada.<br>• <strong>Mayor engagement</strong>: los clientes abren más emails y hacen clic más veces.<br>• <strong>Mayor conversión</strong>: tasas de compra más altas.<br>• <strong>Mejor experiencia del cliente</strong>: se siente comprendido y valorado.<br>• <strong>Mayor eficiencia</strong> del presupuesto de marketing.</p><p>La personalización va desde lo simple (usar el nombre) hasta lo avanzado (modelos predictivos de comportamiento).</p><p>Es una <strong>expectativa del consumidor</strong> moderno: espera que las marcas conozcan sus preferencias.</p>"
+    },
+    {
+      "intro": "La responsabilidad social empresarial (RSE) en el marketing implica considerar el impacto social y ambiental de las decisiones de marketing. Las empresas deben actuar de forma ética, respetar al consumidor y contribuir al bienestar social. La RSE no solo es un deber, sino una oportunidad para construir confianza, lealtad y reputación, especialmente entre los consumidores más jóvenes.",
+      "question": "14. ¿Qué implica la responsabilidad social en el marketing?",
+      "options": [
+        "Ignorar el impacto ambiental",
+        "Actuar de forma ética y contribuir al bienestar social",
+        "Solo maximizar ganancias",
+        "No respetar al consumidor"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>responsabilidad social empresarial (RSE)</u> en el marketing implica que las empresas <strong>tomen decisiones éticas</strong> y consideren el <strong>impacto social y ambiental</strong> de sus acciones.</p><p>Principios:<br>• <strong>Ética</strong>: honestidad, transparencia, no engañar al consumidor.<br>• <strong>Respeto al consumidor</strong>: privacidad, seguridad del producto, prácticas justas.<br>• <strong>Sostenibilidad ambiental</strong>: reducir huella de carbono, uso responsable de recursos.<br>• <strong>Contribución al bienestar social</strong>: apoyar comunidades, causas sociales.</p><p>No es solo un <strong>deber moral</strong>, sino una <strong>oportunidad estratégica</strong>:<br>• <strong>Construye confianza</strong> y reputación.<br>• <strong>Atrae y fideliza</strong> a consumidores conscientes (especialmente jóvenes).<br>• <strong>Diferencia</strong> de competidores.<br>• <strong>Reduce riesgos</strong> legales y de imagen.</p><p>La RSE debe estar integrada en la estrategia, no ser solo una campaña de imagen.</p><p>Los consumidores modernos <strong>investigan</strong> a las marcas y prefieren apoyar a empresas que comparten sus valores.</p>"
+    },
+    {
+      "intro": "La innovación en el marketing es esencial para mantener la relevancia y la ventaja competitiva. Implica crear nuevas formas de generar valor para el cliente, ya sea mediante nuevos productos, modelos de negocio, canales de distribución o formas de comunicación. Las empresas que innovan en marketing se adaptan mejor a los cambios y construyen relaciones más fuertes con sus clientes.",
+      "question": "15. ¿Por qué es importante la innovación en el marketing?",
+      "options": [
+        "Porque el mercado nunca cambia",
+        "Para crear nuevas formas de generar valor y ganar ventaja competitiva",
+        "Porque los clientes no cambian",
+        "Para mantener los mismos productos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>innovación en el marketing</u> es esencial para <strong>crear nuevas formas de generar valor</strong> para el cliente y <strong>ganar ventaja competitiva</strong>.</p><p>Puede manifestarse en:<br>• <strong>Nuevos productos o servicios</strong>.<br>• <strong>Nuevos modelos de negocio</strong> (ej. suscripción, plataformas).<br>• <strong>Nuevos canales de distribución</strong> (ej. e-commerce, marketplaces).<br>• <strong>Nuevas formas de comunicación</strong> (ej. marketing de influencers, realidad aumentada).<br>• <strong>Nuevas experiencias de cliente</strong>.</p><p>Beneficios:<br>• <strong>Adaptación</strong> a cambios en el entorno.<br>• <strong>Diferenciación</strong> de la competencia.<br>• <strong>Acceso a nuevos mercados</strong>.<br>• <strong>Mayor lealtad</strong> del cliente.<br>• <strong>Mayor rentabilidad</strong>.</p><p>Las empresas que no innovan corren el riesgo de volverse <strong>obsoletas</strong> frente a competidores más ágiles y centrados en el cliente.</p><p>La innovación debe ser <strong>sistemática</strong>, no solo ocasional, y debe estar alineada con la propuesta de valor y la estrategia de la empresa.</p>"
+    }
+  ]
+}
