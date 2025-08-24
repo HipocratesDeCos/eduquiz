@@ -63,4 +63,124 @@
       "saber_mas": "<p>Los <u>datos primarios</u> se recogen <strong>directamente</strong> por la empresa o un investigador para <strong>un propósito específico</strong>.</p><p>Métodos:<br>• <strong>Encuestas</strong> (online, telefónicas, personales).<br>• <strong>Entrevistas en profundidad</strong>.<br>• <strong>Grupos focales</strong>.<br>• <strong>Observación</strong> (comportamiento en tiendas).<br>• <strong>Experimentos</strong> (pruebas A/B).</p><p>Ventajas: <strong>Altamente relevantes y actuales</strong>.<br>Desventajas: <strong>Costosos y lentos</strong> de recolectar.</p><p>Los <u>datos secundarios</u> son <strong>información ya existente</strong> recopilada para otro propósito.</p><p>Fuentes:<br>• Informes gubernamentales (INE, Eurostat).<br>• Estudios de mercado (Nielsen, Kantar).<br>• Bases de datos comerciales (Statista, Euromonitor).<br>• Publicaciones académicas.</p><p>Ventajas: <strong>Rápidos y económicos</strong>.<br>Desventajas: Pueden no ser <strong>completos o actuales</strong> para el problema específico.</p><p>Se recomienda usar ambos: <strong>secundarios para contexto</strong>, <strong>primarios para profundizar</strong>.</p>"
     },
     {
-      "intro": "El muestreo es el proceso de seleccionar un subconjunto representativo de la población para estudiar. Un buen diseño de muestreo asegura que los resultados
+      "intro": "El muestreo es el proceso de seleccionar un subconjunto representativo de la población para estudiar. Un buen diseño de muestreo asegura que los resultados del estudio puedan generalizarse a toda la población. Los tipos de muestreo incluyen probabilístico (aleatorio, estratificado, por conglomerados) y no probabilístico (por conveniencia, juicio, cuotas). El tamaño de la muestra afecta la precisión de los resultados.",
+      "question": "6. ¿Por qué es importante un buen diseño de muestreo?",
+      "options": [
+        "Para que el estudio sea más largo",
+        "Para asegurar que los resultados sean representativos de la población",
+        "Para usar solo datos secundarios",
+        "Para reducir la calidad"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>muestreo</u> es el proceso de seleccionar un <strong>subconjunto (muestra)</strong> de individuos, empresas u objetos de una <strong>población más amplia</strong> para estudiar.</p><p>Un <strong>buen diseño de muestreo</strong> es crucial para que los resultados del estudio <strong>puedan generalizarse</strong> a toda la población con un nivel de confianza aceptable.</p><p>Tipos de muestreo:<br>• <strong>Probabilístico</strong>: cada miembro de la población tiene una <strong>probabilidad conocida</strong> de ser seleccionado.<br>  – Aleatorio simple<br>  – Estratificado (por segmentos)<br>  – Por conglomerados (por grupos geográficos)<br>• <strong>No probabilístico</strong>: selección basada en conveniencia, juicio o cuotas.<br>  – Por conveniencia (ej. encuestar en la calle)<br>  – Por juicio (expertos eligen)<br>  – Por cuotas (proporciones predefinidas)</p><p>El <strong>tamaño de la muestra</strong> afecta la <strong>precisión</strong>: mayor tamaño, menor margen de error.<br>El <strong>tipo de muestreo</strong> afecta la <strong>validez</strong>: los probabilísticos permiten inferencias estadísticas más robustas.</p>"
+    },
+    {
+      "intro": "Los pronósticos de la demanda son estimaciones del volumen de ventas esperado en un periodo futuro. Son fundamentales para la planificación de la producción, el presupuesto, la gestión de inventarios y la asignación de recursos. Los métodos de pronóstico incluyen cualitativos (opinión de expertos, método Delphi) y cuantitativos (series de tiempo, regresión). La precisión del pronóstico depende de la calidad de los datos y la estabilidad del entorno.",
+      "question": "7. ¿Por qué son importantes los pronósticos de demanda?",
+      "options": [
+        "Para reducir la calidad del producto",
+        "Para planificar producción, presupuesto e inventarios",
+        "Para ignorar el mercado",
+        "Para eliminar la competencia"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Los <u>pronósticos de demanda</u> son <strong>estimaciones del volumen de ventas</strong> que una empresa espera alcanzar en un periodo futuro (mes, trimestre, año).</p><p>Son <strong>fundamentales</strong> para:<br>• <strong>Planificación de la producción</strong>: evitar faltantes o excesos.<br>• <strong>Presupuesto</strong>: estimar ingresos y gastos.<br>• <strong>Gestión de inventarios</strong>: optimizar niveles de stock.<br>• <strong>Asignación de recursos</strong>: personal, marketing, logística.<br>• <strong>Evaluar viabilidad</strong> de nuevos productos o mercados.</p><p>Métodos:<br>• <strong>Cualitativos</strong>: basados en juicio.<br>  – Opinión de expertos<br>  – Método Delphi<br>  – Analogías históricas<br>• <strong>Cuantitativos</strong>: basados en datos históricos.<br>  – Series de tiempo (tendencia, estacionalidad)<br>  – Regresión (relación con variables como precio, publicidad)</p><p>La <strong>precisión</strong> depende de la <strong>calidad de los datos</strong> y la <strong>estabilidad del entorno</strong>.<br>En mercados volátiles, los pronósticos deben revisarse frecuentemente.</p>"
+    },
+    {
+      "intro": "El método Delphi es una técnica de pronóstico cualitativo que utiliza un panel de expertos que responden a cuestionarios de forma anónima y en rondas sucesivas. Después de cada ronda, se les proporciona un resumen de las respuestas del grupo, lo que les permite ajustar sus opiniones. El proceso continúa hasta alcanzar un consenso o una convergencia de opiniones.",
+      "question": "8. ¿Cómo funciona el método Delphi?",
+      "options": [
+        "Reúne a expertos en una sala",
+        "Usa un panel de expertos que responden anónimamente en rondas sucesivas",
+        "Es un método cuantitativo",
+        "No requiere expertos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>método Delphi</u> es una técnica de <strong>pronóstico cualitativo</strong> que busca alcanzar un <strong>consenso</strong> entre un <strong>panel de expertos</strong> a través de rondas sucesivas de cuestionarios.</p><p>Características:<br>• Los expertos responden <strong>de forma anónima</strong> (no se influyen entre sí).<br>• Después de cada ronda, se les proporciona un <strong>resumen estadístico</strong> de las respuestas del grupo (media, rango).<br>• Pueden <strong>revisar y ajustar</strong> sus respuestas en la siguiente ronda.<br>• El proceso continúa hasta que se alcanza un <strong>grado de consenso</strong> o estabilidad en las respuestas.</p><p>Ventajas:<br>• Evita la <strong>dominación de opiniones</strong> en reuniones grupales.<br>• Permite <strong>reflexión individual</strong>.<br>• Aprovecha el <strong>conocimiento colectivo</strong> de expertos.</p><p>Se usa cuando:<br>• Hay <strong>poca información cuantitativa</strong> disponible.<br>• El problema es <strong>complejo o incierto</strong> (ej. tecnologías emergentes).<br>• Se necesita <strong>juicio experto</strong>.</p>"
+    },
+    {
+      "intro": "La demanda total del mercado es la suma de todas las demandas individuales de los consumidores potenciales para un producto o servicio en un periodo determinado. Depende de factores como el tamaño del mercado, el poder adquisitivo, las preferencias y el entorno competitivo. Estimar la demanda total es clave para evaluar el potencial de un mercado antes de entrar o lanzar un nuevo producto.",
+      "question": "9. ¿Qué determina la demanda total del mercado?",
+      "options": [
+        "Solo el precio",
+        "El tamaño del mercado, el poder adquisitivo y las preferencias",
+        "Solo la publicidad",
+        "El número de competidores"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>demanda total del mercado</u> es la <strong>suma de todas las demandas individuales</strong> de los consumidores potenciales para un producto o servicio en un periodo y región específicos.</p><p>Depende de:<br>• <strong>Tamaño del mercado</strong>: número de consumidores potenciales.<br>• <strong>Poder adquisitivo</strong>: ingresos, empleo, acceso al crédito.<br>• <strong>Preferencias y necesidades</strong>: cultura, valores, estilo de vida.<br>• <strong>Factores económicos</strong>: inflación, tasa de interés.<br>• <strong>Entorno competitivo</strong>: precios, calidad, innovación de competidores.<br>• <strong>Factores sociales y tecnológicos</strong>.</p><p>Estimar la demanda total es clave para:<br>• <strong>Evaluar el potencial</strong> de un mercado antes de entrar.<br>• <strong>Tomar decisiones de inversión</strong> en producción o distribución.<br>• <strong>Lanzar nuevos productos</strong> con mayor probabilidad de éxito.<br>• <strong>Asignar recursos</strong> de marketing de forma eficiente.</p><p>Se puede estimar mediante datos secundarios, estudios de mercado o modelos econométricos.</p>"
+    },
+    {
+      "intro": "La cuota de mercado es el porcentaje de las ventas totales de un mercado que una empresa capta con sus productos. Es un indicador clave del desempeño competitivo. Una cuota creciente indica fortaleza de la marca y efectividad de la estrategia de marketing. Sin embargo, debe analizarse junto con la rentabilidad, ya que una alta cuota no siempre significa altos beneficios.",
+      "question": "10. ¿Qué mide la cuota de mercado?",
+      "options": [
+        "El número de empleados",
+        "El porcentaje de ventas totales del mercado que capta una empresa",
+        "El costo de producción",
+        "El precio de lista"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>cuota de mercado</u> es el <strong>porcentaje de las ventas totales</strong> de un mercado que una empresa capta con sus productos o servicios durante un periodo determinado.</p><p>Se puede medir en términos de:<br>• <strong>Valor</strong> (ingresos).<br>• <strong>Volumen</strong> (unidades vendidas).<br>• <strong>Número de clientes</strong>.</p><p>Es un <strong>indicador clave</strong> del desempeño competitivo:<br>• Una <strong>cuota creciente</strong> indica fortaleza de la marca, efectividad del marketing y satisfacción del cliente.<br>• Una <strong>cuota decreciente</strong> puede señalar problemas con el producto, precio o competencia.</p><p>Sin embargo, debe analizarse junto con la <strong>rentabilidad</strong>:<br>• Una empresa puede tener <strong>alta cuota</strong> pero <strong>bajos beneficios</strong> si compite solo por precio.<br>• O <strong>baja cuota</strong> pero <strong>alta rentabilidad</strong> si se enfoca en nichos premium.</p><p>Es fundamental para evaluar el éxito de la estrategia y tomar decisiones de inversión.</p>"
+    },
+    {
+      "intro": "El análisis de la demanda individual estudia cómo factores como el precio, el ingreso, la publicidad y las preferencias afectan la cantidad que un consumidor está dispuesto a comprar. La elasticidad de la demanda mide la sensibilidad de la cantidad demandada ante cambios en estas variables. Por ejemplo, una demanda elástica significa que un pequeño cambio de precio provoca un gran cambio en la cantidad demandada.",
+      "question": "11. ¿Qué mide la elasticidad de la demanda?",
+      "options": [
+        "La velocidad de entrega",
+        "La sensibilidad de la cantidad demandada ante cambios en el precio o ingreso",
+        "El costo de producción",
+        "La calidad del producto"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>elasticidad de la demanda</u> mide la <strong>sensibilidad</strong> de la <strong>cantidad demandada</strong> de un bien o servicio ante cambios en otras variables.</p><p>Tipos clave:<br>• <strong>Elasticidad-precio</strong>: cambio en la cantidad demandada ante un cambio en el precio.<br>  – Si |elasticidad| > 1: <strong>demanda elástica</strong> (sensible al precio).<br>  – Si |elasticidad| < 1: <strong>demanda inelástica</strong> (poco sensible al precio).<br>• <strong>Elasticidad-ingreso</strong>: cambio en la cantidad demandada ante un cambio en el ingreso.<br>  – Bienes normales: elasticidad > 0.<br>  – Bienes inferiores: elasticidad < 0.<br>• <strong>Elasticidad-cruzada</strong>: cambio en la demanda de un bien ante un cambio en el precio de otro bien.<br>  – Bienes sustitutos: elasticidad > 0.<br>  – Bienes complementarios: elasticidad < 0.</p><p>Importancia:<br>• Ayuda a <strong>fijar precios</strong> (subir precios si la demanda es inelástica).<br>• Evalúa el <strong>impacto de la publicidad</strong>.<br>• Predice el <strong>efecto de cambios económicos</strong> (recesión, inflación).</p><p>Se estima mediante datos históricos o experimentos de mercado.</p>"
+    },
+    {
+      "intro": "Los pronósticos por series de tiempo analizan datos históricos de ventas para identificar patrones como tendencia, estacionalidad, ciclos y variaciones aleatorias. Métodos comunes incluyen promedios móviles, suavizamiento exponencial y descomposición. Son útiles cuando el entorno es relativamente estable y hay datos históricos confiables.",
+      "question": "12. ¿Qué patrones identifican los pronósticos por series de tiempo?",
+      "options": [
+        "Color, forma y tamaño",
+        "Tendencia, estacionalidad, ciclos y variaciones aleatorias",
+        "Solo el precio",
+        "Solo la publicidad"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Los <u>pronósticos por series de tiempo</u> analizan <strong>datos históricos de ventas</strong> (o demanda) a lo largo del tiempo para identificar patrones y proyectarlos al futuro.</p><p>Patrones clave:<br>• <strong>Tendencia</strong>: movimiento general a largo plazo (crecimiento o declive).<br>• <strong>Estacionalidad</strong>: fluctuaciones regulares y predecibles dentro de un año (ej. ventas navideñas).<br>• <strong>Ciclos</strong>: fluctuaciones de largo plazo relacionadas con el ciclo económico (recesión, expansión).<br>• <strong>Variaciones aleatorias</strong>: cambios impredecibles debido a eventos fortuitos (crisis, desastres).</p><p>Métodos comunes:<br>• <strong>Promedios móviles</strong>: promedio de los últimos 'n' periodos.<br>• <strong>Suavizamiento exponencial</strong>: da más peso a datos recientes.<br>• <strong>Descomposición</strong>: separa la serie en sus componentes (tendencia, estacionalidad, etc.).</p><p>Ventajas:<br>• <strong>Sencillos</strong> de implementar.<br>• <strong>Objetivos</strong> (basados en datos).<br>• Efectivos en mercados <strong>estables</strong> con datos históricos confiables.</p><p>Limitaciones:<br>• No consideran <strong>factores externos</strong> (precio, competencia, publicidad).<br>• Pueden fallar en entornos <strong>volátiles</strong> o con cambios estructurales.</p>"
+    },
+    {
+      "intro": "La investigación cualitativa busca comprender las motivaciones, actitudes y comportamientos de los consumidores a través de métodos como entrevistas en profundidad, grupos focales y observación. Proporciona insights profundos y ricos, pero no es estadísticamente generalizable. Es ideal para explorar nuevos conceptos, probar mensajes publicitarios o entender el significado emocional de una marca.",
+      "question": "13. ¿Cuál es el objetivo de la investigación cualitativa?",
+      "options": [
+        "Obtener datos estadísticos precisos",
+        "Comprender las motivaciones y actitudes de los consumidores",
+        "Calcular la cuota de mercado",
+        "Medir la rentabilidad"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>investigación cualitativa</u> busca <strong>comprender en profundidad</strong> las <strong>motivaciones, actitudes, emociones y comportamientos</strong> de los consumidores.</p><p>Métodos:<br>• <strong>Entrevistas en profundidad</strong>: conversaciones individuales y abiertas.<br>• <strong>Grupos focales</strong>: discusiones moderadas con 6-10 participantes.<br>• <strong>Observación</strong>: estudiar el comportamiento en contextos naturales (tiendas, hogares).<br>• <strong>Etnografía</strong>: inmersión en el entorno del consumidor.</p><p>Ventajas:<br>• Proporciona <strong>insights ricos y profundos</strong>.<br>• Revela <strong>razones ocultas</strong> detrás de las decisiones de compra.<br>• Ideal para <strong>explorar nuevos conceptos</strong> o probar mensajes publicitarios.<br>• Ayuda a <strong>formular hipótesis</strong> para investigación cuantitativa.</p><p>Limitaciones:<br>• No es <strong>estadísticamente generalizable</strong> (muestras pequeñas).<br>• Puede estar influenciada por el moderador o participantes.<br>• Más <strong>subjetiva</strong> que la investigación cuantitativa.</p><p>Se usa en etapas <strong>iniciales</strong> del proceso de desarrollo de productos o campañas.</p>"
+    },
+    {
+      "intro": "La investigación cuantitativa mide variables de marketing mediante métodos estructurados, como encuestas con grandes muestras. Permite generalizar los resultados a la población total y realizar análisis estadísticos. Es ideal para medir la satisfacción del cliente, la intención de compra, la imagen de marca o la efectividad de una campaña publicitaria.",
+      "question": "14. ¿Qué permite la investigación cuantitativa?",
+      "options": [
+        "Entender emociones profundas",
+        "Medir variables y generalizar resultados a la población",
+        "Explorar conceptos sin estructura",
+        "Observar comportamientos en secreto"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>investigación cuantitativa</u> mide <strong>variables de marketing</strong> de forma <strong>estructurada y numérica</strong>, utilizando métodos como encuestas, cuestionarios o análisis de datos.</p><p>Características:<br>• Muestras <strong>grandes y representativas</strong>.<br>• Datos <strong>numéricos</strong> que se pueden analizar estadísticamente.<br>• Resultados <strong>generalizables</strong> a la población total.<br>• Enfoque <strong>objetivo y sistemático</strong>.</p><p>Permite:<br>• <strong>Medir</strong> la satisfacción del cliente, la intención de compra, la imagen de marca.<br>• <strong>Calcular</strong> cuotas de mercado, penetración, frecuencia de compra.<br>• <strong>Evaluar</strong> la efectividad de campañas publicitarias.<br>• <strong>Identificar</strong> correlaciones entre variables (ej. precio y demanda).<br>• <strong>Proyectar</strong> ventas o demanda futura.</p><p>Métodos:<br>• Encuestas online, telefónicas o personales.<br>• Análisis de datos de transacciones.<br>• Pruebas A/B (experimentos controlados).</p><p>Es ideal en etapas <strong>posteriores</strong> del proceso, cuando se necesita <strong>evidencia numérica</strong> para tomar decisiones.</p>"
+    },
+    {
+      "intro": "El análisis de la competencia implica identificar a los principales competidores, evaluar sus estrategias, fortalezas, debilidades y cuota de mercado. Permite a la empresa posicionar su oferta de manera diferenciada y anticipar movimientos de la competencia. Herramientas como el análisis de la cartera de productos o el mapa de posicionamiento ayudan a visualizar la competencia.",
+      "question": "15. ¿Qué beneficio aporta el análisis de la competencia?",
+      "options": [
+        "Ignorar a los competidores",
+        "Posicionar la oferta de manera diferenciada y anticipar movimientos",
+        "Reducir la calidad del producto",
+        "Aumentar los precios sin justificación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>análisis de la competencia</u> es el proceso de <strong>identificar</strong> a los principales competidores y <strong>evaluar</strong> sus objetivos, estrategias, fortalezas, debilidades y cuota de mercado.</p><p>Beneficios:<br>• Permite <strong>posicionar la oferta</strong> de manera <strong>diferenciada</strong> y competitiva.<br>• Ayuda a <strong>anticipar movimientos</strong> de la competencia (lanzamientos, precios).<br>• Identifica <strong>oportunidades</strong> (nichos no atendidos) y <strong>amenazas</strong> (nuevos entrantes).<br>• Sirve como <strong>referencia</strong> para mejorar productos, precios o servicios.<br>• Informa la <strong>estrategia de marketing</strong> y la asignación de recursos.</p><p>Herramientas útiles:<br>• <strong>Mapa de posicionamiento</strong>: visualiza cómo los competidores se perciben en el mercado según dos dimensiones (ej. precio y calidad).<br>• <strong>Análisis de la cartera de productos</strong>: compara el portafolio de productos de la empresa con la competencia.<br>• <strong>Matriz de competencia</strong>: evalúa múltiples factores (marca, distribución, innovación).</p><p>Debe ser <strong>continuo</strong>, no un ejercicio ocasional.</p>"
+    }
+  ]
+}
