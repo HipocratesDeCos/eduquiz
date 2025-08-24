@@ -1,0 +1,186 @@
+{
+  "title": "Desarrollo de Estrategias y Planes de Marketing",
+  "description": "Quiz sobre la planificación estratégica, el análisis del entorno, la definición de objetivos y la elaboración del plan de marketing.",
+  "questions": [
+    {
+      "intro": "La planificación estratégica es el proceso de desarrollar y mantener una estrategia que alinee los objetivos y capacidades de la empresa con las oportunidades del mercado. Implica definir la misión, establecer objetivos, diseñar una cartera de negocios y desarrollar planes funcionales, como el plan de marketing. Una buena planificación permite a la empresa anticipar cambios y tomar decisiones proactivas.",
+      "question": "1. ¿Qué es la planificación estratégica?",
+      "options": [
+        "Un informe anual de ventas",
+        "El proceso de alinear objetivos y capacidades con oportunidades del mercado",
+        "La creación de publicidad",
+        "La gestión diaria de la empresa"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>planificación estratégica</u> es el proceso de <strong>desarrollar y mantener una estrategia</strong> que alinee los <strong>objetivos y capacidades</strong> de la empresa con las <strong>oportunidades del mercado</strong>.</p><p>Incluye:<br>• Definir la <strong>misión</strong> y <strong>visión</strong> de la empresa.<br>• Establecer <strong>objetivos estratégicos</strong> a largo plazo.<br>• Diseñar una <strong>cartera de negocios</strong> (qué negocios debe tener la empresa).<br>• Desarrollar <strong>planes funcionales</strong> (marketing, finanzas, operaciones).</p><p>Permite a la empresa:<br>• <strong>Anticipar cambios</strong> en el entorno.<br>• <strong>Tomar decisiones proactivas</strong> en lugar de reactivas.<br>• <strong>Asignar recursos</strong> de forma eficiente.<br>• <strong>Coordinar</strong> a toda la organización hacia un mismo fin.</p><p>Es un proceso continuo, no un evento anual.</p>"
+    },
+    {
+      "intro": "La misión de una empresa es una declaración que define su propósito fundamental: qué hace, para quién lo hace y cómo lo hace. Debe ser clara, inspiradora y orientada al cliente. Una buena misión guía las decisiones estratégicas y ayuda a alinear a los empleados con los valores de la organización.",
+      "question": "2. ¿Qué debe incluir una buena misión empresarial?",
+      "options": [
+        "Solo el nombre de la empresa",
+        "Qué hace, para quién y cómo lo hace",
+        "Solo los productos que vende",
+        "El precio de sus productos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>mision de una empresa</u> es una declaracion que define su <strong>proposito fundamental</strong>: <strong>que hace, para quien lo hace y como lo hace</strong>.</p><p>Debe ser:<br>• <strong>Clara</strong>: facil de entender.<br>• <strong>Inspiradora</strong>: motivar a empleados y stakeholders.<br>• <strong>Orientada al cliente</strong>: centrada en el valor que se crea para el cliente.</p><p>Ejemplo de Amazon: <em>“Ser la empresa más centrada en el cliente del mundo”</em>.</p><p>Una buena mision:<br>• <strong>Guia las decisiones estrategicas</strong>.<br>• <strong>Alinea a los empleados</strong> con los valores de la organizacion.<br>• <strong>Comunica la identidad</strong> de la empresa a clientes y socios.<br>• <strong>Diferencia</strong> de la competencia.</p><p>No debe ser demasiado amplia ni demasiado restrictiva.</p>"
+    },
+    {
+      "intro": "Los objetivos de marketing deben ser SMART: Específicos, Medibles, Alcanzables, Relevantes y Temporales. Por ejemplo, “aumentar las ventas un 10% en el próximo año” es un objetivo claro y medible. Los objetivos guían la estrategia y permiten evaluar el éxito del plan de marketing.",
+      "question": "3. ¿Qué significa que un objetivo sea SMART?",
+      "options": [
+        "Simple, Mágico, Ambicioso, Realista, Temporal",
+        "Específico, Medible, Alcanzable, Relevante, Temporal",
+        "Sencillo, Múltiple, Atractivo, Real, Total",
+        "Sin costo, Mínimo, Asequible, Rápido, Total"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Los <u>objetivos de marketing</u> deben cumplir con el criterio <strong>SMART</strong>:</p><p>• <strong>Específico</strong>: claro y concreto (¿qué se quiere lograr?).<br>• <strong>Medible</strong>: cuantificable para evaluar el progreso.<br>• <strong>Alcanzable</strong>: realista y factible con los recursos disponibles.<br>• <strong>Relevante</strong>: alineado con los objetivos generales de la empresa.<br>• <strong>Temporal</strong>: con un plazo definido (¿para cuándo?).</p><p>Ejemplo: <em>“Aumentar las ventas de la línea de productos ecológicos en un 15% durante el próximo año fiscal”</em>.</p><p>Objetivos no SMART: <em>“Vender más”</em> o <em>“Ser líder del mercado”</em> (vagos, no medibles).</p><p>Los objetivos SMART:<br>• <strong>Guían la estrategia</strong>.<br>• <strong>Facilitan la asignación de recursos</strong>.<br>• <strong>Permiten evaluar el éxito</strong> del plan de marketing.</p>"
+    },
+    {
+      "intro": "El análisis FODA (o SWOT) evalúa las Fortalezas, Oportunidades, Debilidades y Amenazas de una empresa. Las fortalezas y debilidades son internas (recursos, capacidades), mientras que las oportunidades y amenazas son externas (mercado, competencia, entorno). Este análisis ayuda a formular estrategias que aprovechen fortalezas y oportunidades, y mitiguen debilidades y amenazas.",
+      "question": "4. ¿Qué evalúa el análisis FODA?",
+      "options": [
+        "Solo los ingresos de la empresa",
+        "Fortalezas, Oportunidades, Debilidades y Amenazas",
+        "Solo la competencia",
+        "Solo los costos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>análisis FODA</u> (o SWOT, por sus siglas en inglés) evalúa cuatro aspectos clave de la empresa:</p><p>• <strong>Fortalezas</strong>: capacidades internas que dan ventaja competitiva (marca fuerte, tecnología, eficiencia).<br>• <strong>Debilidades</strong>: limitaciones internas que la empresa debe mejorar (falta de recursos, mala reputación).<br>• <strong>Oportunidades</strong>: factores externos que la empresa puede aprovechar (crecimiento del mercado, nuevas tecnologías).<br>• <strong>Amenazas</strong>: factores externos que pueden perjudicar a la empresa (competencia, cambios regulatorios, recesión).</p><p>Fortalezas y debilidades son <strong>internas</strong>. Oportunidades y amenazas son <strong>externas</strong>.</p><p>El análisis ayuda a formular estrategias como:<br>• <strong>Fortaleza-Oportunidad</strong>: aprovechar fortalezas para captar oportunidades.<br>• <strong>Debilidad-Amenaza</strong>: mitigar debilidades para enfrentar amenazas.</p><p>Es una herramienta fundamental en la planificación estratégica.</p>"
+    },
+    {
+      "intro": "La matriz BCG (Boston Consulting Group) es una herramienta de análisis de cartera que clasifica los negocios o productos de una empresa en cuatro categorías: Estrellas, Vacas Lecheras, Interrogantes y Perros. Se basa en la participación de mercado y el crecimiento del mercado. Ayuda a decidir dónde invertir, mantener, desinvertir o liquidar.",
+      "question": "5. ¿Qué dimensiones utiliza la matriz BCG?",
+      "options": [
+        "Precio y calidad",
+        "Participación de mercado y crecimiento del mercado",
+        "Costo y beneficio",
+        "Publicidad y ventas"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>matriz BCG</u> (Boston Consulting Group) es una herramienta de <strong>análisis de cartera</strong> que clasifica los negocios o productos de una empresa en cuatro categorías:</p><p>• <strong>Estrellas</strong>: alta participación de mercado, alto crecimiento. Requieren inversión para mantener liderazgo.<br>• <strong>Vacas Lecheras</strong>: alta participación, bajo crecimiento. Generan efectivo que se puede reinvertir.<br>• <strong>Interrogantes</strong>: baja participación, alto crecimiento. Requieren decisión: invertir para ganar participación o desinvertir.<br>• <strong>Perros</strong>: baja participación, bajo crecimiento. Poco atractivos; se considera desinvertir o liquidar.</p><p>Dimensiones:<br>• <strong>Eje X</strong>: participación relativa de mercado (logarítmica).<br>• <strong>Eje Y</strong>: tasa de crecimiento del mercado.</p><p>Ayuda a:<br>• <strong>Asignar recursos</strong> de forma estratégica.<br>• <strong>Equilibrar</strong> la cartera (efectivo de vacas para invertir en estrellas e interrogantes).<br>• <strong>Tomar decisiones</strong> sobre desinversión.</p>"
+    },
+    {
+      "intro": "El plan de marketing es un documento que detalla cómo la empresa alcanzará sus objetivos de marketing. Incluye el análisis de la situación, objetivos, estrategia (segmentación, targeting, posicionamiento), mix de marketing (4P), presupuesto y control. Es una guía para la acción y un instrumento de comunicación con otros departamentos.",
+      "question": "6. ¿Qué incluye un plan de marketing?",
+      "options": [
+        "Solo publicidad",
+        "Análisis, objetivos, estrategia, mix de marketing, presupuesto y control",
+        "Solo el precio de los productos",
+        "Solo el nombre de los productos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>plan de marketing</u> es un documento estratégico que detalla <strong>cómo la empresa alcanzará sus objetivos de marketing</strong>.</p><p>Componentes clave:<br>• <strong>Análisis de la situación</strong>: FODA, mercado, competencia, desempeño pasado.<br>• <strong>Objetivos</strong>: SMART (específicos, medibles, etc.).<br>• <strong>Estrategia</strong>: STP (segmentación, targeting, posicionamiento).<br>• <strong>Mix de marketing (4P)</strong>: Producto, Precio, Plaza (distribución), Promoción.<br>• <strong>Presupuesto</strong>: asignación de recursos.<br>• <strong>Control</strong>: métricas, cronograma, responsables.</p><p>Funciones:<br>• <strong>Guía para la acción</strong> del equipo de marketing.<br>• <strong>Instrumento de comunicación</strong> con otros departamentos (ventas, finanzas).<br>• <strong>Marco de evaluación</strong> del desempeño.</p><p>Debe ser claro, realista y adaptable a cambios en el entorno.</p>"
+    },
+    {
+      "intro": "El STP (Segmentación, Targeting, Posicionamiento) es el núcleo de la estrategia de marketing. Primero se segmenta el mercado, luego se selecciona el segmento objetivo (targeting) y finalmente se define cómo la marca se posicionará en la mente del consumidor. Este proceso permite una estrategia más precisa y efectiva que el marketing de masa.",
+      "question": "7. ¿Qué significa STP en marketing?",
+      "options": [
+        "Servicio, Tiempo, Precio",
+        "Segmentación, Targeting, Posicionamiento",
+        "Satisfacción, Tasa, Producto",
+        "Solo, Todo, Permanente"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>STP</u> es el núcleo de la <strong>estrategia de marketing</strong> y consta de tres etapas:</p><p>1. <strong>Segmentación</strong>: dividir el mercado en grupos homogéneos según características comunes (geográficas, demográficas, psicográficas, conductuales).</p><p>2. <strong>Targeting</strong> (selección del mercado objetivo): evaluar los segmentos y elegir uno o más a los que dirigir la oferta. Criterios: tamaño, crecimiento, accesibilidad, compatibilidad con capacidades de la empresa.</p><p>3. <strong>Posicionamiento</strong>: diseñar la oferta y la imagen de la marca para ocupar un lugar claro y distinto en la mente del consumidor objetivo.</p><p>Ventajas frente al marketing de masa:<br>• <strong>Ofertas más relevantes</strong>.<br>• <strong>Mayor eficiencia</strong> en el uso de recursos.<br>• <strong>Mejor relación con el cliente</strong>.<br>• <strong>Diferenciación competitiva</strong>.</p><p>Es esencial para competir en mercados segmentados y dinámicos.</p>"
+    },
+    {
+      "intro": "El mix de marketing, también conocido como las 4P, son las variables controlables que la empresa combina para producir la respuesta deseada en el mercado objetivo. Son: Producto, Precio, Plaza (distribución) y Promoción. Este marco ayuda a diseñar una oferta integral que entregue valor al cliente.",
+      "question": "8. ¿Cuáles son las 4P del marketing?",
+      "options": [
+        "Precio, Producción, Publicidad, Planta",
+        "Producto, Precio, Plaza, Promoción",
+        "Planificación, Producción, Pago, Publicidad",
+        "Persona, Proceso, Plataforma, Precio"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>mix de marketing</u>, o <strong>4P</strong>, son las <strong>variables controlables</strong> que la empresa combina para generar la respuesta deseada en el mercado objetivo:</p><p>• <strong>Producto</strong>: bien o servicio que satisface una necesidad. Incluye calidad, diseño, características, marca, servicios asociados.<br>• <strong>Precio</strong>: cantidad de dinero que el cliente paga. Incluye listas de precios, descuentos, condiciones de pago.<br>• <strong>Plaza</strong> (distribución): cómo el producto llega al cliente. Canales de distribución, cobertura, logística.<br>• <strong>Promoción</strong>: comunicación del valor. Publicidad, ventas personales, promociones, relaciones públicas, marketing digital.</p><p>Este marco ayuda a diseñar una <strong>oferta integral</strong> que entregue valor al cliente.</p><p>Ha evolucionado a otras versiones (7P para servicios, 4C: Cliente, Costo, Conveniencia, Comunicación), pero las 4P siguen siendo fundamentales.</p>"
+    },
+    {
+      "intro": "El análisis del entorno de marketing incluye factores macro (demográficos, económicos, tecnológicos, sociales, políticos y legales) y micro (clientes, competidores, proveedores, intermediarios). Este análisis permite identificar oportunidades y amenazas, y adaptar la estrategia a los cambios del entorno.",
+      "question": "9. ¿Qué incluye el análisis del entorno de marketing?",
+      "options": [
+        "Solo los precios de la competencia",
+        "Factores macro y micro como demografía, economía, competidores y clientes",
+        "Solo el producto interno",
+        "Solo la publicidad"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>análisis del entorno de marketing</u> examina los factores <strong>externos</strong> que afectan a la empresa y sus posibilidades de éxito.</p><p>Se divide en:<br>• <strong>Entorno macro</strong> (factores amplios):<br>  – <strong>Demográfico</strong>: tamaño, edad, distribución geográfica de la población.<br>  – <strong>Económico</strong>: crecimiento, inflación, desempleo, ingresos.<br>  – <strong>Tecnológico</strong>: innovaciones, automatización, digitalización.<br>  – <strong>Sociocultural</strong>: valores, estilos de vida, tendencias sociales.<br>  – <strong>Político-legal</strong>: regulaciones, políticas fiscales, estabilidad política.<br>  – <strong>Ecológico</strong>: sostenibilidad, cambio climático.</p><p>• <strong>Entorno micro</strong> (actores cercanos):<br>  – <strong>Clientes</strong><br>  – <strong>Competidores</strong><br>  – <strong>Proveedores</strong><br>  – <strong>Intermediarios</strong> (distribuidores, minoristas)</p><p>Permite <strong>identificar oportunidades y amenazas</strong> y adaptar la estrategia.</p>"
+    },
+    {
+      "intro": "La estrategia de crecimiento de Ansoff propone cuatro opciones: penetración de mercado, desarrollo de mercado, desarrollo de producto y diversificación. Cada una implica un nivel de riesgo diferente. Por ejemplo, la penetración de mercado (vender más a clientes actuales) es menos riesgosa que la diversificación (nuevos productos en nuevos mercados).",
+      "question": "10. ¿Qué estrategia de crecimiento implica vender nuevos productos a nuevos mercados?",
+      "options": [
+        "Penetración de mercado",
+        "Desarrollo de mercado",
+        "Desarrollo de producto",
+        "Diversificación"
+      ],
+      "correct": [3],
+      "saber_mas": "<p>La <u>matriz de crecimiento de Ansoff</u> propone cuatro estrategias:</p><p>• <strong>Penetración de mercado</strong>: vender <strong>más productos</strong> a <strong>clientes actuales</strong>. (Menor riesgo).<br>• <strong>Desarrollo de mercado</strong>: vender <strong>productos existentes</strong> a <strong>nuevos mercados</strong> (geográficos o segmentos).<br>• <strong>Desarrollo de producto</strong>: vender <strong>nuevos productos</strong> a <strong>clientes actuales</strong>.<br>• <strong>Diversificación</strong>: vender <strong>nuevos productos</strong> a <strong>nuevos mercados</strong>. (Mayor riesgo).</p><p>La diversificación puede ser:<br>• <strong>Congruente</strong>: nuevos productos relacionados con los actuales.<br>• <strong>Horizontal</strong>: productos no relacionados pero para el mismo mercado.<br>• <strong>Vertical</strong>: integración hacia atrás o hacia adelante en la cadena de valor.</p><p>Permite a la empresa evaluar opciones de crecimiento según su tolerancia al riesgo y capacidades.</p>"
+    },
+    {
+      "intro": "El presupuesto de marketing es la asignación de recursos financieros a las actividades de marketing. Puede determinarse mediante métodos como porcentaje de ventas, objetivos y tareas, competencia o capacidad. Un presupuesto bien diseñado asegura que los recursos se usen eficientemente para alcanzar los objetivos.",
+      "question": "11. ¿Qué método de presupuestación se basa en alcanzar objetivos específicos?",
+      "options": [
+        "Porcentaje de ventas",
+        "Objetivos y tareas",
+        "Competencia",
+        "Capacidad"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>presupuesto de marketing</u> es la <strong>asignación de recursos financieros</strong> a las actividades de marketing (publicidad, promociones, investigación, etc.).</p><p>Métodos comunes:<br>• <strong>Porcentaje de ventas</strong>: asignar un % fijo de las ventas pasadas o proyectadas. Simple, pero puede ser reactivo.<br>• <strong>Objetivos y tareas</strong>: definir <strong>objetivos</strong>, identificar las <strong>tareas</strong> necesarias para alcanzarlos y <strong>estimar el costo</strong> de esas tareas. Más racional y estratégico.<br>• <strong>Competencia</strong>: igualar o superar el gasto del competidor. Evita sorpresas, pero no considera objetivos propios.<br>• <strong>Capacidad</strong>: gastar lo que la empresa puede permitirse. Limita el crecimiento.</p><p>El método de <strong>objetivos y tareas</strong> es el más recomendado porque:<br>• <strong>Parte de los objetivos estratégicos</strong>.<br>• <strong>Justifica el gasto</strong> en función de las acciones necesarias.<br>• <strong>Asegura que el presupuesto sea suficiente</strong> para lograr los resultados deseados.</p>"
+    },
+    {
+      "intro": "El control del plan de marketing implica medir los resultados y compararlos con los objetivos. Si hay desviaciones, se deben tomar acciones correctivas. Las métricas clave incluyen ventas, participación de mercado, rentabilidad, satisfacción del cliente y retorno de la inversión (ROI) en marketing.",
+      "question": "12. ¿Qué métricas se usan para controlar un plan de marketing?",
+      "options": [
+        "Solo el número de empleados",
+        "Ventas, participación de mercado, rentabilidad y ROI",
+        "Solo el precio de venta",
+        "Solo la producción interna"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>control del plan de marketing</u> es el proceso de <strong>medir los resultados</strong> y compararlos con los <strong>objetivos establecidos</strong>.</p><p>Si hay <strong>desviaciones</strong>, se deben tomar <strong>acciones correctivas</strong> (ajustar la estrategia, redistribuir recursos, etc.).</p><p>Métricas clave:<br>• <strong>Ventas</strong>: volumen, valor, por producto, canal, región.<br>• <strong>Participación de mercado</strong>: cuota respecto a la competencia.<br>• <strong>Rentabilidad</strong>: margen de beneficio por producto, cliente o canal.<br>• <strong>Satisfacción del cliente</strong>: encuestas, NPS (Net Promoter Score).<br>• <strong>Retorno de la inversión en marketing (ROMI o ROI)</strong>: beneficio generado por cada euro invertido en marketing.</p><p>Este control permite:<br>• <strong>Evaluar el éxito</strong> del plan.<br>• <strong>Aprender</strong> para futuras campañas.<br>• <strong>Responsabilizar</strong> al equipo de marketing.<br>• <strong>Optimizar</strong> el uso de recursos.</p>"
+    },
+    {
+      "intro": "La planificación del marketing debe ser flexible para adaptarse a cambios inesperados en el entorno, como nuevas tecnologías, competidores o crisis. Un plan rígido puede volverse obsoleto rápidamente. La revisión periódica y la capacidad de reaccionar rápido son claves para mantener la efectividad del plan.",
+      "question": "13. ¿Por qué debe ser flexible un plan de marketing?",
+      "options": [
+        "Porque nunca cambia el entorno",
+        "Porque el entorno cambia y debe adaptarse a nuevas condiciones",
+        "Porque los objetivos son fijos",
+        "Porque no se necesita control"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>plan de marketing</u> debe ser <strong>flexible</strong> porque el <strong>entorno de marketing es dinámico e incierto</strong>.</p><p>Cambios que pueden afectar el plan:<br>• <strong>Nuevas tecnologías</strong> (ej. inteligencia artificial, e-commerce).<br>• <strong>Entrada de nuevos competidores</strong>.<br>• <strong>Cambios en el comportamiento del consumidor</strong>.<br>• <strong>Crisis económicas o sanitarias</strong>.<br>• <strong>Nuevas regulaciones</strong>.</p><p>Un plan <strong>rígido</strong> puede volverse <strong>obsoleto</strong> rápidamente y llevar a decisiones ineficaces.</p><p>La <strong>flexibilidad</strong> permite:<br>• <strong>Adaptarse</strong> a nuevas condiciones.<br>• <strong>Reaccionar rápido</strong> a oportunidades o amenazas.<br>• <strong>Revisar y ajustar</strong> objetivos, estrategias y tácticas.<br>• <strong>Mantener la relevancia</strong> del plan.</p><p>Se logra mediante <strong>revisión periódica</strong>, <strong>escenarios alternativos</strong> y <strong>cultura de aprendizaje</strong>.</p>"
+    },
+    {
+      "intro": "La responsabilidad social empresarial (RSE) en el marketing implica considerar el impacto social y ambiental de las decisiones de marketing. Las empresas deben actuar de forma ética, respetar al consumidor y contribuir al bienestar social. La RSE no solo es un deber, sino una oportunidad para construir confianza y lealtad.",
+      "question": "14. ¿Qué implica la responsabilidad social en el marketing?",
+      "options": [
+        "Ignorar el impacto ambiental",
+        "Actuar de forma ética y contribuir al bienestar social",
+        "Solo maximizar ganancias",
+        "No respetar al consumidor"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>responsabilidad social empresarial (RSE)</u> en el marketing implica que las empresas <strong>tomen decisiones éticas</strong> y consideren el <strong>impacto social y ambiental</strong> de sus acciones.</p><p>Principios:<br>• <strong>Ética</strong>: honestidad, transparencia, no engañar al consumidor.<br>• <strong>Respeto al consumidor</strong>: privacidad, seguridad del producto, prácticas justas.<br>• <strong>Sostenibilidad ambiental</strong>: reducir huella de carbono, uso responsable de recursos.<br>• <strong>Contribución al bienestar social</strong>: apoyar comunidades, causas sociales.</p><p>No es solo un <strong>deber moral</strong>, sino una <strong>oportunidad estratégica</strong>:<br>• <strong>Construye confianza</strong> y reputación.<br>• <strong>Atrae y fideliza</strong> a consumidores conscientes.<br>• <strong>Diferencia</strong> de competidores.<br>• <strong>Reduce riesgos</strong> legales y de imagen.</p><p>La RSE debe estar integrada en la estrategia, no ser solo una campaña de imagen.</p>"
+    },
+    {
+      "intro": "La innovación en el marketing implica crear nuevas formas de generar valor para el cliente, ya sea mediante nuevos productos, modelos de negocio, canales de distribución o formas de comunicación. Las empresas que innovan en marketing se adaptan mejor a los cambios y ganan ventaja competitiva.",
+      "question": "15. ¿Por qué es importante la innovación en el marketing?",
+      "options": [
+        "Porque el mercado nunca cambia",
+        "Para crear nuevas formas de generar valor y ganar ventaja competitiva",
+        "Porque los clientes no cambian",
+        "Para mantener los mismos productos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>innovación en el marketing</u> es esencial para <strong>crear nuevas formas de generar valor</strong> para el cliente y <strong>ganar ventaja competitiva</strong>.</p><p>Puede manifestarse en:<br>• <strong>Nuevos productos o servicios</strong>.<br>• <strong>Nuevos modelos de negocio</strong> (ej. suscripción, plataformas).<br>• <strong>Nuevos canales de distribución</strong> (ej. e-commerce, marketplaces).<br>• <strong>Nuevas formas de comunicación</strong> (ej. marketing de influencers, realidad aumentada).<br>• <strong>Nuevas experiencias de cliente</strong>.</p><p>Beneficios:<br>• <strong>Adaptación</strong> a cambios en el entorno.<br>• <strong>Diferenciación</strong> de la competencia.<br>• <strong>Acceso a nuevos mercados</strong>.<br>• <strong>Mayor lealtad</strong> del cliente.<br>• <strong>Mayor rentabilidad</strong>.</p><p>Las empresas que no innovan corren el riesgo de volverse <strong>obsoletas</strong> frente a competidores más ágiles y centrados en el cliente.</p><p>La innovación debe ser <strong>sistemática</strong>, no solo ocasional.</p>"
+    }
+  ]
+}
