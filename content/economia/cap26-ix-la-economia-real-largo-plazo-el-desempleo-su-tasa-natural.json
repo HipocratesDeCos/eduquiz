@@ -1,0 +1,186 @@
+{
+  "title": "El Desempleo y su Tasa Natural",
+  "description": "Quiz sobre tipos de desempleo, tasa natural de desempleo, desempleo friccional, estructural, salarios mínimos, sindicatos y desempleo cíclico.",
+  "questions": [
+    {
+      "intro": "El desempleo es una medida del número de personas que están sin trabajo pero que buscan activamente empleo. Es un indicador clave del funcionamiento del mercado de trabajo y del bienestar económico. Aunque cierto nivel de desempleo es normal en una economía dinámica, tasas altas de desempleo indican ineficiencias y pérdida de bienestar. El desempleo tiene costes económicos (pérdida de producción) y sociales (pérdida de ingresos, problemas de salud mental, inestabilidad).",
+      "question": "1. ¿Quién se considera desempleado según las estadísticas oficiales?",
+      "options": [
+        "Cualquier persona sin trabajo",
+        "Personas sin trabajo que están buscando activamente empleo",
+        "Estudiantes y jubilados",
+        "Personas que no quieren trabajar"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Según las estadísticas oficiales, una persona es <u>desempleada</u> si:<br>• No tiene trabajo<br>• Está <strong>buscando activamente</strong> empleo<br>• Está disponible para trabajar</p><p>No incluye:<br>• <strong>Desalentados</strong> (que han dejado de buscar)<br>• <strong>Estudiantes</strong> o <strong>jubilados</strong><br>• <strong>Trabajadores domésticos</strong> no remunerados</p><p>El desempleo se mide como porcentaje de la <strong>población activa</strong> (empleados + desempleados).</p>"
+    },
+    {
+      "intro": "La tasa natural de desempleo es el nivel de desempleo al que tiende una economía en el largo plazo, cuando no hay fluctuaciones cíclicas. Incluye desempleo friccional (por transición entre trabajos) y estructural (por desajustes entre habilidades y demanda). No incluye desempleo cíclico, que es temporal y causado por recesiones. La tasa natural varía entre países y puede cambiar con el tiempo.",
+      "question": "2. ¿Qué es la tasa natural de desempleo?",
+      "options": [
+        "El desempleo durante una recesión",
+        "El nivel de desempleo en el largo plazo, sin fluctuaciones cíclicas",
+        "El desempleo total",
+        "El desempleo causado por inflación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>tasa natural de desempleo</u> es el nivel de desempleo al que tiende una economía en el <strong>largo plazo</strong>, cuando no hay fluctuaciones cíclicas (recesiones o expansiones).</p><p>Incluye:<br>• <strong>Desempleo friccional</strong> (transición entre trabajos)<br>• <strong>Desempleo estructural</strong> (desajustes de habilidades o ubicación)</p><p>No incluye <strong>desempleo cíclico</strong> (por recesiones).</p><p>Varía entre países y puede cambiar con el tiempo por políticas o cambios demográficos.</p>"
+    },
+    {
+      "intro": "El desempleo friccional es el desempleo que surge del tiempo que lleva a los trabajadores encontrar un nuevo empleo. Ocurre porque hay una rotación constante en el mercado de trabajo: personas que cambian de trabajo, entran o salen de la fuerza laboral. Aunque es inevitable en una economía dinámica, políticas como agencias de empleo o formación pueden reducir su duración.",
+      "question": "3. ¿Qué causa el desempleo friccional?",
+      "options": [
+        "Recesiones económicas",
+        "El tiempo que lleva encontrar un nuevo empleo",
+        "Sindicatos poderosos",
+        "Salarios mínimos altos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>desempleo friccional</u> es el desempleo que surge del <strong>tiempo que lleva</strong> a los trabajadores encontrar un nuevo empleo.</p><p>Ocurre por:<br>• <strong>Cambios de trabajo</strong><br>• <strong>Entrada/salida</strong> de la fuerza laboral (jóvenes, padres)<br>• <strong>Información imperfecta</strong> sobre ofertas de empleo</p><p>Es inevitable en una economía dinámica, pero puede reducirse con:<br>• <strong>Agencias de empleo</strong><br>• <strong>Formación</strong><br>• <strong>Bolsas de trabajo en línea</strong></p>"
+    },
+    {
+      "intro": "El desempleo estructural ocurre cuando hay un desajuste entre las habilidades de los trabajadores y las necesidades de los empleadores, o entre la ubicación de los trabajadores y los empleos disponibles. Puede deberse a cambios tecnológicos, globalización o cambios en la demanda de ciertos sectores. A diferencia del friccional, puede persistir durante mucho tiempo y requiere políticas activas de formación y reubicación.",
+      "question": "4. ¿Qué causa el desempleo estructural?",
+      "options": [
+        "Cortos periodos entre trabajos",
+        "Desajustes entre habilidades de trabajadores y demanda de empleo",
+        "Recesiones temporales",
+        "Baja demanda agregada"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>desempleo estructural</u> ocurre cuando hay un <strong>desajuste</strong> entre las <strong>habilidades</strong> de los trabajadores y las necesidades de los empleadores, o entre la <strong>ubicación</strong> de los trabajadores y los empleos.</p><p>Causas:<br>• <strong>Cambios tecnológicos</strong> (automatización)<br>• <strong>Globalización</strong> (deslocalización)<br>• <strong>Cambios en la demanda</strong> (declive de sectores)</p><p>Puede persistir mucho tiempo.</p><p>Requiere políticas activas: <strong>formación</strong>, <strong>reubicación</strong>, <strong>adaptación educativa</strong>.</p>"
+    },
+    {
+      "intro": "Un salario mínimo por encima del equilibrio puede crear desempleo estructural. Si el salario mínimo es mayor que el valor del producto marginal del trabajo, las empresas no contratarán a trabajadores cuyo costo exceda su productividad. Esto afecta especialmente a trabajadores jóvenes o poco calificados, cuyo valor marginal puede estar por debajo del salario mínimo.",
+      "question": "5. ¿Cómo puede un salario mínimo causar desempleo?",
+      "options": [
+        "Aumentando la productividad",
+        "Creando un exceso de oferta de trabajo",
+        "Reduciendo la demanda de bienes",
+        "Aumentando la inflación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>salario mínimo</u> por encima del equilibrio puede crear <strong>desempleo estructural</strong>.</p><p>Si el salario mínimo > valor del producto marginal del trabajo, las empresas no contratarán a trabajadores cuyo costo exceda su productividad.</p><p>Crea un <strong>exceso de oferta de trabajo</strong>: más personas quieren trabajar al salario mínimo del que pueden ser empleadas.</p><p>Afecta especialmente a trabajadores <strong>jóvenes</strong> o <strong>poco calificados</strong>.</p><p>En mercados competitivos, puede reducir el empleo en sectores intensivos en trabajo no calificado.</p>"
+    },
+    {
+      "intro": "Los sindicatos son organizaciones de trabajadores que negocian colectivamente con los empleadores sobre salarios, condiciones de trabajo y beneficios. Pueden elevar los salarios por encima del nivel de equilibrio, lo que puede aumentar el ingreso de los afiliados, pero también puede reducir el empleo total si las empresas no pueden o no quieren pagar salarios más altos.",
+      "question": "6. ¿Qué efecto pueden tener los sindicatos en el mercado de trabajo?",
+      "options": [
+        "Reducir todos los salarios",
+        "Aumentar los salarios por encima del equilibrio, posiblemente reduciendo el empleo",
+        "Eliminar el desempleo",
+        "Aumentar la inflación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Los <u>sindicatos</u> son organizaciones de trabajadores que negocian <strong>colectivamente</strong> con empleadores sobre salarios, condiciones y beneficios.</p><p>Pueden <strong>elevar los salarios</strong> por encima del nivel de equilibrio.</p><p>Esto <strong>beneficia a los afiliados</strong>, pero puede <strong>reducir el empleo total</strong> si las empresas no pueden o no quieren pagar salarios más altos.</p><p>Pueden crear <strong>desempleo estructural</strong> si el salario negociado está por encima del valor del producto marginal del trabajo.</p><p>El efecto depende del sector y del poder de negociación.</p>"
+    },
+    {
+      "intro": "La teoría del salario de eficiencia sostiene que los empleadores pueden pagar salarios por encima del equilibrio para aumentar la productividad de los trabajadores. Salarios más altos pueden reducir la rotación, mejorar la moral, atraer trabajadores más calificados y aumentar el esfuerzo (por miedo a perder el trabajo). Aunque aumenta los costes, puede ser rentable para la empresa.",
+      "question": "7. ¿Qué es la teoría del salario de eficiencia?",
+      "options": [
+        "Pagar salarios bajos para aumentar beneficios",
+        "Pagar salarios altos para aumentar la productividad y reducir rotación",
+        "Pagar salarios según el mercado",
+        "Eliminar los salarios"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>teoría del salario de eficiencia</u> sostiene que los empleadores pueden <strong>pagar salarios por encima del equilibrio</strong> para <strong>aumentar la productividad</strong> de los trabajadores.</p><p>Beneficios para la empresa:<br>• <strong>Reduce la rotación</strong> (menos costes de contratación)<br>• <strong>Mejora la moral</strong><br>• <strong>Atrae trabajadores más calificados</strong><br>• <strong>Aumenta el esfuerzo</strong> (miedo a perder un buen trabajo)</p><p>Aunque aumenta los costes laborales, puede ser <strong>rentable</strong> para la empresa.</p><p>Puede contribuir al desempleo si el salario está por encima del equilibrio.</p>"
+    },
+    {
+      "intro": "El desempleo cíclico es el desempleo causado por las fluctuaciones del ciclo económico, especialmente durante recesiones. Cuando la demanda agregada disminuye, las empresas reducen la producción y despiden trabajadores. Es temporal y disminuye cuando la economía se recupera. A diferencia del desempleo friccional y estructural, no forma parte de la tasa natural de desempleo.",
+      "question": "8. ¿Qué causa el desempleo cíclico?",
+      "options": [
+        "Cambios tecnológicos",
+        "Fluctuaciones del ciclo económico y baja demanda agregada",
+        "Sindicatos poderosos",
+        "Salarios mínimos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>desempleo cíclico</u> es causado por <strong>fluctuaciones del ciclo económico</strong>, especialmente durante <strong>recesiones</strong>.</p><p>Cuando la <strong>demanda agregada</strong> disminuye, las empresas reducen la producción y <strong>despiden trabajadores</strong>.</p><p>Es <strong>temporal</strong> y disminuye cuando la economía se recupera.</p><p>A diferencia del friccional y estructural, <strong>no forma parte</strong> de la <strong>tasa natural de desempleo</strong>.</p><p>Políticas fiscales y monetarias pueden reducirlo estimulando la demanda.</p>"
+    },
+    {
+      "intro": "La tasa de participación en la fuerza laboral es el porcentaje de la población en edad de trabajar que está empleada o buscando empleo. No incluye a jubilados, estudiantes o personas que no buscan trabajo. Una baja tasa de participación puede indicar un mercado de trabajo débil, incluso si la tasa de desempleo es baja, porque muchas personas pueden haberse desalentado y dejado de buscar.",
+      "question": "9. ¿Qué mide la tasa de participación en la fuerza laboral?",
+      "options": [
+        "El porcentaje de personas empleadas",
+        "El porcentaje de personas en edad de trabajar que están empleadas o buscando empleo",
+        "El número total de desempleados",
+        "La tasa de desempleo"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>tasa de participación</u> en la fuerza laboral es el porcentaje de la <strong>población en edad de trabajar</strong> que está <strong>empleada o buscando empleo</strong>.</p><p>No incluye:<br>• <strong>Jubilados</strong><br>• <strong>Estudiantes</strong> que no trabajan<br>• <strong>Desalentados</strong> (que han dejado de buscar)</p><p>Una <strong>baja tasa de participación</strong> puede indicar un mercado de trabajo débil, incluso si la tasa de desempleo es baja.</p><p>Es un indicador complementario al desempleo.</p>"
+    },
+    {
+      "intro": "La duración media del desempleo es el tiempo promedio que los desempleados permanecen sin trabajo. Un aumento en la duración puede indicar problemas estructurales en el mercado de trabajo, como desajustes de habilidades o ubicación. Políticas de formación y reubicación pueden ayudar a reducir la duración del desempleo.",
+      "question": "10. ¿Qué indica un aumento en la duración media del desempleo?",
+      "options": [
+        "Que el desempleo es principalmente cíclico",
+        "Que puede haber problemas estructurales en el mercado de trabajo",
+        "Que la economía está creciendo",
+        "Que hay más empleo"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>duración media del desempleo</u> es el tiempo promedio que los desempleados permanecen sin trabajo.</p><p>Un <strong>aumento en la duración</strong> puede indicar <strong>problemas estructurales</strong> en el mercado de trabajo, como:<br>• <strong>Desajustes de habilidades</strong><br>• <strong>Desajustes de ubicación</strong><br>• <strong>Desincentivos al trabajo</strong> (altos beneficios de desempleo)</p><p>Políticas de <strong>formación</strong>, <strong>reubicación</strong> y <strong>incentivos al trabajo</strong> pueden ayudar a reducirla.</p><p>Es un indicador clave para distinguir entre desempleo cíclico y estructural.</p>"
+    },
+    {
+      "intro": "Los beneficios de desempleo son pagos del gobierno a personas que han perdido su trabajo. Pueden ayudar a mantener el bienestar durante la búsqueda de empleo, pero si son muy generosos o duran mucho tiempo, pueden reducir el incentivo para encontrar trabajo rápidamente, aumentando la duración del desempleo.",
+      "question": "11. ¿Cómo pueden afectar los beneficios de desempleo al mercado de trabajo?",
+      "options": [
+        "Siempre reducen el desempleo",
+        "Pueden aumentar la duración del desempleo si son muy generosos",
+        "No tienen efecto",
+        "Aumentan la inflación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Los <u>beneficios de desempleo</u> son pagos del gobierno a personas que han perdido su trabajo.</p><p>Pueden <strong>ayudar a mantener el bienestar</strong> y el consumo durante la búsqueda de empleo.</p><p>Pero si son <strong>muy generosos</strong> o <strong>duran mucho tiempo</strong>, pueden <strong>reducir el incentivo</strong> para encontrar trabajo rápidamente.</p><p>Esto puede <strong>aumentar la duración del desempleo</strong>.</p><p>El diseño del sistema debe equilibrar <strong>protección social</strong> y <strong>incentivos al trabajo</strong>.</p>"
+    },
+    {
+      "intro": "La búsqueda activa de empleo es el conjunto de actividades que realiza una persona para encontrar trabajo, como enviar currículos, asistir a entrevistas o contactar con agencias de empleo. Es un requisito para ser considerado desempleado en las estadísticas oficiales. Políticas que facilitan la búsqueda (como bolsas de trabajo online) pueden reducir el desempleo friccional.",
+      "question": "12. ¿Qué es la búsqueda activa de empleo?",
+      "options": [
+        "Estudiar sin buscar trabajo",
+        "Enviar currículos, asistir a entrevistas, contactar con agencias",
+        "Recibir beneficios sin buscar",
+        "Trabajar en economía sumergida"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>búsqueda activa de empleo</u> es el conjunto de actividades que realiza una persona para encontrar trabajo.</p><p>Incluye:<br>• <strong>Enviar currículos</strong><br>• <strong>Asistir a entrevistas</strong><br>• <strong>Contactar con agencias de empleo</strong><br>• <strong>Responder a ofertas</strong></p><p>Es un <strong>requisito</strong> para ser considerado desempleado en las estadísticas oficiales.</p><p>Políticas que facilitan la búsqueda (bolsas de trabajo online, formación) pueden <strong>reducir el desempleo friccional</strong>.</p>"
+    },
+    {
+      "intro": "El desempleo de larga duración se refiere a personas que han estado desempleadas durante más de un año. Es un indicador preocupante, ya que puede llevar a la pérdida de habilidades, desmotivación y exclusión social. Los trabajadores de larga duración tienen más dificultades para reintegrarse al mercado de trabajo.",
+      "question": "13. ¿Qué caracteriza al desempleo de larga duración?",
+      "options": [
+        "Menos de un mes sin trabajo",
+        "Más de un año sin trabajo",
+        "Trabajar a tiempo parcial",
+        "Ser estudiante"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>desempleo de larga duración</u> se refiere a personas que han estado <strong>desempleadas durante más de un año</strong>.</p><p>Es un indicador preocupante porque puede llevar a:<br>• <strong>Pérdida de habilidades</strong><br>• <strong>Desmotivación</strong><br>• <strong>Exclusión social</strong></p><p>Los trabajadores de larga duración tienen más dificultades para <strong>reintegrarse</strong> al mercado de trabajo.</p><p>Requiere políticas específicas: <strong>formación intensiva</strong>, <strong>incentivos a la contratación</strong>, <strong>apoyo psicológico</strong>.</p>"
+    },
+    {
+      "intro": "La rotación laboral es el flujo constante de trabajadores que entran y salen de empleos. Es normal en una economía dinámica y puede ser beneficiosa, ya que permite una mejor asignación de recursos humanos. Sin embargo, alta rotación puede indicar inestabilidad o mala gestión, y genera costes de contratación y formación.",
+      "question": "14. ¿Qué es la rotación laboral?",
+      "options": [
+        "La estabilidad en el empleo",
+        "El flujo constante de trabajadores que entran y salen de empleos",
+        "El desempleo estructural",
+        "La falta de trabajo"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>rotación laboral</u> es el flujo constante de trabajadores que <strong>entran y salen</strong> de empleos.</p><p>Es normal en una economía dinámica y puede ser <strong>beneficiosa</strong>, ya que permite una mejor asignación de recursos humanos.</p><p>Sin embargo, una <strong>alta rotación</strong> puede indicar:<br>• <strong>Inestabilidad</strong><br>• <strong>Mala gestión</strong><br>• <strong>Malas condiciones laborales</strong></p><p>Genera costes de <strong>contratación</strong> y <strong>formación</strong>.</p><p>Debe equilibrarse entre flexibilidad y estabilidad.</p>"
+    },
+    {
+      "intro": "La tasa natural de desempleo no es constante y puede cambiar con el tiempo debido a factores como cambios demográficos, políticas laborales, tecnología o instituciones. Por ejemplo, un envejecimiento de la población puede reducir el desempleo friccional, mientras que un aumento en el salario mínimo puede aumentar el desempleo estructural.",
+      "question": "15. ¿Por qué puede cambiar la tasa natural de desempleo?",
+      "options": [
+        "Porque siempre es cero",
+        "Por cambios demográficos, políticas, tecnología o instituciones",
+        "Porque el gobierno lo decide",
+        "Porque no existe"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>tasa natural de desempleo</u> no es constante y puede <strong>cambiar con el tiempo</strong>.</p><p>Cambios en:<br>• <strong>Demografía</strong> (envejecimiento reduce desempleo friccional)<br>• <strong>Políticas laborales</strong> (salario mínimo, beneficios de desempleo)<br>• <strong>Tecnología</strong> (automatización aumenta desempleo estructural)<br>• <strong>Instituciones</strong> (sindicatos, regulaciones laborales)</p><p>Puede aumentar o disminuir.</p><p>Es importante para diseñar políticas económicas adecuadas.</p>"
+    }
+  ]
+}
