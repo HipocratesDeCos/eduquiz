@@ -1,0 +1,186 @@
+{
+  "title": "La Elaboración del Sistema Tributario",
+  "description": "Quiz sobre principios de la tributación, eficiencia, equidad, tipos de impuestos y estructura del sistema fiscal.",
+  "questions": [
+    {
+      "intro": "Un sistema tributario eficiente es aquel que recauda la cantidad necesaria de ingresos con el menor costo posible para la sociedad. Este costo incluye no solo el dinero recaudado, sino también la pérdida de bienestar (pérdida de peso muerto) y los costos administrativos. La eficiencia fiscal busca maximizar los ingresos mientras se minimiza la distorsión de los mercados. Un sistema eficiente recauda sin desincentivar gravemente el trabajo, el ahorro o la inversión.",
+      "question": "1. ¿Qué caracteriza a un sistema tributario eficiente?",
+      "options": [
+        "Maximiza los ingresos sin considerar el costo social",
+        "Recauda ingresos con mínima distorsión de los mercados",
+        "Tiene muchos impuestos diferentes",
+        "Es complicado de administrar"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>sistema tributario eficiente</u> recauda ingresos con el <strong>mínimo costo social</strong>.</p><p>Este costo incluye la <strong>pérdida de peso muerto</strong> (ineficiencia) y los <strong>costos administrativos</strong>.</p><p>Busca maximizar ingresos mientras se minimiza la distorsión de decisiones de trabajo, ahorro e inversión.</p>"
+    },
+    {
+      "intro": "La equidad en la tributación se refiere a la justicia en la distribución de la carga fiscal. Hay dos principios principales: el principio del beneficio (quien más beneficio recibe del gobierno, más paga) y el principio de capacidad de pago (quien más puede pagar, más paga). Este último es más común en sistemas modernos y se basa en la capacidad económica del contribuyente.",
+      "question": "2. ¿Qué principio de equidad fiscal sostiene que quien más puede pagar, más debe pagar?",
+      "options": [
+        "Principio del beneficio",
+        "Principio de capacidad de pago",
+        "Principio de igualdad",
+        "Principio de eficiencia"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>principio de capacidad de pago</u> sostiene que la carga fiscal debe basarse en la <strong>capacidad económica</strong> del contribuyente.</p><p>Quien tiene mayor ingreso o riqueza debe pagar más impuestos.</p><p>Es el principio más común en sistemas tributarios modernos.</p><p>Contrasta con el <strong>principio del beneficio</strong>, que liga el pago al uso de servicios públicos.</p>"
+    },
+    {
+      "intro": "Un impuesto proporcional cobra la misma tasa porcentual independientemente del nivel de ingreso. Un impuesto progresivo cobra una tasa mayor a medida que aumenta el ingreso. Un impuesto regresivo cobra una tasa efectiva menor a medida que aumenta el ingreso. El impuesto sobre la renta en muchos países es progresivo, mientras que el IVA suele ser regresivo.",
+      "question": "3. ¿Qué tipo de impuesto cobra una tasa mayor a medida que aumenta el ingreso?",
+      "options": [
+        "Proporcional",
+        "Progresivo",
+        "Regressivo",
+        "Lump-sum"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>impuesto progresivo</u> cobra una <strong>tasa mayor</strong> a medida que aumenta el ingreso.</p><p>Por ejemplo: tramos del IRPF.</p><p>Busca cumplir con el principio de capacidad de pago.</p><p>El impuesto sobre la renta en muchos países es progresivo.</p>"
+    },
+    {
+      "intro": "Un impuesto regresivo es aquel cuya tasa efectiva disminuye a medida que aumenta el ingreso. Aunque nominalmente puede ser proporcional, en la práctica grava más a los de bajos ingresos porque representan una mayor proporción de su ingreso. El impuesto al valor agregado (IVA) es un ejemplo común, ya que los pobres gastan una mayor proporción de su ingreso en consumo.",
+      "question": "4. ¿Por qué el IVA se considera un impuesto regresivo?",
+      "options": [
+        "Porque grava más a los ricos",
+        "Porque grava más a los pobres en términos relativos",
+        "Porque no grava el consumo",
+        "Porque es un impuesto al ingreso"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>IVA</u> se considera <strong>regresivo</strong> porque grava más a los de <strong>bajos ingresos en términos relativos</strong>.</p><p>Los pobres gastan una mayor proporción de su ingreso en consumo.</p><p>Aunque la tasa nominal es la misma, la <strong>carga efectiva</strong> es mayor para ellos.</p><p>Para mitigarlo, muchos países eximen bienes básicos.</p>"
+    },
+    {
+      "intro": "La carga de un impuesto no depende de sobre quién se grabe legalmente, sino de la elasticidad de la oferta y la demanda. La incidencia económica del impuesto la soporta quien tiene menor capacidad de reacción (menor elasticidad). Si la demanda es inelástica, los consumidores cargan más; si la oferta es inelástica, los productores cargan más.",
+      "question": "5. ¿Qué determina quién soporta la carga de un impuesto?",
+      "options": [
+        "Quién lo paga legalmente",
+        "La elasticidad de la oferta y la demanda",
+        "El tamaño del mercado",
+        "El número de vendedores"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>carga de un impuesto</u> (incidencia económica) depende de la <strong>elasticidad</strong> de la oferta y la demanda, no de quién lo paga legalmente.</p><p>Quien tiene mayor <strong>inelasticidad</strong> (menor capacidad de reacción) soporta más carga.</p><p>Si la demanda es inelástica, los consumidores cargan más.</p><p>El resultado económico es el mismo si el impuesto se aplica a compradores o vendedores.</p>"
+    },
+    {
+      "intro": "Un impuesto lump-sum es un pago fijo que no depende del comportamiento del contribuyente. Es el impuesto más eficiente porque no distorsiona decisiones de trabajo, consumo o inversión. Sin embargo, es muy regresivo y políticamente inaceptable, ya que todos pagan lo mismo independientemente de su ingreso.",
+      "question": "6. ¿Por qué un impuesto lump-sum es teóricamente eficiente?",
+      "options": [
+        "Porque grava más a los ricos",
+        "Porque no distorsiona las decisiones económicas",
+        "Porque es fácil de administrar",
+        "Porque aumenta la recaudación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>impuesto lump-sum</u> es un pago fijo que no depende del ingreso, consumo o trabajo.</p><p>Es <strong>teóricamente eficiente</strong> porque no distorsiona decisiones económicas (no crea pérdida de peso muerto).</p><p>Sin embargo, es muy <strong>regresivo</strong> y políticamente inaceptable.</p><p>No se utiliza en la práctica.</p>"
+    },
+    {
+      "intro": "La pérdida de peso muerto de un impuesto es la reducción del bienestar total que no se recupera como ingreso fiscal. Ocurre porque el impuesto reduce la cantidad comerciada por debajo del nivel eficiente. Es mayor cuando la oferta y la demanda son más elásticas, ya que la cantidad se reduce más.",
+      "question": "7. ¿Qué es la pérdida de peso muerto de un impuesto?",
+      "options": [
+        "El ingreso del gobierno",
+        "La ganancia del consumidor",
+        "La reducción del bienestar total no recuperada como ingreso",
+        "El aumento de la producción"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>La <u>pérdida de peso muerto</u> es la <strong>reducción del bienestar total</strong> que no se recupera como ingreso fiscal.</p><p>Ocurre porque el impuesto reduce la cantidad comerciada por debajo del nivel eficiente.</p><p>Representa <strong>intercambios beneficiosos que no se realizan</strong>.</p><p>El gobierno obtiene ingresos, pero el bienestar total disminuye.</p>"
+    },
+    {
+      "intro": "La curva de Laffer muestra la relación entre la tasa impositiva y los ingresos fiscales. A tasas bajas, aumentar el impuesto aumenta los ingresos. Pero a tasas altas, aumentar el impuesto puede reducir los ingresos porque la base imponible se contrae demasiado. Existe una tasa óptima que maximiza los ingresos.",
+      "question": "8. ¿Qué muestra la curva de Laffer?",
+      "options": [
+        "La relación entre ingreso y consumo",
+        "La relación entre tasa impositiva e ingresos fiscales",
+        "La relación entre oferta y demanda",
+        "La relación entre precio y cantidad"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>curva de Laffer</u> muestra la relación entre la <strong>tasa impositiva</strong> y los <strong>ingresos fiscales</strong>.</p><p>A tasas bajas, aumentar el impuesto aumenta los ingresos.</p><p>A tasas altas, aumentar el impuesto puede <strong>reducir los ingresos</strong> porque la base imponible se contrae.</p><p>Existe una tasa óptima que <strong>maximiza los ingresos</strong>.</p>"
+    },
+    {
+      "intro": "Un sistema tributario debe equilibrar eficiencia y equidad. La eficiencia busca minimizar la distorsión de los mercados; la equidad busca una distribución justa de la carga fiscal. A menudo hay una disyuntiva: políticas que aumentan la equidad (como impuestos progresivos) pueden reducir la eficiencia (al desincentivar el trabajo o la inversión).",
+      "question": "9. ¿Qué disyuntiva enfrenta un sistema tributario?",
+      "options": [
+        "Eficiencia vs. simplicidad",
+        "Eficiencia vs. equidad",
+        "Equidad vs. crecimiento",
+        "Ingresos vs. gastos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un sistema tributario enfrenta una disyuntiva entre <strong>eficiencia</strong> y <strong>equidad</strong>.</p><p>La eficiencia busca minimizar la distorsión de los mercados.</p><p>La equidad busca una distribución justa de la carga fiscal.</p><p>Políticas que aumentan equidad (impuestos progresivos) pueden reducir eficiencia (desincentivar trabajo).</p>"
+    },
+    {
+      "intro": "El impuesto sobre la renta es un impuesto directo que grava los ingresos de personas y empresas. Suele ser progresivo. El impuesto sobre el valor agregado (IVA) es un impuesto indirecto que grava el consumo. Es recaudado en cada etapa de producción, pero pagado finalmente por el consumidor final.",
+      "question": "10. ¿Qué tipo de impuesto grava el consumo?",
+      "options": [
+        "Impuesto sobre la renta",
+        "Impuesto sobre sociedades",
+        "Impuesto sobre el valor agregado (IVA)",
+        "Impuesto de propiedad"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>El <u>impuesto sobre el valor agregado (IVA)</u> es un impuesto indirecto que grava el <strong>consumo</strong>.</p><p>Se recauda en cada etapa de producción, pero pagado finalmente por el <strong>consumidor final</strong>.</p><p>Es un impuesto al gasto, no al ingreso.</p><p>En muchos países, tiene tasas diferenciadas (general, reducida, superreducida).</p>"
+    },
+    {
+      "intro": "La planificación fiscal es el uso de métodos legales para reducir la carga impositiva. La evasión fiscal es ilegal y consiste en no declarar ingresos o falsificar documentos. La elusión fiscal es legal y aprovecha lagunas en la ley. Distinguir entre ellas es clave para debates sobre justicia fiscal.",
+      "question": "11. ¿Qué es la evasión fiscal?",
+      "options": [
+        "Usar métodos legales para reducir impuestos",
+        "No declarar ingresos de forma ilegal",
+        "Aprovechar lagunas en la ley",
+        "Pagar impuestos tarde"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>evasión fiscal</u> es <strong>ilegal</strong>: no declarar ingresos, ocultar patrimonio, falsificar documentos.</p><p>La <u>planificación fiscal</u> es legal: usar deducciones, exenciones, estructuras permitidas.</p><p>La <u>elusión fiscal</u> es legal pero cuestionable: aprovechar lagunas en la ley.</p><p>Distinguir entre ellas es clave para debates sobre justicia fiscal.</p>"
+    },
+    {
+      "intro": "Un impuesto a la renta de las personas físicas (IRPF) grava los ingresos de los individuos. Suele ser progresivo, con tramos de gravamen. Los ingresos pueden provenir de trabajo, capital, actividades económicas o patrimonio. Las deducciones y exenciones reducen la base imponible.",
+      "question": "12. ¿Qué tipo de ingreso grava el IRPF?",
+      "options": [
+        "Solo ingresos del trabajo",
+        "Ingresos de trabajo, capital y actividades económicas",
+        "Solo beneficios empresariales",
+        "Solo rentas del alquiler"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>IRPF</u> grava los ingresos de las personas físicas, que pueden provenir de:<br>• <strong>Trabajo</strong> (salarios)<br>• <strong>Capital</strong> (intereses, dividendos)<br>• <strong>Actividades económicas</strong> (autónomos)<br>• <strong>Patrimonio</strong> (alquileres, ganancias patrimoniales)</p><p>Suele ser <strong>progresivo</strong>, con tramos de gravamen.</p>"
+    },
+    {
+      "intro": "El impuesto sobre sociedades grava los beneficios de las empresas. Afecta la inversión y la localización de empresas. Puede ser pagado por la empresa, pero la carga económica puede trasladarse a trabajadores (en forma de menores salarios), consumidores (precios más altos) o accionistas (menores dividendos).",
+      "question": "13. ¿Qué grava el impuesto sobre sociedades?",
+      "options": [
+        "Los ingresos de los trabajadores",
+        "Los beneficios de las empresas",
+        "El consumo de bienes",
+        "La propiedad inmobiliaria"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>impuesto sobre sociedades</u> grava los <strong>beneficios</strong> (ingresos menos costos) de las empresas.</p><p>Afecta decisiones de inversión y localización.</p><p>Aunque lo paga la empresa, la <strong>carga económica</strong> puede trasladarse a:<br>• Trabajadores (menores salarios)<br>• Consumidores (precios más altos)<br>• Accionistas (menores dividendos)</p>"
+    },
+    {
+      "intro": "La tributación de la renta del capital (intereses, dividendos, ganancias patrimoniales) es compleja. Puede llevar a doble imposición: primero en la empresa (impuesto sobre sociedades), luego en el accionista (IRPF). Para evitarlo, algunos países usan sistemas de imputación o tasa única.",
+      "question": "14. ¿Qué problema puede surgir con la tributación de dividendos?",
+      "options": [
+        "Triple imposición",
+        "Doble imposición",
+        "No se grava",
+        "Se grava solo al consumidor"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La tributación de <u>dividendos</u> puede llevar a <strong>doble imposición</strong>:</p><ol><li>El beneficio se grava en la empresa (impuesto sobre sociedades)</li><li>El dividendo se grava en el accionista (IRPF)</li></ol><p>Para mitigarlo, algunos países usan:<br>• <strong>Sistema de imputación</strong> (crédito por impuesto pagado por la empresa)<br>• <strong>Tasa única</strong> con retención en origen</p>"
+    },
+    {
+      "intro": "La tributación internacional es compleja debido a la movilidad del capital y la competencia fiscal entre países. Las empresas pueden trasladar beneficios a paraísos fiscales. Los países usan convenios para evitar la doble imposición y luchar contra la elusión fiscal (como la normativa BEPS de la OCDE).",
+      "question": "15. ¿Qué es un paraíso fiscal?",
+      "options": [
+        "Un país con altos impuestos",
+        "Un país con bajos impuestos y secreto bancario",
+        "Un país sin impuestos a las personas",
+        "Un país que no grava el consumo"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>paraíso fiscal</u> es un país o jurisdicción con:<br>• <strong>Bajos o nulos impuestos</strong><br>• <strong>Secreto bancario</strong><br>• <strong>Falta de cooperación internacional</strong></p><p>Las empresas pueden trasladar beneficios allí para reducir su carga fiscal global.</p><p>Países y organizaciones como la OCDE luchan contra la elusión fiscal con normativas como BEPS.</p>"
+    }
+  ]
+}
