@@ -1,0 +1,186 @@
+{
+  "title": "El Crecimiento del Dinero y la Inflación",
+  "description": "Quiz sobre la relación entre oferta monetaria, inflación, teoría cuantitativa del dinero, costes de la inflación y la ilusión monetaria.",
+  "questions": [
+    {
+      "intro": "La inflación es un aumento sostenido en el nivel general de precios. A largo plazo, la inflación está estrechamente relacionada con el crecimiento de la oferta monetaria. Cuando el banco central crea dinero más rápido de lo que crece la producción, hay más dinero persiguiendo la misma cantidad de bienes, lo que lleva a que los precios suban. La teoría cuantitativa del dinero formaliza esta relación, mostrando que el crecimiento del dinero determina la inflación a largo plazo.",
+      "question": "1. ¿Qué determina principalmente la inflación a largo plazo?",
+      "options": [
+        "El crecimiento de la producción",
+        "El crecimiento del dinero",
+        "La tasa de desempleo",
+        "El tipo de interés nominal"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>A <strong>largo plazo</strong>, la <u>inflación</u> está determinada principalmente por el <strong>crecimiento de la oferta monetaria</strong>.</p><p>Si el banco central crea dinero más rápido de lo que crece la <strong>producción real (Y)</strong>, hay <strong>más dinero persiguiendo la misma cantidad de bienes</strong>, lo que lleva a que los <strong>precios suban</strong>.</p><p>La <strong>teoría cuantitativa del dinero</strong> (M × V = P × Y) muestra que si la velocidad (V) es estable, el crecimiento de M determina directamente el crecimiento de P (inflación).</p><p>Factores como el desempleo o el tipo de interés afectan a corto plazo, pero no determinan la inflación a largo plazo.</p>"
+    },
+    {
+      "intro": "La teoría cuantitativa del dinero se basa en la ecuación M × V = P × Y, donde M es la oferta de dinero, V la velocidad de circulación, P el nivel de precios y Y la producción real. Asume que V y Y son estables a largo plazo. Por lo tanto, cualquier cambio en M se traduce en un cambio proporcional en P, es decir, en inflación. Esta teoría explica por qué países con alta creación de dinero tienen alta inflación.",
+      "question": "2. Según la teoría cuantitativa del dinero, si el dinero crece al 10% y la producción al 2%, ¿cuál será la inflación aproximada?",
+      "options": [
+        "2%",
+        "8%",
+        "10%",
+        "12%"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>teoría cuantitativa del dinero</u> se basa en: <strong>M × V = P × Y</strong></p><p>En términos de crecimiento: <strong>%ΔM + %ΔV = %ΔP + %ΔY</strong></p><p>Asumiendo que la <strong>velocidad (V)</strong> es <strong>constante</strong> (%ΔV = 0):<br>%ΔM = %ΔP + %ΔY</p><p>Si %ΔM = 10% y %ΔY = 2%, entonces:<br>10% = %ΔP + 2% → %ΔP = 8%</p><p>Por lo tanto, la <strong>inflación</strong> (%ΔP) será aproximadamente <strong>8%</strong>.</p><p>Esta relación se cumple bien en el largo plazo en muchos países.</p>"
+    },
+    {
+      "intro": "La velocidad de circulación del dinero es el número de veces que una unidad de dinero se utiliza para comprar bienes y servicios finales en un periodo. En la teoría cuantitativa, se asume que es estable a largo plazo porque los hábitos de pago y la tecnología financiera cambian lentamente. Si la velocidad fuera muy volátil, la relación entre dinero e inflación sería débil, pero la evidencia empírica apoya su estabilidad relativa.",
+      "question": "3. ¿Por qué se asume que la velocidad de circulación es estable a largo plazo?",
+      "options": [
+        "Porque el dinero no se usa",
+        "Porque los hábitos de pago y la tecnología cambian lentamente",
+        "Porque el banco central la controla",
+        "Porque no depende del tipo de interés"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>En la <u>teoría cuantitativa del dinero</u>, se asume que la <strong>velocidad de circulación (V)</strong> es <strong>estable a largo plazo</strong>.</p><p>Esto se debe a que los <strong>hábitos de pago</strong> (efectivo, tarjetas, transferencias) y la <strong>tecnología financiera</strong> cambian <strong>lentamente</strong> con el tiempo.</p><p>Si V fuera muy volátil, la relación entre oferta de dinero e inflación sería débil.</p><p>Pero la evidencia empírica muestra que V es relativamente <strong>predecible</strong> y <strong>estable</strong> en el largo plazo.</p><p>Esta estabilidad es clave para que el crecimiento del dinero determine la inflación.</p>"
+    },
+    {
+      "intro": "El poder adquisitivo del dinero es la cantidad de bienes y servicios que puede comprar una unidad de dinero. La inflación reduce el poder adquisitivo: con el tiempo, se necesita más dinero para comprar lo mismo. Por ejemplo, si la inflación es del 5% anual, un euro valdrá un 5% menos al año siguiente. El salario real (ajustado por inflación) mide mejor el bienestar que el salario nominal.",
+      "question": "4. ¿Qué ocurre con el poder adquisitivo si hay inflación?",
+      "options": [
+        "Aumenta",
+        "Permanece constante",
+        "Disminuye",
+        "Se vuelve negativo"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>El <u>poder adquisitivo</u> del dinero es la cantidad de bienes y servicios que puede comprar una unidad de dinero.</p><p>La <strong>inflación</strong> <strong>reduce</strong> el poder adquisitivo: con el tiempo, se necesita <strong>más dinero</strong> para comprar la <strong>misma cantidad</strong> de bienes.</p><p>Ejemplo: si la inflación es 5%, un euro hoy valdrá un 5% menos en términos reales el próximo año.</p><p>El <strong>salario real</strong> (salario nominal / nivel de precios) mide mejor el bienestar que el <strong>salario nominal</strong>.</p><p>La pérdida de poder adquisitivo es el costo más evidente de la inflación.</p>"
+    },
+    {
+      "intro": "La inflación no afecta por igual a todos los grupos. Quienes tienen ingresos fijos (como pensionistas) o ahorros en efectivo pierden poder adquisitivo. Los deudores se benefician porque devuelven préstamos con dinero menos valioso. Los acreedores pierden porque reciben dinero con menor poder adquisitivo. La inflación inesperada redistribuye ingresos de acreedores a deudores.",
+      "question": "5. ¿Quién se beneficia de la inflación inesperada?",
+      "options": [
+        "Los acreedores",
+        "Los pensionistas",
+        "Los deudores",
+        "Los trabajadores con salarios indexados"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>La <u>inflación inesperada</u> redistribuye ingresos entre grupos.</p><p>Se benefician:<br>• <strong>Los deudores</strong>: devuelven préstamos con dinero que vale <strong>menos</strong> del que esperaban.<br>• <strong>Empresas con deuda fija</strong></p><p>Pierden:<br>• <strong>Los acreedores</strong>: reciben pagos con <strong>menor poder adquisitivo</strong> del esperado.<br>• <strong>Pensionistas</strong> con pensiones fijas<br>• <strong>Ahorristas</strong> con dinero en efectivo o cuentas de bajo interés</p><p>La inflación <strong>esperada</strong> puede ser compensada en contratos (tasas de interés más altas), pero la <strong>inesperada</strong> causa redistribuciones arbitrarias.</p>"
+    },
+    {
+      "intro": "La ilusión monetaria es la tendencia de las personas a pensar en términos nominales (dinero) en lugar de reales (poder adquisitivo). Por ejemplo, aceptar un aumento salarial del 5% cuando la inflación es del 7%, lo que en realidad es una pérdida. Esta ilusión puede llevar a decisiones económicas erróneas, como subestimar el costo de la inflación o sobrevalorar ganancias nominales.",
+      "question": "6. ¿Qué es la ilusión monetaria?",
+      "options": [
+        "La creencia de que el dinero no vale nada",
+        "Pensar en términos nominales ignorando el poder adquisitivo",
+        "La inflación cero",
+        "El aumento real de salarios"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>ilusión monetaria</u> es la tendencia de las personas a <strong>pensar en términos nominales</strong> (cantidad de dinero) en lugar de <strong>reales</strong> (poder adquisitivo).</p><p>Ejemplo: aceptar un aumento salarial del 5% cuando la inflación es del 7%. En términos reales, el salario <strong>ha disminuido</strong> un 2%.</p><p>Puede llevar a decisiones erróneas:<br>• <strong>Trabajadores</strong> que no exigen aumentos suficientes<br>• <strong>Inversores</strong> que subestiman el impacto de la inflación en sus ahorros<br>• <strong>Consumidores</strong> que no ajustan sus gastos</p><p>Los economistas asumen que los agentes no tienen ilusión monetaria (son <strong>neutrales al dinero</strong> a largo plazo).</p>"
+    },
+    {
+      "intro": "La inflación esperada es la tasa de inflación que los agentes económicos anticipan en el futuro. Afecta decisiones como salarios, contratos y tasas de interés. Si la inflación esperada es alta, los trabajadores exigirán aumentos salariales más altos y los prestamistas pedirán tasas de interés más altas para compensar la pérdida de valor del dinero. Las expectativas influyen en la inflación real a través de ajustes de precios y salarios.",
+      "question": "7. ¿Cómo afecta la inflación esperada a las tasas de interés?",
+      "options": [
+        "No tiene efecto",
+        "Aumenta las tasas de interés nominales",
+        "Disminuye las tasas de interés reales",
+        "Elimina la necesidad de intereses"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>inflación esperada</u> afecta directamente las <strong>tasas de interés nominales</strong>.</p><p>Los prestamistas exigen una tasa de interés nominal más alta para compensar la <strong>pérdida de poder adquisitivo</strong> del dinero durante el préstamo.</p><p>Según la <strong>ecuación de Fisher</strong>:<br><strong>Tasa de interés nominal = Tasa de interés real + Inflación esperada</strong></p><p>Si la inflación esperada sube, la tasa de interés nominal también sube, manteniendo constante la tasa real.</p><p>Por ejemplo, si la tasa real deseada es 3% y la inflación esperada es 4%, la tasa nominal será 7%.</p>"
+    },
+    {
+      "intro": "La ecuación de Fisher relaciona las tasas de interés nominales, reales y la inflación esperada: i = r + πᵉ. Donde i es la tasa nominal, r la tasa real y πᵉ la inflación esperada. Muestra que la tasa de interés nominal se ajusta uno a uno con la inflación esperada. A largo plazo, el dinero es neutral: cambios en la oferta monetaria afectan solo a variables nominales (precios, salarios), no a reales (producción, empleo).",
+      "question": "8. Según la ecuación de Fisher, ¿qué ocurre con la tasa de interés nominal si aumenta la inflación esperada?",
+      "options": [
+        "Disminuye",
+        "Permanece constante",
+        "Aumenta en la misma proporción",
+        "Se vuelve negativa"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>La <u>ecuación de Fisher</u> establece la relación entre:<br>• <strong>Tasa de interés nominal (i)</strong><br>• <strong>Tasa de interés real (r)</strong><br>• <strong>Inflación esperada (πᵉ)</strong></p><p>Se expresa como: <strong>i = r + πᵉ</strong></p><p>Muestra que la tasa de interés nominal se ajusta <strong>uno a uno</strong> con la inflación esperada.</p><p>Si la inflación esperada aumenta en 2 puntos, la tasa nominal también aumenta en 2 puntos, manteniendo constante la tasa real.</p><p>Esto refleja la <strong>neutralidad del dinero a largo plazo</strong>: cambios en la oferta monetaria afectan solo a variables <strong>nominales</strong> (precios, salarios), no a <strong>reales</strong> (producción, empleo).</p>"
+    },
+    {
+      "intro": "Los costes de la inflación incluyen costes de menaje (por ir más veces al banco), costes de menú (por cambiar precios frecuentemente), distorsiones fiscales y redistribuciones arbitrarias de ingresos. Aunque la inflación moderada puede tener beneficios (como evitar la trampa de liquidez), la inflación alta genera incertidumbre, distorsiona decisiones económicas y erosiona el valor del dinero como reserva de valor.",
+      "question": "9. ¿Qué son los costes de menaje?",
+      "options": [
+        "Costes de imprimir dinero",
+        "Costes de ir más veces al banco para evitar mantener efectivo",
+        "Costes de cambiar precios",
+        "Costes de inflación cero"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Los <u>costes de menaje</u> (shoeleather costs) son el tiempo y esfuerzo que las personas gastan para <strong>reducir sus tenencias de efectivo</strong> en tiempos de inflación.</p><p>Como el dinero pierde valor, las personas van más veces al banco para retirar menos efectivo y mantener más en cuentas remuneradas.</p><p>Esto consume tiempo, genera incomodidad y representa un <strong>coste de transacción</strong> innecesario.</p><p>El nombre viene de la idea de que se <strong>gastan las suelas</strong> de los zapatos por ir más veces al banco.</p><p>Es un costo más alto cuando la inflación es alta y los tipos de interés reales son negativos.</p>"
+    },
+    {
+      "intro": "Los costes de menú son los costes que enfrentan las empresas al cambiar sus precios con frecuencia debido a la inflación. Incluyen el costo de imprimir nuevos menús, actualizar sistemas informáticos, informar a los clientes y posibles errores. Estos costes hacen que las empresas no ajusten precios inmediatamente, lo que contribuye a la rigidez de precios y puede distorsionar la asignación de recursos.",
+      "question": "10. ¿Qué son los costes de menú?",
+      "options": [
+        "Costes de producir alimentos",
+        "Costes de cambiar precios frecuentemente",
+        "Costes de inflación cero",
+        "Costes de mantener precios fijos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Los <u>costes de menú</u> (menu costs) son los costes que enfrentan las empresas al <strong>cambiar sus precios</strong> con frecuencia.</p><p>Incluyen:<br>• <strong>Imprimir</strong> nuevos menús, catálogos, etiquetas<br>• <strong>Actualizar</strong> sistemas informáticos y bases de datos<br>• <strong>Informar</strong> a clientes y vendedores<br>• <strong>Riesgo de errores</strong> en el proceso</p><p>Debido a estos costes, las empresas no ajustan precios inmediatamente ante cambios en la oferta monetaria, lo que contribuye a la <strong>rigidez de precios</strong>.</p><p>Esto puede distorsionar la asignación de recursos y amplificar las fluctuaciones económicas.</p><p>El nombre viene del costo que un restaurante tiene al cambiar el menú impreso.</p>"
+    },
+    {
+      "intro": "La inflación puede causar distorsiones fiscales cuando el sistema tributario no está indexado a la inflación. Por ejemplo, las ganancias de capital se gravan sobre la ganancia nominal, no real, lo que puede llevar a gravar ganancias que en realidad son solo efecto de la inflación. Esto desincentiva el ahorro e inversión y reduce el crecimiento económico.",
+      "question": "11. ¿Cómo puede la inflación causar distorsiones fiscales?",
+      "options": [
+        "Al reducir los impuestos",
+        "Al gravar ganancias nominales que no son reales",
+        "Al eliminar la necesidad de impuestos",
+        "Al aumentar el ahorro"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>inflación</u> puede causar <strong>distorsiones fiscales</strong> cuando el sistema tributario no está <strong>indexado</strong> a la inflación.</p><p>Ejemplo: <strong>ganancias de capital</strong>. Si compras una acción por 100€ y la vendes por 110€ después de un año con 8% de inflación, la ganancia <strong>real</strong> es solo 2€ (110 - 108). Pero el impuesto grava los 10€ <strong>nominales</strong>, gravando incluso la parte que es solo efecto de la inflación.</p><p>Esto <strong>desincentiva el ahorro</strong> e <strong>inversión</strong>, ya que el rendimiento después de impuestos puede ser negativo en términos reales.</p><p>Resulta en una <strong>grave ineficiencia</strong> y reduce el crecimiento económico.</p>"
+    },
+    {
+      "intro": "La redistribución arbitraria de riqueza ocurre cuando la inflación inesperada beneficia a deudores a costa de acreedores, sin que esta redistribución sea intencionada ni justa. Por ejemplo, un prestatario hipotecario con tasa fija se beneficia si la inflación sube, mientras que el banco pierde. Esta incertidumbre desincentiva los préstamos a largo plazo y reduce la eficiencia del sistema financiero.",
+      "question": "12. ¿Qué es la redistribución arbitraria de riqueza por inflación?",
+      "options": [
+        "Una redistribución planificada por el gobierno",
+        "Un beneficio a deudores a costa de acreedores por inflación inesperada",
+        "Un aumento de salarios",
+        "Una reducción de impuestos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>redistribución arbitraria de riqueza</u> ocurre cuando la <strong>inflación inesperada</strong> beneficia a <strong>deudores</strong> a costa de <strong>acreedores</strong>, sin que esta redistribución sea intencionada ni justa.</p><p>Ejemplo: una hipoteca a tasa fija. Si la inflación sube inesperadamente, el deudor devuelve el préstamo con dinero que vale menos, beneficiándose. El banco (acreedor) recibe dinero con menor poder adquisitivo, perdiendo.</p><p>Esta <strong>incertidumbre</strong> desincentiva los <strong>préstamos a largo plazo</strong>, ya que los prestamistas temen pérdidas por inflación.</p><p>Reduce la <strong>eficiencia</strong> del sistema financiero y puede llevar a que se exijan tasas más altas o se reduzca el crédito.</p>"
+    },
+    {
+      "intro": "La inflación moderada (2-3%) puede tener beneficios, como permitir ajustes reales de salarios sin bajar salarios nominales (evitando conflictos laborales) y reducir el riesgo de caer en una trampa de liquidez. Sin embargo, la inflación alta genera incertidumbre, distorsiona decisiones y erosiona el valor del dinero. La meta de inflación del BCE es cercana al 2% por estas razones.",
+      "question": "13. ¿Qué beneficio puede tener la inflación moderada?",
+      "options": [
+        "Permitir ajustes reales de salarios sin bajar salarios nominales",
+        "Eliminar la necesidad de dinero",
+        "Reducir el ahorro",
+        "Aumentar la deflación"
+      ],
+      "correct": [0],
+      "saber_mas": "<p>La <u>inflación moderada</u> (alrededor del 2%) puede tener <strong>beneficios</strong>:</p><p>• <strong>Ajustes reales de salarios</strong>: permite reducir salarios reales sin bajar salarios <strong>nominales</strong> (que es psicológicamente difícil y causa conflictos). Por ejemplo, con inflación del 2%, un salario que no sube se reduce un 2% en términos reales.</p><p>• <strong>Evita la trampa de liquidez</strong>: mantiene las tasas de interés nominales por encima de cero, dando margen al banco central para bajarlas en recesiones.</p><p>• <strong>Flexibilidad</strong> en la economía.</p><p>Por eso, el BCE y otros bancos centrales tienen una meta de inflación cercana al 2%, no cero.</p>"
+    },
+    {
+      "intro": "La deflación es una disminución sostenida en el nivel general de precios. Puede parecer beneficiosa, pero tiene efectos negativos: aumenta el valor real de la deuda, desincentiva el consumo (los consumidores esperan precios más bajos), y puede llevar a una trampa de liquidez donde las tasas de interés nominales no pueden bajar lo suficiente para estimular la economía. Japón sufrió deflación durante décadas.",
+      "question": "14. ¿Qué efecto tiene la deflación sobre la deuda?",
+      "options": [
+        "La reduce",
+        "No tiene efecto",
+        "Aumenta su valor real",
+        "La elimina"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>La <u>deflación</u> (disminución sostenida de precios) <strong>aumenta el valor real de la deuda</strong>.</p><p>El deudor debe devolver el mismo monto nominal, pero ese monto vale más en términos reales (puede comprar más bienes).</p><p>Esto <strong>aumenta la carga de la deuda</strong>, dificultando el pago y aumentando el riesgo de impagos.</p><p>Desincentiva el <strong>endeudamiento</strong> y la <strong>inversión</strong>.</p><p>Además, los consumidores <strong>retrasan compras</strong> esperando precios más bajos, reduciendo la demanda agregada.</p><p>Japón sufrió deflación durante décadas, lo que afectó severamente su crecimiento económico.</p>"
+    },
+    {
+      "intro": "La trampa de liquidez ocurre cuando las tasas de interés nominales están cerca de cero y la política monetaria pierde efectividad para estimular la economía. En este contexto, incluso con tipos bajos, la demanda agregada puede seguir siendo débil. La deflación puede llevar a esta situación, ya que las tasas reales pueden ser altas incluso con tipos nominales bajos. Requiere políticas fiscales o monetarias no convencionales.",
+      "question": "15. ¿Qué es la trampa de liquidez?",
+      "options": [
+        "Cuando hay demasiado dinero en circulación",
+        "Cuando las tasas de interés están cerca de cero y la política monetaria pierde efectividad",
+        "Cuando los bancos prestan demasiado",
+        "Cuando no hay inflación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>trampa de liquidez</u> ocurre cuando las <strong>tasas de interés nominales</strong> están cerca de <strong>cero</strong> y la política monetaria pierde efectividad para estimular la economía.</p><p>Aunque el banco central inyecte dinero, la <strong>demanda agregada</strong> puede seguir siendo débil porque no puede bajar más las tasas.</p><p>Es más probable en contextos de <strong>deflación</strong> o <strong>expectativas de deflación</strong>, ya que las tasas de interés <strong>reales</strong> pueden ser altas incluso con tipos nominales bajos.</p><p>Limita la capacidad del banco central para actuar.</p><p>Requiere políticas fiscales o monetarias no convencionales (como <strong>QE</strong> o <strong>forward guidance</strong>).</p>"
+    }
+  ]
+}
