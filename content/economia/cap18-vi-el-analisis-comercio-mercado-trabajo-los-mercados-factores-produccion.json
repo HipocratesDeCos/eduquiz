@@ -1,0 +1,186 @@
+{
+  "title": "Los Mercados de Factores de Producción",
+  "description": "Quiz sobre la demanda de factores, productividad marginal, salario de equilibrio, renta de los recursos escasos y determinación de precios en mercados de trabajo y capital.",
+  "questions": [
+    {
+      "intro": "Los factores de producción son los recursos que las empresas utilizan para producir bienes y servicios: trabajo, tierra y capital. Los mercados de factores determinan los precios de estos recursos (salarios, rentas, intereses). La demanda de factores es una demanda derivada: depende de la demanda de los bienes que producen. Las empresas contratan factores hasta que el valor del producto marginal iguala al costo del factor.",
+      "question": "1. ¿Qué son los factores de producción?",
+      "options": [
+        "Solo el trabajo",
+        "Trabajo, tierra y capital",
+        "Solo el capital",
+        "Solo los bienes finales"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Los <u>factores de producción</u> son los recursos que las empresas utilizan para producir bienes y servicios.</p><p>Los principales son:<br>• <strong>Trabajo</strong><br>• <strong>Tierra</strong><br>• <strong>Capital</strong> (físico y humano)</p><p>Los mercados de factores determinan sus precios: <strong>salarios</strong>, <strong>rentas</strong>, <strong>intereses</strong>.</p><p>La demanda es <strong>derivada</strong>: depende de la demanda del bien final.</p>"
+    },
+    {
+      "intro": "La demanda de factores es derivada porque depende de la demanda del bien o servicio que producen. Por ejemplo, la demanda de trabajadores automotrices depende de la demanda de automóviles. Si baja la demanda de coches, baja la demanda de trabajadores, aunque su productividad no cambie.",
+      "question": "2. ¿Por qué se dice que la demanda de factores es derivada?",
+      "options": [
+        "Porque los factores no se usan en la producción",
+        "Porque depende de la demanda del bien que producen",
+        "Porque el gobierno la fija",
+        "Porque es constante"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>demanda de factores</u> es <strong>derivada</strong> porque depende de la <strong>demanda del bien o servicio</strong> que producen.</p><p>Ejemplo: la demanda de trabajadores automotrices depende de la demanda de automóviles.</p><p>Si baja la demanda de coches, baja la demanda de trabajadores, aunque su productividad no cambie.</p><p>Es una demanda indirecta, derivada del mercado final.</p>"
+    },
+    {
+      "intro": "El producto marginal del trabajo es el aumento en la producción al añadir una unidad de trabajo, manteniendo constantes otros factores. Tiene rendimientos decrecientes: cada trabajador adicional añade menos producción que el anterior, porque el capital se vuelve un cuello de botella.",
+      "question": "3. ¿Qué es el producto marginal del trabajo?",
+      "options": [
+        "La producción total",
+        "El aumento en la producción al añadir una unidad de trabajo",
+        "El salario promedio",
+        "El costo de contratar un trabajador"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>producto marginal del trabajo</u> (PML) es el aumento en la <strong>producción total</strong> al añadir una unidad de trabajo, manteniendo constantes otros factores.</p><p>Tiene <strong>rendimientos decrecientes</strong>: cada trabajador adicional añade menos producción que el anterior.</p><p>Esto se debe a que el <strong>capital</strong> (máquinas, espacio) se vuelve un cuello de botella.</p><p>Es clave para determinar la demanda de trabajo.</p>"
+    },
+    {
+      "intro": "El valor del producto marginal del trabajo es el producto marginal multiplicado por el precio del bien. Es el ingreso adicional que genera una unidad adicional de trabajo. Las empresas contratan trabajadores hasta que el valor del producto marginal iguala al salario. Este es el principio de maximización de beneficios en el mercado de trabajo.",
+      "question": "4. ¿Qué es el valor del producto marginal del trabajo?",
+      "options": [
+        "El salario del trabajador",
+        "El producto marginal por el precio del bien",
+        "El costo total",
+        "La producción total"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>valor del producto marginal del trabajo</u> (VPMg) = <strong>producto marginal del trabajo</strong> × <strong>precio del bien</strong>.</p><p>Es el <strong>ingreso adicional</strong> que genera una unidad adicional de trabajo.</p><p>Las empresas contratan trabajadores hasta que <strong>VPMg = salario</strong>.</p><p>Es el principio de maximización de beneficios en el mercado de trabajo.</p>"
+    },
+    {
+      "intro": "Una empresa maximiza beneficios contratando trabajo hasta que el valor del producto marginal del trabajo iguala al salario. Si VPMg > salario, contratar más trabajadores aumenta el beneficio. Si VPMg < salario, contratar menos aumenta el beneficio. El equilibrio es donde VPMg = salario.",
+      "question": "5. ¿Cómo maximiza beneficios una empresa en el mercado de trabajo?",
+      "options": [
+        "Contratando hasta que PML = salario",
+        "Contratando hasta que VPMg = salario",
+        "Contratando tantos trabajadores como sea posible",
+        "No contratando a nadie"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Una empresa maximiza beneficios contratando trabajo hasta que el <strong>valor del producto marginal del trabajo</strong> (VPMg) iguala al <strong>salario</strong>.</p><p>Si <strong>VPMg > salario</strong>, contratar más aumenta el beneficio.</p><p>Si <strong>VPMg < salario</strong>, contratar menos aumenta el beneficio.</p><p>El equilibrio es donde <strong>VPMg = salario</strong>.</p>"
+    },
+    {
+      "intro": "La curva de demanda de trabajo es la relación entre el salario y la cantidad de trabajo que las empresas quieren contratar. Es decreciente porque a medida que se contrata más trabajo, el producto marginal disminuye (ley de rendimientos decrecientes), lo que reduce el valor del producto marginal. Por lo tanto, las empresas solo contratan más si el salario baja.",
+      "question": "6. ¿Por qué es decreciente la curva de demanda de trabajo?",
+      "options": [
+        "Porque los trabajadores son más productivos a salarios bajos",
+        "Porque el producto marginal disminuye con más trabajadores",
+        "Porque el gobierno lo exige",
+        "Porque no hay demanda de bienes"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>curva de demanda de trabajo</u> es decreciente porque a medida que se contrata más trabajo, el <strong>producto marginal del trabajo</strong> disminuye (ley de rendimientos decrecientes).</p><p>Esto reduce el <strong>valor del producto marginal</strong> (VPMg).</p><p>Por lo tanto, las empresas solo contratan más trabajadores si el <strong>salario baja</strong>.</p><p>La curva de demanda es el VPMg del trabajo.</p>"
+    },
+    {
+      "intro": "Un aumento en el precio del bien que produce una empresa aumenta el valor del producto marginal del trabajo, desplazando la curva de demanda de trabajo a la derecha. Esto lleva a un mayor salario de equilibrio y más empleo. Es un ejemplo de cómo la demanda del mercado final afecta el mercado de factores.",
+      "question": "7. ¿Qué efecto tiene un aumento en el precio del bien sobre la demanda de trabajo?",
+      "options": [
+        "La disminuye",
+        "No tiene efecto",
+        "La aumenta",
+        "La elimina"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>Un <u>aumento en el precio</u> del bien que produce una empresa <strong>aumenta el valor del producto marginal del trabajo</strong> (VPMg = PML × P).</p><p>Esto <strong>desplaza la curva de demanda de trabajo a la derecha</strong>.</p><p>Resultado: <strong>mayor salario de equilibrio</strong> y <strong>más empleo</strong>.</p><p>Muestra cómo la demanda del mercado final afecta el mercado de factores.</p>"
+    },
+    {
+      "intro": "La oferta de trabajo proviene de las decisiones de los hogares sobre cuántas horas trabajar. Depende del salario, pero también de preferencias entre ingreso y ocio. A salarios altos, puede tener pendiente negativa si el efecto ingreso domina (las personas trabajan menos porque pueden mantener su nivel de vida con menos trabajo).",
+      "question": "8. ¿Qué determina la oferta de trabajo?",
+      "options": [
+        "Solo las decisiones de las empresas",
+        "Las decisiones de los hogares sobre trabajo vs. ocio",
+        "El gobierno",
+        "El precio de los bienes"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>oferta de trabajo</u> proviene de las decisiones de los <strong>hogares</strong> sobre cuántas horas trabajar.</p><p>Depende del <strong>salario</strong> y de las preferencias entre <strong>ingreso</strong> y <strong>ocio</strong>.</p><p>A salarios bajos, más salario incentiva más trabajo (efecto sustitución).</p><p>A salarios altos, puede haber <strong>pendiente negativa</strong> si el efecto ingreso domina (trabajan menos porque pueden mantener su nivel de vida con menos trabajo).</p>"
+    },
+    {
+      "intro": "El salario de equilibrio en un mercado competitivo se determina por la intersección de la oferta y la demanda de trabajo. A ese salario, la cantidad de trabajo ofrecida iguala a la demandada. No hay desempleo voluntario ni escasez. El salario refleja el valor del producto marginal del trabajo.",
+      "question": "9. ¿Cómo se determina el salario de equilibrio?",
+      "options": [
+        "Por decisión del gobierno",
+        "Por la intersección de oferta y demanda de trabajo",
+        "Por el número de empresas",
+        "Por el precio de los bienes"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>salario de equilibrio</u> en un mercado competitivo se determina por la <strong>intersección de la oferta y la demanda de trabajo</strong>.</p><p>A ese salario, la cantidad de trabajo <strong>ofrecida</strong> iguala a la <strong>demanda</strong>da.</p><p>No hay desempleo voluntario ni escasez.</p><p>El salario refleja el <strong>valor del producto marginal del trabajo</strong>.</p>"
+    },
+    {
+      "intro": "Un salario mínimo por encima del equilibrio crea un exceso de oferta de trabajo (desempleo). Más personas quieren trabajar a ese salario del que pueden ser empleadas. Afecta más a trabajadores poco calificados, cuyo valor del producto marginal puede estar por debajo del salario mínimo.",
+      "question": "10. ¿Qué efecto tiene un salario mínimo por encima del equilibrio?",
+      "options": [
+        "Aumenta el empleo",
+        "Crea desempleo",
+        "No tiene efecto",
+        "Reduce el salario"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Un <u>salario mínimo</u> por encima del equilibrio crea un <strong>exceso de oferta de trabajo</strong> (desempleo).</p><p>Más personas quieren trabajar a ese salario del que pueden ser empleadas.</p><p>Afecta más a trabajadores <strong>poco calificados</strong>, cuyo valor del producto marginal puede estar por debajo del salario mínimo.</p><p>Puede reducir el empleo, especialmente en sectores intensivos en trabajo no calificado.</p>"
+    },
+    {
+      "intro": "La renta de un recurso escaso, como tierra o talento, se determina por la demanda, ya que la oferta es fija. La renta económica es el pago por encima del mínimo necesario para mantener el recurso en su uso actual. Para recursos con oferta fija, toda la renta es renta económica.",
+      "question": "11. ¿Qué determina la renta de un recurso con oferta fija?",
+      "options": [
+        "Solo la oferta",
+        "Solo la demanda",
+        "La oferta y la demanda",
+        "El gobierno"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Para un recurso con <u>oferta fija</u> (tierra, talento artístico), la <strong>renta</strong> se determina <strong>solo por la demanda</strong>.</p><p>La oferta no puede aumentar, por lo que el precio (renta) sube con más demanda.</p><p>La <strong>renta económica</strong> es el pago por encima del mínimo necesario para mantener el recurso en su uso actual.</p><p>Para recursos con oferta fija, <strong>toda la renta</strong> es renta económica.</p>"
+    },
+    {
+      "intro": "La renta económica es el pago por un factor de producción por encima del mínimo necesario para mantenerlo en su uso actual. Es el excedente del propietario del factor. Para recursos escasos con oferta fija, como tierra o estrellas del deporte, la renta económica puede ser muy alta.",
+      "question": "12. ¿Qué es la renta económica?",
+      "options": [
+        "El salario mínimo",
+        "El pago por encima del mínimo necesario para mantener un recurso",
+        "El costo de producción",
+        "El precio de venta"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>renta económica</u> es el pago por un factor de producción <strong>por encima del mínimo necesario</strong> para mantenerlo en su uso actual.</p><p>Es el <strong>excedente del propietario</strong> del factor.</p><p>Para recursos escasos con oferta fija (tierra, estrellas del deporte), puede ser muy alta.</p><p>Refleja la <strong>escasez</strong> y la <strong>alta demanda</strong> del recurso.</p>"
+    },
+    {
+      "intro": "El capital físico (máquinas, edificios) y el capital humano (educación, habilidades) son factores de producción que generan un retorno: intereses o salarios más altos. La inversión en capital humano aumenta la productividad y el salario del trabajador, beneficiando tanto al individuo como a la sociedad.",
+      "question": "13. ¿Qué es el capital humano?",
+      "options": [
+        "Solo maquinaria",
+        "Educación, habilidades y experiencia de los trabajadores",
+        "Solo edificios",
+        "Dinero en efectivo"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>capital humano</u> es el conjunto de <strong>conocimientos, habilidades, educación y experiencia</strong> de los trabajadores.</p><p>Es un factor de producción clave que aumenta la <strong>productividad</strong>.</p><p>La inversión en capital humano (educación, formación) aumenta el <strong>salario</strong> del trabajador.</p><p>Beneficia tanto al individuo como a la sociedad (mayor crecimiento económico).</p>"
+    },
+    {
+      "intro": "El interés es el retorno al capital. La tasa de interés se determina por la oferta (ahorro) y la demanda (inversión) de fondos prestables. A mayor ahorro, mayor oferta, menor tasa de interés. A mayor inversión, mayor demanda, mayor tasa de interés. La tasa de interés equilibra el ahorro y la inversión.",
+      "question": "14. ¿Qué determina la tasa de interés?",
+      "options": [
+        "Solo el gobierno",
+        "La oferta de ahorro y la demanda de inversión",
+        "El número de bancos",
+        "El precio de los bienes"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>tasa de interés</u> es el retorno al capital y se determina por la <strong>oferta de ahorro</strong> y la <strong>demanda de inversión</strong> en el mercado de fondos prestables.</p><p>Mayor ahorro → mayor oferta → menor tasa de interés.</p><p>Mayor inversión → mayor demanda → mayor tasa de interés.</p><p>La tasa de interés <strong>equilibra el ahorro y la inversión</strong>.</p>"
+    },
+    {
+      "intro": "La discriminación en el mercado de trabajo ocurre cuando personas con iguales habilidades y productividad reciben diferentes salarios por razones no económicas, como raza, género o edad. Puede deberse a prejuicios de empleadores, clientes o compañeros de trabajo. Reduce la eficiencia y el bienestar general.",
+      "question": "15. ¿Qué es la discriminación en el mercado de trabajo?",
+      "options": [
+        "Pagar más a los más productivos",
+        "Pagar salarios diferentes por razones no económicas a personas igualmente productivas",
+        "Contratar solo a personas calificadas",
+        "Ofrecer salarios de equilibrio"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>discriminación</u> en el mercado de trabajo ocurre cuando personas con <strong>iguales habilidades y productividad</strong> reciben <strong>salarios diferentes</strong> por razones no económicas (raza, género, edad).</p><p>Puede deberse a prejuicios de empleadores, clientes o compañeros.</p><p>Reduce la <strong>eficiencia</strong> y el <strong>bienestar general</strong>.</p><p>Las empresas que no discriminan pueden tener ventaja competitiva (menores costos laborales).</p>"
+    }
+  ]
+}
