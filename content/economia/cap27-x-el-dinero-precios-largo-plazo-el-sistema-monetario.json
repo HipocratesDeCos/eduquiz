@@ -1,0 +1,186 @@
+{
+  "title": "El Sistema Monetario",
+  "description": "Quiz sobre la oferta de dinero, el multiplicador bancario, el papel del banco central y cómo se crea el dinero en una economía moderna.",
+  "questions": [
+    {
+      "intro": "El sistema monetario es el conjunto de instituciones y mecanismos que permiten la creación, distribución y control del dinero en una economía. El dinero cumple tres funciones clave: medio de cambio, unidad de cuenta y reserva de valor. En las economías modernas, el dinero no es solo efectivo, sino también depósitos bancarios. El banco central, como el BCE o la FED, tiene el monopolio de la emisión de efectivo y regula la oferta de dinero para mantener la estabilidad de precios y apoyar el crecimiento económico.",
+      "question": "1. ¿Cuáles son las funciones del dinero?",
+      "options": [
+        "Solo medio de cambio",
+        "Medio de cambio, unidad de cuenta y reserva de valor",
+        "Unidad de cuenta y préstamo",
+        "Reserva de valor y inversión"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>dinero</u> cumple tres funciones fundamentales en una economía:<br>• <strong>Medio de cambio</strong>: facilita las transacciones al eliminar la necesidad de trueque.<br>• <strong>Unidad de cuenta</strong>: permite medir y comparar el valor de bienes y servicios.<br>• <strong>Reserva de valor</strong>: permite guardar poder adquisitivo para el futuro.</p><p>Una buena forma de dinero debe ser duradera, divisible, portable y aceptada universalmente.</p><p>En economías modernas, el dinero incluye <strong>efectivo</strong> y <strong>depósitos bancarios</strong>.</p>"
+    },
+    {
+      "intro": "La oferta monetaria es la cantidad total de dinero disponible en una economía en un momento dado. Se mide mediante agregados como M1 (efectivo y depósitos a la vista) y M2 (M1 más depósitos a plazo). El banco central no controla directamente toda la oferta monetaria, ya que los bancos comerciales crean dinero a través del proceso de intermediación financiera y el multiplicador bancario.",
+      "question": "2. ¿Qué incluye el agregado M1?",
+      "options": [
+        "Solo efectivo",
+        "Efectivo y depósitos a la vista",
+        "Depósitos a plazo y ahorro",
+        "Acciones y bonos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>agregado M1</u> es la medida más líquida de la oferta monetaria.</p><p>Incluye:<br>• <strong>Efectivo</strong> en manos del público<br>• <strong>Depósitos a la vista</strong> (cuentas corrientes) que pueden retirarse en cualquier momento</p><p>Es el dinero más inmediatamente disponible para transacciones.</p><p>M2 incluye M1 más depósitos a plazo y ahorro, que son menos líquidos.</p><p>El banco central monitorea estos agregados para gestionar la política monetaria.</p>"
+    },
+    {
+      "intro": "Los bancos comerciales crean dinero a través del sistema de reservas fraccionarias. Cuando un banco recibe un depósito, no lo guarda íntegramente, sino que mantiene una fracción como reserva y presta el resto. Este préstamo se deposita en otro banco, que a su vez presta parte de él, y así sucesivamente. Este proceso multiplica el dinero inicial, generando una oferta monetaria mayor que el efectivo original.",
+      "question": "3. ¿Cómo crean dinero los bancos comerciales?",
+      "options": [
+        "Imprimiendo billetes",
+        "A través del sistema de reservas fraccionarias y préstamos",
+        "Comprando acciones",
+        "Recibiendo impuestos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Los <u>bancos comerciales</u> crean dinero mediante el sistema de <strong>reservas fraccionarias</strong>.</p><p>Cuando un banco recibe un depósito, mantiene una <strong>fracción como reserva</strong> (por ley o prudencia) y <strong>presta el resto</strong>.</p><p>El préstamo se deposita en otro banco, que a su vez presta parte de él.</p><p>Este proceso se repite, creando nuevos depósitos y aumentando la <strong>oferta monetaria</strong> total.</p><p>El dinero creado es principalmente <strong>depósitos bancarios</strong>, no efectivo.</p>"
+    },
+    {
+      "intro": "La tasa de reservas es el porcentaje de depósitos que los bancos mantienen como reservas, ya sea en efectivo o en cuentas en el banco central. Una tasa de reservas más baja permite a los bancos prestar más y multiplicar más el dinero, aumentando la oferta monetaria. Una tasa más alta reduce la capacidad de préstamo y contrajo la oferta monetaria. El banco central puede cambiar este requisito para influir en la economía.",
+      "question": "4. ¿Qué efecto tiene una reducción de la tasa de reservas?",
+      "options": [
+        "Disminuye la oferta monetaria",
+        "Aumenta la oferta monetaria",
+        "No tiene efecto",
+        "Elimina los préstamos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>tasa de reservas</u> es el porcentaje de depósitos que los bancos deben mantener como <strong>reservas</strong> (efectivo o en el banco central).</p><p>Si el banco central <strong>reduce la tasa de reservas</strong>, los bancos pueden <strong>prestar más</strong> de cada depósito.</p><p>Esto aumenta el <strong>multiplicador bancario</strong> y la <strong>oferta monetaria</strong>.</p><p>Es una herramienta de <strong>política monetaria expansiva</strong> para estimular la economía.</p><p>Una tasa más alta tiene el efecto contrario: contracción de la oferta monetaria.</p>"
+    },
+    {
+      "intro": "El multiplicador monetario es el factor por el cual un aumento en la base monetaria (efectivo + reservas) se multiplica para aumentar la oferta monetaria total. Se calcula como 1 / tasa de reservas. Por ejemplo, con una tasa de reservas del 10%, el multiplicador es 10, lo que significa que cada euro de base monetaria puede generar hasta 10 euros de oferta monetaria a través del sistema bancario.",
+      "question": "5. ¿Cómo se calcula el multiplicador monetario en un sistema de reservas fraccionarias?",
+      "options": [
+        "Tasa de reservas × 100",
+        "1 / tasa de reservas",
+        "Tasa de reservas + 1",
+        "Depósitos / Préstamos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>multiplicador monetario</u> es el factor por el cual un aumento en la <strong>base monetaria</strong> (efectivo + reservas) se multiplica para aumentar la <strong>oferta monetaria</strong> total.</p><p>En un sistema simple de reservas fraccionarias, se calcula como: <strong>1 / tasa de reservas</strong>.</p><p>Ejemplo: si la tasa de reservas es 10% (0.10), el multiplicador es 1 / 0.10 = 10.</p><p>Esto significa que cada euro de base monetaria puede generar hasta 10 euros de oferta monetaria.</p><p>En la práctica, el multiplicador real es menor por efectivo en manos del público y exceso de reservas.</p>"
+    },
+    {
+      "intro": "La base monetaria, también llamada dinero de alta potencia, es la suma del efectivo en circulación y las reservas de los bancos en el banco central. Es el componente más estrecho de la oferta monetaria y está bajo el control directo del banco central. A partir de la base monetaria, el sistema bancario crea dinero adicional a través del proceso de intermediación y el multiplicador.",
+      "question": "6. ¿Qué es la base monetaria?",
+      "options": [
+        "Solo el efectivo en circulación",
+        "Efectivo en circulación más reservas bancarias en el banco central",
+        "Todos los depósitos bancarios",
+        "La oferta total de dinero"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>base monetaria</u> (o dinero de <strong>alta potencia</strong>) es la suma de:<br>• <strong>Efectivo en circulación</strong> (en manos del público)<br>• <strong>Reservas bancarias</strong> (en efectivo o en cuentas en el banco central)</p><p>Está bajo el <strong>control directo</strong> del banco central.</p><p>Es el punto de partida para la creación de dinero a través del sistema bancario.</p><p>A partir de la base monetaria, el <strong>multiplicador bancario</strong> amplifica la oferta monetaria total (M1, M2).</p><p>Es la medida más estrecha de la oferta de dinero.</p>"
+    },
+    {
+      "intro": "El banco central puede aumentar la oferta monetaria mediante operaciones de mercado abierto, comprando bonos del gobierno a los bancos. Al hacerlo, deposita dinero en las cuentas de los bancos, aumentando sus reservas. Con más reservas, los bancos pueden prestar más, lo que inicia el proceso de multiplicación del dinero. Este es el instrumento principal de política monetaria en la mayoría de los países.",
+      "question": "7. ¿Qué ocurre cuando el banco central compra bonos en el mercado abierto?",
+      "options": [
+        "Disminuye la oferta monetaria",
+        "Aumenta las reservas bancarias y la oferta monetaria",
+        "Aumenta los impuestos",
+        "Reduce el gasto público"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Las <u>operaciones de mercado abierto</u> son el principal instrumento de política monetaria.</p><p>Cuando el banco central <strong>compra bonos</strong> del gobierno a los bancos, paga con dinero nuevo, que se deposita en las cuentas de los bancos en el banco central.</p><p>Esto <strong>aumenta las reservas bancarias</strong>.</p><p>Con más reservas, los bancos pueden <strong>conceder más préstamos</strong>, iniciando el proceso de <strong>multiplicación del dinero</strong>.</p><p>Resultado: <strong>aumenta la oferta monetaria</strong>. Es una política <strong>expansiva</strong>.</p>"
+    },
+    {
+      "intro": "El tipo de interés de referencia es la tasa que el banco central cobra a los bancos comerciales por préstamos de corto plazo. Al subir o bajar esta tasa, el banco central influye en todas las demás tasas de interés de la economía (préstamos, hipotecas, ahorro). Es una herramienta clave para controlar la demanda agregada, la inflación y el crecimiento económico.",
+      "question": "8. ¿Qué es el tipo de interés de referencia?",
+      "options": [
+        "La tasa que pagan los consumidores por hipotecas",
+        "La tasa que el banco central cobra a los bancos por préstamos",
+        "La tasa de inflación",
+        "El rendimiento de los bonos del gobierno"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>tipo de interés de referencia</u> (o tasa de interés de política) es la tasa que el <strong>banco central</strong> cobra a los <strong>bancos comerciales</strong> por préstamos de corto plazo (como el descuento en el BCE).</p><p>Al <strong>subirla</strong>, hace más caro para los bancos obtener dinero, lo que tiende a <strong>subir todas las tasas</strong> de la economía (hipotecas, préstamos).</p><p>Al <strong>bajarla</strong>, las hace más baratas, estimulando el crédito y el gasto.</p><p>Es la principal herramienta para influir en la <strong>demanda agregada</strong>, la <strong>inflación</strong> y el <strong>crecimiento</strong>.</p>"
+    },
+    {
+      "intro": "La demanda de dinero se refiere a la cantidad de dinero que los individuos y empresas desean mantener en sus carteras. Depende del nivel de precios, el ingreso y el tipo de interés. A mayor ingreso o precios, mayor demanda de dinero para transacciones. A mayor tipo de interés, mayor costo de mantener dinero (por oportunidad), por lo que la demanda disminuye.",
+      "question": "9. ¿Qué determina la demanda de dinero?",
+      "options": [
+        "Solo el tipo de interés",
+        "El nivel de precios, el ingreso y el tipo de interés",
+        "El número de bancos",
+        "La oferta de dinero"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>demanda de dinero</u> es la cantidad de dinero que los individuos y empresas desean mantener en sus carteras (efectivo y depósitos líquidos).</p><p>Depende de:<br>• <strong>Nivel de precios</strong>: a mayor precios, más dinero se necesita para las mismas compras.<br>• <strong>Ingreso (o producción)</strong>: a mayor ingreso, más transacciones, mayor demanda de dinero.<br>• <strong>Tipo de interés</strong>: es el <strong>costo de oportunidad</strong> de mantener dinero (en vez de bonos). A mayor tipo de interés, mayor costo, menor demanda.</p><p>La demanda de dinero tiene pendiente negativa respecto al tipo de interés.</p>"
+    },
+    {
+      "intro": "El equilibrio en el mercado de dinero se alcanza cuando la oferta de dinero (controlada por el banco central) iguala a la demanda de dinero (por transacciones, precaución y especulación). El banco central puede desplazar la oferta para cambiar el tipo de interés de equilibrio. A corto plazo, el tipo de interés se ajusta para equilibrar oferta y demanda de dinero.",
+      "question": "10. ¿Dónde se determina el tipo de interés de equilibrio en el mercado de dinero?",
+      "options": [
+        "En la intersección de oferta y demanda de dinero",
+        "En el banco central",
+        "En el mercado de bienes",
+        "Por el gobierno"
+      ],
+      "correct": [0],
+      "saber_mas": "<p>El <u>tipo de interés de equilibrio</u> en el mercado de dinero se determina en la <strong>intersección</strong> de la <strong>oferta de dinero</strong> (vertical, controlada por el banco central) y la <strong>demanda de dinero</strong> (pendiente negativa).</p><p>El banco central puede <strong>desplazar la oferta</strong> (comprando o vendiendo bonos) para cambiar el tipo de interés.</p><p>A corto plazo, el tipo de interés se ajusta para <strong>equilibrar</strong> la oferta y demanda de dinero.</p><p>Este tipo de interés influye en el gasto, la inversión y, por tanto, en la demanda agregada.</p>"
+    },
+    {
+      "intro": "La velocidad de circulación del dinero es el número de veces que una unidad de dinero se utiliza para comprar bienes y servicios finales en un periodo. Se calcula como PIB nominal / oferta monetaria. Si la velocidad es estable, cambios en la oferta de dinero llevan a cambios proporcionales en el PIB nominal. La teoría cuantitativa del dinero asume que la velocidad es constante a largo plazo.",
+      "question": "11. ¿Qué mide la velocidad de circulación del dinero?",
+      "options": [
+        "La rapidez con que se imprime dinero",
+        "El número de veces que el dinero cambia de manos en un periodo",
+        "La tasa de inflación",
+        "La cantidad de dinero en efectivo"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>velocidad de circulación del dinero</u> (V) es el número de veces que una unidad de dinero se utiliza para comprar <strong>bienes y servicios finales</strong> en un periodo (generalmente un año).</p><p>Se calcula como: <strong>V = PIB nominal / M</strong> (donde M es la oferta monetaria).</p><p>Por ejemplo, si V = 4, cada euro se gasta en promedio 4 veces al año en la economía.</p><p>La <strong>teoría cuantitativa del dinero</strong> (M × V = P × Y) asume que V es <strong>estable</strong> a largo plazo.</p><p>Si V es constante, aumentos en M llevan a aumentos proporcionales en P (inflación) o Y (producción).</p>"
+    },
+    {
+      "intro": "La teoría cuantitativa del dinero establece que el nivel de precios está determinado por la oferta de dinero, la velocidad de circulación y el nivel de producción. La ecuación es M × V = P × Y. A largo plazo, la producción (Y) está determinada por factores reales (trabajo, capital, tecnología), y la velocidad (V) es estable. Por lo tanto, el crecimiento del dinero determina directamente la inflación.",
+      "question": "12. Según la teoría cuantitativa del dinero, ¿qué determina principalmente la inflación a largo plazo?",
+      "options": [
+        "El crecimiento de la producción",
+        "El crecimiento del dinero",
+        "La velocidad de circulación",
+        "El tipo de interés"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>teoría cuantitativa del dinero</u> se basa en la ecuación: <strong>M × V = P × Y</strong></p><p>Donde:<br>• M = Oferta de dinero<br>• V = Velocidad de circulación<br>• P = Nivel de precios<br>• Y = Producción real</p><p>A <strong>largo plazo</strong>:<br>• Y está determinado por factores reales (trabajo, capital, tecnología)<br>• V es relativamente <strong>estable</strong></p><p>Por lo tanto, el <strong>crecimiento del dinero (M)</strong> determina directamente el <strong>crecimiento de P</strong>, es decir, la <strong>inflación</strong>.</p><p>Implica que <strong>la inflación es siempre un fenómeno monetario</strong>.</p>"
+    },
+    {
+      "intro": "La política monetaria es expansiva cuando el banco central aumenta la oferta de dinero, generalmente para estimular la economía durante una recesión. Puede hacerlo comprando bonos, reduciendo la tasa de reservas o bajando el tipo de interés de referencia. Esto reduce las tasas de interés, estimula el crédito, el consumo y la inversión, aumentando la demanda agregada.",
+      "question": "13. ¿Qué caracteriza a una política monetaria expansiva?",
+      "options": [
+        "Venta de bonos por el banco central",
+        "Compra de bonos y reducción de tipos de interés",
+        "Aumento de la tasa de reservas",
+        "Reducción de la oferta monetaria"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>política monetaria expansiva</u> busca <strong>estimular la economía</strong>, generalmente durante una recesión.</p><p>El banco central:<br>• <strong>Compra bonos</strong> en el mercado abierto<br>• <strong>Baja el tipo de interés de referencia</strong><br>• <strong>Reduce la tasa de reservas</strong></p><p>Esto <strong>aumenta la oferta monetaria</strong> y <strong>reduce las tasas de interés</strong> de mercado.</p><p>Resultado: más <strong>crédito</strong>, más <strong>consumo</strong> y <strong>inversión</strong>, mayor <strong>demanda agregada</strong>.</p><p>Es una herramienta clave para combatir el desempleo cíclico.</p>"
+    },
+    {
+      "intro": "La política monetaria es contractiva cuando el banco central reduce la oferta de dinero, generalmente para combatir la inflación. Puede hacerlo vendiendo bonos, aumentando la tasa de reservas o subiendo el tipo de interés de referencia. Esto aumenta las tasas de interés, desincentiva el crédito y el gasto, reduciendo la demanda agregada y enfriando la economía.",
+      "question": "14. ¿Qué efecto tiene una política monetaria contractiva?",
+      "options": [
+        "Estimula el consumo y la inversión",
+        "Reduce la inflación al desincentivar el gasto",
+        "Aumenta el desempleo cíclico",
+        "Estimula la demanda agregada"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>política monetaria contractiva</u> busca <strong>reducir la inflación</strong> al enfriar una economía sobrecalentada.</p><p>El banco central:<br>• <strong>Vende bonos</strong> en el mercado abierto<br>• <strong>Sube el tipo de interés de referencia</strong><br>• <strong>Aumenta la tasa de reservas</strong></p><p>Esto <strong>reduce la oferta monetaria</strong> y <strong>aumenta las tasas de interés</strong> de mercado.</p><p>Resultado: menos <strong>crédito</strong>, menos <strong>consumo</strong> y <strong>inversión</strong>, menor <strong>demanda agregada</strong>.</p><p>Reduce la inflación, pero puede aumentar temporalmente el <strong>desempleo cíclico</strong>.</p>"
+    },
+    {
+      "intro": "La independencia del banco central es crucial para que pueda tomar decisiones de política monetaria basadas en objetivos económicos a largo plazo, sin presión política a corto plazo. Un banco central independiente es más creíble en su compromiso con la estabilidad de precios, lo que ayuda a anclar las expectativas de inflación y reduce el riesgo de inflación crónica.",
+      "question": "15. ¿Por qué es importante la independencia del banco central?",
+      "options": [
+        "Para que siga las órdenes del gobierno",
+        "Para tomar decisiones basadas en objetivos económicos, no políticos",
+        "Para aumentar el gasto público",
+        "Para reducir los impuestos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>independencia del banco central</u> es crucial para que pueda tomar decisiones de <strong>política monetaria</strong> basadas en <strong>objetivos económicos a largo plazo</strong> (como la estabilidad de precios), sin presión política para estimular la economía antes de elecciones.</p><p>Un banco central <strong>independiente</strong> es más <strong>creíble</strong> en su compromiso con la <strong>estabilidad de precios</strong>.</p><p>Esto ayuda a <strong>anclar las expectativas de inflación</strong>, reduciendo el riesgo de inflación crónica.</p><p>Estudios muestran que países con bancos centrales más independientes tienden a tener <strong>menor inflación</strong> sin costo en crecimiento.</p>"
+    }
+  ]
+}
