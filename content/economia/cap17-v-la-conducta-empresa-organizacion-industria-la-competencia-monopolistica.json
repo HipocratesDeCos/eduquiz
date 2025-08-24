@@ -1,0 +1,186 @@
+{
+  "title": "La Competencia Monopolística",
+  "description": "Quiz sobre el funcionamiento de los mercados de competencia monopolística, diferenciación del producto, beneficios a corto y largo plazo, y eficiencia.",
+  "questions": [
+    {
+      "intro": "La competencia monopolística es una estructura de mercado con muchas empresas que venden productos diferenciados. Cada empresa tiene cierto poder de mercado sobre su producto, lo que le permite fijar un precio por encima del costo marginal. Sin embargo, hay libre entrada de nuevas empresas, lo que elimina los beneficios económicos a largo plazo. Ejemplos incluyen restaurantes, ropa, peluquerías y servicios profesionales. Es una mezcla entre competencia perfecta y monopolio.",
+      "question": "1. ¿Qué caracteriza a la competencia monopolística?",
+      "options": [
+        "Una sola empresa sin competencia",
+        "Muchas empresas con productos diferenciados y libre entrada",
+        "Unas pocas empresas con productos idénticos",
+        "Barreras altas a la entrada"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>competencia monopolística</u> se caracteriza por:<br>• <strong>Muchas empresas</strong><br>• <strong>Productos diferenciados</strong><br>• <strong>Libre entrada y salida</strong></p><p>Cada empresa tiene <strong>cierto poder de mercado</strong> sobre su producto, lo que le permite fijar un precio por encima del CMg.</p><p>Pero la <strong>libre entrada</strong> elimina los beneficios económicos a largo plazo.</p><p>Ejemplos: restaurantes, ropa, peluquerías.</p>"
+    },
+    {
+      "intro": "La diferenciación del producto es la clave de la competencia monopolística. Las empresas diferencian sus productos por calidad, características, marca, ubicación o servicio. Esto les da poder de mercado y les permite competir no solo en precios, sino en atributos del producto. La diferenciación puede ser real o percibida.",
+      "question": "2. ¿Qué permite la diferenciación del producto?",
+      "options": [
+        "Que todas las empresas vendan al mismo precio",
+        "Que las empresas tengan cierto poder de mercado",
+        "Que no haya competencia",
+        "Que los productos sean idénticos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>diferenciación del producto</u> es la clave de la competencia monopolística.</p><p>Permite a las empresas tener <strong>cierto poder de mercado</strong> y fijar precios por encima del CMg.</p><p>Las empresas compiten en:<br>• <strong>Calidad</strong><br>• <strong>Características</strong><br>• <strong>Marca</strong><br>• <strong>Ubicación</strong><br>• <strong>Servicio</strong></p><p>La diferenciación puede ser <strong>real</strong> o <strong>percibida</strong> (por marketing).</p>"
+    },
+    {
+      "intro": "A corto plazo, una empresa en competencia monopolística puede obtener beneficios económicos si su producto es muy demandado. Maximiza beneficios donde IMg = CMg y cobra el precio de la demanda. Sin embargo, estos beneficios atraen entrada de nuevas empresas que ofrecen productos similares, reduciendo la demanda de la empresa original.",
+      "question": "3. ¿Qué ocurre a corto plazo si una empresa tiene beneficios económicos?",
+      "options": [
+        "Sale del mercado",
+        "Atrae entrada de nuevas empresas",
+        "El gobierno la cierra",
+        "Los beneficios desaparecen inmediatamente"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>A <u>corto plazo</u>, una empresa en competencia monopolística puede tener <strong>beneficios económicos</strong> si su producto es muy demandado.</p><p>Maximiza beneficios donde <strong>IMg = CMg</strong> y cobra el precio de la demanda.</p><p>Pero estos beneficios <strong>atraen entrada de nuevas empresas</strong> que ofrecen productos similares.</p><p>Esto <strong>reduce la demanda</strong> de la empresa original.</p>"
+    },
+    {
+      "intro": "A largo plazo, la libre entrada de nuevas empresas elimina los beneficios económicos en competencia monopolística. Cuando hay beneficios, entran nuevas empresas, lo que reduce la demanda de cada empresa existente. Cuando hay pérdidas, salen empresas, lo que aumenta la demanda de las restantes. El equilibrio de largo plazo ocurre cuando P = CTMe y el beneficio económico es cero.",
+      "question": "4. ¿Qué ocurre a largo plazo en competencia monopolística?",
+      "options": [
+        "Las empresas siempre tienen beneficios",
+        "Las empresas siempre tienen pérdidas",
+        "El beneficio económico es cero",
+        "No hay entrada ni salida"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>A <u>largo plazo</u>, en competencia monopolística, la <strong>libre entrada y salida</strong> elimina los beneficios económicos.</p><p>Si hay <strong>beneficios</strong>, entran nuevas empresas, reduciendo la demanda de cada una.</p><p>Si hay <strong>pérdidas</strong>, salen empresas, aumentando la demanda de las restantes.</p><p>El equilibrio ocurre cuando <strong>P = CTMe</strong> y el beneficio económico es <strong>cero</strong>.</p>"
+    },
+    {
+      "intro": "En el equilibrio de largo plazo en competencia monopolística, el precio iguala al costo total medio, pero es mayor que el costo marginal. Esto significa que hay exceso de capacidad: la empresa no produce en el mínimo del CTMe. Además, el precio es mayor que el CMg, lo que indica poder de mercado y pérdida de peso muerto.",
+      "question": "5. ¿Qué caracteriza al equilibrio de largo plazo en competencia monopolística?",
+      "options": [
+        "P = CMg",
+        "P = CTMe y P > CMg",
+        "P < CTMe",
+        "P = CMg y P = CTMe"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>En el <u>equilibrio de largo plazo</u> en competencia monopolística:<br>• <strong>P = CTMe</strong> (beneficio económico = 0)<br>• <strong>P > CMg</strong> (poder de mercado)<br>• <strong>P > mínimo CTMe</strong> (exceso de capacidad)</p><p>La empresa no produce en la escala eficiente mínima.</p><p>Hay <strong>pérdida de peso muerto</strong> por subproducción.</p>"
+    },
+    {
+      "intro": "El exceso de capacidad es la diferencia entre la cantidad producida por una empresa en competencia monopolística y la cantidad en la que el costo total medio es mínimo. En equilibrio, la empresa produce a la izquierda del mínimo del CTMe, lo que significa que podría producir más a menor costo por unidad. Esto es ineficiente desde el punto de vista social.",
+      "question": "6. ¿Qué es el exceso de capacidad?",
+      "options": [
+        "Producir más de lo que se demanda",
+        "La diferencia entre la producción real y la del mínimo CTMe",
+        "Tener más trabajadores de los necesarios",
+        "No producir nada"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>exceso de capacidad</u> es la diferencia entre la cantidad que produce una empresa en competencia monopolística y la cantidad en la que el <strong>CTMe es mínimo</strong>.</p><p>En equilibrio, produce a la <strong>izquierda del mínimo CTMe</strong>.</p><p>Podría producir más a menor costo por unidad.</p><p>Es una forma de <strong>ineficiencia</strong> en este mercado.</p>"
+    },
+    {
+      "intro": "La competencia monopolística no es eficiente porque el precio es mayor que el costo marginal, lo que lleva a una subproducción respecto al nivel socialmente óptimo. Además, hay exceso de capacidad. Sin embargo, los consumidores benefician de la variedad de productos, lo que puede compensar parte de la ineficiencia.",
+      "question": "7. ¿Por qué no es eficiente la competencia monopolística?",
+      "options": [
+        "Porque produce más de lo socialmente óptimo",
+        "Porque P > CMg y hay exceso de capacidad",
+        "Porque no hay variedad",
+        "Porque el gobierno fija los precios"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>competencia monopolística</u> no es eficiente porque:<br>• <strong>P > CMg</strong>: subproducción, pérdida de peso muerto<br>• <strong>Exceso de capacidad</strong>: no produce en escala eficiente mínima</p><p>Sin embargo, los consumidores <strong>benefician de la variedad</strong> de productos.</p><p>Esta <strong>variedad</strong> puede compensar parte de la ineficiencia desde el punto de vista social.</p>"
+    },
+    {
+      "intro": "La publicidad es común en la competencia monopolística porque ayuda a diferenciar el producto y crear lealtad de marca. Puede informar a los consumidores, pero también puede manipular preferencias y crear diferenciación percibida. El impacto en la competencia y el bienestar es ambiguo.",
+      "question": "8. ¿Para qué usan la publicidad las empresas en competencia monopolística?",
+      "options": [
+        "Para reducir los costos",
+        "Para diferenciar el producto y crear lealtad de marca",
+        "Para eliminar competidores",
+        "Para fijar precios bajos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>publicidad</u> es común en competencia monopolística porque ayuda a <strong>diferenciar el producto</strong> y crear <strong>lealtad de marca</strong>.</p><p>Puede <strong>informar</strong> a los consumidores sobre características.</p><p>Pero también puede <strong>manipular preferencias</strong> y crear diferenciación <strong>percibida</strong> (no real).</p><p>El impacto en la competencia y el bienestar es <strong>ambiguo</strong>.</p>"
+    },
+    {
+      "intro": "Las marcas son importantes en la competencia monopolística porque ayudan a diferenciar el producto y garantizar calidad. Los consumidores pagan más por marcas reconocidas porque confían en su consistencia. Las marcas también pueden reducir los costos de búsqueda para los consumidores.",
+      "question": "9. ¿Qué función tienen las marcas en la competencia monopolística?",
+      "options": [
+        "Aumentar los costos fijos",
+        "Garantizar calidad y diferenciar el producto",
+        "Eliminar la competencia",
+        "Reducir la publicidad"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Las <u>marcas</u> son importantes en competencia monopolística porque:<br>• <strong>Diferencian</strong> el producto<br>• <strong>Garantizan calidad</strong> y consistencia<br>• <strong>Generan confianza</strong> en los consumidores<br>• <strong>Reducen costos de búsqueda</strong></p><p>Los consumidores pagan más por marcas reconocidas porque confían en su calidad.</p><p>Las marcas también son una forma de <strong>capital intangible</strong>.</p>"
+    },
+    {
+      "intro": "La variedad de productos es un beneficio clave de la competencia monopolística. Los consumidores pueden elegir entre muchos productos similares pero con diferencias sutiles. Esta variedad mejora el bienestar, aunque a un costo de ineficiencia (exceso de capacidad, precios más altos). Es un trade-off entre eficiencia y diversidad.",
+      "question": "10. ¿Qué beneficio tiene la variedad de productos en la competencia monopolística?",
+      "options": [
+        "Reduce los precios",
+        "Mejora el bienestar de los consumidores",
+        "Elimina la publicidad",
+        "Hace que los productos sean idénticos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>variedad de productos</u> es un <strong>beneficio clave</strong> de la competencia monopolística.</p><p>Los consumidores pueden elegir entre muchos productos similares con diferencias sutiles.</p><p>Esta variedad <strong>mejora el bienestar</strong> al satisfacer preferencias individuales.</p><p>Aunque hay un costo de ineficiencia (exceso de capacidad, precios más altos), la variedad puede compensarlo.</p>"
+    },
+    {
+      "intro": "Aunque la competencia monopolística tiene ineficiencias (P > CMg, exceso de capacidad), puede ser preferible a la competencia perfecta porque ofrece variedad. En competencia perfecta, todos los productos son idénticos, lo que limita las opciones del consumidor. El bienestar total puede ser mayor con variedad, a pesar de la ineficiencia.",
+      "question": "11. ¿Por qué podría preferirse la competencia monopolística a la perfecta?",
+      "options": [
+        "Porque tiene precios más bajos",
+        "Porque ofrece variedad de productos",
+        "Porque tiene menos empresas",
+        "Porque no hay publicidad"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>competencia monopolística</u> podría preferirse a la perfecta porque <strong>ofrece variedad de productos</strong>.</p><p>En competencia perfecta, todos los productos son <strong>idénticos</strong>, lo que limita las opciones del consumidor.</p><p>En competencia monopolística, hay <strong>muchas opciones</strong> con diferencias sutiles.</p><p>Esta <strong>variedad</strong> puede aumentar el bienestar total, a pesar de la ineficiencia (P > CMg, exceso de capacidad).</p>"
+    },
+    {
+      "intro": "La libre entrada en competencia monopolística garantiza que no haya beneficios económicos a largo plazo. Si una empresa tiene éxito, otras entrarán con productos similares, reduciendo su demanda. Esto hace que el mercado sea dinámico, con constantes innovaciones y cambios en la oferta.",
+      "question": "12. ¿Qué garantiza la libre entrada en competencia monopolística?",
+      "options": [
+        "Beneficios económicos permanentes",
+        "Que no haya beneficios económicos a largo plazo",
+        "Que todas las empresas fallen",
+        "Que no haya competencia"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>libre entrada</u> en competencia monopolística garantiza que <strong>no haya beneficios económicos a largo plazo</strong>.</p><p>Si una empresa tiene éxito, otras entrarán con productos similares, <strong>reduciendo su demanda</strong>.</p><p>Si hay pérdidas, las empresas salen.</p><p>Esto hace que el mercado sea <strong>dinámico</strong>, con innovación constante y cambio en la oferta.</p>"
+    },
+    {
+      "intro": "La competencia en calidad es una forma importante de competir en la competencia monopolística. Las empresas mejoran sus productos para atraer más clientes. Esto puede beneficiar a los consumidores, aunque a veces los incrementos de calidad no justifican el aumento de precio. La calidad es un eje clave de diferenciación.",
+      "question": "13. ¿Cómo compiten las empresas en calidad en competencia monopolística?",
+      "options": [
+        "Reduciendo la calidad para bajar costos",
+        "Mejorando el producto para atraer clientes",
+        "Copiando productos exactamente",
+        "Ignorando al consumidor"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>En competencia monopolística, las empresas compiten en <strong>calidad</strong> mejorando sus productos para atraer más clientes.</p><p>Esto puede <strong>beneficiar a los consumidores</strong> con mejores productos.</p><p>Aunque a veces los incrementos de calidad no justifican el aumento de precio.</p><p>La calidad es un eje clave de <strong>diferenciación</strong> y poder de mercado.</p>"
+    },
+    {
+      "intro": "La ubicación es un factor clave de diferenciación en servicios como restaurantes, tiendas o peluquerías. Una ubicación conveniente puede atraer más clientes, permitiendo cobrar precios más altos. Las empresas eligen ubicaciones estratégicas para maximizar su demanda, lo que lleva a modelos como el de Hotelling.",
+      "question": "14. ¿Por qué es importante la ubicación en la competencia monopolística?",
+      "options": [
+        "Porque todas las ubicaciones son iguales",
+        "Porque una ubicación conveniente puede atraer más clientes",
+        "Porque no afecta al precio",
+        "Porque el gobierno la asigna"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>ubicación</u> es un factor clave de diferenciación en servicios como restaurantes, tiendas o peluquerías.</p><p>Una ubicación <strong>conveniente</strong> (centro, cerca del trabajo) puede <strong>atraer más clientes</strong>.</p><p>Permite cobrar <strong>precios más altos</strong>.</p><p>Las empresas eligen ubicaciones estratégicas para maximizar su demanda, lo que lleva a modelos como el de <strong>Hotelling</strong>.</p>"
+    },
+    {
+      "intro": "El servicio al cliente es otra forma de diferenciar el producto en competencia monopolística. Un buen servicio puede fidelizar clientes y justificar precios más altos. Las empresas invierten en capacitación, atención personalizada y comodidades para destacar sobre la competencia.",
+      "question": "15. ¿Cómo puede el servicio al cliente diferenciar un producto?",
+      "options": [
+        "Haciendo que todos los servicios sean iguales",
+        "Fidelizando clientes y justificando precios más altos",
+        "Reduciendo la calidad",
+        "Eliminando la competencia"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>servicio al cliente</u> es una forma de diferenciar el producto en competencia monopolística.</p><p>Un buen servicio puede <strong>fidelizar clientes</strong> y <strong>justificar precios más altos</strong>.</p><p>Las empresas invierten en:<br>• <strong>Capacitación</strong><br>• <strong>Atención personalizada</strong><br>• <strong>Comodidades</strong></p><p>Es clave para destacar sobre competidores con productos similares.</p>"
+    }
+  ]
+}
