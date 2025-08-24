@@ -1,0 +1,186 @@
+{
+  "title": "Los Ingresos y la Discriminación",
+  "description": "Quiz sobre determinantes de los ingresos, teoría del capital humano, discriminación en el mercado de trabajo y su impacto en la distribución de la renta.",
+  "questions": [
+    {
+      "intro": "Los ingresos en el mercado de trabajo se determinan por la productividad de los trabajadores, que a su vez depende de factores como la educación, la experiencia, las habilidades y el capital humano. La teoría del capital humano sostiene que invertir en educación y formación aumenta la productividad y, por tanto, el salario. Sin embargo, no todas las diferencias salariales se explican por productividad; algunas pueden deberse a discriminación por raza, género, edad u otras características no económicas. Comprender estos factores es clave para analizar la equidad en la distribución de la renta.",
+      "question": "1. ¿Qué explica la teoría del capital humano sobre los salarios?",
+      "options": [
+        "Que todos los trabajadores deberían ganar lo mismo",
+        "Que la educación y formación aumentan la productividad y el salario",
+        "Que el salario depende solo de la experiencia",
+        "Que el mercado de trabajo es siempre justo"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>teoría del capital humano</u> sostiene que la <strong>educación, formación y experiencia</strong> son inversiones que aumentan la productividad del trabajador.</p><p>Trabajadores con más capital humano generan más valor para la empresa, por lo que reciben <strong>salarios más altos</strong>.</p><p>Esta teoría explica gran parte de las diferencias salariales, aunque no todas.</p>"
+    },
+    {
+      "intro": "La discriminación en el mercado de trabajo ocurre cuando trabajadores con iguales habilidades, educación y productividad reciben salarios diferentes o tienen diferentes probabilidades de ser contratados por razones no económicas, como raza, género o edad. Esta discriminación puede provenir de prejuicios de empleadores, clientes o compañeros de trabajo. Aunque reduce la eficiencia económica, puede persistir si los costos de eliminarla son altos o si hay barreras institucionales.",
+      "question": "2. ¿Qué es la discriminación en el mercado de trabajo?",
+      "options": [
+        "Pagar más a los más productivos",
+        "Pagar salarios diferentes por razones no económicas a personas igualmente productivas",
+        "Contratar solo a personas calificadas",
+        "Ofrecer salarios de equilibrio"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>discriminación</u> en el mercado de trabajo ocurre cuando personas con <strong>iguales habilidades y productividad</strong> reciben <strong>salarios diferentes</strong> o tienen diferentes oportunidades por razones no económicas (raza, género, edad).</p><p>Puede deberse a prejuicios de empleadores, clientes o compañeros.</p><p>Reduce la <strong>eficiencia</strong> y el <strong>bienestar general</strong>, aunque puede persistir si los costos de eliminarla son altos.</p>"
+    },
+    {
+      "intro": "La discriminación basada en el cliente ocurre cuando los consumidores prefieren ser atendidos por trabajadores de un determinado grupo, lo que lleva a los empleadores a contratar según esas preferencias, incluso si reduce la eficiencia. Por ejemplo, si los clientes prefieren médicos hombres, los hospitales pueden contratar más hombres, pagando menos a las mujeres igualmente calificadas. Esto crea una brecha salarial no basada en productividad.",
+      "question": "3. ¿Cómo puede la preferencia del cliente llevar a discriminación?",
+      "options": [
+        "Los clientes siempre eligen al mejor trabajador",
+        "Los empleadores contratan según preferencias del cliente, aunque reduzca eficiencia",
+        "Los clientes pagan más por servicios de calidad",
+        "No hay relación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>discriminación basada en el cliente</u> ocurre cuando los <strong>consumidores</strong> muestran preferencias por ciertos grupos (por ejemplo, médicos hombres).</p><p>Los <strong>empleadores</strong>, buscando maximizar ingresos, contratan según esas preferencias, aunque reduzca eficiencia.</p><p>Esto puede llevar a que trabajadores igualmente calificados de otros grupos reciban <strong>menos salario o menos oportunidades</strong>.</p>"
+    },
+    {
+      "intro": "La discriminación estadística ocurre cuando los empleadores usan características grupales (como género o raza) como proxy para información individual difícil de obtener. Por ejemplo, si un grupo tiene en promedio menor rotación, el empleador puede preferirlo, aunque algunos individuos del otro grupo sean mejores. No requiere prejuicios, pero puede perpetuar desigualdades si se basa en estereotipos erróneos.",
+      "question": "4. ¿Qué es la discriminación estadística?",
+      "options": [
+        "Discriminación basada en prejuicios personales",
+        "Uso de características grupales como proxy para información individual",
+        "Igualdad de oportunidades",
+        "Pagar según la productividad"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>discriminación estadística</u> ocurre cuando los empleadores usan <strong>características grupales</strong> (como género o raza) como <strong>proxy</strong> para información difícil de obtener sobre individuos.</p><p>Por ejemplo: si un grupo tiene menor rotación, se prefiere aunque algunos individuos del otro grupo sean mejores.</p><p>No requiere <strong>prejuicios</strong>, pero puede perpetuar desigualdades si los datos son erróneos o desactualizados.</p>"
+    },
+    {
+      "intro": "Las diferencias salariales entre géneros pueden explicarse parcialmente por diferencias en educación, experiencia, horas trabajadas o elección de ocupaciones. Sin embargo, una parte significativa no se explica por estos factores y puede deberse a discriminación directa o indirecta. Políticas como licencias parentales equilibradas, guarderías accesibles y transparencia salarial pueden ayudar a reducir esta brecha.",
+      "question": "5. ¿Qué puede explicar parte de la brecha salarial de género?",
+      "options": [
+        "Solo discriminación",
+        "Diferencias en educación, experiencia y elección de ocupaciones",
+        "Que las mujeres trabajan más horas",
+        "Que los hombres tienen menos educación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>brecha salarial de género</u> puede explicarse parcialmente por diferencias en:<br>• <strong>Educación</strong><br>• <strong>Experiencia laboral</strong><br>• <strong>Horas trabajadas</strong><br>• <strong>Especialización ocupacional</strong> (mujeres en sectores mejor pagados)</p><p>Pero una parte <strong>no explicada</strong> puede deberse a <strong>discriminación</strong> directa o indirecta.</p><p>Políticas como licencias parentales equilibradas y guarderías accesibles pueden ayudar a reducirla.</p>"
+    },
+    {
+      "intro": "El salario compensatorio es un pago adicional que compensa condiciones de trabajo desagradables o peligrosas. Por ejemplo, los trabajos con alto riesgo (mineros, bomberos) o en lugares remotos suelen pagar más para atraer trabajadores. Este diferencial salarial refleja elecciones racionales de los trabajadores entre salario y condiciones laborales.",
+      "question": "6. ¿Qué es un salario compensatorio?",
+      "options": [
+        "Un salario bajo por trabajo fácil",
+        "Un pago adicional por condiciones desagradables o peligrosas",
+        "Un salario igual para todos",
+        "Un pago por discriminación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>salario compensatorio</u> es un pago <strong>adicional</strong> que compensa condiciones de trabajo <strong>desagradables, peligrosas o incómodas</strong>.</p><p>Ejemplos: mineros, bomberos, trabajos en lugares remotos.</p><p>Refleja elecciones racionales: los trabajadores exigen más salario para aceptar peores condiciones.</p><p>Es una forma en que el mercado <strong>compensa riesgos</strong>.</p>"
+    },
+    {
+      "intro": "La teoría de la discriminación de empleador sostiene que algunos empresarios tienen preferencias personales contra ciertos grupos y están dispuestos a pagar un costo (menor beneficio) por no contratarlos. Por ejemplo, un empresario que prefiere no contratar mujeres estaría dispuesto a tener menos ingresos. Esta discriminación es ineficiente y puede ser eliminada por competidores que no discriminen y tengan menores costos laborales.",
+      "question": "7. ¿Qué implica la teoría de la discriminación de empleador?",
+      "options": [
+        "Que todos los empleadores son justos",
+        "Que algunos empleadores pagan un costo por no contratar ciertos grupos",
+        "Que los salarios son siempre iguales",
+        "Que no hay diferencia entre grupos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>teoría de la discriminación de empleador</u> sostiene que algunos empresarios tienen <strong>preferencias personales</strong> contra ciertos grupos (por raza, género, etc.).</p><p>Están dispuestos a <strong>pagar un costo</strong> (menores ingresos o mayores costos) por no contratarlos.</p><p>Es <strong>ineficiente</strong>, y competidores que no discriminen pueden tener ventaja competitiva (menores costos laborales).</p><p>Puede ser eliminada por la competencia en mercados abiertos.</p>"
+    },
+    {
+      "intro": "La discriminación puede persistir en el mercado de trabajo si los costos de eliminarla son altos, si hay barreras institucionales (como licencias profesionales restrictivas) o si los prejuicios son muy arraigados. Además, si los trabajadores discriminados tienen menos acceso a educación o redes de empleo, la desigualdad puede perpetuarse intergeneracionalmente.",
+      "question": "8. ¿Por qué puede persistir la discriminación en el mercado de trabajo?",
+      "options": [
+        "Porque todos los mercados son perfectamente competitivos",
+        "Por prejuicios arraigados, barreras institucionales y falta de acceso a oportunidades",
+        "Porque los salarios siempre se ajustan",
+        "Porque no hay diferencias entre grupos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>discriminación</u> puede persistir si:<br>• Los <strong>prejuicios</strong> son muy arraigados<br>• Hay <strong>barreras institucionales</strong> (licencias, uniones restrictivas)<br>• Los grupos discriminados tienen <strong>menos acceso</strong> a educación, redes de empleo o capital<br>• Los costos de <strong>denunciar</strong> son altos</p><p>Puede perpetuarse <strong>intergeneracionalmente</strong> si los hijos de discriminados tienen menos oportunidades.</p>"
+    },
+    {
+      "intro": "El capital humano incluye todas las habilidades, conocimientos y experiencias que aumentan la productividad de un trabajador. La educación formal, la formación profesional, la salud y la experiencia laboral son formas de capital humano. Invertir en capital humano no solo beneficia al individuo con mayores ingresos, sino también a la sociedad con mayor crecimiento económico y menor dependencia social.",
+      "question": "9. ¿Qué es el capital humano?",
+      "options": [
+        "Solo la educación formal",
+        "Habilidades, conocimientos y experiencia que aumentan la productividad",
+        "Solo la experiencia laboral",
+        "El número de trabajadores"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>capital humano</u> es el conjunto de <strong>conocimientos, habilidades, educación, salud y experiencia</strong> de los trabajadores.</p><p>Es un factor de producción clave que aumenta la <strong>productividad</strong>.</p><p>La inversión en capital humano (educación, formación) aumenta el <strong>salario</strong> del trabajador.</p><p>Beneficia tanto al individuo como a la sociedad (mayor crecimiento económico).</p>"
+    },
+    {
+      "intro": "La experiencia laboral es un componente clave del capital humano. A medida que los trabajadores acumulan experiencia, su productividad tiende a aumentar, lo que se refleja en mayores salarios. Este efecto es especialmente fuerte en los primeros años de carrera, cuando el aprendizaje en el trabajo es más intenso. Por eso, los salarios suelen crecer con la edad, aunque no indefinidamente.",
+      "question": "10. ¿Cómo afecta la experiencia laboral al salario?",
+      "options": [
+        "No tiene efecto",
+        "Aumenta el salario por mayor productividad",
+        "Disminuye el salario",
+        "Lo mantiene constante"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>experiencia laboral</u> es un componente clave del <strong>capital humano</strong>.</p><p>A medida que los trabajadores acumulan experiencia, su <strong>productividad</strong> tiende a aumentar.</p><p>Este efecto es fuerte en los <strong>primeros años</strong> de carrera, cuando el aprendizaje en el trabajo es intenso.</p><p>Por eso, los salarios suelen <strong>crecer con la edad</strong>, aunque no indefinidamente.</p>"
+    },
+    {
+      "intro": "Las diferencias salariales entre ocupaciones reflejan diferencias en productividad, escasez de habilidades, condiciones de trabajo y costos de entrada (educación, licencias). Por ejemplo, los médicos ganan más que los vendedores no solo por productividad, sino porque requieren más años de formación y hay barreras de entrada. Estas diferencias incentivan la especialización y el desarrollo de habilidades escasas.",
+      "question": "11. ¿Qué explica las diferencias salariales entre ocupaciones?",
+      "options": [
+        "Solo la productividad",
+        "Productividad, escasez de habilidades, condiciones de trabajo y costos de entrada",
+        "Solo la educación",
+        "La cantidad de trabajadores"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Las <u>diferencias salariales</u> entre ocupaciones se explican por:<br>• <strong>Productividad</strong> marginal del trabajador<br>• <strong>Escasez</strong> de habilidades requeridas<br>• <strong>Condiciones</strong> de trabajo (riesgo, estrés)<br>• <strong>Costos de entrada</strong> (educación, licencias)</p><p>Por ejemplo: médicos ganan más por alta productividad, escasez y altos costos de formación.</p><p>Estas diferencias <strong>incentivan la especialización</strong> y el desarrollo de habilidades escasas.</p>"
+    },
+    {
+      "intro": "La movilidad laboral es la capacidad de los trabajadores para cambiar de empleo, sector o ubicación geográfica. Mayor movilidad permite una mejor asignación de recursos humanos, reduce el desempleo estructural y ayuda a cerrar brechas salariales. Barreras como costos de traslado, licencias profesionales o discriminación reducen la movilidad y perpetúan desigualdades.",
+      "question": "12. ¿Qué efecto tiene la baja movilidad laboral?",
+      "options": [
+        "Aumenta la eficiencia",
+        "Perpetúa desigualdades y desempleo estructural",
+        "Elimina la necesidad de educación",
+        "Aumenta la competencia"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>baja movilidad laboral</u> (por costos de traslado, licencias, discriminación) <strong>perpetúa desigualdades</strong> y <strong>desempleo estructural</strong>.</p><p>Trabajadores no pueden moverse a donde hay demanda.</p><p>Reduce la eficiencia en la asignación de recursos humanos.</p><p>Mayor movilidad permite <strong>mejor ajuste</strong> entre oferta y demanda de trabajo.</p>"
+    },
+    {
+      "intro": "La discriminación por edad ocurre cuando trabajadores son tratados desfavorablemente por su edad, ya sea por ser muy jóvenes (falta de experiencia) o muy mayores (prejuicios sobre productividad o adaptabilidad). Aunque la experiencia puede aumentar con la edad, también pueden surgir barreras por percepciones erróneas sobre capacidad para aprender nuevas tecnologías.",
+      "question": "13. ¿Qué es la discriminación por edad?",
+      "options": [
+        "Pagar según la experiencia",
+        "Tratar desfavorablemente a trabajadores por su edad",
+        "Contratar solo a jóvenes",
+        "Ofrecer salarios altos a todos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>discriminación por edad</u> ocurre cuando trabajadores son <strong>tratados desfavorablemente</strong> por ser muy jóvenes o muy mayores.</p><p>Prejuicios: jóvenes = <strong>falta de experiencia</strong>, mayores = <strong>menor adaptabilidad</strong>.</p><p>Aunque la experiencia aumenta con la edad, percepciones erróneas pueden llevar a <strong>menores oportunidades</strong>.</p><p>Es ilegal en muchos países, pero difícil de probar.</p>"
+    },
+    {
+      "intro": "El rendimiento de la inversión en educación mide el aumento en los ingresos a lo largo de la vida por cada año adicional de escolaridad. En general, el retorno es positivo y significativo, especialmente en educación superior. Sin embargo, varía según el campo de estudio, país y contexto económico. A pesar de los costos, la educación sigue siendo una de las inversiones más rentables.",
+      "question": "14. ¿Qué mide el rendimiento de la inversión en educación?",
+      "options": [
+        "El costo de la escuela",
+        "El aumento en los ingresos a lo largo de la vida por cada año adicional de escolaridad",
+        "El número de estudiantes",
+        "La duración de las clases"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>rendimiento de la inversión en educación</u> mide el <strong>aumento en los ingresos</strong> a lo largo de la vida por cada año adicional de escolaridad.</p><p>En general, es <strong>positivo y significativo</strong>, especialmente en educación superior.</p><p>Varía según campo de estudio, país y contexto económico.</p><p>A pesar de costos (matrícula, oportunidad), la educación es una de las <strong>inversiones más rentables</strong>.</p>"
+    },
+    {
+      "intro": "La discriminación no solo afecta a los individuos discriminados, sino que también reduce la eficiencia económica al asignar mal los recursos humanos. Empresas que discriminan pueden tener costos laborales más altos y menor innovación. Sociedades más inclusivas tienden a tener mayor crecimiento económico y bienestar social, ya que aprovechan mejor todo el talento disponible.",
+      "question": "15. ¿Qué efecto tiene la discriminación en la eficiencia económica?",
+      "options": [
+        "Aumenta la eficiencia",
+        "La reduce al asignar mal los recursos humanos",
+        "No tiene efecto",
+        "La elimina"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>discriminación</u> reduce la <strong>eficiencia económica</strong> al asignar mal los recursos humanos.</p><p>Trabajadores no son contratados por su productividad, sino por características irrelevantes.</p><p>Empresas que discriminan pueden tener <strong>costos laborales más altos</strong> y <strong>menor innovación</strong>.</p><p>Sociedades más inclusivas aprovechan mejor el talento y tienden a tener <strong>mayor crecimiento</strong>.</p>"
+    }
+  ]
+}
