@@ -1,0 +1,186 @@
+{
+  "title": "La Medición de la Renta de un País",
+  "description": "Quiz sobre el Producto Interior Bruto (PIB), sus componentes, PIB nominal vs. real, deflactor del PIB y limitaciones de la medición.",
+  "questions": [
+    {
+      "intro": "El Producto Interior Bruto (PIB) es la medida principal del tamaño de una economía. Mide el valor de mercado de todos los bienes y servicios finales producidos dentro de un país en un periodo determinado. Puede calcularse por el lado del gasto (consumo, inversión, gasto público, exportaciones netas), por el lado de la producción (valor añadido) o por el lado de los ingresos (salarios, beneficios, intereses, rentas). Es un indicador clave del bienestar económico, aunque no lo mide directamente.",
+      "question": "1. ¿Qué mide el Producto Interior Bruto (PIB)?",
+      "options": [
+        "El ingreso total de los ciudadanos",
+        "El valor de mercado de todos los bienes y servicios finales producidos en un país",
+        "El valor de todas las transacciones",
+        "Solo el consumo de los hogares"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>Producto Interior Bruto (PIB)</u> mide el <strong>valor de mercado</strong> de todos los <strong>bienes y servicios finales</strong> producidos dentro de un país en un periodo determinado (generalmente un año).</p><p>Es la medida principal del tamaño de una economía.</p><p>Puede calcularse por:<br>• <strong>Gasto</strong>: C + I + G + (X - M)<br>• <strong>Producción</strong>: valor añadido<br>• <strong>Ingresos</strong>: salarios, beneficios, intereses, rentas</p>"
+    },
+    {
+      "intro": "El PIB se calcula por el lado del gasto como la suma de consumo (C), inversión (I), gasto público (G) y exportaciones netas (X - M). El consumo incluye bienes duraderos, no duraderos y servicios. La inversión incluye construcción, maquinaria y cambios en inventarios. El gasto público incluye bienes y servicios, no transferencias.",
+      "question": "2. ¿Cuál es la fórmula del PIB por el lado del gasto?",
+      "options": [
+        "C + I + G",
+        "C + I + G + X",
+        "C + I + G + (X - M)",
+        "C + G + (X - M)"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>El <u>PIB por el lado del gasto</u> se calcula como:<br><strong>PIB = C + I + G + (X - M)</strong></p><p>Donde:<br>• <strong>C</strong> = Consumo de hogares<br>• <strong>I</strong> = Inversión (construcción, maquinaria, inventarios)<br>• <strong>G</strong> = Gasto público en bienes y servicios<br>• <strong>X - M</strong> = Exportaciones netas (exportaciones menos importaciones)</p><p>No incluye transferencias (como pensiones).</p>"
+    },
+    {
+      "intro": "El consumo (C) es la mayor componente del PIB en la mayoría de los países. Incluye gastos de los hogares en bienes duraderos (coches, electrodomésticos), no duraderos (alimentos, ropa) y servicios (educación, salud). No incluye compra de viviendas nuevas, que se contabiliza como inversión.",
+      "question": "3. ¿Qué incluye el consumo en el cálculo del PIB?",
+      "options": [
+        "Compra de viviendas nuevas",
+        "Gastos de hogares en bienes y servicios",
+        "Inversión en maquinaria",
+        "Gasto público en educación"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>consumo</u> (C) es la mayor componente del PIB y representa los <strong>gastos de los hogares</strong> en:<br>• <strong>Bienes duraderos</strong> (coches, electrodomésticos)<br>• <strong>Bienes no duraderos</strong> (alimentos, ropa)<br>• <strong>Servicios</strong> (educación, salud, transporte)</p><p>No incluye:<br>• Compra de <strong>viviendas nuevas</strong> (es inversión)<br>• <strong>Transacciones financieras</strong> o usadas</p>"
+    },
+    {
+      "intro": "La inversión (I) incluye gastos en capital físico: construcción de viviendas nuevas, fábricas, maquinaria, equipos y cambios en inventarios. No incluye compra de acciones o bonos, que son transacciones financieras. La inversión es clave para el crecimiento económico a largo plazo, ya que aumenta la capacidad productiva de la economía.",
+      "question": "4. ¿Qué incluye la inversión en el cálculo del PIB?",
+      "options": [
+        "Compra de acciones",
+        "Construcción de viviendas nuevas y maquinaria",
+        "Gasto en educación",
+        "Transferencias del gobierno"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>inversión</u> (I) incluye gastos en <strong>capital físico</strong>:<br>• <strong>Construcción</strong> de viviendas nuevas y fábricas<br>• <strong>Maquinaria</strong> y equipos<br>• <strong>Cambios en inventarios</strong></p><p>No incluye:<br>• Compra de <strong>acciones o bonos</strong> (transacciones financieras)<br>• Gasto en <strong>educación</strong> (es consumo o gasto público)</p><p>Es clave para el <strong>crecimiento económico</strong> a largo plazo.</p>"
+    },
+    {
+      "intro": "El gasto público (G) incluye los gastos del gobierno en bienes y servicios, como educación, defensa, infraestructura y salarios de empleados públicos. No incluye transferencias como pensiones, subsidios de desempleo o ayuda social, ya que no corresponden a producción de bienes o servicios. Las transferencias se registran en otras partidas del presupuesto.",
+      "question": "5. ¿Qué incluye el gasto público en el cálculo del PIB?",
+      "options": [
+        "Pensiones y subsidios",
+        "Gasto en bienes y servicios por parte del gobierno",
+        "Compra de acciones por el gobierno",
+        "Transferencias a empresas"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>gasto público</u> (G) incluye los gastos del gobierno en <strong>bienes y servicios</strong>:<br>• <strong>Educación</strong><br>• <strong>Defensa</strong><br>• <strong>Infraestructura</strong><br>• <strong>Salarios</strong> de empleados públicos</p><p>No incluye <strong>transferencias</strong>:<br>• Pensiones<br>• Subsidios de desempleo<br>• Ayuda social</p><p>Las transferencias no representan producción, por eso no se incluyen en G.</p>"
+    },
+    {
+      "intro": "Las exportaciones netas (X - M) son la diferencia entre exportaciones (bienes y servicios vendidos al extranjero) e importaciones (bienes y servicios comprados al extranjero). Si las exportaciones superan a las importaciones, hay superávit comercial; si las importaciones superan, déficit. Las importaciones se restan porque ya están incluidas en el consumo, inversión y gasto público.",
+      "question": "6. ¿Por qué se restan las importaciones en el cálculo del PIB?",
+      "options": [
+        "Porque no se producen en el país",
+        "Porque ya están incluidas en C, I y G",
+        "Porque son gratuitas",
+        "Porque no generan ingresos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Las <u>importaciones</u> se restan en el cálculo del PIB porque ya están incluidas en el <strong>consumo</strong> (C), <strong>inversión</strong> (I) y <strong>gasto público</strong> (G).</p><p>Por ejemplo, un coche alemán comprado por un hogar español está en C, pero no fue producido en España.</p><p>Para evitar <strong>doble conteo</strong>, se resta M en (X - M).</p><p>Así, el PIB solo incluye producción <strong>dentro del país</strong>.</p>"
+    },
+    {
+      "intro": "El PIB nominal mide la producción a precios corrientes del periodo. El PIB real mide la producción a precios constantes de un año base, eliminando el efecto de la inflación. El PIB real es mejor para comparar el crecimiento económico a lo largo del tiempo, ya que refleja cambios en la cantidad producida, no en los precios.",
+      "question": "7. ¿Qué diferencia al PIB nominal del real?",
+      "options": [
+        "El nominal incluye inflación, el real no",
+        "El real incluye más componentes",
+        "El nominal es más pequeño",
+        "El real no incluye inversión"
+      ],
+      "correct": [0],
+      "saber_mas": "<p>El <u>PIB nominal</u> mide la producción a <strong>precios corrientes</strong> del periodo (incluye inflación).</p><p>El <u>PIB real</u> mide la producción a <strong>precios constantes</strong> de un año base, eliminando el efecto de la inflación.</p><p>El <strong>PIB real</strong> es mejor para comparar el crecimiento a lo largo del tiempo, ya que refleja cambios en la <strong>cantidad</strong> producida, no en los precios.</p>"
+    },
+    {
+      "intro": "El deflactor del PIB es un índice de precios que mide el nivel general de precios de todos los bienes y servicios incluidos en el PIB. Se calcula como (PIB nominal / PIB real) × 100. Sirve para convertir el PIB nominal en real y para medir la inflación. Es más amplio que el IPC porque incluye todos los bienes producidos, no solo los de consumo.",
+      "question": "8. ¿Qué es el deflactor del PIB?",
+      "options": [
+        "Un impuesto al consumo",
+        "Un índice de precios de todos los bienes del PIB",
+        "El valor del ahorro",
+        "La tasa de desempleo"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>deflactor del PIB</u> es un <strong>índice de precios</strong> que mide el nivel general de precios de todos los bienes y servicios incluidos en el PIB.</p><p>Se calcula como: <strong>(PIB nominal / PIB real) × 100</strong>.</p><p>Sirve para:<br>• Convertir PIB nominal en real<br>• Medir la <strong>inflación</strong> implícita en el PIB</p><p>Es más amplio que el IPC porque incluye <strong>todos los bienes producidos</strong>, no solo de consumo.</p>"
+    },
+    {
+      "intro": "El PIB per cápita es el PIB total dividido por la población. Es un indicador común de nivel de vida, aunque no lo mide directamente. Países con alto PIB per cápita tienden a tener mejores indicadores de salud, educación y expectativa de vida. Sin embargo, no refleja la distribución de la renta ni el bienestar no económico.",
+      "question": "9. ¿Qué mide el PIB per cápita?",
+      "options": [
+        "El ingreso total del país",
+        "El PIB por persona",
+        "La tasa de crecimiento",
+        "El nivel de precios"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>PIB per cápita</u> es el <strong>PIB total dividido por la población</strong>.</p><p>Es un indicador común del <strong>nivel de vida</strong> promedio.</p><p>Países con alto PIB per cápita tienden a tener mejores:<br>• <strong>Salud</strong><br>• <strong>Educación</strong><br>• <strong>Expectativa de vida</strong></p><p>Pero no mide la <strong>distribución</strong> de la renta ni el bienestar no económico (como tiempo libre o calidad del aire).</p>"
+    },
+    {
+      "intro": "El Producto Nacional Bruto (PNB) mide el valor de los bienes y servicios producidos por los residentes de un país, independientemente de dónde se produzcan. El PIB mide la producción dentro del territorio, sin importar quién la produce. La diferencia entre ambos es el ingreso neto de factores del exterior (ingresos de residentes en el extranjero menos ingresos de extranjeros en el país).",
+      "question": "10. ¿Qué diferencia al PNB del PIB?",
+      "options": [
+        "El PNB mide producción dentro del país, el PIB no",
+        "El PNB mide producción por residentes, el PIB por territorio",
+        "No hay diferencia",
+        "El PIB incluye solo consumo"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>Producto Nacional Bruto (PNB)</u> mide el valor de los bienes y servicios producidos por los <strong>residentes</strong> de un país, <strong>dondequiera que se produzcan</strong>.</p><p>El <u>Producto Interior Bruto (PIB)</u> mide la producción <strong>dentro del territorio</strong>, sin importar quién la produce.</p><p>La diferencia es el <strong>ingreso neto de factores del exterior</strong>:<br>PNB = PIB + Ingresos de residentes en el extranjero - Ingresos de extranjeros en el país</p>"
+    },
+    {
+      "intro": "El PIB no incluye actividades no declaradas (economía sumergida), trabajo doméstico no remunerado, ni externalidades como la contaminación. Tampoco mide la distribución de la renta ni el bienestar no económico como la calidad de vida o el tiempo libre. Por eso, aunque es útil, tiene limitaciones como indicador de bienestar.",
+      "question": "11. ¿Qué no incluye el PIB?",
+      "options": [
+        "Consumo de hogares",
+        "Trabajo doméstico no remunerado",
+        "Inversión en maquinaria",
+        "Exportaciones"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>PIB</u> no incluye:<br>• <strong>Trabajo doméstico</strong> no remunerado (cuidado de niños, limpieza)<br>• <strong>Economía sumergida</strong> (actividades no declaradas)<br>• <strong>Externalidades</strong> (contaminación, beneficios de la educación)<br>• <strong>Distribución</strong> de la renta<br>• <strong>Bienestar no económico</strong> (tiempo libre, calidad del aire)</p><p>Por eso, aunque es útil, tiene <strong>limitaciones</strong> como indicador de bienestar.</p>"
+    },
+    {
+      "intro": "El crecimiento del PIB real es el aumento porcentual del PIB real de un periodo a otro. Es el indicador principal del crecimiento económico. Un crecimiento positivo indica que la economía está produciendo más bienes y servicios. El crecimiento sostenido mejora el nivel de vida a largo plazo, aunque no garantiza una distribución equitativa de los beneficios.",
+      "question": "12. ¿Qué indica el crecimiento del PIB real?",
+      "options": [
+        "Cambio en los precios",
+        "Aumento en la producción de bienes y servicios",
+        "Reducción del desempleo",
+        "Aumento de la población"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>crecimiento del PIB real</u> es el aumento porcentual del PIB real de un periodo a otro.</p><p>Indica que la economía está produciendo <strong>más bienes y servicios</strong>.</p><p>Es el indicador principal del <strong>crecimiento económico</strong>.</p><p>El crecimiento sostenido mejora el nivel de vida a largo plazo, aunque no garantiza <strong>equidad</strong> en la distribución.</p>"
+    },
+    {
+      "intro": "El PIB no es un indicador perfecto del bienestar porque no mide la calidad del aire, el tiempo libre, la equidad, la salud mental ni el trabajo no remunerado. Un país puede tener alto PIB pero baja calidad de vida. Por eso, se han desarrollado otros indicadores como el Índice de Desarrollo Humano (IDH) o el Índice de Bienestar Económico Sostenible (ISEW).",
+      "question": "13. ¿Por qué el PIB no es un indicador perfecto del bienestar?",
+      "options": [
+        "Porque mide solo la producción",
+        "Porque no incluye calidad del aire, tiempo libre o equidad",
+        "Porque es difícil de calcular",
+        "Porque no incluye el consumo"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>PIB</u> no es un indicador perfecto del bienestar porque:<br>• No mide <strong>calidad del aire</strong> o medio ambiente<br>• No incluye <strong>tiempo libre</strong> o trabajo no remunerado<br>• No refleja la <strong>distribución</strong> de la renta<br>• No mide <strong>salud mental</strong> o felicidad</p><p>Un país puede tener alto PIB pero baja calidad de vida.</p><p>Por eso, se usan otros indicadores como el <strong>IDH</strong> o el <strong>ISEW</strong>.</p>"
+    },
+    {
+      "intro": "El valor añadido es la diferencia entre el valor de venta de un producto y el costo de los insumos comprados a otros productores. Evita el doble conteo en el cálculo del PIB. Por ejemplo, si una panadería compra harina por 10€ y vende pan por 20€, su valor añadido es 10€. La suma del valor añadido en todas las etapas de producción da el PIB.",
+      "question": "14. ¿Qué es el valor añadido?",
+      "options": [
+        "El ingreso total de una empresa",
+        "La diferencia entre valor de venta y costo de insumos",
+        "El beneficio neto",
+        "El costo de producción"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>valor añadido</u> es la diferencia entre el <strong>valor de venta</strong> de un producto y el <strong>costo de los insumos</strong> comprados a otros productores.</p><p>Evita el <strong>doble conteo</strong> en el cálculo del PIB.</p><p>Ejemplo: panadería compra harina por 10€, vende pan por 20€. Valor añadido = 10€.</p><p>La suma del valor añadido en todas las etapas de producción da el <strong>PIB</strong>.</p>"
+    },
+    {
+      "intro": "El PIB no incluye transacciones de segunda mano porque no representan nueva producción. Tampoco incluye transferencias gubernamentales, ya que no corresponden a producción de bienes o servicios. Estas exclusiones son clave para que el PIB mida realmente la producción corriente, no el flujo de dinero.",
+      "question": "15. ¿Por qué no se incluyen las transacciones de segunda mano en el PIB?",
+      "options": [
+        "Porque son ilegales",
+        "Porque no representan nueva producción",
+        "Porque son muy pequeñas",
+        "Porque no generan ingresos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Las <u>transacciones de segunda mano</u> (coches usados, casas antiguas) no se incluyen en el PIB porque <strong>no representan nueva producción</strong>.</p><p>El bien ya fue contabilizado en el PIB cuando se produjo por primera vez.</p><p>Incluirlo causaría <strong>doble conteo</strong>.</p><p>El PIB mide <strong>producción corriente</strong>, no el flujo de dinero en todas las transacciones.</p>"
+    }
+  ]
+}
