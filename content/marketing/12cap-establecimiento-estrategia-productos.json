@@ -1,186 +1,185 @@
 {
-  "title": "Establecimiento de la Estrategia de Productos",
-  "description": "Quiz sobre el ciclo de vida del producto, líneas y mezclas de productos, innovación y estrategias de desarrollo de productos.",
+  "title": "Capítulo 12: Establecimiento de la estrategia de productos",
   "questions": [
     {
-      "intro": "La estrategia de productos es un componente fundamental del marketing mix, ya que define qué bienes o servicios ofrece la empresa para satisfacer las necesidades del mercado. Una estrategia de producto efectiva va más allá del diseño físico y abarca el valor total que el cliente recibe, incluyendo marca, calidad, servicios asociados y experiencia. La gestión del producto abarca desde el desarrollo hasta el retiro, pasando por todas las etapas del ciclo de vida.",
-      "question": "1. ¿Qué abarca la estrategia de productos?",
+      "intro": "En el corazón de toda gran marca hay un gran producto. El producto no es solo el objeto físico que se vende, sino el conjunto de atributos, beneficios y servicios que satisfacen una necesidad del consumidor. Desde el diseño hasta el envase, cada elemento debe alinearse con la propuesta de valor de la marca. Las empresas deben decidir cómo diferenciar sus productos, gestionar su mezcla y líneas de productos, y aprovechar herramientas como el co-branding y el branding de ingredientes. Un producto bien diseñado no solo cumple una función, sino que también crea experiencias memorables y fortalece el vínculo con el cliente. La estrategia de producto es, por tanto, fundamental para el éxito a largo plazo.",
+      "question": "1. ¿Qué se entiende por producto desde una perspectiva de marketing?",
       "options": [
-        "Solo el diseño físico del producto",
-        "El producto, la marca, la calidad, los servicios y la experiencia del cliente",
-        "Solo el precio",
-        "Solo la publicidad"
+        "Solo el objeto físico que se vende",
+        "El conjunto de atributos, beneficios y servicios que satisfacen una necesidad",
+        "El precio al que se ofrece en el mercado",
+        "La publicidad que lo promociona"
       ],
       "correct": [1],
-      "saber_mas": "<p>La <u>estrategia de productos</u> es un componente clave del <strong>marketing mix</strong> (4P) y define qué <strong>bienes o servicios</strong> ofrece la empresa para satisfacer las necesidades del mercado.</p><p>No se limita al <strong>diseño físico</strong> del producto, sino que abarca el <strong>valor total</strong> que el cliente recibe, incluyendo:<br>• <strong>Marca</strong>: nombre, logotipo, personalidad, promesa de valor.<br>• <strong>Calidad</strong>: nivel de excelencia, confiabilidad, durabilidad.<br>• <strong>Características y funciones</strong>: lo que el producto hace por el cliente.<br>• <strong>Diseño y estilo</strong>: estética, ergonomía, usabilidad.<br>• <strong>Servicios asociados</strong>: garantía, instalación, mantenimiento, soporte técnico.<br>• <strong>Empaque</strong>: protección, información, atractivo en el punto de venta.<br>• <strong>Experiencia del cliente</strong>: desde la compra hasta el uso y servicio postventa.</p><p>Una estrategia de producto efectiva:<br>• <strong>Diferencia</strong> la oferta de la competencia.<br>• <strong>Responde</strong> a necesidades reales del cliente.<br>• <strong>Se alinea</strong> con la propuesta de valor de la marca.<br>• <strong>Se gestiona</strong> a lo largo de todo su ciclo de vida.</p><p>El producto es el <strong>cimiento</strong> sobre el que se construyen las demás decisiones de marketing (precio, distribución, promoción).</p>"
+      "saber_mas": "<p>Desde el punto de vista del marketing, un <u>producto</u> es cualquier cosa que puede ofrecerse a un mercado para satisfacer una necesidad o deseo. Incluye no solo el <u>objeto físico</u>, sino también <u>atributos</u>, <u>beneficios</u> y <u>servicios asociados</u>.</p><p>Por ejemplo, un automóvil no es solo metal y ruedas, sino seguridad, comodidad, prestigio y servicios postventa.</p><p>Esta visión amplia permite a las empresas innovar más allá del producto en sí y construir ofertas más completas y diferenciadas.</p>"
     },
     {
-      "intro": "El ciclo de vida del producto describe las etapas por las que pasa un producto desde su lanzamiento hasta su retirada: introducción, crecimiento, madurez y declive. Cada etapa requiere una estrategia de marketing diferente en términos de producto, precio, distribución y promoción. Comprender esta curva ayuda a planificar inversiones, prever cambios en la demanda y tomar decisiones sobre innovación y renovación.",
-      "question": "2. ¿Cuál es la primera etapa del ciclo de vida del producto?",
+      "intro": "La diferenciación del producto es clave para destacar en mercados competitivos. Puede lograrse a través de características, rendimiento, calidad, diseño, marca, servicios, envase o incluso imagen. Las empresas deben identificar qué aspectos valoran más sus clientes y enfocar sus esfuerzos en ellos. Un producto diferenciado no solo atrae más atención, sino que también permite cobrar precios premium y generar lealtad. Por ejemplo, Apple se diferencia no solo por el diseño, sino por la integración perfecta entre hardware, software y ecosistema.",
+      "question": "2. ¿Cuál de los siguientes NO es un modo de diferenciar un producto?",
       "options": [
+        "Diseño",
+        "Servicios",
+        "Número de empleados",
+        "Imagen de marca"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>Los modos de <u>diferenciar un producto</u> incluyen: características, rendimiento, calidad, diseño, marca, servicios, envase e imagen.</p><p>El <u>número de empleados</u> no es un factor directo de diferenciación frente al consumidor, aunque puede influir indirectamente en la calidad del servicio.</p><p>Una diferenciación efectiva responde a lo que el cliente valora, como la facilidad de uso, la estética o la confiabilidad, permitiendo a la marca destacar en un mercado saturado.</p>"
+    },
+    {
+      "intro": "El diseño de productos va más allá de la estética. Es un proceso estratégico que integra funcionalidad, usabilidad, sostenibilidad y emociones. Un buen diseño no solo hace que un producto sea atractivo, sino también fácil de usar, eficiente y memorable. Empresas como Dyson o Tesla invierten fuertemente en diseño para crear experiencias superiores. El diseño debe alinearse con la estrategia de marca y con las necesidades reales del consumidor, evitando soluciones bonitas pero inútiles. En un mundo hipercompetitivo, el diseño se ha convertido en un activo estratégico clave.",
+      "question": "3. ¿Qué aspecto NO se considera parte del diseño estratégico de productos?",
+      "options": [
+        "Funcionalidad",
+        "Usabilidad",
+        "Cantidad de publicidad",
+        "Sostenibilidad"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>El <u>diseño estratégico</u> de productos integra <u>funcionalidad</u>, <u>usabilidad</u>, <u>sostenibilidad</u>, <u>emociones</u> y <u>experiencia del usuario</u>.</p><p>La <u>cantidad de publicidad</u> no forma parte del diseño del producto, aunque puede influir en su percepción.</p><p>Un diseño exitoso no solo es atractivo, sino que resuelve problemas reales, mejora la experiencia y refuerza la identidad de marca, como lo demuestran empresas como Apple o Dyson.</p>"
+    },
+    {
+      "intro": "Las líneas de productos son grupos de productos estrechamente relacionados que cumplen funciones similares, se dirigen al mismo mercado o comparten tecnología. La gestión de estas líneas implica decisiones sobre su longitud, consistencia y profundidad. Una línea demasiado corta puede perder oportunidades, mientras que una demasiado larga puede diluir recursos. Las empresas deben analizar el rendimiento de cada producto y decidir si mantenerlo, modificarlo o eliminarlo. Un ejemplo es Ford, que ajusta constantemente su portafolio para adaptarse a las tendencias del mercado.",
+      "question": "4. ¿Qué se entiende por línea de productos?",
+      "options": [
+        "Todos los productos que vende una empresa",
+        "Un grupo de productos estrechamente relacionados en uso, mercado o tecnología",
+        "Solo los productos más vendidos",
+        "Los productos que se exportan"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Una <u>línea de productos</u> es un grupo de productos que están estrechamente relacionados: cumplen funciones similares, se dirigen al mismo mercado, se distribuyen juntos o comparten tecnología.</p><p>Por ejemplo, la línea de smartphones de Samsung o la de detergentes de Tide.</p><p>La gestión de la línea implica decisiones sobre su <u>longitud</u> (cuántos productos tiene), <u>consistencia</u> (qué tan relacionados están) y <u>profundidad</u> (variaciones de cada producto).</p>"
+    },
+    {
+      "intro": "El co-branding es una estrategia en la que dos marcas colaboran para ofrecer un producto conjunto. Esto permite a ambas aprovechar sus fortalezas, acceder a nuevos mercados y aumentar la credibilidad. Un ejemplo es la alianza entre Nike e Apple para el sensor de zapatillas Nike+iPod. El branding de ingredientes, por otro lado, destaca un componente clave del producto, como el bicarbonato de sodio en Arm & Hammer. Ambas estrategias fortalecen el valor percibido y crean asociaciones positivas en la mente del consumidor.",
+      "question": "5. ¿Qué estrategia utiliza Arm & Hammer al destacar el bicarbonato de sodio en sus productos?",
+      "options": [
+        "Co-branding",
+        "Branding de línea",
+        "Branding de ingredientes",
+        "Rebranding"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>Arm & Hammer utiliza el <u>branding de ingredientes</u>, destacando el <u>bicarbonato de sodio</u> como un componente clave y diferenciador en sus productos.</p><p>Este enfoque convierte un ingrediente común en un activo de marca, asociándolo con pureza, versatilidad y eficacia.</p><p>Al comunicar que el bicarbonato es el corazón del producto, la marca fortalece su credibilidad y justifica precios premium, incluso en categorías competitivas.</p>"
+    },
+    {
+      "intro": "El envasado no es solo una caja protectora, sino una herramienta de marketing poderosa. Cumple funciones de protección, comunicación, conveniencia y diferenciación. Un buen envase puede atraer la atención en el punto de venta, transmitir la identidad de la marca y facilitar el uso. Además, puede influir en la percepción de calidad. Por ejemplo, un envase premium sugiere un producto de alta gama. Las empresas deben probar el envase con consumidores, distribuidores y bajo condiciones reales para asegurar su efectividad antes del lanzamiento.",
+      "question": "6. ¿Qué función del envase se evalúa con pruebas visuales?",
+      "options": [
+        "Resistencia al transporte",
+        "Legibilidad de la tipografía y armonía de colores",
+        "Facilidad de apertura",
+        "Costo de producción"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Las <u>pruebas visuales</u> del envase evalúan aspectos como la <u>legibilidad de la tipografía</u>, la <u>armonía de los colores</u> y el impacto visual general.</p><p>Estas pruebas aseguran que el envase comunique claramente la marca y atraiga al consumidor en el punto de venta.</p><p>Otras pruebas incluyen las de <u>ingeniería</u> (resistencia), <u>distribuidores</u> (manejo) y <u>consumidores</u> (aceptación), todas esenciales para un lanzamiento exitoso.</p>"
+    },
+    {
+      "intro": "Las garantías son promesas formales de que un producto cumplirá con ciertos estándares de calidad o rendimiento. Sirven como herramienta de marketing al reducir el riesgo percibido del consumidor y aumentar la confianza. Una garantía clara y generosa puede ser un fuerte diferenciador, especialmente en categorías donde la calidad es difícil de evaluar antes de la compra. Por ejemplo, una garantía de devolución de dinero sin preguntas puede incentivar la prueba del producto. Las garantías también mejoran la imagen de la marca como responsable y confiable.",
+      "question": "7. ¿Qué beneficio principal ofrece una garantía al consumidor?",
+      "options": [
+        "Reducción del precio",
+        "Mayor variedad de productos",
+        "Reducción del riesgo percibido",
+        "Acceso a más publicidad"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>La <u>garantía</u> reduce el <u>riesgo percibido</u> del consumidor al ofrecer una promesa de que el producto cumplirá con ciertos estándares.</p><p>Si no cumple, el cliente puede devolverlo, repararlo o recibir un reembolso, lo que aumenta su confianza en la compra.</p><p>Empresas como Amazon o Zappos han utilizado garantías generosas (devolución sin preguntas) como ventaja competitiva, mejorando la conversión y la lealtad.</p>"
+    },
+    {
+      "intro": "El etiquetado es una parte esencial del envase que proporciona información sobre el producto: marca, contenido, instrucciones de uso, advertencias y beneficios. Un buen etiquetado no solo cumple con regulaciones legales, sino que también comunica valor y diferencia al producto. Puede incluir mensajes promocionales, símbolos de calidad o información nutricional. En mercados digitales, el etiquetado también se traduce en descripciones detalladas en línea. Un etiquetado claro y atractivo puede influir directamente en la decisión de compra.",
+      "question": "8. ¿Qué información suele incluir un etiquetado efectivo?",
+      "options": [
+        "Nombre del distribuidor exclusivo",
+        "Número de empleados de la empresa",
+        "Marca, contenido y beneficios del producto",
+        "Costo de producción"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>Un <u>etiquetado efectivo</u> incluye información clave como el <u>nombre de la marca</u>, <u>contenido</u>, <u>instrucciones de uso</u>, <u>advertencias</u> y <u>beneficios</u>.</p><p>También puede destacar certificaciones, origen del producto o mensajes promocionales.</p><p>En mercados digitales, esta información se traslada a descripciones en línea, reseñas y vistas previas, siendo crucial para la toma de decisiones del consumidor.</p>"
+    },
+    {
+      "intro": "La estrategia de mezcla de productos implica decidir qué productos ofrecer y cómo combinarlos para maximizar el valor. Incluye decisiones sobre amplitud (número de líneas), longitud (número de artículos por línea), consistencia (relación entre líneas) y profundidad (variaciones de cada producto). Una mezcla bien diseñada permite atender múltiples segmentos y reducir riesgos. Por ejemplo, Procter & Gamble ofrece múltiples marcas en la misma categoría (como Tide, Ariel, Gain) para cubrir diferentes posiciones de mercado.",
+      "question": "9. ¿Qué aspecto de la mezcla de productos se refiere al número de diferentes líneas que ofrece una empresa?",
+      "options": [
+        "Longitud",
+        "Profundidad",
+        "Amplitud",
+        "Consistencia"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>La <u>amplitud</u> de la mezcla de productos se refiere al <u>número de líneas de productos</u> diferentes que ofrece una empresa.</p><p>Por ejemplo, P&G tiene líneas en cuidado personal, hogar, ropa, etc.</p><p>La <u>longitud</u> es el número total de artículos, la <u>profundidad</u> las variaciones por producto (ej. sabores), y la <u>consistencia</u> qué tan relacionadas están las líneas entre sí.</p>"
+    },
+    {
+      "intro": "El branding de servicios es cada vez más importante, ya que muchos productos incluyen componentes intangibles. Diferenciadores como facilidad de pedido, entrega, instalación, capacitación y mantenimiento pueden ser más valiosos que el producto físico. Empresas como Caterpillar obtienen grandes ganancias no solo por vender tractores, sino por los servicios de soporte técnico y mantenimiento. Estos servicios mejoran la experiencia del cliente y crean fuentes de ingreso recurrentes, fortaleciendo la relación a largo plazo.",
+      "question": "10. ¿Qué diferenciador de servicio es clave para empresas de equipo pesado como Caterpillar?",
+      "options": [
+        "Publicidad masiva",
+        "Mantenimiento y reparación",
+        "Precios bajos",
+        "Envases atractivos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Para empresas de equipo pesado como <u>Caterpillar</u> o <u>John Deere</u>, los <u>servicios de mantenimiento y reparación</u> son diferenciadores clave.</p><p>Estos servicios no solo prolongan la vida útil del producto, sino que generan ingresos recurrentes y fortalecen la relación con el cliente.</p><p>Además, en mercados globales, un buen soporte técnico puede ser la diferencia entre ganar o perder una venta frente a competidores con productos similares.</p>"
+    },
+    {
+      "intro": "El desarrollo de nuevos productos es un proceso complejo que incluye generación de ideas, filtrado, desarrollo, pruebas y lanzamiento. Muchas ideas fracasan, por lo que es crucial evaluar su viabilidad técnica, económica y de mercado. Las empresas deben invertir en investigación, escuchar al cliente y probar prototipos antes del lanzamiento. Un error común es lanzar productos sin validar su aceptación. Casos como New Coke o el rediseño de Tropicana muestran cómo cambios mal ejecutados pueden generar rechazo masivo.",
+      "question": "11. ¿Qué paso del desarrollo de nuevos productos implica probar prototipos con consumidores?",
+      "options": [
+        "Generación de ideas",
+        "Pruebas de concepto",
+        "Lanzamiento masivo",
+        "Análisis financiero"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Las <u>pruebas de concepto</u> implican presentar prototipos o descripciones del producto a consumidores para evaluar su aceptación.</p><p>Este paso permite detectar problemas temprano, ajustar el diseño y validar la propuesta de valor antes de una inversión mayor.</p><p>Ignorar esta fase puede llevar a fracasos costosos, como el caso de New Coke, donde la falta de validación adecuada generó una reacción negativa masiva.</p>"
+    },
+    {
+      "intro": "El ciclo de vida del producto describe las etapas por las que pasa un producto: introducción, crecimiento, madurez y declive. En cada etapa, la estrategia de marketing debe adaptarse. Durante la introducción, el enfoque está en crear conciencia; en el crecimiento, en ganar cuota; en la madurez, en defenderla; y en el declive, en decidir si mantener, modificar o eliminar el producto. Comprender esta dinámica permite a las empresas planificar mejor sus inversiones y renovar su portafolio a tiempo.",
+      "question": "12. ¿En qué etapa del ciclo de vida del producto se enfatiza la creación de conciencia?",
+      "options": [
+        "Crecimiento",
         "Madurez",
         "Introducción",
-        "Crecimiento",
         "Declive"
       ],
-      "correct": [1],
-      "saber_mas": "<p>El <u>ciclo de vida del producto</u> (CLP) describe las <strong>etapas típicas</strong> por las que pasa un producto desde su lanzamiento hasta su retirada del mercado.</p><p>Las cuatro etapas son:<br>• <strong>Introducción</strong>: el producto se lanza. Las ventas son bajas, los costos son altos (I+D, marketing), y los beneficios son negativos o bajos. El objetivo es crear <strong>conciencia</strong> y <strong>aceptación</strong>.<br>• <strong>Crecimiento</strong>: las ventas aumentan rápidamente. La aceptación del mercado crece, los competidores entran. Los beneficios aumentan. El objetivo es <strong>maximizar la cuota de mercado</strong>.<br>• <strong>Madurez</strong>: las ventas alcanzan su punto máximo y se estabilizan. La competencia es intensa, los beneficios se estabilizan o disminuyen. El objetivo es <strong>defender la cuota de mercado</strong> y <strong>maximizar el beneficio</strong>.<br>• <strong>Declive</strong>: las ventas y beneficios disminuyen debido a cambios en la tecnología, preferencias del consumidor o competencia. El objetivo es <strong>gestionar el producto</strong> (reducir costos, sacarlo del mercado, venderlo).</p><p>Comprender el CLP permite a la empresa:<br>• <strong>Planificar</strong> inversiones en marketing y producción.<br>• <strong>Prever</strong> cambios en la demanda y la competencia.<br>• <strong>Tomar decisiones</strong> sobre innovación, renovación y retirada de productos.<br>• <strong>Asignar recursos</strong> de forma eficiente.</p><p>El CLP puede variar <strong>drásticamente</strong> según el producto y la industria.</p>"
+      "correct": [2],
+      "saber_mas": "<p>En la etapa de <u>introducción</u>, el objetivo principal es <u>crear conciencia</u> y <u>educar al mercado</u> sobre el nuevo producto.</p><p>Las ventas son bajas, los costos altos y la competencia mínima. La estrategia se centra en publicidad, pruebas gratuitas y distribución selectiva.</p><p>Es una fase de alto riesgo, pero también de alta recompensa si el producto logra penetrar y avanzar hacia el crecimiento.</p>"
     },
     {
-      "intro": "Durante la etapa de introducción, el enfoque del marketing está en crear conciencia y estimular el interés. Las ventas son bajas y los costos son altos debido a las inversiones en desarrollo y promoción. La estrategia de precios puede ser de penetración (precio bajo para ganar cuota) o de desnatado (precio alto para recuperar costos rápidamente). La distribución suele ser selectiva.",
-      "question": "3. ¿Qué estrategia de precios se puede usar en la etapa de introducción?",
+      "intro": "La eliminación de productos es una decisión difícil, pero necesaria. No todos los productos son rentables a largo plazo. Algunos consumen recursos sin aportar valor. Las empresas deben analizar el desempeño de cada producto y decidir si mantenerlo, modificarlo o eliminarlo. Un sistema claro de evaluación evita que productos débiles arrastren la rentabilidad general. Este proceso permite enfocar recursos en ofertas con mayor potencial y mantener un portafolio saludable.",
+      "question": "13. ¿Por qué es importante eliminar productos no rentables?",
       "options": [
-        "Solo precios bajos",
-        "Precios de penetración o de desnatado",
-        "Solo precios altos",
-        "Ignorar el precio"
+        "Para aumentar el número de empleados",
+        "Para liberar recursos y enfocarlos en productos más rentables",
+        "Para reducir la publicidad",
+        "Para cambiar el nombre de la empresa"
       ],
       "correct": [1],
-      "saber_mas": "<p>En la etapa de <u>introducción</u> del ciclo de vida del producto, el producto es nuevo en el mercado y el objetivo principal es <strong>crear conciencia</strong> y <strong>estimular el interés</strong> del consumidor.</p><p>Las ventas son <strong>bajas</strong> y los costos son <strong>altos</strong> debido a las inversiones en I+D, producción y marketing.</p><p>La estrategia de <strong>precios</strong> puede ser:<br>• <strong>Penetración del mercado</strong>: fijar un <strong>precio bajo</strong> para atraer a muchos compradores rápidamente, ganar cuota de mercado y desalentar a los competidores. Es efectiva en mercados sensibles al precio.<br>• <strong>Desnatado del mercado</strong> (skimming): fijar un <strong>precio alto</strong> para recuperar rápidamente los costos de desarrollo y aprovechar la demanda de consumidores innovadores dispuestos a pagar más. Es efectiva para productos innovadores con poca competencia inicial.</p><p>Otras decisiones:<br>• <strong>Promoción</strong>: alta inversión en publicidad para informar y educar al mercado.<br>• <strong>Distribución</strong>: suele ser <strong>selectiva</strong> (pocos canales) para controlar costos y asegurar una presentación adecuada.<br>• <strong>Producto</strong>: enfoque en la calidad y funcionalidad básica, con posibles mejoras futuras.</p><p>El éxito en esta etapa es <strong>crucial</strong> para el futuro del producto.</p>"
+      "saber_mas": "<p>Eliminar productos no rentables permite <u>liberar recursos</u> (financieros, humanos, logísticos) y <u>enfocarlos en ofertas con mayor potencial</u>.</p><p>Los productos débiles consumen atención y presupuesto sin aportar valor, afectando la rentabilidad general.</p><p>Un portafolio saludable es dinámico: introduce nuevos productos, mejora los existentes y elimina los que ya no cumplen su función.</p>"
     },
     {
-      "intro": "En la etapa de crecimiento, las ventas aumentan rápidamente y la aceptación del mercado se expande. Los competidores empiezan a entrar con productos similares. La empresa debe enfocarse en diferenciarse, mejorar la calidad del producto y ampliar la distribución. La promoción sigue siendo alta para fortalecer la marca y consolidar la cuota de mercado.",
-      "question": "4. ¿Qué debe hacer una empresa en la etapa de crecimiento?",
+      "intro": "El co-branding puede ser una estrategia poderosa cuando las marcas complementarias se unen. Permite a ambas aprovechar su reputación, alcance y base de clientes. Un ejemplo exitoso es la alianza entre Nike y Apple para el sensor Nike+iPod, que combinó la autoridad de Nike en calzado deportivo con la innovación tecnológica de Apple. Este tipo de colaboración crea valor adicional para el consumidor y fortalece el posicionamiento de ambas marcas.",
+      "question": "14. ¿Qué marcas se asociaron para crear el sensor Nike+iPod?",
       "options": [
-        "Detener la promoción",
-        "Diferenciarse, mejorar la calidad y ampliar la distribución",
-        "Reducir la calidad",
-        "Ignorar a la competencia"
+        "Adidas y Samsung",
+        "Nike y Apple",
+        "Puma y Google",
+        "Reebok y Microsoft"
       ],
       "correct": [1],
-      "saber_mas": "<p>La etapa de <u>crecimiento</u> es cuando el producto <strong>gana aceptación</strong> en el mercado y las <strong>ventas aumentan rápidamente</strong>.</p><p>Características:<br>• <strong>Adopción por la masa</strong> de consumidores.<br>• <strong>Entrada de competidores</strong> con productos similares.<br>• <strong>Beneficios crecientes</strong> debido a economías de escala.<br>• <strong>Costos unitarios decrecientes</strong>.</p><p>La estrategia de la empresa debe enfocarse en:<br>• <strong>Diferenciación</strong>: destacar frente a la competencia mediante características, marca, servicio o experiencia.<br>• <strong>Mejora de la calidad</strong> del producto para satisfacer a los nuevos compradores y justificar precios.<br>• <strong>Ampliación de la distribución</strong>: pasar de canales selectivos a una cobertura más amplia (intensiva).<br>• <strong>Fortalecimiento de la marca</strong> mediante promoción continua.<br>• <strong>Optimización del precio</strong>: puede ajustarse para maximizar beneficios o mantener competitividad.</p><p>El objetivo principal es <strong>maximizar la cuota de mercado</strong> y <strong>establecer una posición fuerte</strong> antes de que el mercado se sature.</p><p>Es un momento <strong>crítico</strong> para <strong>construir lealtad</strong> y <strong>brand equity</strong>.</p>"
+      "saber_mas": "<p><u>Nike</u> y <u>Apple</u> se asociaron para crear el <u>sensor Nike+iPod</u>, que permitía a los corredores medir su rendimiento y escuchar música mientras entrenaban.</p><p>Esta alianza combinó la <u>autoridad de Nike</u> en deporte con la <u>innovación tecnológica de Apple</u>, creando una experiencia única.</p><p>El co-branding fue exitoso porque ambas marcas compartían valores de innovación y desempeño, y el producto ofrecía un beneficio claro al consumidor.</p>"
     },
     {
-      "intro": "La etapa de madurez es la más larga y competitiva. Las ventas se estabilizan y la competencia es intensa. Las empresas deben enfocarse en defender su cuota de mercado mediante diferenciación, modificaciones del producto, promociones agresivas y expansión a nuevos mercados. La innovación incremental es clave para mantener el interés del consumidor.",
-      "question": "5. ¿Qué caracteriza a la etapa de madurez?",
+      "intro": "Finalmente, el éxito de un producto depende de su capacidad para satisfacer y deleitar al cliente. Las empresas deben ir más allá de la satisfacción básica y buscar exceder las expectativas. Esto se logra con productos de alta calidad, servicios excepcionales y experiencias memorables. Cuando los clientes se sienten deleitados, no solo repiten la compra, sino que se convierten en defensores de la marca. Este enfoque centrado en el cliente es lo que diferencia a las marcas líderes en cualquier industria.",
+      "question": "15. ¿Qué deben buscar las empresas para transformar clientes satisfechos en defensores?",
       "options": [
-        "Ventas en rápido aumento",
-        "Ventas estabilizadas y competencia intensa",
-        "Retirada del producto",
-        "Solo lanzamientos nuevos"
+        "Reducir precios",
+        "Deleitar al cliente excediendo sus expectativas",
+        "Aumentar la publicidad",
+        "Cambiar frecuentemente el diseño"
       ],
       "correct": [1],
-      "saber_mas": "<p>La etapa de <u>madurez</u> es la más <strong>larga</strong> y <strong>competitiva</strong> del ciclo de vida del producto.</p><p>Características:<br>• <strong>Ventas estabilizadas</strong> en su punto máximo.<br>• <strong>Competencia intensa</strong>: muchas marcas compiten por cuota de mercado.<br>• <strong>Beneficios estables o decrecientes</strong> por presión de precios.<br>• <strong>Mercado saturado</strong>: la mayoría de los consumidores potenciales ya han comprado.</p><p>La estrategia de la empresa debe enfocarse en:<br>• <strong>Defender la cuota de mercado</strong> mediante <strong>diferenciación</strong> (marca, calidad, servicio).<br>• <strong>Modificaciones del producto</strong>: mejoras funcionales, de calidad, de características o de estilo (innovación incremental).<br>• <strong>Modificaciones de marketing</strong>: nuevas promociones, precios promocionales, re-posicionamiento.<br>• <strong>Expansión a nuevos segmentos</strong> o <strong>mercados geográficos</strong>.<br>• <strong>Optimización de costos</strong> para mantener márgenes.</p><p>La <strong>innovación incremental</strong> es clave para mantener el interés del consumidor y evitar la comoditización.</p><p>Es un momento para <strong>consolidar</strong> la posición y <strong>maximizar la rentabilidad</strong> antes de que comience el declive.</p>"
-    },
-    {
-      "intro": "En la etapa de declive, las ventas y beneficios disminuyen debido a cambios en la tecnología, las preferencias del consumidor o la entrada de sustitutos. Las empresas deben decidir si mantener el producto (con costos reducidos), renovarlo, venderlo o retirarlo del mercado. Esta decisión debe basarse en un análisis de rentabilidad y en la estrategia global de la marca.",
-      "question": "6. ¿Qué puede hacer una empresa con un producto en declive?",
-      "options": [
-        "Lanzar un nuevo producto sin relación",
-        "Mantenerlo, renovarlo, venderlo o retirarlo",
-        "Aumentar drásticamente la promoción",
-        "Ignorar el declive"
-      ],
-      "correct": [1],
-      "saber_mas": "<p>La etapa de <u>declive</u> es cuando las <strong>ventas y beneficios</strong> de un producto <strong>disminuyen</strong> de forma sostenida.</p><p>Causas:<br>• <strong>Cambios tecnológicos</strong> (ej. DVD vs. streaming).<br>• <strong>Evolución de las preferencias</strong> del consumidor (ej. bebidas azucaradas vs. saludables).<br>• <strong>Entrada de sustitutos</strong> superiores.<br>• <strong>Saturación del mercado</strong>.</p><p>La empresa debe tomar una decisión estratégica:<br>• <strong>Mantener</strong>: seguir vendiendo el producto, pero con <strong>costos reducidos</strong> (marketing, producción). Aprovechar clientes leales.<br>• <strong>Renovar</strong>: modificar el producto (características, empaque, posicionamiento) para darle una nueva vida.<br>• <strong>Vender</strong>: transferir el producto a otra empresa que pueda explotarlo mejor.<br>• <strong>Retirar</strong>: sacar el producto del mercado de forma planificada, liberando recursos para nuevos productos.</p><p>Esta decisión debe basarse en:<br>• <strong>Análisis de rentabilidad</strong> del producto.<br>• <strong>Importancia del producto</strong> para la marca y la mezcla de productos.<br>• <strong>Impacto en los clientes leales</strong>.<br>• <strong>Estrategia global</strong> de la empresa.</p><p>Retirar un producto <strong>pop</strong>ular requiere una <strong>comunicación cuidadosa</strong> para no dañar la relación con el cliente.</p>"
-    },
-    {
-      "intro": "Una línea de productos es un grupo de productos estrechamente relacionados que funcionan de forma similar, se venden a los mismos clientes o se distribuyen a través de los mismos canales. Por ejemplo, una línea de smartphones de una marca. La gestión de la línea implica decisiones sobre longitud, profundidad, consistencia y renovación para satisfacer diferentes segmentos del mercado.",
-      "question": "7. ¿Qué es una línea de productos?",
-      "options": [
-        "Todos los productos de una empresa",
-        "Un grupo de productos estrechamente relacionados",
-        "Solo los productos nuevos",
-        "Los productos más baratos"
-      ],
-      "correct": [1],
-      "saber_mas": "<p>Una <u>línea de productos</u> es un <strong>grupo de productos</strong> que están <strong>estrechamente relacionados</strong> entre sí.</p><p>Relaciones comunes:<br>• <strong>Funcionan de forma similar</strong> (ej. procesadores Intel Core i3, i5, i7).<br>• <strong>Se venden a los mismos clientes</strong> (ej. línea de maquillaje para mujeres jóvenes).<br>• <strong>Se distribuyen a través de los mismos canales</strong> (ej. línea de bebidas en supermercados).<br>• <strong>Tienen el mismo precio</strong> (rango de precios).<br>• <strong>Comparten la misma marca</strong>.</p><p>Ejemplos:<br>• <strong>Apple</strong>: línea de iPhone (iPhone 15, 15 Plus, 15 Pro, 15 Pro Max).<br>• <strong>Nestlé</strong>: línea de cafés (Nescafé, Dolce Gusto, Nespresso).<br>• <strong>Procter & Gamble</strong>: línea de champús (Pantene, Head & Shoulders, Herbal Essences).</p><p>La gestión de la línea implica decisiones sobre:<br>• <strong>Longitud</strong>: número de productos en la línea.<br>• <strong>Profundidad</strong>: número de variantes (tamaños, sabores, modelos).<br>• <strong>Consistencia</strong>: grado de relación entre los productos de la línea.<br>• <strong>Renovación</strong>: introducción de nuevos productos y retiro de los obsoletos.</p><p>Una línea bien gestionada permite <strong>captar diferentes segmentos</strong> del mercado y <strong>maximizar la cuota de cartera</strong> (cuando un cliente compra varios productos de la misma línea).</p>"
-    },
-    {
-      "intro": "La mezcla de productos es el conjunto total de líneas y productos que una empresa ofrece. Tiene cuatro dimensiones: amplitud (número de líneas), longitud (número total de productos), profundidad (variantes por producto) y consistencia (relación entre las líneas). Una mezcla bien equilibrada permite diversificar riesgos, aprovechar sinergias y satisfacer a diferentes segmentos del mercado.",
-      "question": "8. ¿Qué mide la amplitud de la mezcla de productos?",
-      "options": [
-        "El número de variantes por producto",
-        "El número de líneas de productos",
-        "La longitud total de la mezcla",
-        "La consistencia entre productos"
-      ],
-      "correct": [1],
-      "saber_mas": "<p>La <u>mezcla de productos</u> (product mix) es el <strong>conjunto total</strong> de <strong>líneas y productos</strong> que una empresa ofrece al mercado.</p><p>Tiene cuatro dimensiones clave:<br>• <strong>Amplitud</strong>: el <strong>número de líneas de productos</strong> diferentes que ofrece la empresa. Mide la diversificación. (Ej. Un fabricante de alimentos puede tener líneas de lácteos, cereales, bebidas y snacks).<br>• <strong>Longitud</strong>: el <strong>número total de productos</strong> dentro de todas las líneas. (Ej. 50 productos en total).<br>• <strong>Profundidad</strong>: el <strong>número de variantes</strong> (tamaños, sabores, modelos, empaques) que se ofrecen para cada producto. (Ej. Un champú en 3 tamaños y 4 sabores tiene una profundidad de 12).<br>• <strong>Consistencia</strong>: el <strong>grado de relación</strong> entre las diferentes líneas de productos en términos de uso, producción, distribución o clientes. (Ej. Líneas de productos para el hogar son más consistentes que una línea de alimentos y una de software).</p><p>Una mezcla bien equilibrada permite a la empresa:<br>• <strong>Diversificar riesgos</strong> (no depender de un solo producto).<br>• <strong>Aprovechar sinergias</strong> (marca, distribución, I+D).<br>• <strong>Satisfacer a diferentes segmentos</strong> del mercado.<br>• <strong>Maximizar la participación en la tienda</strong> (shelf space).</p><p>La empresa debe gestionar activamente su mezcla para adaptarse al mercado.</p>"
-    },
-    {
-      "intro": "La innovación de productos es esencial para el crecimiento y la supervivencia de una empresa. Puede ser incremental (mejoras a productos existentes) o radical (nuevos productos que crean mercados). La innovación permite a las empresas diferenciarse, responder a las necesidades cambiantes del consumidor y mantener una ventaja competitiva sostenible.",
-      "question": "9. ¿Qué tipo de innovación implica crear un producto completamente nuevo?",
-      "options": [
-        "Innovación incremental",
-        "Innovación radical",
-        "Solo modificaciones estéticas",
-        "Copiar a la competencia"
-      ],
-      "correct": [1],
-      "saber_mas": "<p>La <u>innovación de productos</u> es el proceso de <strong>desarrollar nuevos productos</strong> o <strong>mejorar los existentes</strong> para satisfacer necesidades del mercado.</p><p>Tipos de innovación:<br>• <strong>Innovación radical</strong> (disruptiva): crea <strong>productos completamente nuevos</strong> que pueden <strong>crear mercados</strong> o <strong>transformar industrias</strong>. (Ej. iPhone, coches eléctricos de Tesla, streaming de video).<br>• <strong>Innovación incremental</strong>: <strong>mejoras graduales</strong> a productos existentes (nuevas funciones, mejoras de calidad, nuevos diseños). Es más común y menos arriesgada. (Ej. nuevo modelo de smartphone con mejor cámara).<br>• <strong>Innovación de plataforma</strong>: una arquitectura base sobre la que se desarrollan múltiples variaciones (ej. arquitectura de un coche).<br>• <strong>Innovación de proceso</strong>: nuevas formas de producir o entregar el producto.</p><p>La innovación es esencial porque:<br>• <strong>Permite la diferenciación</strong> frente a la competencia.<br>• <strong>Responde a necesidades cambiantes</strong> del consumidor.<br>• <strong>Abre nuevas oportunidades</strong> de mercado.<br>• <strong>Mantiene la ventaja competitiva</strong> sostenible.<br>• <strong>Compensa el declive</strong> de productos maduros.</p><p>Las empresas deben invertir continuamente en I+D y fomentar una <strong>cultura de innovación</strong>.</p>"
-    },
-    {
-      "intro": "El desarrollo de nuevos productos es un proceso estructurado que va desde la generación de ideas hasta el lanzamiento comercial. Incluye etapas como la generación de ideas, filtrado, desarrollo de concepto, pruebas de mercado, desarrollo del producto, prueba de mercado y comercialización. Un proceso bien gestionado aumenta las probabilidades de éxito y reduce el riesgo de fracaso.",
-      "question": "10. ¿Cuál es la primera etapa del proceso de desarrollo de nuevos productos?",
-      "options": [
-        "Lanzamiento",
-        "Generación de ideas",
-        "Prueba de mercado",
-        "Desarrollo del producto"
-      ],
-      "correct": [1],
-      "saber_mas": "<p>El <u>desarrollo de nuevos productos</u> es un <strong>proceso estructurado</strong> y <strong>riesgoso</strong> que va desde la concepción de una idea hasta el lanzamiento comercial.</p><p>Etapa por etapa:<br>1. <strong>Generación de ideas</strong>: fuentes como clientes, empleados, competidores, I+D, proveedores.<br>2. <strong>Filtrado de ideas</strong>: evaluar las ideas para descartar las no viables.<br>3. <strong>Desarrollo y prueba del concepto</strong>: convertir la idea en un concepto detallado y probarlo con consumidores.<br>4. <strong>Desarrollo del marketing</strong>: plan de marketing preliminar (precio, distribución, promoción).<br>5. <strong>Análisis comercial</strong>: estimación de ventas, costos y beneficios.<br>6. <strong>Desarrollo del producto</strong>: creación del prototipo y pruebas técnicas.<br>7. <strong>Prueba de mercado</strong>: lanzar el producto en un mercado limitado para probar su aceptación.<br>8. <strong>Comercialización</strong>: lanzamiento a gran escala.</p><p>Un proceso bien gestionado:<br>• <strong>Aumenta las probabilidades</strong> de éxito del producto.<br>• <strong>Reduce el riesgo</strong> y los costos de fracaso.<br>• <strong>Acelera el tiempo de lanzamiento</strong> (time-to-market).<br>• <strong>Asegura la alineación</strong> entre producto, mercado y estrategia.</p><p>La <strong>generación de ideas</strong> es la <strong>base</strong> del proceso y debe ser continua y abierta a múltiples fuentes.</p>"
-    },
-    {
-      "intro": "La marca es un elemento crucial de la estrategia de producto. Proporciona identidad, promete calidad y crea valor emocional. Una marca fuerte genera lealtad, permite precios premium y facilita el lanzamiento de nuevos productos. La gestión de la marca debe ser coherente en todos los puntos de contacto con el cliente.",
-      "question": "11. ¿Qué beneficio aporta una marca fuerte?",
-      "options": [
-        "Solo reduce costos",
-        "Genera lealtad y permite precios premium",
-        "Ignora al cliente",
-        "Solo para productos caros"
-      ],
-      "correct": [1],
-      "saber_mas": "<p>La <u>marca</u> es un <strong>elemento crucial</strong> de la estrategia de producto. No es solo un nombre o logotipo, sino el <strong>conjunto de activos y pasivos</strong> vinculados a un producto que añaden valor.</p><p>Una marca fuerte aporta numerosos beneficios:<br>• <strong>Genera lealtad del cliente</strong>: los consumidores compran repetidamente y recomiendan la marca.<br>• <strong>Permite precios premium</strong>: los consumidores están dispuestos a pagar más por la percepción de valor superior.<br>• <strong>Facilita el lanzamiento de nuevos productos</strong> (efecto halo): los consumidores confían en la marca madre.<br>• <strong>Diferencia</strong> el producto de la competencia.<br>• <strong>Construye confianza</strong> y reduce la percepción de riesgo.<br>• <strong>Actúa como activo intangible</strong> valioso para la empresa.</p><p>La gestión de la marca debe ser <strong>coherente</strong> en todos los puntos de contacto:<br>• Producto, precio, distribución, promoción.<br>• Experiencia del cliente.<br>• Comunicación (tono, mensaje, imagen).</p><p>Una <strong>inconsistencia</strong> en la marca (ej. un tono de voz diferente en redes sociales) <strong>debilita</strong> gravemente su valor.</p><p>La marca es un <strong>compromiso</strong> con el consumidor que debe cumplirse en cada interacción.</p>"
-    },
-    {
-      "intro": "El empaque es mucho más que un contenedor. Es un elemento de comunicación, protección, conveniencia y diferenciación. Un buen empaque atrae al consumidor en el punto de venta, comunica la marca y el valor del producto, y puede incluso convertirse en parte de la experiencia del cliente. El diseño del empaque debe alinearse con la estrategia de producto y posicionamiento.",
-      "question": "12. ¿Qué función cumple el empaque en el marketing?",
-      "options": [
-        "Solo proteger el producto",
-        "Comunicar, proteger, diferenciar y facilitar el uso",
-        "Solo para productos físicos",
-        "Ignorar al cliente"
-      ],
-      "correct": [1],
-      "saber_mas": "<p>El <u>empaque</u> es mucho más que un simple <strong>contenedor</strong> para el producto. Es un <strong>elemento estratégico</strong> de marketing con múltiples funciones.</p><p>Funciones clave:<br>• <strong>Protección</strong>: protege el producto de daños, contaminación o deterioro durante el transporte y almacenamiento.<br>• <strong>Comunicación</strong>: transmite información sobre la marca, el producto, los beneficios, el uso y la calidad. Es la <strong>primera impresión</strong> en el punto de venta.<br>• <strong>Diferenciación</strong>: ayuda a destacar del producto de la competencia en un estante lleno.<br>• <strong>Conveniencia</strong>: facilita el transporte, almacenamiento, uso y disposición del producto (ej. empaques fáciles de abrir, reutilizables, dosificadores).<br>• <strong>Experiencia del cliente</strong>: puede convertirse en parte del disfrute del producto (ej. empaque de lujo, sorpresa).<br>• <strong>Valor emocional</strong>: puede evocar sentimientos de lujo, sostenibilidad, tradición, etc.</p><p>El diseño del empaque debe <strong>alinearse</strong> con:<br>• La <strong>estrategia de producto</strong>.<br>• El <strong>posicionamiento</strong> de la marca.<br>• El <strong>público objetivo</strong>.<br>• Las <strong>normativas</strong> (ingredientes, advertencias).</p><p>Un empaque mal diseñado puede <strong>perjudicar</strong> un producto excelente, mientras que un empaque excelente puede <strong>potenciar</strong> un producto bueno.</p>"
-    },
-    {
-      "intro": "Las garantías y servicios postventa son componentes esenciales del producto total. Reducen la percepción de riesgo del consumidor, aumentan la confianza y fortalecen la relación con la marca. Una garantía clara y generosa puede ser un poderoso argumento de venta, especialmente para productos de alto valor o complejos.",
-      "question": "13. ¿Cómo contribuyen las garantías al valor del producto?",
-      "options": [
-        "Aumentan el riesgo percibido",
-        "Reducen el riesgo percibido y aumentan la confianza",
-        "Solo para productos caros",
-        "Ignoran al cliente"
-      ],
-      "correct": [1],
-      "saber_mas": "<p>Las <u>garantías</u> y los <u>servicios postventa</u> son <strong>componentes esenciales</strong> del <strong>producto total</strong>, no aspectos secundarios.</p><p>Contribuyen al valor del producto porque:<br>• <strong>Reducen la percepción de riesgo</strong> del consumidor, especialmente en productos de alto valor, complejos o de compra infrecuente.<br>• <strong>Aumentan la confianza</strong> en la marca y en la calidad del producto.<br>• <strong>Fortalecen la relación</strong> con el cliente.<br>• <strong>Diferencian</strong> la oferta de la competencia.<br>• <strong>Actúan como un argumento de venta</strong> poderoso.</p><p>Una garantía <strong>clara, generosa y fácil de reclamar</strong> transmite un mensaje poderoso: la empresa <strong>confía</strong> en su producto y <strong>respalda</strong> su promesa de calidad.</p><p>Tipos de garantías:<br>• <strong>De satisfacción</strong>: devolución del dinero si no está satisfecho.<br>• <strong>De funcionamiento</strong>: reparación o reemplazo si falla en un periodo determinado.<br>• <strong>De duración</strong>: el producto durará un tiempo específico.<br>• <strong>De rendimiento</strong>: el producto cumplirá con ciertos estándares.</p><p>Los servicios postventa (instalación, mantenimiento, soporte técnico) también son <strong>clave</strong> para la satisfacción del cliente y la lealtad.</p><p>Invertir en garantías y postventa es una <strong>inversión</strong> en la relación con el cliente, no un <strong>costo</strong>.</p>"
-    },
-    {
-      "intro": "La estrategia de línea de productos implica decisiones sobre la longitud (número de productos), profundidad (variantes) y consistencia (relación entre productos). Una línea demasiado larga puede confundir al consumidor, mientras que una demasiado corta puede no satisfacer todas las necesidades. La estrategia debe alinearse con el posicionamiento de la marca y los objetivos de mercado.",
-      "question": "14. ¿Qué puede ocurrir si una línea de productos es demasiado larga?",
-      "options": [
-        "Siempre es mejor tener más productos",
-        "Puede confundir al consumidor y diluir la marca",
-        "No tiene ningún efecto",
-        "Solo aumenta las ventas"
-      ],
-      "correct": [1],
-      "saber_mas": "<p>La <u>estrategia de línea de productos</u> implica tomar decisiones clave sobre:<br>• <strong>Longitud</strong>: el número total de productos en la línea.<br>• <strong>Profundidad</strong>: el número de variantes (tamaños, sabores, colores, modelos) por producto.<br>• <strong>Consistencia</strong>: el grado de relación entre los productos de la línea en términos de uso, producción, distribución o clientes.</p><p>Una línea <strong>demasiado larga</strong> puede tener efectos negativos:<br>• <strong>Confundir al consumidor</strong>: demasiadas opciones dificultan la decisión de compra (paradoja de la elección).<br>• <strong>Diluir la marca</strong>: si los productos no están alineados con el posicionamiento, pueden debilitar la identidad de la marca.<br>• <strong>Incrementar costos</strong>: de producción, inventario, marketing y distribución.<br>• <strong>Reducir la rentabilidad</strong>: productos de baja rotación que consumen recursos.<br>• <strong>Dificultar la gestión</strong> del inventario y la cadena de suministro.</p><p>Una línea <strong>demasiado corta</strong> puede:<br>• <strong>No satisfacer</strong> las necesidades de diferentes segmentos.<br>• <strong>Permitir que la competencia capture</strong> nichos no atendidos.</p><p>La estrategia debe <strong>alinearse</strong> con el <strong>posicionamiento de la marca</strong> y los <strong>objetivos de mercado</strong>.<br>La gestión activa de la línea (pruning) es esencial para mantenerla saludable.</p>"
-    },
-    {
-      "intro": "La extensión de marca ocurre cuando una empresa utiliza una marca existente para lanzar un nuevo producto en una categoría diferente. Puede ahorrar costos de marketing y aprovechar el equity de la marca, pero conlleva riesgos si el nuevo producto no cumple con las expectativas o si la marca se percibe como inauténtica. El éxito depende de la relevancia y la coherencia con la promesa de valor original.",
-      "question": "15. ¿Qué riesgo tiene una extensión de marca inapropiada?",
-      "options": [
-        "Aumentar el equity de la marca",
-        "Diluir o dañar la marca original",
-        "Solo reducir costos",
-        "Garantizar el éxito del nuevo producto"
-      ],
-      "correct": [1],
-      "saber_mas": "<p>La <u>extensión de marca</u> (brand extension) ocurre cuando una empresa utiliza una <strong>marca existente</strong> para <strong>lanzar un nuevo producto</strong> en una <strong>categoría diferente</strong>.</p><p>Ventajas:<br>• <strong>Ahorra costos</strong> de marketing (no necesita crear reconocimiento desde cero).<br>• <strong>Transfiere el equity</strong> de la marca madre al nuevo producto.<br>• <strong>Reduce el riesgo percibido</strong> por el consumidor.<br>• <strong>Acelera la aceptación</strong> del mercado.</p><p>Riesgos:<br>• <strong>Dilución de la marca</strong>: si el nuevo producto no está alineado con la promesa de valor, puede <strong>confundir al consumidor</strong> y debilitar la identidad de la marca.<br>• <strong>Daño a la marca original</strong>: si el nuevo producto tiene problemas de calidad o fracasa, puede <strong>manchar la reputación</strong> de toda la marca.<br>• <strong>Percepción de inautenticidad</strong>: si el salto de categoría es demasiado grande (ej. una marca de lujo de automóviles que lanza ropa interior), puede parecer <strong>forzado</strong> o <strong>ridículo</strong>.</p><p>El éxito depende de:<br>• <strong>Relevancia</strong>: el nuevo producto debe estar relacionado de alguna forma con lo que la marca representa.<br>• <strong>Coherencia</strong>: debe alinearse con los valores y la personalidad de la marca.<br>• <strong>Calidad</strong>: el nuevo producto debe cumplir con las expectativas del consumidor.</p><p>Ejemplos de éxito: Dove (jabón a champú), Apple (ordenadores a smartphones).<br>Ejemplos de fracaso: Harley-Davidson (perfume), Colgate (comida para mascotas).</p>"
+      "saber_mas": "<p>Las empresas deben <u>deleitar al cliente</u>, no solo satisfacerlo. Esto implica <u>exceder sus expectativas</u> con productos de calidad, servicios excepcionales y experiencias memorables.</p><p>Cuando los clientes se sienten sorprendidos positivamente, desarrollan lealtad emocional y se convierten en <u>defensores de la marca</u>.</p><p>Este enfoque genera valor a largo plazo, ya que los defensores recomiendan la marca, toleran mejor los precios y perdonan errores ocasionales.</p>"
     }
   ]
 }
