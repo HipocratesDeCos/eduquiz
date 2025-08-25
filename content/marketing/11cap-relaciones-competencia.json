@@ -1,186 +1,185 @@
 {
-  "title": "Las Relaciones con la Competencia",
-  "description": "Quiz sobre estrategias competitivas, tipos de competencia, análisis de la industria y cómo gestionar el entorno competitivo.",
+  "title": "Capítulo 11: Las relaciones con la competencia",
   "questions": [
     {
-      "intro": "En el mundo del marketing, la competencia no es un enemigo a destruir, sino un actor con el que se debe convivir y del que se puede aprender. Las relaciones con la competencia influyen directamente en la estrategia de la empresa, desde la fijación de precios hasta la innovación. Comprender el entorno competitivo permite identificar amenazas, oportunidades y desarrollar ventajas sostenibles. Las empresas pueden optar por estrategias de diferenciación, liderazgo en costos o enfoque en nichos para posicionarse frente a sus rivales.",
-      "question": "1. ¿Cómo se puede definir la competencia en marketing?",
+      "intro": "Las relaciones con la competencia son un aspecto fundamental del entorno de marketing. Aunque muchas empresas tienden a enfocarse exclusivamente en sus rivales directos, el verdadero éxito a largo plazo depende de equilibrar esa atención con una comprensión profunda de las necesidades del consumidor. Una competencia intensa puede impulsar la innovación, pero también puede llevar a guerras de precios destructivas o a la imitación superficial. Las empresas deben decidir si quieren liderar, seguir, desafiar o especializarse en nichos. Cada estrategia implica un tipo diferente de relación con la competencia, y la elección correcta puede marcar la diferencia entre el crecimiento sostenible y la obsolescencia.",
+      "question": "1. ¿Qué equilibrio recomienda el capítulo entre el enfoque empresarial y la competencia?",
       "options": [
-        "Solo las empresas que venden el mismo producto",
-        "Cualquier empresa que compite por el mismo presupuesto del cliente",
-        "Solo las marcas más grandes",
-        "Empresas del mismo país"
-      ],
-      "correct": [1],
-      "saber_mas": "<p>La <u>competencia</u> en marketing no se limita solo a las empresas que venden un producto idéntico. Se define más ampliamente como <strong>cualquier empresa que compite por el mismo presupuesto del cliente</strong> o por su atención.</p><p>Por ejemplo, una compañía de streaming (Netflix) no solo compite con otros servicios de streaming, sino también con videojuegos, redes sociales y salas de cine, ya que todos buscan el tiempo de ocio del consumidor.</p><p>Tipos de competencia:<br>• <strong>Directa</strong>: marcas que ofrecen productos o servicios muy similares (Coca-Cola vs. Pepsi).<br>• <strong>Indirecta</strong>: productos que satisfacen la misma necesidad de forma diferente (tren vs. avión).<br>• <strong>Amplia</strong>: todas las empresas que compiten por el gasto del consumidor (restaurantes vs. cines).</p><p>Un análisis competitivo efectivo debe considerar todos estos niveles para entender el verdadero panorama del mercado.</p>"
-    },
-    {
-      "intro": "El análisis de la competencia es un proceso sistemático que permite a una empresa identificar a sus rivales, comprender sus estrategias, fortalezas, debilidades y prever sus movimientos. Este análisis es fundamental para tomar decisiones estratégicas en áreas como producto, precio, promoción y distribución. Herramientas como las matrices de posicionamiento, el benchmarking y el análisis de 5 fuerzas de Porter son clave para obtener una visión clara del entorno competitivo.",
-      "question": "2. ¿Qué herramienta ayuda a visualizar la posición de una marca frente a sus competidores?",
-      "options": [
-        "Balance general",
-        "Mapa de posicionamiento",
-        "Estado de resultados",
-        "Flujo de caja"
-      ],
-      "correct": [1],
-      "saber_mas": "<p>Un <u>mapa de posicionamiento</u> es una herramienta visual que permite <strong>representar gráficamente cómo se perciben las marcas</strong> en relación con la competencia según dos dimensiones clave del mercado.</p><p>Dimensiones comunes:<br>• Precio vs. Calidad<br>• Tradición vs. Innovación<br>• Funcionalidad vs. Emoción<br>• Lujo vs. Economía</p><p>Para crearlo:<br>1. Se seleccionan las dimensiones más relevantes para el consumidor.<br>2. Se realiza una encuesta para medir la percepción del consumidor sobre cada marca.<br>3. Se grafican los puntos en un plano cartesiano.</p><p>Este mapa ayuda a:<br>• <strong>Identificar vacíos</strong> en el mercado (nichos no atendidos).<br>• <strong>Evaluar la posición</strong> actual de la marca.<br>• <strong>Decidir dónde posicionar</strong> un nuevo producto.<br>• <strong>Comunicar la estrategia</strong> de forma clara al equipo interno.</p><p>Es una herramienta esencial en la <strong>planificación estratégica</strong> de marketing.</p>"
-    },
-    {
-      "intro": "Las cinco fuerzas de Porter es un marco analítico que permite evaluar la intensidad de la competencia en una industria y su atractivo de rentabilidad. Las fuerzas son: rivalidad entre competidores existentes, amenaza de nuevos entrantes, amenaza de productos sustitutos, poder de negociación de los compradores y poder de negociación de los proveedores. Comprender estas fuerzas ayuda a las empresas a identificar las fuentes de presión competitiva y a desarrollar estrategias defensivas o ofensivas.",
-      "question": "3. ¿Cuál de las siguientes es una de las cinco fuerzas de Porter?",
-      "options": [
-        "La inflación",
-        "El poder de negociación de los compradores",
-        "El tipo de cambio",
-        "La tasa de interés"
-      ],
-      "correct": [1],
-      "saber_mas": "<p>El modelo de <u>las cinco fuerzas de Porter</u> es un marco fundamental para analizar la <strong>estructura de una industria</strong> y su <strong>atractivo de rentabilidad</strong>.</p><p>Las cinco fuerzas son:<br>• <strong>Rivalidad entre competidores existentes</strong>: intensidad de la competencia (precio, publicidad, innovación).<br>• <strong>Amenaza de nuevos entrantes</strong>: facilidad con la que nuevas empresas pueden entrar al mercado (barreras de entrada).<br>• <strong>Amenaza de productos sustitutos</strong>: productos o servicios que satisfacen la misma necesidad de forma diferente.<br>• <strong>Poder de negociación de los compradores</strong>: capacidad de los clientes para exigir precios bajos o mayor calidad.<br>• <strong>Poder de negociación de los proveedores</strong>: capacidad de los proveedores para aumentar precios o reducir calidad.</p><p>Una industria es más <strong>atractiva</strong> cuando las cinco fuerzas son débiles (baja competencia, altas barreras, pocos sustitutos, bajo poder de clientes y proveedores).<br>Las empresas usan este análisis para <strong>definir su estrategia</strong> y buscar posiciones donde las fuerzas sean menos intensas.</p>"
-    },
-    {
-      "intro": "La rivalidad entre competidores existentes es la fuerza más visible en una industria. Se manifiesta en guerras de precios, campañas publicitarias agresivas, innovación constante y expansión de capacidad. El nivel de rivalidad depende del número de competidores, la tasa de crecimiento del mercado, los costos fijos y la diferenciación del producto. En mercados maduros con bajo crecimiento, la rivalidad tiende a ser más intensa.",
-      "question": "4. ¿Qué factor aumenta la rivalidad entre competidores?",
-      "options": [
-        "Alto crecimiento del mercado",
-        "Bajo número de competidores",
-        "Mercado maduro con bajo crecimiento",
-        "Productos altamente diferenciados"
+        "Enfocarse únicamente en los competidores",
+        "Priorizar el control de la competencia sobre el cliente",
+        "Mantener un equilibrio entre el control del consumidor y el control de la competencia",
+        "Ignorar por completo a los competidores"
       ],
       "correct": [2],
-      "saber_mas": "<p>La <u>rivalidad entre competidores existentes</u> es la <strong>fuerza más evidente</strong> en el modelo de Porter y se manifiesta en:<br>• Guerras de precios<br>• Campañas publicitarias agresivas<br>• Innovación constante<br>• Expansión de capacidad<br>• Diversificación de productos</p><p>Factores que <strong>intensifican</strong> la rivalidad:<br>• <strong>Mercado maduro con bajo crecimiento</strong>: las empresas luchan por ganar cuota de mercado a costa de sus rivales.<br>• <strong>Gran número de competidores</strong>: más jugadores compitiendo por el mismo mercado.<br>• <strong>Costos fijos altos</strong>: las empresas necesitan altos volúmenes de venta para ser rentables, lo que incentiva el descuento.<br>• <strong>Baja diferenciación del producto</strong>: los productos son percibidos como intercambiables, por lo que el precio se vuelve el principal factor de decisión.<br>• <strong>Alta inversión en salida</strong>: los costos de salir del mercado son altos, por lo que las empresas permanecen incluso en mercados no rentables.</p><p>En mercados con <strong>alto crecimiento</strong>, la rivalidad suele ser <strong>menos intensa</strong>, ya que todas las empresas pueden crecer sin necesidad de arrebatar cuota a sus rivales.</p>"
+      "saber_mas": "<p>El capítulo enfatiza que, aunque es importante <u>monitorear a la competencia</u>, las empresas no deben perder de vista al <u>consumidor</u>. El equilibrio adecuado está entre el <u>control del consumidor</u> y el <u>control de la competencia</u>.</p><p>Una excesiva atención a los rivales puede desviar recursos de la innovación centrada en el cliente. Como dijo Henry Ford, si hubiera preguntado a la gente qué quería, habría hecho 'caballos más rápidos'.</p><p>La verdadera oportunidad está en descubrir necesidades latentes que ni siquiera los consumidores pueden expresar, lo que requiere una mirada más profunda que la simple comparación competitiva.</p>"
     },
     {
-      "intro": "La amenaza de nuevos entrantes depende de las barreras de entrada que existen en una industria. Estas barreras pueden ser económicas (altos costos de inversión), legales (licencias, patentes), tecnológicas (conocimiento especializado) o relacionadas con la marca (lealtad del cliente). Una alta barrera de entrada protege a los competidores existentes y reduce la intensidad de la competencia.",
-      "question": "5. ¿Qué es una barrera de entrada?",
+      "intro": "No siempre el pionero de un mercado es el que termina dominándolo. A menudo, empresas que entran más tarde logran superar a los primeros en el mercado gracias a una mejor estrategia, innovación o ejecución. Este fenómeno se observa en industrias como la tecnología, donde IBM superó a Sperry en computadoras centrales, Matsushita desplazó a Sony en videocaseteras y GE superó a EMI en equipos de tomografía. Estos casos demuestran que la ventaja del primer movimiento no garantiza el liderazgo a largo plazo, y que la capacidad de adaptación y mejora continua puede ser más valiosa que la simple innovación inicial.",
+      "question": "2. ¿Qué empresa superó a Sony en el mercado de videograbadoras?",
       "options": [
-        "Un descuento para nuevos clientes",
-        "Un obstáculo que dificulta la entrada de nuevas empresas a una industria",
-        "Una promoción de lanzamiento",
-        "Un canal de distribución"
-      ],
-      "correct": [1],
-      "saber_mas": "<p>Una <u>barrera de entrada</u> es cualquier <strong>obstáculo que dificulta o impide</strong> que nuevas empresas entren en una industria.</p><p>Tipos de barreras:<br>• <strong>Económicas</strong>: altos costos de inversión inicial (ej. fábricas, tecnología).<br>• <strong>Legales</strong>: licencias, regulaciones, patentes (ej. farmacéuticas).<br>• <strong>Tecnológicas</strong>: conocimiento especializado o propiedad intelectual difícil de replicar.<br>• <strong>De escala</strong>: ventajas de costo que tienen las empresas grandes por producir en grandes volúmenes.<br>• <strong>De acceso a canales de distribución</strong>: los minoristas ya están comprometidos con marcas establecidas.<br>• <strong>De lealtad de marca</strong>: los consumidores son fieles a las marcas existentes y es difícil ganarlos.</p><p>Una <strong>alta barrera de entrada</strong>:<br>• <strong>Protege</strong> a los competidores existentes.<br>• <strong>Reduce</strong> la amenaza de nuevos entrantes.<br>• <strong>Permite</strong> mayores márgenes de beneficio.<br>• <strong>Estabiliza</strong> el mercado.</p><p>Las empresas líderes a menudo <strong>construyen activamente barreras</strong> (por ejemplo, mediante innovación constante o contratos exclusivos con distribuidores) para proteger su posición.</p>"
-    },
-    {
-      "intro": "La amenaza de productos sustitutos se refiere a la disponibilidad de productos o servicios diferentes que satisfacen la misma necesidad básica del consumidor. Por ejemplo, el té puede sustituir al café, o el videoconferencing puede sustituir a los viajes de negocios. Esta amenaza limita el potencial de precios de una industria, ya que los consumidores pueden cambiar a una alternativa si los precios suben demasiado.",
-      "question": "6. ¿Qué limita la amenaza de productos sustitutos?",
-      "options": [
-        "La calidad del producto",
-        "El potencial de precios de una industria",
-        "La publicidad",
-        "La producción interna"
-      ],
-      "correct": [1],
-      "saber_mas": "<p>La <u>amenaza de productos sustitutos</u> se refiere a la <strong>disponibilidad de productos o servicios diferentes</strong> que satisfacen la <strong>misma necesidad básica</strong> del consumidor.</p><p>Ejemplos:<br>• <strong>Café</strong> vs. <strong>Té</strong> (necesidad: estimulante).<br>• <strong>Avión</strong> vs. <strong>Tren de alta velocidad</strong> (necesidad: transporte rápido).<br>• <strong>Plástico</strong> vs. <strong>Aluminio</strong> (necesidad: material para envases).<br>• <strong>Streaming</strong> vs. <strong>DVD</strong> (necesidad: entretenimiento en casa).</p><p>Esta amenaza <strong>limita el potencial de precios</strong> de una industria porque:<br>• Si los precios suben demasiado, los consumidores pueden <strong>cambiar fácilmente</strong> a una alternativa.<br>• Los sustitutos actúan como un <strong>techo de precios</strong> para los productos existentes.<br>• Las empresas deben <strong>innovar constantemente</strong> para mantener su ventaja.</p><p>Factores que aumentan la amenaza:<br>• <strong>Desempeño del sustituto</strong> comparable o superior.<br>• <strong>Precio del sustituto</strong> más bajo.<br>• <strong>Costo de cambio</strong> bajo para el consumidor.</p><p>Las empresas deben <strong>monitorear constantemente</strong> las innovaciones en industrias aparentemente no relacionadas que podrían convertirse en sustitutos.</p>"
-    },
-    {
-      "intro": "El poder de negociación de los compradores es alto cuando los clientes tienen muchas opciones, compran en grandes volúmenes o pueden integrarse hacia atrás. Los compradores con alto poder pueden exigir precios más bajos, mayor calidad o servicios adicionales, lo que reduce la rentabilidad de los vendedores. Las empresas pueden reducir este poder mediante la diferenciación, la lealtad de marca o la creación de costos de cambio elevados.",
-      "question": "7. ¿Cómo pueden las empresas reducir el poder de negociación de los compradores?",
-      "options": [
-        "Ofreciendo productos genéricos",
-        "Mediante diferenciación y creación de lealtad de marca",
-        "Aumentando los precios sin justificación",
-        "Ignorando al cliente"
-      ],
-      "correct": [1],
-      "saber_mas": "<p>El <u>poder de negociación de los compradores</u> es alto cuando:<br>• Existen <strong>muchos vendedores</strong> y pocos compradores.<br>• Los productos son <strong>estandarizados o genéricos</strong> (poca diferenciación).<br>• Los compradores <strong>compran en grandes volúmenes</strong> (clientes clave).<br>• El <strong>costo de cambio</strong> a otro proveedor es bajo.<br>• Los compradores pueden <strong>integrarse hacia atrás</strong> (producir ellos mismos el producto).<br>• Los productos representan un <strong>alto porcentaje de los costos</strong> del comprador.</p><p>Este poder puede <strong>reducir la rentabilidad</strong> de los vendedores, ya que los compradores pueden exigir:<br>• <strong>Precios más bajos</strong>.<br>• <strong>Mayor calidad</strong>.<br>• <strong>Mejores condiciones de servicio</strong>.<br>• <strong>Descuentos y rebajas</strong>.</p><p>Las empresas pueden <strong>reducir este poder</strong> mediante:<br>• <strong>Diferenciación</strong> del producto o servicio.<br>• <strong>Construcción de lealtad de marca</strong>.<br>• <strong>Creación de costos de cambio altos</strong> (ej. contratos a largo plazo, integración tecnológica).<br>• <strong>Oferta de valor superior</strong> que justifique un precio premium.</p><p>El objetivo es <strong>convertir la relación</strong> de una negociación de precios a una <strong>colaboración estratégica</strong>.</p>"
-    },
-    {
-      "intro": "El poder de negociación de los proveedores es alto cuando hay pocos proveedores, el producto que ofrecen es único o crítico, o pueden integrarse hacia adelante. Los proveedores con alto poder pueden aumentar los precios, reducir la calidad o limitar el suministro, lo que afecta la rentabilidad de las empresas que los compran. Las empresas pueden mitigar este poder mediante la diversificación de proveedores, la integración vertical o la búsqueda de sustitutos.",
-      "question": "8. ¿Qué puede hacer una empresa si un proveedor tiene alto poder de negociación?",
-      "options": [
-        "Depender completamente de ese proveedor",
-        "Diversificar sus proveedores o buscar sustitutos",
-        "Reducir la calidad del producto final",
-        "Aumentar los precios sin aviso"
-      ],
-      "correct": [1],
-      "saber_mas": "<p>El <u>poder de negociación de los proveedores</u> es alto cuando:<br>• Existen <strong>pocos proveedores</strong> y muchos compradores.<br>• El producto o servicio del proveedor es <strong>único, diferenciado o crítico</strong> para el comprador.<br>• Los costos de cambio a otro proveedor son <strong>altos</strong>.<br>• Los proveedores pueden <strong>integrarse hacia adelante</strong> (vender directamente al mercado final).<br>• El producto representa un <strong>pequeño porcentaje del costo total</strong> del comprador (por lo que este es menos sensible al precio).</p><p>Este poder puede <strong>afectar negativamente</strong> a la rentabilidad del comprador, ya que los proveedores pueden:<br>• <strong>Aumentar los precios</strong> de insumos.<br>• <strong>Reducir la calidad</strong> del suministro.<br>• <strong>Limitar la disponibilidad</strong> del producto.<br>• <strong>Exigir condiciones contractuales más estrictas</strong>.</p><p>Las empresas pueden <strong>mitigar este poder</strong> mediante:<br>• <strong>Diversificación de proveedores</strong> (no depender de uno solo).<br>• <strong>Búsqueda de sustitutos</strong> para el insumo.<br>• <strong>Integración vertical hacia atrás</strong> (producir el insumo internamente).<br>• <strong>Negociación de contratos a largo plazo</strong> con precios fijos.<br>• <strong>Desarrollo de relaciones estratégicas</strong> con proveedores clave.</p><p>Una gestión proactiva del abastecimiento es clave para la estabilidad operativa.</p>"
-    },
-    {
-      "intro": "La competencia perfecta es un modelo teórico donde hay muchos vendedores y compradores, productos homogéneos, información perfecta y libre entrada y salida del mercado. En este escenario, ninguna empresa puede influir en el precio, que es determinado por la oferta y la demanda. Aunque raro en la realidad, sirve como referencia para entender mercados altamente competitivos, como materias primas o productos agrícolas.",
-      "question": "9. ¿Qué caracteriza a la competencia perfecta?",
-      "options": [
-        "Un solo vendedor",
-        "Muchos vendedores y productos homogéneos",
-        "Productos altamente diferenciados",
-        "Barreras de entrada altas"
-      ],
-      "correct": [1],
-      "saber_mas": "<p>La <u>competencia perfecta</u> es un <strong>modelo teórico</strong> en economía que describe un mercado ideal con las siguientes características:<br>• <strong>Gran número de vendedores y compradores</strong>: ningún actor individual puede influir en el precio del mercado.<br>• <strong>Productos homogéneos o estandarizados</strong>: los productos son idénticos, por lo que los consumidores no tienen preferencia por una marca específica.<br>• <strong>Información perfecta</strong>: todos los participantes tienen acceso completo a precios, calidad y disponibilidad.<br>• <strong>Libre entrada y salida</strong>: no existen barreras para que nuevas empresas entren o salgan del mercado.<br>• <strong>Transparencia total</strong>: no hay asimetrías de información.</p><p>En este modelo:<br>• El <strong>precio</strong> es determinado únicamente por la <strong>oferta y la demanda</strong> del mercado.<br>• Las empresas son <strong>tomadoras de precios</strong> (price takers), no formadoras de precios.<br>• Los beneficios económicos a largo plazo tienden a <strong>cero</strong>, ya que cualquier ganancia atrae nuevos entrantes que aumentan la oferta y bajan el precio.</p><p>Aunque raro en la realidad, este modelo sirve como <strong>referencia</strong> para mercados altamente competitivos, como <strong>productos agrícolas</strong>, <strong>materias primas</strong> o <strong>acciones en bolsa</strong>.</p>"
-    },
-    {
-      "intro": "El oligopolio es una estructura de mercado dominada por un pequeño número de grandes empresas. Estas empresas son interdependientes, ya que las decisiones de una (como bajar el precio) afectan directamente a las demás. Esto puede llevar a guerras de precios o, por el contrario, a colusiones tácitas o explícitas para mantener altos precios. Ejemplos incluyen la industria automotriz, las aerolíneas o los servicios de telecomunicaciones.",
-      "question": "10. ¿Qué caracteriza a un oligopolio?",
-      "options": [
-        "Miles de pequeñas empresas",
-        "Un pequeño número de grandes empresas interdependientes",
-        "Productos completamente diferentes",
-        "Ausencia de competencia"
-      ],
-      "correct": [1],
-      "saber_mas": "<p>El <u>oligopolio</u> es una <strong>estructura de mercado</strong> en la que un <strong>pequeño número de grandes empresas</strong> domina la industria.</p><p>Características clave:<br>• <strong>Interdependencia</strong>: las decisiones de una empresa (precio, producción, publicidad) afectan directamente a las demás, por lo que cada empresa debe <strong>anticipar las reacciones</strong> de sus rivales.<br>• <strong>Productos similares o diferenciados</strong>: pueden ser estandarizados (acero) o diferenciados (automóviles).<br>• <strong>Barreras de entrada altas</strong>: impiden que nuevas empresas entren fácilmente al mercado.<br>• <strong>Potencial de colusión</strong>: las empresas pueden cooperar tácita o explícitamente (formando un cártel) para fijar precios altos y maximizar beneficios colectivos.</p><p>Conductas comunes:<br>• <strong>Guerras de precios</strong>: cuando una empresa baja el precio, las demás suelen seguir para no perder cuota de mercado.<br>• <strong>Seguimiento de precios</strong>: una empresa líder fija el precio y las demás lo siguen.<br>• <strong>Competencia no basada en precios</strong>: innovación, publicidad, servicio al cliente.</p><p>Ejemplos: industria <strong>automotriz</strong>, <strong>aerolíneas</strong>, <strong>telecomunicaciones</strong>, <strong>bebidas gaseosas</strong>.</p>"
-    },
-    {
-      "intro": "La competencia monopolística es un mercado con muchos vendedores que ofrecen productos diferenciados. Aunque hay competencia, cada empresa tiene cierto poder de fijación de precios debido a la diferenciación (marca, calidad, servicio). La entrada al mercado es relativamente fácil, lo que limita los beneficios a largo plazo. Este modelo se aplica a industrias como restaurantes, ropa, cosméticos o servicios profesionales.",
-      "question": "11. ¿Qué permite a una empresa en competencia monopolística tener cierto poder de fijación de precios?",
-      "options": [
-        "Ser el único vendedor",
-        "La diferenciación del producto",
-        "Controlar el mercado",
-        "Ignorar a la competencia"
-      ],
-      "correct": [1],
-      "saber_mas": "<p>La <u>competencia monopolística</u> es una estructura de mercado con las siguientes características:<br>• <strong>Gran número de vendedores</strong>.<br>• <strong>Productos diferenciados</strong>: no son idénticos, sino que tienen características únicas (marca, calidad, diseño, servicio, ubicación).<br>• <strong>Entrada y salida relativamente fáciles</strong> del mercado.<br>• <strong>Alguna capacidad para fijar precios</strong> gracias a la diferenciación.</p><p>La <strong>diferenciación del producto</strong> es la clave que permite a cada empresa tener <strong>cierto poder de fijación de precios</strong>. Al percibir el producto como único o superior, los consumidores están dispuestos a pagar un poco más, lo que otorga a la empresa un <strong>monopolio temporal</strong> sobre su versión del producto.</p><p>Sin embargo, este poder es <strong>limitado</strong>:<br>• Si el precio es demasiado alto, los consumidores pueden <strong>moverse a sustitutos cercanos</strong>.<br>• La <strong>entrada fácil</strong> de nuevos competidores que imitan el éxito limita los beneficios a largo plazo.</p><p>Ejemplos: <strong>restaurantes</strong>, <strong>tiendas de ropa</strong>, <strong>peluquerías</strong>, <strong>cosméticos</strong>, <strong>servicios profesionales</strong> (abogados, médicos).</p><p>La competencia se centra en <strong>la marca, la calidad, el servicio y la innovación</strong>, no solo en el precio.</p>"
-    },
-    {
-      "intro": "La cooperación competitiva, o coopetencia, ocurre cuando empresas que compiten en algunos mercados colaboran en otros, como en la investigación, desarrollo de estándares o distribución. Esta estrategia permite compartir costos, reducir riesgos y acelerar la innovación, mientras se mantiene la competencia en el mercado final. Es común en industrias de alta tecnología, como la automotriz o la farmacéutica.",
-      "question": "12. ¿Qué es la coopetencia?",
-      "options": [
-        "Solo competencia",
-        "Solo cooperación",
-        "Colaboración entre competidores en áreas específicas",
-        "Ignorar a la competencia"
+        "Panasonic",
+        "Toshiba",
+        "Matsushita",
+        "JVC"
       ],
       "correct": [2],
-      "saber_mas": "<p>La <u>coopetencia</u> (cooperación + competencia) es una <strong>estrategia estratégica</strong> en la que empresas que son <strong>competidoras en ciertos mercados</strong> eligen <strong>colaborar en otros aspectos</strong>.</p><p>Áreas comunes de cooperación:<br>• <strong>Investigación y desarrollo (I+D)</strong>: compartir costos y riesgos de proyectos innovadores.<br>• <strong>Desarrollo de estándares</strong>: crear formatos o tecnologías comunes (ej. Blu-ray, 5G).<br>• <strong>Abastecimiento conjunto</strong>: comprar insumos en conjunto para obtener mejores precios.<br>• <strong>Distribución</strong>: compartir infraestructura logística.<br>• <strong>Marketing conjunto</strong>: promocionar una categoría de producto (ej. leche, vino).</p><p>Beneficios:<br>• <strong>Reducción de costos</strong> y <strong>riesgos</strong>.<br>• <strong>Aceleración de la innovación</strong>.<br>• <strong>Acceso a nuevas tecnologías</strong> o mercados.<br>• <strong>Fortalecimiento de la categoría</strong> frente a alternativas.</p><p>La coopetencia es común en industrias de <strong>alta tecnología</strong> y <strong>alto costo de I+D</strong>, como:<br>• Automotriz (colaboración en vehículos eléctricos).<br>• Farmacéutica (desarrollo de vacunas).<br>• Tecnología (sistemas operativos, chips).</p><p>Requiere <strong>confianza</strong>, <strong>acuerdos claros</strong> y <strong>gestión cuidadosa</strong> de la propiedad intelectual.</p>"
+      "saber_mas": "<p><u>Matsushita</u> es mencionada como un ejemplo de empresa que <u>superó a Sony</u> en el mercado de <u>videograbadoras</u>, a pesar de que Sony fue pionera con el formato Betamax.</p><p>Matsushita, a través de su marca Panasonic, apostó por el formato VHS, que ofrecía mayor duración de grabación y fue adoptado por más productores de contenido.</p><p>Este caso ilustra que el éxito no depende solo de ser el primero, sino de entender las necesidades del consumidor, formar alianzas estratégicas y ejecutar una estrategia de mercado efectiva.</p>"
     },
     {
-      "intro": "El benchmarking es el proceso de comparar las prácticas, procesos y desempeño de una empresa con los de sus competidores o líderes del sector. Permite identificar brechas, adoptar mejores prácticas y mejorar continuamente. Puede ser interno (entre departamentos), competitivo (frente a rivales) o genérico (frente a líderes en otras industrias). Es una herramienta clave para la mejora continua y la ventaja competitiva.",
-      "question": "13. ¿Para qué sirve el benchmarking?",
+      "intro": "Las empresas pueden adoptar diferentes roles estratégicos frente a la competencia: líder, desafiante, seguidora o especialista en nicho. Cada uno de estos roles implica una postura distinta y requiere una estrategia específica. Un líder debe defender su posición, un desafiante busca crecer a costa del líder, una seguidora mantiene su cuota sin aspirar a más, y un especialista en nicho domina un segmento pequeño pero rentable. La elección del rol debe alinearse con los recursos, capacidades y objetivos de la empresa, y no todas deben aspirar a ser líderes.",
+      "question": "3. ¿Qué tipo de empresa busca mantener su participación de mercado sin aspirar a más?",
       "options": [
-        "Para copiar directamente los productos de la competencia",
-        "Para comparar procesos y adoptar mejores prácticas",
-        "Solo para reducir costos",
-        "Para ignorar a la competencia"
+        "Líder",
+        "Desafiante",
+        "Seguidora",
+        "Especialista en nicho"
       ],
-      "correct": [1],
-      "saber_mas": "<p>El <u>benchmarking</u> es un proceso sistemático de <strong>comparar</strong> las <strong>prácticas, procesos, productos y desempeño</strong> de una empresa con los de <strong>organizaciones líderes</strong> dentro o fuera de su industria.</p><p>Objetivos:<br>• <strong>Identificar brechas</strong> de desempeño.<br>• <strong>Aprender de las mejores prácticas</strong> (best practices).<br>• <strong>Establecer metas realistas y ambiciosas</strong>.<br>• <strong>Mejorar continuamente</strong> (kaizen).<br>• <strong>Desarrollar ventajas competitivas</strong>.</p><p>Tipos de benchmarking:<br>• <strong>Interno</strong>: comparación entre diferentes unidades o departamentos de la misma empresa.<br>• <strong>Competitivo</strong>: comparación directa con competidores clave.<br>• <strong>Genérico o funcional</strong>: comparación con líderes en procesos específicos, aunque sean de otra industria (ej. logística de Amazon aplicada a hospitales).<br>• <strong>Colaborativo</strong>: intercambio de información con empresas no competidoras.</p><p>Aplicaciones:<br>• <strong>Procesos</strong> (producción, atención al cliente).<br>• <strong>Costos</strong>.<br>• <strong>Calidad</strong>.<br>• <strong>Velocidad</strong> (time-to-market).<br>• <strong>Experiencia del cliente</strong>.</p><p>El benchmarking no es <strong>copiar</strong>, sino <strong>aprender</strong> y <strong>adaptar</strong> las mejores prácticas al contexto propio.</p>"
+      "correct": [2],
+      "saber_mas": "<p>Una <u>empresa seguidora</u> se caracteriza por buscar <u>mantener su participación de mercado</u> sin aspirar a desafiar al líder o expandirse agresivamente.</p><p>Puede desempeñar roles como <u>falsificador, clonador, imitador o adaptador</u>, copiando aspectos del líder pero diferenciándose en precio, envase o distribución.</p><p>El líder generalmente no se preocupa por este tipo de competidor, siempre que no ataque de forma agresiva. Este rol permite a la empresa operar con estabilidad y rentabilidad sin asumir altos riesgos competitivos.</p>"
     },
     {
-      "intro": "La diferenciación es una estrategia competitiva que busca ofrecer un producto o servicio percibido como único o superior al de la competencia. Puede basarse en calidad, diseño, marca, servicio, tecnología o experiencia del cliente. Una diferenciación efectiva crea lealtad, reduce la sensibilidad al precio y protege a la empresa de la competencia basada en costos.",
-      "question": "14. ¿Qué ventaja ofrece una estrategia de diferenciación?",
+      "intro": "Los especialistas en nicho son empresas que dominan mercados pequeños y altamente específicos que han sido ignorados por los grandes jugadores. Su ventaja radica en la especialización: conocen profundamente las necesidades de su segmento y ofrecen soluciones personalizadas que los competidores genéricos no pueden igualar. Al satisfacer plenamente a un grupo reducido, pueden cobrar precios premium y generar altos márgenes. Ejemplos incluyen marcas de productos para deportes extremos, alimentos orgánicos o tecnología médica especializada. Este enfoque permite competir sin entrar en guerras de precios.",
+      "question": "4. ¿Cuál es la clave de la estrategia de las empresas especialistas en nicho?",
       "options": [
-        "Sólo reducir costos",
-        "Crear lealtad del cliente y reducir la sensibilidad al precio",
-        "Ignorar a la competencia",
-        "Vender a un precio más bajo"
+        "Alta publicidad masiva",
+        "Amplia distribución global",
+        "Especialización en un segmento específico",
+        "Precios más bajos que la competencia"
       ],
-      "correct": [1],
-      "saber_mas": "<p>La <u>estrategia de diferenciación</u> consiste en <strong>ofrecer un producto o servicio</strong> que los consumidores perciben como <strong>único o superior</strong> al de la competencia.</p><p>Formas de diferenciación:<br>• <strong>Producto</strong>: calidad, diseño, características, innovación.<br>• <strong>Marca</strong>: reputación, personalidad, valores.<br>• <strong>Servicio</strong>: atención pre y postventa, facilidad de uso.<br>• <strong>Tecnología</strong>: patentes, funcionalidades exclusivas.<br>• <strong>Experiencia del cliente</strong>: compra, uso, interacción.<br>• <strong>Canal de distribución</strong>: conveniencia, exclusividad.</p><p>Ventajas:<br>• <strong>Lealtad del cliente</strong>: los consumidores se comprometen con la marca.<br>• <strong>Reducción de la sensibilidad al precio</strong>: los clientes están dispuestos a pagar más por la percepción de valor superior.<br>• <strong>Protección frente a la competencia</strong> basada en costos.<br>• <strong>Mayor margen de beneficio</strong>.<br>• <strong>Fortalecimiento del brand equity</strong>.</p><p>Desafíos:<br>• <strong>Costos más altos</strong> de desarrollo y marketing.<br>• <strong>Riesgo de imitación</strong> por la competencia.<br>• <strong>La diferenciación debe ser percibida</strong> por el cliente, no solo real.</p><p>Es una de las <strong>estrategias genéricas</strong> de Porter, junto con el liderazgo en costos y el enfoque.</p>"
+      "correct": [2],
+      "saber_mas": "<p>La clave de las empresas <u>especialistas en nicho</u> es la <u>especialización</u>: atienden mercados pequeños descuidados por grandes organizaciones, desarrollando ofertas que satisfacen plenamente las necesidades de un grupo específico.</p><p>Esta profundidad de conocimiento les permite diferenciarse, cobrar precios más altos y construir lealtad extrema, como lo hacen marcas en sectores como lujo, salud o deportes extremos.</p><p>Al evitar la competencia directa, estas empresas pueden operar con altos márgenes y sostenibilidad, incluso sin volumen masivo de ventas.</p>"
     },
     {
-      "intro": "La competencia basada en costos es una estrategia que busca ser el proveedor de menor costo en la industria. Requiere alta eficiencia operativa, economías de escala y control riguroso de gastos. Permite fijar precios bajos para ganar cuota de mercado o mantener márgenes altos a precios competitivos. Es efectiva en mercados donde los productos son similares y el precio es el factor decisivo.",
-      "question": "15. ¿Qué requiere una estrategia de liderazgo en costos?",
+      "intro": "En mercados maduros, muchas empresas enfrentan una disyuntiva estratégica: ¿deben competir por volumen y bajo costo como una de las tres grandes, o enfocarse en nichos con alto margen? Con frecuencia, las empresas del 'centro' pierden participación, ya que los consumidores se polarizan entre opciones de bajo precio y de alta calidad. Para sobrevivir, deben tomar decisiones claras: escalar o especializarse. Electrolux, por ejemplo, ha enfrentado este desafío adaptando su portafolio para atender tanto mercados premium como económicos, evitando quedar atrapada en el segmento intermedio.",
+      "question": "5. ¿Qué fabricante de electrodomésticos se menciona como ejemplo de empresa que enfrenta la disyuntiva del mercado maduro?",
       "options": [
-        "Ineficiencia operativa",
-        "Alta eficiencia operativa y control de costos",
-        "Ignorar la producción",
-        "Solo aumentar precios"
+        "Samsung",
+        "Bosch",
+        "Electrolux",
+        "Whirlpool"
+      ],
+      "correct": [2],
+      "saber_mas": "<p><u>Electrolux</u> se menciona como un ejemplo de empresa que enfrenta la <u>disyuntiva del mercado maduro</u>: decidir si competir por volumen y bajo costo o por alto margen en nichos especializados.</p><p>En muchos mercados, las empresas del 'centro' pierden participación, ya que los consumidores se polarizan entre opciones económicas y premium.</p><p>Electrolux ha respondido adaptando su estrategia para atender diferentes segmentos, evitando quedar atrapada en un espacio intermedio poco rentable, lo que requiere una redefinición clara de su posicionamiento y oferta.</p>"
+    },
+    {
+      "intro": "Algunas empresas logran éxito no por ser las primeras, sino por entrar en el mercado con una mejor propuesta de valor. Este fenómeno se observa en empresas de bajo costo como Aldi, JetBlue, Southwest Airlines o Dell, que han transformado industrias enteras al ofrecer productos y servicios de calidad a precios más bajos. Estas 'empresas de valor' no compiten en funcionalidad extrema, sino en eficiencia operativa y simplicidad. Su modelo desafía a las marcas tradicionales, que muchas veces se sienten amenazadas por su creciente popularidad entre consumidores de todos los niveles de ingreso.",
+      "question": "6. ¿Qué tipo de empresas están transformando la forma en que los consumidores compran productos y servicios?",
+      "options": [
+        "Empresas de lujo",
+        "Empresas de valor",
+        "Empresas estatales",
+        "Empresas de publicidad"
       ],
       "correct": [1],
-      "saber_mas": "<p>La <u>estrategia de liderazgo en costos</u> busca convertirse en el <strong>proveedor de menor costo</strong> en toda la industria.</p><p>Requiere:<br>• <strong>Alta eficiencia operativa</strong>: procesos optimizados, automatización.<br>• <strong>Economías de escala</strong>: producir en grandes volúmenes para reducir el costo unitario.<br>• <strong>Control riguroso de gastos</strong>: en producción, logística, administración.<br>• <strong>Acceso a insumos baratos</strong>.<br>• <strong>Localización estratégica</strong> (zonas con bajos costos laborales o logísticos).<br>• <strong>Minimización de servicios adicionales</strong> que aumentan el costo.</p><p>Ventajas:<br>• <strong>Poder fijar precios bajos</strong> para ganar cuota de mercado.<br>• <strong>Mantener márgenes saludables</strong> incluso cuando los precios bajan.<br>• <strong>Protección frente a nuevos entrantes</strong> y competidores.<br>• <strong>Mayor resistencia</strong> en recesiones.</p><p>Desventajas:<br>• <strong>Riesgo de 'carrera hacia el fondo'</strong>: guerra de precios que destruye rentabilidad.<br>• <strong>Dificultad para diferenciar</strong> el producto.<br>• <strong>Percepción de baja calidad</strong> por parte de algunos consumidores.<br>• <strong>Dependencia de volúmenes altos</strong>.</p><p>Empresas exitosas con esta estrategia: Walmart, Ryanair, Aldi, IKEA.</p><p>Debe evitarse la <strong>comoditización</strong>, donde todos compiten solo por precio y nadie gana.</p>"
+      "saber_mas": "<p>Las <u>empresas de valor</u>, como <u>Aldi, Dell, JetBlue, Ryanair y Southwest Airlines</u>, están transformando industrias al ofrecer productos de calidad a precios bajos, basándose en eficiencia operativa y modelos simplificados.</p><p>No compiten en innovación extrema, sino en <u>relación calidad-precio</u>, lo que las hace atractivas para consumidores de todos los niveles de ingreso.</p><p>Su éxito ha puesto en jaque a empresas tradicionales, demostrando que el valor percibido no siempre depende del precio alto, sino de la utilidad y conveniencia que el consumidor experimenta.</p>"
+    },
+    {
+      "intro": "Xerox es un ejemplo de cómo una empresa puede reinventarse frente a la competencia. Ante la caída de la demanda de impresiones en blanco y negro, Xerox no solo modernizó sus máquinas, sino que cambió su modelo de negocio. En lugar de vender solo equipos, ahora ofrece servicios recurrentes como gestión de documentos, suministro de tintas y cartuchos, e incluso servicios de gestión de impresiones para empresas. Este enfoque de 'servicios como negocio' le permite generar ingresos recurrentes y fortalecer su relación con los clientes, transformándose de un fabricante a un proveedor de soluciones integrales.",
+      "question": "7. ¿Qué cambio estratégico implementó Xerox para adaptarse al mercado moderno?",
+      "options": [
+        "Reducir el número de empleados",
+        "Vender solo impresoras de escritorio",
+        "Ofrecer servicios recurrentes como gestión de documentos y suministros",
+        "Eliminar todos los productos de color"
+      ],
+      "correct": [2],
+      "saber_mas": "<p><u>Xerox</u> se reinventó al pasar de vender <u>impresoras</u> a ofrecer <u>servicios recurrentes</u> como gestión de documentos, suministro de tintas y cartuchos, y servicios de gestión de impresiones.</p><p>Este modelo permite a las empresas eliminar impresoras de escritorio y compartir dispositivos, optimizando costos y recursos.</p><p>Al convertirse en proveedor de soluciones, Xerox genera ingresos recurrentes, fortalece su relación con el cliente y se diferencia de competidores que solo venden hardware.</p>"
+    },
+    {
+      "intro": "Las empresas pueden adoptar diferentes estilos como seguidoras: falsificador, clonador, imitador o adaptador. El imitador copia aspectos clave del líder, pero se diferencia en elementos como envase, publicidad, precio o puntos de venta. Este enfoque permite aprovechar la innovación del líder sin asumir los altos costos de desarrollo, pero requiere cuidado para no infringir patentes o dañar la reputación. Un ejemplo es Telepizza, que llevó el modelo de entrega de Domino’s a España y lo adaptó con éxito a otros mercados europeos y latinoamericanos, convirtiéndose en una cadena importante sin ser la pionera.",
+      "question": "8. ¿Qué cadena de pizzas se menciona como ejemplo de imitador que adaptó el modelo de Domino’s en España?",
+      "options": [
+        "Pizza Hut",
+        "Telepizza",
+        "Papa John's",
+        "Little Caesars"
+      ],
+      "correct": [1],
+      "saber_mas": "<p><u>Telepizza</u> es un ejemplo de <u>imitador</u> que copió el modelo de <u>entrega a domicilio</u> de Domino’s, pero lo adaptó al mercado español y luego expandió a otros países.</p><p>Fundada por Fernández Pujals, quien negoció un préstamo de 80,000 dólares para abrir su primer local en Madrid, hoy opera cerca de 1,050 establecimientos en Europa y América Latina.</p><p>Como imitador, no buscó destronar al líder, sino aprovechar la idea con una ejecución local efectiva, diferenciándose en detalles operativos y de marketing.</p>"
+    },
+    {
+      "intro": "La innovación no siempre viene de los pioneros. A menudo, las empresas que entran más tarde pueden superar a los primeros actores al corregir errores, mejorar la tecnología o adaptar mejor el producto a las necesidades del consumidor. Este fenómeno se debe a que los pioneros asumen altos costos de desarrollo y educación del mercado, mientras que los seguidores pueden aprender de sus errores. Sin embargo, también existen riesgos: si el seguidor no aporta una mejora significativa, puede ser percibido como un simple copión sin valor añadido.",
+      "question": "9. ¿Qué riesgo enfrenta un seguidor que no aporta una mejora significativa al producto del líder?",
+      "options": [
+        "Ser percibido como innovador",
+        "Recibir premios de la industria",
+        "Ser visto como un simple copión sin valor añadido",
+        "Aumentar automáticamente su participación de mercado"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>Un <u>seguidor</u> que no aporta una <u>mejora significativa</u> corre el riesgo de ser percibido como un <u>simple copión</u>, sin valor añadido frente al líder.</p><p>Aunque puede aprovechar la innovación ajena, si no diferencia su oferta de forma clara (en calidad, precio, servicio o experiencia), el consumidor no tendrá razones para cambiar.</p><p>Para tener éxito, el seguidor debe no solo imitar, sino mejorar, adaptar o ofrecer algo que el líder no proporciona, creando así su propio espacio en la mente del consumidor.</p>"
+    },
+    {
+      "intro": "Durante una crisis económica, muchas empresas tienden a recortar gastos, pero los líderes estratégicos ven la recesión como una oportunidad para fortalecer su marca y ganar cuota de mercado. Reducir la inversión en marketing puede parecer una solución a corto plazo, pero puede debilitar la presencia de la marca y permitir que los competidores la desplacen. En cambio, mantener o incluso aumentar la inversión en momentos difíciles puede consolidar la posición de liderazgo. Como señaló el CEO de Eaton, el futuro no será como el pasado, y las empresas deben prepararse para nuevas realidades económicas y de valor.",
+      "question": "10. ¿Qué consejo dio el director ejecutivo de Eaton sobre el futuro durante una recesión?",
+      "options": [
+        "Asumir que el futuro será igual al pasado",
+        "Dejar de innovar para ahorrar costos",
+        "Entender que el futuro no será como el pasado y adaptarse",
+        "Concentrarse solo en recortar gastos"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>El director ejecutivo de <u>Eaton</u>, Alex Cutler, afirmó: <u>“Ha llegado el momento en que las empresas dejen de asumir que el futuro será como el pasado”</u>.</p><p>Esta reflexión es clave durante una recesión, cuando las condiciones económicas, las propuestas de valor y el papel del gobierno pueden cambiar drásticamente.</p><p>Las empresas deben mirar hacia adelante, innovar y adaptarse, en lugar de depender de modelos pasados que ya no son relevantes, asegurando así su sostenibilidad a largo plazo.</p>"
+    },
+    {
+      "intro": "A veces, los consumidores no reemplazan productos cuando deberían porque sobreestiman su durabilidad o no saben cuándo hacerlo. Esta brecha entre percepción y realidad representa una oportunidad para las marcas. Pueden acelerar la sustitución vinculándola con eventos simbólicos (como el inicio del año escolar o la primavera) o proporcionando información clara sobre el rendimiento real del producto. Por ejemplo, las maquinillas de afeitar inteligentes pueden indicar cuándo se debe cambiar el cabezal, mejorando la experiencia y generando ventas recurrentes.",
+      "question": "11. ¿Qué estrategia puede acelerar la sustitución de un producto según el capítulo?",
+      "options": [
+        "Reducir el precio del producto nuevo",
+        "Vincular la sustitución con una celebración o época del año",
+        "Eliminar el producto antiguo del mercado",
+        "Hacer publicidad en redes sociales"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Una estrategia para <u>acelerar la sustitución de productos</u> es <u>vincularla con una celebración, acontecimiento o época del año</u>, como el inicio de clases o la primavera.</p><p>También se puede proporcionar mejor información al consumidor sobre cuándo se usó por primera vez el producto, cuándo debe reemplazarse o cuál es su rendimiento real.</p><p>Por ejemplo, algunas maquinillas de afeitar inteligentes indican cuándo se debe cambiar el cabezal, lo que mejora la experiencia y fomenta compras recurrentes basadas en necesidad real.</p>"
+    },
+    {
+      "intro": "Gestionar productos antiguos es una tarea que muchas empresas descuidan. Sin embargo, es crucial identificar qué productos ya no son rentables y decidir si deben mantenerse, modificarse o eliminarse. Para ello, algunas organizaciones forman comités de análisis integrados por representantes de marketing, I+D, producción y finanzas. Estos comités evalúan el desempeño de cada producto y recomiendan acciones estratégicas. Un sistema claro de evaluación evita que recursos valiosos se desperdicien en productos débiles que arrastran la rentabilidad general de la empresa.",
+      "question": "12. ¿Qué tipo de comité se recomienda para analizar productos antiguos o débiles?",
+      "options": [
+        "Comité de recursos humanos",
+        "Comité de análisis de productos con representantes de múltiples áreas",
+        "Comité de diseño gráfico",
+        "Comité de relaciones públicas"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Se recomienda formar un <u>comité de análisis de productos</u> integrado por representantes de <u>marketing, investigación y desarrollo, producción y finanzas</u>.</p><p>Este comité evalúa el desempeño de productos antiguos o débiles y recomienda acciones: <u>mantenerlos, modificar su estrategia o abandonarlos</u>.</p><p>Este sistema evita que recursos valiosos se desperdicien en productos no rentables y permite una gestión más estratégica del portafolio, asegurando que la empresa se enfoque en ofertas con mayor potencial.</p>"
+    },
+    {
+      "intro": "La creación de marca ha sido un motor clave del éxito de Samsung en las últimas décadas. Entre 1998 y 2009, la empresa invirtió más de 7,000 millones de dólares en marketing global, patrocinó seis Juegos Olímpicos y lanzó campañas como 'Imagina', 'Silenciosamente brillante' y 'YOU'. Estas iniciativas no solo aumentaron la notoriedad, sino que transformaron la percepción de Samsung de una marca de bajo costo a un líder en diseño, tecnología y experiencia humana. En 2005 superó a Sony en el ranking de marcas de Interbrand, consolidando su reposicionamiento global.",
+      "question": "13. ¿Qué marca superó Samsung en el ranking de Interbrand en 2005?",
+      "options": [
+        "Apple",
+        "Nokia",
+        "Sony",
+        "LG"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>En 2005, <u>Samsung superó por primera vez a Sony</u> en el ranking de marcas de <u>Interbrand</u>, marcando un hito en su proceso de <u>reposicionamiento global</u>.</p><p>Este logro fue el resultado de más de 7,000 millones de dólares invertidos en marketing entre 1998 y 2009, patrocinios de Juegos Olímpicos y campañas globales como 'Imagina' y 'YOU'.</p><p>La inversión en marca transformó la percepción de Samsung de fabricante económico a líder en <u>tecnología, diseño y experiencia humana</u>, consolidando su posición como una de las marcas más valiosas del mundo.</p>"
+    },
+    {
+      "intro": "En tiempos de crisis, la rapidez de respuesta es crucial. Cuanto más tarde una empresa en actuar frente a una mala noticia o un problema con su producto, mayor será el daño a su reputación. Los consumidores pueden formar una impresión negativa basada en la cobertura mediática o en comentarios virales, e incluso podrían cambiar permanentemente a una marca competidora. Manejar la situación mediante relaciones públicas o campañas publicitarias puede ayudar a mitigar el impacto, restaurar la confianza y retener a los clientes.",
+      "question": "14. ¿Qué consecuencia puede tener una respuesta tardía a una crisis de marca?",
+      "options": [
+        "Mayor lealtad del cliente",
+        "Impresión negativa basada en medios o comentarios",
+        "Aumento automático de ventas",
+        "Mejora de la imagen sin esfuerzo"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Una <u>respuesta tardía</u> a una crisis puede llevar a que los consumidores <u>formen una impresión negativa</u> basada en la cobertura desfavorable de los medios o en comentarios de otras personas.</p><p>Peor aún, podrían descubrir que no les gusta la marca y <u>cambiar permanentemente</u> a un competidor.</p><p>Manejar la situación con <u>relaciones públicas</u> o incluso <u>anuncios publicitarios</u> puede ayudar a controlar el mensaje, restaurar la confianza y demostrar compromiso con el cliente.</p>"
+    },
+    {
+      "intro": "Finalmente, cualquier cambio estratégico debe comunicarse como un ajuste temporal, no como una transformación permanente. Esto ayuda a mantener la estabilidad percibida de la marca y a evitar que los consumidores interpreten el cambio como una debilidad. Durante una recesión, por ejemplo, recortar servicios puede ser necesario, pero debe enmararse como una medida temporal para proteger la calidad a largo plazo. Una comunicación clara y honesta fortalece la relación con el cliente y preserva el brand equity, incluso en tiempos difíciles.",
+      "question": "15. ¿Cómo debe caracterizarse un cambio estratégico durante una crisis?",
+      "options": [
+        "Como una transformación permanente",
+        "Como una oportunidad para eliminar productos",
+        "Como un ajuste temporal, no permanente",
+        "Como un secreto empresarial"
+      ],
+      "correct": [2],
+      "saber_mas": "<p>Las empresas deben <u>caracterizar cualquier cambio estratégico</u> durante una crisis como un <u>ajuste temporal</u>, no como una <u>transformación permanente</u>.</p><p>Esto evita que los consumidores interpreten el cambio como una debilidad o pérdida de identidad de marca.</p><p>Por ejemplo, recortar servicios puede enmarcarse como una medida para proteger la calidad a largo plazo. Una comunicación clara y honesta fortalece la confianza y preserva el brand equity en tiempos difíciles.</p>"
     }
   ]
 }
