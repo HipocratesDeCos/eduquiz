@@ -1,186 +1,186 @@
 {
-  "title": "Identificación de Segmentos de Mercado y Mercados Meta",
-  "description": "Quiz sobre la segmentación de mercados, bases de segmentación, selección del mercado meta y posicionamiento estratégico.",
+  "title": "Segmentación de Mercados y Selección de Mercados Meta",
+  "description": "Quiz sobre los métodos de segmentación de mercados, variables de segmentación, evaluación de segmentos y selección de mercados meta.",
   "questions": [
     {
-      "intro": "La segmentación de mercados es el proceso de dividir un mercado amplio y heterogéneo en subgrupos más pequeños y homogéneos de consumidores con necesidades, comportamientos o características similares. Esta práctica permite a las empresas diseñar ofertas y mensajes de marketing más relevantes y eficientes para cada segmento, en lugar de adoptar una estrategia de marketing de masa que trata a todos los consumidores por igual.",
+      "intro": "La segmentación de mercados es el proceso de dividir un mercado total en grupos más pequeños de consumidores que comparten necesidades, características o comportamientos similares. Esta práctica permite a las empresas diseñar ofertas y estrategias de marketing más efectivas, en lugar de adoptar un enfoque de 'talla única'. La segmentación es el primer paso para una estrategia de marketing centrada en el cliente.",
       "question": "1. ¿Cuál es el objetivo principal de la segmentación de mercados?",
       "options": [
-        "Vender a todos los consumidores con el mismo mensaje",
-        "Dividir el mercado en grupos homogéneos para diseñar ofertas más relevantes",
-        "Reducir el número de productos",
-        "Aumentar el precio de venta"
+        "Aumentar el número de productos",
+        "Dividir el mercado en grupos homogéneos para atender mejor sus necesidades",
+        "Reducir los costos de producción",
+        "Ignorar al cliente"
       ],
       "correct": [1],
-      "saber_mas": "<p>El <u>objetivo principal de la segmentación de mercados</u> es <strong>dividir un mercado amplio y heterogéneo</strong> en subgrupos más pequeños y <strong>homogéneos</strong> de consumidores que comparten necesidades, comportamientos o características similares.</p><p>Este enfoque permite a las empresas:<br>• <strong>Diseñar productos y servicios</strong> más relevantes para cada segmento.<br>• <strong>Personalizar mensajes de comunicación</strong> que resuenen con cada grupo.<br>• <strong>Asignar eficientemente</strong> recursos de marketing (presupuesto, tiempo, esfuerzo).<br>• <strong>Diferenciarse</strong> de la competencia que sigue una estrategia de masa.</p><p>En contraste, el <strong>marketing de masa</strong> (no segmentado) trata a todos los consumidores como un grupo único, lo que puede resultar en mensajes poco relevantes y desperdicio de recursos.</p><p>La segmentación es fundamental para una <strong>estrategia de marketing centrada en el cliente</strong> y para competir eficazmente en mercados saturados.</p>"
+      "saber_mas": "<p>La <u>segmentación de mercados</u> busca <strong>dividir un mercado heterogéneo</strong> en subgrupos más pequeños y <strong>homogéneos</strong> de consumidores que responden de manera similar a estrategias de marketing.</p><p>Este enfoque permite a las empresas:<br>• <strong>Personalizar ofertas</strong> y mensajes.<br>• <strong>Asignar recursos de forma más eficiente</strong>.<br>• <strong>Mejorar la satisfacción del cliente</strong> al ofrecer soluciones más relevantes.<br>• <strong>Diferenciarse de la competencia</strong>.</p><p>Por ejemplo, una empresa de automóviles puede segmentar su mercado en:<br>• Familias (buscan seguridad y espacio).<br>• Jóvenes (buscan diseño y rendimiento).<br>• Ejecutivos (buscan lujo y estatus).</p><p>La segmentación es el fundamento de una <strong>estrategia de marketing diferenciada</strong>. Sin ella, las empresas corren el riesgo de desperdiciar recursos en audiencias incorrectas o de ofrecer mensajes genéricos que no resuenan.</p>"
     },
     {
-      "intro": "Las bases de segmentación son los criterios utilizados para dividir un mercado. Las más comunes son las demográficas (edad, género, ingresos), geográficas (país, región, ciudad), psicográficas (estilo de vida, valores, personalidad) y conductuales (uso del producto, lealtad, beneficios buscados). La elección de la base depende del producto y del mercado objetivo.",
-      "question": "2. ¿Cuál de las siguientes es una base de segmentación conductual?",
+      "intro": "Las empresas pueden segmentar mercados utilizando diversas variables: geográficas, demográficas, psicográficas y conductuales. Cada tipo de variable ofrece una perspectiva diferente sobre el consumidor y se usa según el producto, mercado y objetivos de la empresa.",
+      "question": "2. ¿Cuál de las siguientes es una variable de segmentación conductual?",
       "options": [
-        "Edad",
-        "Ciudad",
+        "País de residencia",
+        "Edad y género",
         "Estilo de vida",
-        "Frecuencia de compra"
+        "Uso del producto y lealtad de marca"
       ],
       "correct": [3],
-      "saber_mas": "<p>Las <u>bases de segmentación</u> son los criterios o variables utilizadas para <strong>dividir un mercado</strong> en subgrupos distintos.</p><p>Las más comunes son:<br>• <strong>Demográficas</strong>: edad, género, ingresos, educación, tamaño del hogar, ocupación.<br>• <strong>Geográficas</strong>: país, región, estado, ciudad, densidad poblacional, clima.<br>• <strong>Psicográficas</strong>: estilo de vida, valores, actitudes, intereses, personalidad.<br>• <strong>Conductuales</strong>: conocimiento del producto, actitud hacia el producto, uso (ocasional, frecuente), lealtad (leal, no leal), <strong>beneficios buscados</strong>, <strong>frecuencia de compra</strong>.</p><p>La <strong>segmentación conductual</strong> es a menudo la más <strong>predictiva</strong> del comportamiento futuro, ya que se basa en acciones reales del consumidor.</p><p>Por ejemplo, una empresa de gimnasios podría segmentar a sus clientes según la <strong>frecuencia de asistencia</strong> (asistentes regulares, ocasionales, nuevos) para diseñar ofertas específicas.</p><p>Las empresas a menudo combinan varias bases de segmentación para crear perfiles de cliente más precisos (segmentación multidimensional).</p>"
+      "saber_mas": "<p>La <u>segmentación conductual</u> se basa en el <strong>comportamiento real del consumidor</strong> hacia el producto, lo que la convierte en una de las más efectivas y accionables.</p><p>Variables clave incluyen:<br>• <strong>Uso del producto</strong>: frecuencia (ligero, medio, pesado).<br>• <strong>Lealtad a la marca</strong>: clientes fieles, no leales, o leales a la competencia.<br>• <strong>Beneficios buscados</strong>: calidad, precio, servicio, prestigio.<br>• <strong>Etapa del proceso de compra</strong>: conciencia, interés, compra, postcompra.<br>• <strong>Actitud hacia el producto</strong>: entusiasta, positiva, indiferente, hostil.</p><p>Por ejemplo, una marca de café puede segmentar a:<br>• <strong>Usuarios pesados</strong> (más de 3 tazas al día) → ofertas por volumen.<br>• <strong>Clientes leales</strong> → programas de fidelización.<br>• <strong>Buscadores de calidad</strong> → líneas premium.</p><p>Esta segmentación permite <strong>estrategias altamente personalizadas</strong> y es especialmente útil en mercados maduros donde la diferenciación por producto es difícil.</p>"
     },
     {
-      "intro": "La segmentación geográfica divide el mercado según la ubicación del consumidor. Esto es útil cuando las necesidades o preferencias varían significativamente por región, clima o densidad poblacional. Por ejemplo, una empresa de ropa puede ofrecer productos diferentes en regiones frías y cálidas. Esta base es común en empresas con presencia local o regional.",
-      "question": "3. ¿Para qué es útil la segmentación geográfica?",
+      "intro": "La segmentación geográfica divide el mercado según ubicaciones como países, regiones, ciudades o clima. Es útil cuando las necesidades o comportamientos de los consumidores varían significativamente según la localización.",
+      "question": "3. ¿Qué tipo de segmentación se basa en la ubicación del consumidor?",
       "options": [
-        "Para ignorar las diferencias regionales",
-        "Para adaptar ofertas a las necesidades específicas de diferentes ubicaciones",
-        "Para vender el mismo producto en todo el mundo",
-        "Solo para productos digitales"
+        "Demográfica",
+        "Geográfica",
+        "Psicográfica",
+        "Conductual"
       ],
       "correct": [1],
-      "saber_mas": "<p>La <u>segmentación geográfica</u> divide el mercado según la <strong>ubicación</strong> del consumidor, como país, región, estado, ciudad, barrio o clima.</p><p>Es útil cuando las necesidades, preferencias o comportamientos de compra <strong>varían significativamente</strong> según la ubicación.</p><p>Ejemplos:<br>• Una empresa de ropa ofrece <strong>abrigos pesados</strong> en regiones frías y <strong>ropa ligera</strong> en regiones cálidas.<br>• Un restaurante de comida rápida adapta su <strong>menú</strong> a los gustos locales (ej. platos picantes en ciertas regiones).<br>• Una empresa de bebidas lanza <strong>agua embotellada</strong> en áreas con escasez de agua potable.<br>• Una marca de automóviles promociona <strong>vehículos 4x4</strong> en zonas montañosas.</p><p>Ventajas:<br>• Permite <strong>adaptar productos, precios y promociones</strong> a las condiciones locales.<br>• Facilita la <strong>planificación de distribución</strong> y logística.<br>• Es eficaz para empresas con <strong>presencia local o regional</strong>.</p><p>Es una de las bases de segmentación más <strong>fáciles de medir</strong> y una primera aproximación común en muchas estrategias de marketing.</p>"
+      "saber_mas": "<p>La <u>segmentación geográfica</u> divide el mercado en función de <strong>unidades territoriales</strong>: países, regiones, estados, ciudades, barrios o incluso zonas climáticas.</p><p>Es especialmente útil cuando:<br>• <strong>Las necesidades varían por clima</strong>: ropa de invierno en zonas frías, aire acondicionado en zonas cálidas.<br>• <strong>Hay diferencias culturales o lingüísticas</strong>: campañas en español en EE.UU., menús locales en McDonald's.<br>• <strong>La infraestructura o distribución varía</strong>: productos disponibles solo en ciudades grandes.<br>• <strong>Las regulaciones son distintas</strong>: productos farmacéuticos o alimentos con normas locales.</p><p>Ejemplos:<br>• <strong>Un fabricante de calefacción</strong> enfoca sus ventas en regiones frías.<br>• <strong>Una marca de bebidas</strong> lanza sabores tropicales en países del Caribe.<br>• <strong>Amazon</strong> ajusta su catálogo y precios por país.</p><p>Este tipo de segmentación es <strong>la más básica</strong>, pero sigue siendo poderosa cuando se combina con otras variables (ej. geográfica + demográfica).</p>"
     },
     {
-      "intro": "La segmentación demográfica es la más común y se basa en variables como edad, género, ingresos, educación y tamaño del hogar. Es fácil de medir y está estrechamente relacionada con las necesidades y el poder adquisitivo. Por ejemplo, los productos para bebés se dirigen a familias con niños pequeños, mientras que los planes de jubilación se dirigen a personas mayores.",
-      "question": "4. ¿Por qué es popular la segmentación demográfica?",
+      "intro": "La segmentación demográfica clasifica a los consumidores según variables como edad, género, ingresos, ocupación, educación, tamaño familiar y etapa del ciclo de vida. Es la más común porque los datos son fáciles de obtener y están fuertemente relacionados con las necesidades de consumo.",
+      "question": "4. ¿Qué variable demográfica es clave para segmentar productos infantiles?",
       "options": [
-        "Porque es difícil de medir",
-        "Porque es fácil de medir y está relacionada con necesidades y poder adquisitivo",
-        "Porque todos los consumidores de la misma edad tienen las mismas necesidades",
-        "Porque ignora el ingreso"
-      ],
-      "correct": [1],
-      "saber_mas": "<p>La <u>segmentación demográfica</u> es la <strong>más común y utilizada</strong> en el marketing debido a su simplicidad y disponibilidad de datos.</p><p>Se basa en variables objetivas y fáciles de medir:<br>• <strong>Edad</strong><br>• <strong>Género</strong><br>• <strong>Ingresos</strong><br>• <strong>Educación</strong><br>• <strong>Ocupación</strong><br>• <strong>Tamaño del hogar</strong><br>• <strong>Ciclo de vida familiar</strong> (soltero, pareja joven, familia con niños, jubilado)</p><p>Es popular porque:<br>• <strong>Es fácil de medir</strong>: los datos demográficos son accesibles a través de censos, encuestas y bases de datos.<br>• <strong>Está estrechamente relacionada</strong> con las <strong>necesidades</strong> y el <strong>poder adquisitivo</strong> de los consumidores.<br>• <strong>Permite una segmentación clara</strong> y comprensible.</p><p>Ejemplos:<br>• Productos para bebés → familias con niños pequeños.<br>• Automóviles de lujo → personas con altos ingresos.<br>• Seguros de vida → adultos en edad productiva.<br>• Planes de jubilación → personas mayores de 50 años.</p><p>Aunque es útil, debe complementarse con otras bases (psicográficas, conductuales) para una comprensión más profunda del consumidor.</p>"
-    },
-    {
-      "intro": "La segmentación psicográfica se basa en el estilo de vida, los valores, las actitudes y la personalidad de los consumidores. Va más allá de los datos demográficos para entender cómo las personas viven, qué valoran y cómo se ven a sí mismas. Es útil para productos donde la imagen de marca y la identidad personal son importantes, como moda, automóviles o viajes.",
-      "question": "5. ¿Qué aspecto mide la segmentación psicográfica?",
-      "options": [
-        "Solo el ingreso",
-        "El estilo de vida, valores y personalidad",
-        "Solo la ubicación",
-        "Solo la edad"
-      ],
-      "correct": [1],
-      "saber_mas": "<p>La <u>segmentación psicográfica</u> se basa en las <strong>características psicológicas</strong> de los consumidores, como su <strong>estilo de vida</strong>, <strong>valores</strong>, <strong>actitudes</strong>, <strong>intereses</strong> y <strong>personalidad</strong>.</p><p>Busca entender <strong>cómo viven las personas</strong>, qué valoran, cómo se ven a sí mismas y cómo interactúan con el mundo.</p><p>Componentes clave:<br>• <strong>Estilo de vida</strong> (AIO): Actividades, Intereses, Opiniones.<br>• <strong>Valores</strong>: creencias fundamentales (familia, éxito, sostenibilidad).<br>• <strong>Actitudes</strong>: hacia la marca, el producto, la vida.<br>• <strong>Personalidad</strong>: rasgos como innovador, conservador, aventurero.</p><p>Es especialmente útil para productos donde la <strong>imagen de marca</strong> y la <strong>identidad personal</strong> son importantes:<br>• Moda y lujo<br>• Automóviles<br>• Viajes y turismo<br>• Productos ecológicos</p><p>Permite a las empresas diseñar marcas y mensajes que <strong>resuenen emocionalmente</strong> con un grupo específico.<br>Ejemplo: Una marca de ropa de montaña puede dirigirse a personas con un estilo de vida <strong>aventurero y activo</strong>.</p>"
-    },
-    {
-      "intro": "La segmentación conductual se basa en el conocimiento, actitud, uso y lealtad del consumidor hacia un producto o marca. Incluye variables como la frecuencia de compra, la ocasión de compra, el beneficio buscado y el nivel de lealtad. Esta base es muy efectiva porque se centra en el comportamiento real del consumidor, no solo en sus características.",
-      "question": "6. ¿Qué variable se incluye en la segmentación conductual?",
-      "options": [
-        "Clase social",
-        "Intereses",
-        "Beneficio buscado",
+        "Ingresos",
+        "Edad",
+        "Ocupación",
         "Educación"
       ],
-      "correct": [2],
-      "saber_mas": "<p>La <u>segmentación conductual</u> se basa en el <strong>comportamiento real</strong> del consumidor hacia un producto o marca.</p><p>Variables clave:<br>• <strong>Conocimiento del producto</strong>: consciente, inconsciente, informado.<br>• <strong>Actitud hacia el producto</strong>: entusiasta, positiva, indiferente, hostil.<br>• <strong>Uso</strong>: no usuario, usuario potencial, usuario ocasional, usuario frecuente.<br>• <strong>Ocasión de compra</strong>: regular, especial (regalos, festividades).<br>• <strong>Beneficio buscado</strong>: el beneficio principal que el consumidor espera obtener (calidad, economía, conveniencia, estatus).<br>• <strong>Lealtad a la marca</strong>: no leal, leal a una marca, leal a varias marcas.</p><p>Esta base es <strong>muy efectiva</strong> porque se centra en acciones observables, no solo en características demográficas o psicográficas.</p><p>Ejemplos:<br>• Un supermercado puede segmentar a sus clientes según la <strong>frecuencia de compra</strong> (diaria, semanal, mensual).<br>• Una marca de automóviles puede segmentar según el <strong>beneficio buscado</strong> (seguridad, rendimiento, lujo, bajo consumo).<br>• Una aerolínea puede segmentar a sus clientes en <strong>viajeros de negocios</strong> (leales, compran último minuto) y <strong>vacacionistas</strong> (buscan precios bajos, planifican con antelación).</p><p>Permite estrategias de marketing muy <strong>precisas y personalizadas</strong>.</p>"
+      "correct": [1],
+      "saber_mas": "<p>La <u>segmentación demográfica</u> es la más utilizada porque las variables son <strong>fáciles de medir</strong> y <strong>están fuertemente correlacionadas con las necesidades de consumo</strong>.</p><p>Variables principales:<br>• <strong>Edad</strong>: productos para bebés, adolescentes, adultos, jubilados.<br>• <strong>Género</strong>: ropa, cosméticos, productos de aseo.<br>• <strong>Ingresos</strong>: desde productos económicos hasta lujo.<br>• <strong>Ocupación y educación</strong>: productos tecnológicos, servicios financieros.<br>• <strong>Tamaño del hogar y ciclo de vida</strong>: viviendas, automóviles, seguros.</p><p>Para productos infantiles, la <strong>edad del niño</strong> es crucial:<br>• Bebés: pañales, biberones.<br>• Niños pequeños: juguetes educativos.<br>• Adolescentes: ropa de moda, dispositivos móviles.</p><p>Empresas como Disney o LEGO segmentan por edad con líneas de productos específicas. Aunque es una segmentación básica, es <strong>altamente efectiva</strong> cuando se combina con otras variables.</p>"
     },
     {
-      "intro": "El mercado meta es el segmento o conjunto de segmentos seleccionado por la empresa para dirigir su oferta y esfuerzos de marketing. No todas las empresas eligen un solo segmento; pueden optar por un enfoque no segmentado (masa), segmentado (varios segmentos) o concentrado (un solo segmento). La elección depende de los recursos y la estrategia de la empresa.",
-      "question": "7. ¿Qué es el mercado meta?",
+      "intro": "La segmentación psicográfica agrupa a los consumidores según su estilo de vida, personalidad, valores, actitudes y opiniones. Esta segmentación va más allá de lo demográfico y permite comprender cómo las personas viven y qué valoran.",
+      "question": "5. ¿Qué aspecto se analiza en la segmentación psicográfica?",
       "options": [
-        "El mercado total sin segmentar",
-        "El segmento o conjunto de segmentos al que la empresa decide dirigirse",
-        "Solo los clientes más ricos",
-        "Todos los consumidores posibles"
+        "Ingresos y ocupación",
+        "Estilo de vida y valores",
+        "Ubicación geográfica",
+        "Frecuencia de compra"
       ],
       "correct": [1],
-      "saber_mas": "<p>El <u>mercado meta</u> es el <strong>segmento o conjunto de segmentos</strong> del mercado total que una empresa <strong>elige para dirigir</strong> su oferta de productos, mensajes de marketing y recursos.</p><p>Después de identificar y evaluar varios segmentos, la empresa debe <strong>seleccionar</strong> cuál o cuáles atacar.</p><p>Hay tres estrategias principales de selección:<br>• <strong>Enfoque no segmentado</strong> (masa): la empresa ignora las diferencias entre segmentos y ofrece un solo producto y mensaje para todo el mercado (ej. sal, azúcar).<br>• <strong>Enfoque segmentado</strong> (diferenciado): la empresa selecciona varios segmentos y diseña ofertas y mensajes diferentes para cada uno (ej. automotriz con diferentes modelos).<br>• <strong>Enfoque concentrado</strong> (niche): la empresa se enfoca en un solo segmento o subsegmento muy específico (ej. marcas de lujo, productos para deportes extremos).</p><p>La elección depende de:<br>• <strong>Recursos</strong> de la empresa.<br>• <strong>Objetivos</strong> estratégicos.<br>• <strong>Grado de diferenciación</strong> del producto.<br>• <strong>Competencia</strong> en cada segmento.</p><p>El mercado meta es el <strong>foco</strong> de toda la estrategia de marketing (4P).</p>"
+      "saber_mas": "<p>La <u>segmentación psicográfica</u> explora el <strong>mundo interno del consumidor</strong>: cómo piensa, siente y vive. Va más allá de lo que hace y se enfoca en <strong>por qué lo hace</strong>.</p><p>Variables clave:<br>• <strong>Estilo de vida</strong>: activo, sedentario, viajero, hogareño.<br>• <strong>Valores</strong>: sostenibilidad, tradición, innovación, éxito.<br>• <strong>Actitudes</strong>: hacia el riesgo, la tecnología, la salud.<br>• <strong>Personalidad</strong>: aventurero, conservador, líder de opinión.</p><p>Por ejemplo:<br>• <strong>Patagonia</strong> se dirige a consumidores con valores ecológicos y un estilo de vida activo.<br>• <strong>Rolex</strong> a personas que valoran el estatus y el éxito.<br>• <strong>Red Bull</strong> a jóvenes con personalidad extrovertida y orientada a la acción.</p><p>Esta segmentación permite <strong>mensajes emocionales más profundos</strong> y posicionamientos más diferenciados. Se usa comúnmente en campañas de marcas de lujo, deportivas o de estilo de vida.</p><p>Se obtiene mediante encuestas de actitudes, análisis de redes sociales y estudios cualitativos.</p>"
     },
     {
-      "intro": "El posicionamiento es el proceso de diseñar la oferta y la imagen de la marca para ocupar un lugar claro, distinto y atractivo en la mente del consumidor objetivo. No es lo que la empresa hace al producto, sino lo que hace en la mente del cliente. Un buen posicionamiento responde a la pregunta: ¿Cómo queremos que nos perciban frente a la competencia?",
-      "question": "8. ¿Qué es el posicionamiento de marca?",
+      "intro": "La segmentación por beneficios busca identificar los beneficios clave que los consumidores buscan en un producto. Puede ser calidad, precio, servicio, conveniencia o prestigio. Esta segmentación es muy útil para diseñar productos y mensajes que respondan directamente a las necesidades del cliente.",
+      "question": "6. ¿Qué tipo de segmentación se basa en lo que los consumidores buscan en un producto?",
+      "options": [
+        "Geográfica",
+        "Por beneficios",
+        "Demográfica",
+        "Por ingresos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>segmentación por beneficios</u> se centra en <strong>qué valor específico</strong> buscan los consumidores en un producto o servicio.</p><p>Beneficios comunes:<br>• <strong>Calidad</strong>: durabilidad, rendimiento, materiales premium.<br>• <strong>Precio</strong>: bajo costo, relación calidad-precio.<br>• <strong>Servicio</strong>: atención rápida, garantía, facilidad de devolución.<br>• <strong>Conveniencia</strong>: entrega rápida, ubicación, simplicidad.<br>• <strong>Prestigio</strong>: estatus, exclusividad, reconocimiento social.</p><p>Ejemplos:<br>• En el mercado de automóviles:<br>  – Un grupo busca <strong>seguridad</strong> (familias).<br>  – Otro busca <strong>rendimiento</strong> (jóvenes).<br>  – Otro busca <strong>lujo</strong> (ejecutivos).<br>• En servicios bancarios:<br>  – Algunos buscan <strong>tasas bajas</strong>.<br>  – Otros buscan <strong>atención personalizada</strong>.</p><p>Esta segmentación permite:<br>• <strong>Diseñar productos diferenciados</strong> para cada segmento.<br>• <strong>Comunicar el beneficio clave</strong> en el marketing.<br>• <strong>Evitar la competencia directa</strong> en precios.</p><p>Es una de las más <strong>directamente accionables</strong> para el desarrollo de productos y campañas.</p>"
+    },
+    {
+      "intro": "No todos los segmentos de mercado son igualmente atractivos. Las empresas deben evaluar cada segmento según su tamaño, tasa de crecimiento, acceso, estructura de costos y compatibilidad con los objetivos y recursos de la empresa.",
+      "question": "7. ¿Qué criterio debe cumplir un segmento para ser atractivo?",
+      "options": [
+        "Debe ser pequeño y difícil de alcanzar",
+        "Debe ser medible, accesible, sustancial, diferenciable y accionable",
+        "Solo debe tener muchos competidores",
+        "Ignorar al cliente"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Para que un segmento sea <u>atractivo y viable</u>, debe cumplir cinco criterios clave:</p><p>1. <strong>Medible</strong>:<br>   – Su tamaño, poder adquisitivo y características deben poder cuantificarse.<br>   – Ejemplo: no se puede segmentar por \"gente feliz\" si no hay forma de medirlo.</p><p>2. <strong>Accesible</strong>:<br>   – Debe poder alcanzarse y servirse eficazmente.<br>   – Ejemplo: un segmento rural debe tener acceso a canales de distribución.</p><p>3. <strong>Sustancial</strong>:<br>   – Debe ser lo suficientemente grande y rentable como para justificar una estrategia específica.<br>   – No vale la pena segmentar si el grupo es muy pequeño.</p><p>4. <strong>Diferenciable</strong>:<br>   – Los consumidores del segmento deben responder de forma distinta a las estrategias de marketing.<br>   – Ejemplo: los amantes del lujo no responden igual que los buscadores de precios.</p><p>5. <strong>Accionable</strong>:<br>   – La empresa debe poder diseñar programas efectivos para atraerlo y servirlo.<br>   – Ejemplo: debe poder crear mensajes, productos y canales para ese segmento.</p><p>Este marco (conocido como <strong>SMART para segmentación</strong>) ayuda a evitar segmentos teóricos pero inútiles en la práctica.</p>"
+    },
+    {
+      "intro": "Después de segmentar el mercado, la empresa debe seleccionar uno o más segmentos como mercados meta. Las estrategias de selección incluyen marketing no diferenciado, diferenciado y concentrado. La elección depende de los recursos de la empresa, la naturaleza del producto y la estructura del mercado.",
+      "question": "8. ¿Qué estrategia de marketing se enfoca en todo el mercado con una sola oferta?",
+      "options": [
+        "Marketing diferenciado",
+        "Marketing no diferenciado (masivo)",
+        "Marketing concentrado",
+        "Marketing micro"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>marketing no diferenciado</u> (o <strong>marketing masivo</strong>) trata al <strong>mercado total como un solo segmento</strong> y ofrece una única oferta para todos.</p><p>Características:<br>• <strong>Una sola oferta</strong> para todo el mercado.<br>• <strong>Mensajes masivos</strong> a través de canales de alcance amplio.<br>• <strong>Bajo costo por unidad</strong> gracias a economías de escala.<br>• <strong>Ideal para productos básicos</strong> (sal, azúcar, cemento).</p><p>Ventajas:<br>• <strong>Costos bajos</strong> en producción, distribución y publicidad.<br>• <strong>Simplicidad operativa</strong>.</p><p>Desventajas:<br>• <strong>No satisface necesidades específicas</strong> de grupos.<br>• <strong>Fácil de competir</strong> con ofertas más personalizadas.<br>• <strong>Riesgo de obsolescencia</strong> en mercados segmentados.</p><p>Ejemplos históricos:<br>• <strong>Modelo T de Ford</strong>: \"cualquier color, mientras sea negro\".<br>• <strong>Coca-Cola original</strong> antes de lanzar Diet, Zero, etc.</p><p>Hoy es raro, pero aún se usa en productos con <strong>alta homogeneidad de demanda</strong>.</p>"
+    },
+    {
+      "intro": "El marketing diferenciado implica diseñar ofertas y programas de marketing distintos para cada segmento de mercado. Aunque es más costoso, puede aumentar las ventas y la lealtad al ofrecer soluciones más personalizadas.",
+      "question": "9. ¿Qué beneficio ofrece el marketing diferenciado?",
+      "options": [
+        "Reduce todos los costos",
+        "Aumenta las ventas y la lealtad al personalizar ofertas por segmento",
+        "Solo se usa en servicios",
+        "Ignorar al cliente"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>marketing diferenciado</u> (o <strong>marketing múltiple</strong>) implica <strong>desarrollar ofertas y estrategias distintas</strong> para cada segmento de mercado seleccionado.</p><p>Por ejemplo, una empresa de automóviles puede tener:<br>• Una línea familiar (seguridad, espacio).<br>• Una línea deportiva (rendimiento, diseño).<br>• Una línea ejecutiva (lujo, tecnología).</p><p>Ventajas:<br>• <strong>Mayor satisfacción del cliente</strong> al ofrecer soluciones específicas.<br>• <strong>Aumento de ventas y cuota de mercado</strong>.<br>• <strong>Diferenciación competitiva</strong>.<br>• <strong>Mayor lealtad</strong> en cada segmento.</p><p>Desventajas:<br>• <strong>Costos más altos</strong> en producción, distribución y publicidad.<br>• <strong>Complejidad operativa</strong>.<br>• <strong>Riesgo de dilución de marca</strong> si los mensajes son muy distintos.</p><p>Empresas como <strong>Procter & Gamble</strong> (con múltiples marcas de detergente) o <strong>Unilever</strong> lo usan extensamente. Requiere <strong>recursos significativos</strong>, pero puede generar <strong>ventajas competitivas sostenibles</strong>.</p>"
+    },
+    {
+      "intro": "El marketing concentrado (o nicho) se enfoca en un solo segmento o en unos pocos segmentos pequeños. Es ideal para empresas con recursos limitados, ya que permite una especialización profunda y una fuerte presencia en un nicho específico.",
+      "question": "10. ¿Para qué tipo de empresa es ideal el marketing concentrado?",
+      "options": [
+        "Grandes corporaciones con recursos ilimitados",
+        "Empresas pequeñas o con recursos limitados",
+        "Solo para productos de consumo masivo",
+        "Ignorar al cliente"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>marketing concentrado</u> (o <strong>marketing de nicho</strong>) se enfoca en <strong>un solo segmento</strong> o en <strong>unos pocos segmentos pequeños</strong> que comparten necesidades específicas.</p><p>Es ideal para:<br>• <strong>Empresas pequeñas</strong> con recursos limitados.<br>• <strong>Startups</strong> que buscan posicionarse.<br>• <strong>Productos especializados</strong> (ej. equipos médicos, software industrial).</p><p>Ventajas:<br>• <strong>Profundidad de conocimiento</strong> del segmento.<br>• <strong>Presencia fuerte en el nicho</strong>.<br>• <strong>Lealtad alta</strong> si se satisface bien al cliente.<br>• <strong>Menor competencia directa</strong>.</p><p>Desventajas:<br>• <strong>Riesgo alto</strong>: si el nicho desaparece o cambia, la empresa sufre.<br>• <strong>Límite de crecimiento</strong>.<br>• <strong>Dificultad para diversificarse</strong> después.</p><p>Ejemplos:<br>• <strong>Rolled Steel</strong> en acero para industria pesada.<br>• <strong>Patagonia</strong> en ropa outdoor sostenible.<br>• <strong>Zoom</strong> inicialmente en videoconferencias para empresas.</p><p>Permite <strong>competir sin necesidad de escala</strong>, pero requiere <strong>especialización y enfoque</strong>.</p>"
+    },
+    {
+      "intro": "La selección de mercados meta debe considerar no solo el atractivo del segmento, sino también la capacidad de la empresa para servirlo eficazmente. Factores como la compatibilidad con la misión, los recursos disponibles y la ventaja competitiva son clave.",
+      "question": "11. ¿Qué debe evaluar una empresa al seleccionar un mercado meta?",
+      "options": [
+        "Solo el tamaño del segmento",
+        "Atractivo del segmento y capacidad de la empresa para servirlo",
+        "Solo el precio de la competencia",
+        "Ignorar al cliente"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Seleccionar un mercado meta no es solo elegir el segmento más grande o más rentable; debe ser una <strong>decisión estratégica</strong> que considere tanto el <strong>atractivo externo</strong> del segmento como la <strong>capacidad interna</strong> de la empresa.</p><p>Factores a evaluar:</p><p><strong>1. Atractivo del segmento:</strong><br>• Tamaño y tasa de crecimiento.<br>• Rentabilidad potencial.<br>• Nivel de competencia.<br>• Barreras de entrada.<br>• Riesgos regulatorios o económicos.</p><p><strong>2. Capacidad de la empresa:</strong><br>• ¿Tiene los <strong>recursos</strong> (financieros, humanos, tecnológicos)?<br>• ¿Es <strong>compatible con la misión y valores</strong>?<br>• ¿Tiene una <strong>ventaja competitiva</strong> en ese segmento?<br>• ¿Puede <strong>acceder y servir eficazmente</strong> al segmento?</p><p>Ejemplo: una startup de software puede ver un segmento grande en la banca, pero si no tiene certificaciones de seguridad, no puede competir.</p><p>La mejor elección es un <strong>ajuste estratégico</strong> entre lo que el mercado necesita y lo que la empresa puede ofrecer mejor que nadie.</p>"
+    },
+    {
+      "intro": "El posicionamiento es el acto de diseñar la oferta y la imagen de la marca para ocupar un lugar claro, distinto y atractivo en la mente del consumidor. Un buen posicionamiento guía todas las decisiones de marketing y crea una promesa de valor única.",
+      "question": "12. ¿Qué es el posicionamiento de marca?",
       "options": [
         "El lugar físico donde se vende el producto",
-        "El precio del producto",
-        "El lugar que ocupa la marca en la mente del consumidor frente a la competencia",
-        "La cantidad de publicidad"
-      ],
-      "correct": [2],
-      "saber_mas": "<p>El <u>posicionamiento de marca</u> es el proceso de <strong>diseñar la oferta y la imagen</strong> de una marca para que ocupe un <strong>lugar claro, distinto y atractivo</strong> en la mente del consumidor objetivo.</p><p>Como dijo Al Ries y Jack Trout: <em>“El posicionamiento no es lo que haces al producto. Es lo que haces en la mente del cliente”</em>.</p><p>Responde a la pregunta: <strong>¿Cómo queremos que nos perciban frente a la competencia?</strong></p><p>Ejemplos:<br>• Volvo: <strong>“Seguridad”</strong><br>• Apple: <strong>“Innovación y diseño”</strong><br>• Walmart: <strong>“Precios bajos todos los días”</strong></p><p>Un buen posicionamiento:<br>• Es <strong>diferenciado</strong>.<br>• Es <strong>relevante</strong> para el cliente.<br>• Es <strong>creíble</strong>.<br>• Es <strong>sostenible</strong> en el tiempo.</p><p>Guía todas las decisiones de marketing: producto, precio, comunicación.</p><p>Se comunica a través de todos los puntos de contacto con el cliente.</p>"
-    },
-    {
-      "intro": "Una propuesta de valor es la promesa clara y convincente que una empresa hace a sus clientes sobre el valor que recibirán al elegir su producto o servicio. Debe ser diferenciada, relevante y creíble. Una buena propuesta de valor responde a la pregunta: ¿Por qué debería elegirnos? y es el núcleo de la estrategia de marketing.",
-      "question": "9. ¿Qué es una propuesta de valor?",
-      "options": [
-        "Un descuento temporal",
-        "La promesa de valor que explica por qué un cliente debería elegir un producto",
-        "Una campaña publicitaria",
-        "El precio de lista"
+        "El lugar que ocupa la marca en la mente del consumidor",
+        "Solo el diseño del logotipo",
+        "Ignorar al cliente"
       ],
       "correct": [1],
-      "saber_mas": "<p>La <u>propuesta de valor</u> es la <strong>promesa clara y convincente</strong> que una empresa hace a sus clientes sobre el valor que recibirán al elegir su producto o servicio.</p><p>Responde a la pregunta fundamental: <strong>¿Por qué debería elegirnos?</strong></p><p>Debe ser:<br>• <strong>Diferenciada</strong>: que destaque frente a la competencia.<br>• <strong>Relevante</strong>: que responda a necesidades reales del cliente.<br>• <strong>Creíble</strong>: que la empresa pueda cumplir.<br>• <strong>Clara</strong>: fácil de entender.</p><p>Se basa en una <strong>comprensión profunda</strong> del cliente y en las <strong>capacidades únicas</strong> de la empresa.</p><p>Ejemplos:<br>• Uber: <strong>“Viajes en minutos, sin dinero en efectivo”</strong>.<br>• Spotify: <strong>“Acceso a millones de canciones, sin anuncios”</strong>.<br>• Amazon: <strong>“Entrega rápida y amplia selección”</strong>.</p><p>Es el núcleo de la estrategia de marketing y guía todas las decisiones de producto, precio, comunicación y servicio.</p>"
+      "saber_mas": "<p>El <u>posicionamiento de marca</u> es el proceso de <strong>diseñar la oferta y la imagen</strong> de una marca para <strong>ocupar un lugar claro, distinto y atractivo</strong> en la mente del consumidor.</p><p>No es lo que la empresa hace al producto, sino <strong>lo que el producto hace en la mente del cliente</strong>.</p><p>Ejemplos:<br>• <strong>Volvo</strong>: posicionado en <strong>seguridad</strong>.<br>• <strong>Apple</strong>: en <strong>diseño, innovación y experiencia de usuario</strong>.<br>• <strong>Walmart</strong>: en <strong>bajo precio</strong>.</p><p>Un posicionamiento efectivo debe:<br>• <strong>Diferenciarse</strong> de la competencia.<br>• <strong>Ofrecer un beneficio clave</strong> que importe al cliente.<br>• <strong>Ser sostenible</strong> en el tiempo.<br>• <strong>Ser creíble</strong> y respaldado por la experiencia de marca.</p><p>Se comunica a través del <strong>marketing mix (4P)</strong>:<br>• El producto entrega el beneficio.<br>• El precio refleja el valor.<br>• La plaza refuerza el acceso.<br>• La promoción transmite el mensaje.</p><p>Un posicionamiento claro guía <strong>todas las decisiones de marketing</strong> y crea una <strong>ventaja competitiva sostenible</strong>.</p>"
     },
     {
-      "intro": "Un nicho de mercado es un segmento muy específico y bien definido dentro de un mercado más amplio. Las empresas que operan en nichos suelen tener una comprensión profunda de las necesidades de ese grupo y ofrecen productos altamente especializados. Aunque el tamaño del nicho es pequeño, puede ser muy rentable debido a la baja competencia y la lealtad del cliente.",
-      "question": "10. ¿Qué caracteriza a un nicho de mercado?",
+      "intro": "Una propuesta de valor es la razón por la cual un cliente debería elegir una marca sobre la competencia. Debe ser clara, convincente y basada en beneficios reales que resuelvan una necesidad del cliente.",
+      "question": "13. ¿Qué debe incluir una propuesta de valor efectiva?",
       "options": [
-        "Es un mercado muy amplio",
-        "Es un segmento muy específico con necesidades particulares",
-        "Tiene mucha competencia",
-        "No es rentable"
+        "Solo el precio más bajo",
+        "Un beneficio claro que resuelva una necesidad del cliente",
+        "Solo el nombre de la marca",
+        "Ignorar al cliente"
       ],
       "correct": [1],
-      "saber_mas": "<p>Un <u>nicho de mercado</u> es un <strong>segmento muy específico y bien definido</strong> dentro de un mercado más amplio.</p><p>Características:<br>• <strong>Tamaño pequeño</strong> pero bien definido.<br>• <strong>Necesidades particulares</strong> que no son atendidas adecuadamente por productos de masa.<br>• <strong>Baja competencia</strong> en comparación con mercados masivos.<br>• <strong>Clientes leales</strong> que valoran la especialización.<br>• <strong>Alta rentabilidad potencial</strong> por precios premium.</p><p>Las empresas que operan en nichos (enfoque concentrado) suelen tener una <strong>comprensión profunda</strong> de las necesidades de ese grupo y ofrecen productos o servicios <strong>altamente especializados</strong>.</p><p>Ejemplos:<br>• Equipos de ciclismo para triatletas.<br>• Alimentos orgánicos para perros con alergias.<br>• Software de contabilidad para pequeñas bodegas.<br>• Ropa de trabajo para mujeres en la construcción.</p><p>Ventajas:<br>• <strong>Diferenciación clara</strong>.<br>• <strong>Fidelización del cliente</strong>.<br>• <strong>Menor presión de precios</strong>.<br>• <strong>Mayor margen de beneficio</strong>.</p><p>El riesgo es que el nicho sea <strong>demasiado pequeño</strong> o que desaparezca.</p>"
+      "saber_mas": "<p>La <u>propuesta de valor</u> es la <strong>razón fundamental</strong> por la que un cliente elige una marca sobre la competencia. Es la promesa de valor que la marca entrega.</p><p>Debe ser:<br>• <strong>Clara</strong>: fácil de entender.<br>• <strong>Convincente</strong>: que resuene emocionalmente o racionalmente.<br>• <strong>Única</strong>: que diferencie de la competencia.<br>• <strong>Creíble</strong>: respaldada por la experiencia de marca.<br>• <strong>Relevante</strong>: que resuelva una necesidad real.</p><p>Ejemplos:<br>• <strong>Dollar Shave Club</strong>: \"¿Cansado de pagar demasiado por cuchillas de afeitar? Nosotros te las enviamos a tu puerta por $1 al mes\".<br>• <strong>Spotify</strong>: \"Acceso a millones de canciones, sin anuncios, en cualquier dispositivo\".<br>• <strong>Slack</strong>: \"Donde el trabajo sucede. Organiza tu equipo y tu trabajo en un solo lugar\".</p><p>Una propuesta de valor efectiva no es solo sobre el producto, sino sobre <strong>el resultado que el cliente obtiene</strong>. Debe responder la pregunta: <strong>\"¿Qué gano con esto?\"</strong>.</p><p>Es el corazón del posicionamiento y guía todo el diseño del producto y la comunicación.</p>"
     },
     {
-      "intro": "La segmentación por beneficios buscados se basa en los beneficios principales que los consumidores esperan obtener de un producto. Por ejemplo, algunos buscan calidad, otros economía, conveniencia o estatus. Esta base es poderosa porque se centra directamente en las motivaciones del consumidor y permite diseñar ofertas que satisfagan esas necesidades específicas.",
-      "question": "11. ¿Qué ventaja tiene la segmentación por beneficios buscados?",
+      "intro": "El mapa de posicionamiento es una herramienta visual que muestra cómo los consumidores perciben las marcas en relación con dos atributos clave, como precio y calidad. Ayuda a identificar vacíos en el mercado y oportunidades de posicionamiento.",
+      "question": "14. ¿Para qué sirve un mapa de posicionamiento?",
       "options": [
-        "Se basa solo en el precio",
-        "Se centra en las motivaciones del consumidor y permite diseñar ofertas relevantes",
-        "Ignora las necesidades del cliente",
-        "Es solo para productos de lujo"
+        "Para mostrar la ubicación geográfica de las tiendas",
+        "Para visualizar cómo perciben los consumidores las marcas según atributos clave",
+        "Solo para productos digitales",
+        "Ignorar al cliente"
       ],
       "correct": [1],
-      "saber_mas": "<p>La <u>segmentación por beneficios buscados</u> se basa en los <strong>beneficios principales</strong> que los consumidores esperan obtener al usar un producto o servicio.</p><p>Es una de las bases de segmentación <strong>más poderosas</strong> porque se centra directamente en las <strong>motivaciones y necesidades</strong> del consumidor.</p><p>Ejemplos de beneficios:<br>• <strong>Calidad</strong> y durabilidad<br>• <strong>Economía</strong> y bajo precio<br>• <strong>Conveniencia</strong> y facilidad de uso<br>• <strong>Estatus</strong> y prestigio<br>• <strong>Salud</strong> y bienestar<br>• <strong>Seguridad</strong><br>• <strong>Diversión</strong> y entretenimiento</p><p>Ventajas:<br>• Permite <strong>diseñar productos y mensajes</strong> que <strong>satisfagan necesidades específicas</strong>.<br>• Facilita la <strong>diferenciación</strong> de la competencia.<br>• Ayuda a identificar <strong>oportunidades de mercado</strong> no atendidas.<br>• Es <strong>relevante</strong> para una amplia gama de productos.</p><p>Ejemplos:<br>• Una marca de automóviles puede tener modelos enfocados en <strong>rendimiento</strong>, <strong>lujo</strong> o <strong>bajo consumo</strong>.<br>• Un supermercado puede tener líneas de productos <strong>premium</strong>, <strong>económicas</strong> y <strong>ecológicas</strong>.<br>• Una aerolínea ofrece clases <strong>económica</strong>, <strong>ejecutiva</strong> y <strong>primera</strong>, cada una con beneficios distintos.</p><p>Es fundamental para una estrategia de posicionamiento efectiva.</p>"
+      "saber_mas": "<p>El <u>mapa de posicionamiento</u> es una <strong>herramienta visual</strong> que muestra cómo los consumidores perciben las marcas en relación con <strong>dos atributos clave</strong>, como precio vs. calidad, tradición vs. innovación, o lujo vs. funcionalidad.</p><p>Funcionamiento:<br>• Se trazan ejes con los atributos (ej. precio bajo → alto).<br>• Se ubican las marcas según la percepción del consumidor.<br>• Se identifican <strong>vacíos (nichos)</strong> donde no hay competencia.</p><p>Usos:<br>• <strong>Identificar oportunidades de posicionamiento</strong>: lanzar una marca en un espacio vacío.<br>• <strong>Evaluar la competencia</strong>: ver cómo se perciben las marcas rivales.<br>• <strong>Verificar el posicionamiento propio</strong>: ¿la marca se percibe como se desea?</p><p>Ejemplo: en un mapa de precio vs. calidad, se pueden ver:<br>• Marcas de <strong>lujo</strong> (alto precio, alta calidad).<br>• Marcas <strong>económicas</strong> (bajo precio, calidad media).<br>• Un vacío en \"alta calidad, precio justo\" → oportunidad para una marca como IKEA.</p><p>Este mapa se construye con <strong>investigación de mercado</strong> (encuestas de percepción). Es una herramienta esencial para la <strong>planificación estratégica de marcas</strong>.</p>"
     },
     {
-      "intro": "La segmentación por lealtad mide el grado en que los consumidores están comprometidos con una marca. Los consumidores pueden clasificarse como leales a una marca, leales a varias marcas o no leales. Las empresas pueden diseñar programas de fidelización para fortalecer la lealtad de los clientes y aumentar su valor a largo plazo (CLV).",
-      "question": "12. ¿Qué puede hacer una empresa con los clientes leales?",
+      "intro": "La elección de una estrategia de posicionamiento depende del beneficio clave que la marca quiere destacar. Puede ser calidad, servicio, innovación, precio o estilo. La elección debe alinearse con las fortalezas de la empresa y las necesidades del mercado meta.",
+      "question": "15. ¿Qué debe considerar una empresa al elegir su estrategia de posicionamiento?",
       "options": [
-        "Ignorarlos porque ya compran",
-        "Fortalecer la relación con programas de fidelización y aumentar su valor a largo plazo",
-        "Reducir la calidad del servicio",
-        "Aumentar los precios sin justificación"
+        "Solo el color del logotipo",
+        "Las fortalezas de la empresa y las necesidades del mercado meta",
+        "Solo la opinión del gerente",
+        "Ignorar al cliente"
       ],
       "correct": [1],
-      "saber_mas": "<p>La <u>segmentación por lealtad</u> mide el <strong>grado de compromiso</strong> de los consumidores con una marca.</p><p>Los consumidores pueden clasificarse en:<br>• <strong>Leales a una marca</strong>: compran siempre la misma marca.<br>• <strong>Leales a varias marcas</strong>: tienen un grupo reducido de marcas preferidas.<br>• <strong>No leales</strong>: cambian de marca frecuentemente, a menudo por precio.</p><p>Los <strong>clientes leales</strong> son <strong>los más valiosos</strong> para una empresa porque:<br>• Generan ingresos <strong>recurrentes</strong>.<br>• Tienen un <strong>mayor valor de por vida</strong> (CLV).<br>• Son <strong>menos sensibles al precio</strong>.<br>• Actúan como <strong>defensores de la marca</strong> (boca en boca positivo).</p><p>Para fortalecer la lealtad, las empresas pueden:<br>• Implementar <strong>programas de fidelización</strong> (puntos, descuentos, beneficios exclusivos).<br>• Ofrecer <strong>servicio al cliente excepcional</strong>.<br>• Crear <strong>experiencias memorables</strong>.<br>• Comunicarse de forma <strong>personalizada</strong>.</p><p>Invertir en retener clientes leales es <strong>más rentable</strong> que adquirir nuevos.</p>"
-    },
-    {
-      "intro": "La segmentación por ocasión de compra se basa en cuándo los consumidores compran o usan un producto. Puede ser una ocasión regular (uso diario) o especial (festividades, regalos, eventos). Esta base permite a las empresas planificar campañas promocionales y ofertas específicas para momentos clave del año.",
-      "question": "13. ¿Para qué es útil la segmentación por ocasión de compra?",
-      "options": [
-        "Para vender solo en temporada baja",
-        "Para planificar campañas promocionales y ofertas para momentos clave",
-        "Para ignorar las festividades",
-        "Solo para productos digitales"
-      ],
-      "correct": [1],
-      "saber_mas": "<p>La <u>segmentación por ocasión de compra</u> se basa en <strong>cuándo</strong> los consumidores compran o usan un producto.</p><p>Puede ser:<br>• <strong>Ocasión regular</strong>: uso diario o frecuente (ej. café, pan).<br>• <strong>Ocasión especial</strong>: festividades (Navidad, Día de la Madre), eventos (cumpleaños, bodas), regalos.</p><p>Esta base es <strong>muy útil</strong> para:<br>• <strong>Planificar campañas promocionales</strong> y publicidad en momentos clave del año.<br>• <strong>Diseñar ofertas y productos especiales</strong> para ocasiones (packs navideños, cajas de regalo).<br>• <strong>Optimizar la producción y distribución</strong> para manejar picos de demanda.<br>• <strong>Personalizar mensajes</strong> según la ocasión (ej. “Regala algo especial esta Navidad”).</p><p>Ejemplos:<br>• Florerías y chocolaterías tienen picos de ventas en <strong>San Valentín</strong> y <strong>Día de la Madre</strong>.<br>• Supermercados promocionan productos para <strong>cenas navideñas</strong>.<br>• Tiendas de electrónica lanzan ofertas en <strong>Black Friday</strong> y <strong>Cyber Monday</strong>.</p><p>Permite a las empresas <strong>anticipar la demanda</strong> y <strong>maximizar las ventas</strong> en periodos críticos.</p>"
-    },
-    {
-      "intro": "La segmentación por uso del producto clasifica a los consumidores según su frecuencia de uso: no usuarios, usuarios potenciales, usuarios ocasionales y usuarios frecuentes. Los usuarios frecuentes suelen ser los más importantes, ya que generan la mayor parte de las ventas. Las empresas a menudo diseñan estrategias para convertir usuarios ocasionales en frecuentes.",
-      "question": "14. ¿Qué grupo de consumidores genera la mayor parte de las ventas?",
-      "options": [
-        "No usuarios",
-        "Usuarios potenciales",
-        "Usuarios ocasionales",
-        "Usuarios frecuentes"
-      ],
-      "correct": [3],
-      "saber_mas": "<p>La <u>segmentación por uso del producto</u> clasifica a los consumidores según su <strong>frecuencia de uso</strong> o consumo.</p><p>Grupos comunes:<br>• <strong>No usuarios</strong>: personas que no usan el producto.<br>• <strong>Usuarios potenciales</strong>: personas que podrían usarlo en el futuro.<br>• <strong>Usuarios ocasionales</strong>: personas que usan el producto de forma esporádica.<br>• <strong>Usuarios frecuentes</strong>: personas que usan el producto regularmente.</p><p>Los <strong>usuarios frecuentes</strong> suelen ser los <strong>clientes más importantes</strong> para una empresa, ya que:<br>• Generan la <strong>mayor parte de las ventas</strong> y los ingresos.<br>• Tienen un <strong>alto valor de por vida</strong> (CLV).<br>• Son más <strong>leales</strong> y menos sensibles al precio.<br>• Pueden convertirse en <strong>defensores de la marca</strong>.</p><p>Por ello, muchas empresas <strong>enfocan sus esfuerzos</strong> en:<br>• <strong>Retener</strong> a los usuarios frecuentes.<br>• <strong>Convertir</strong> a los usuarios ocasionales en frecuentes.<br>• <strong>Reactivar</strong> a los ex-usuarios.</p><p>Este enfoque es más eficiente que intentar convertir a no usuarios, que requiere más recursos y tiene menor probabilidad de éxito.</p>"
-    },
-    {
-      "intro": "La segmentación por ciclo de vida familiar considera la etapa en la que se encuentra una familia (soltero, pareja joven, familia con niños, familia vacía, jubilados). Las necesidades y el comportamiento de compra cambian significativamente en cada etapa. Esta base es útil para productos que están estrechamente relacionados con las etapas de la vida, como vivienda, automóviles o seguros.",
-      "question": "15. ¿Cómo afecta el ciclo de vida familiar al comportamiento de compra?",
-      "options": [
-        "No tiene ningún efecto",
-        "Las necesidades y el comportamiento cambian en cada etapa de la vida familiar",
-        "Solo afecta a los solteros",
-        "Es irrelevante para el marketing"
-      ],
-      "correct": [1],
-      "saber_mas": "<p>La <u>segmentación por ciclo de vida familiar</u> considera la <strong>etapa</strong> en la que se encuentra una familia, ya que las <strong>necesidades</strong> y el <strong>comportamiento de compra</strong> cambian significativamente a lo largo del tiempo.</p><p>Etapa común:<br>• <strong>Soltero</strong>: alto gasto en ropa, ocio, tecnología.<br>• <strong>Pareja joven</strong>: compra de vivienda, muebles, electrodomésticos.<br>• <strong>Familia con niños pequeños</strong>: productos para bebés, educación, seguros.<br>• <strong>Familia con niños mayores</strong>: educación superior, automóviles.<br>• <strong>Familia vacía</strong>: viajes, salud, ocio.<br>• <strong>Jubilados</strong>: salud, seguros, servicios de cuidado.</p><p>Esta base es especialmente útil para productos y servicios que están <strong>estrechamente relacionados</strong> con las etapas de la vida, como:<br>• Vivienda y hipotecas<br>• Automóviles (tamaño, seguridad)<br>• Seguros (vida, salud, hogar)<br>• Educación<br>• Productos para bebés y niños</p><p>Permite a las empresas <strong>anticipar cambios</strong> en las necesidades de sus clientes y <strong>ofrecer productos y servicios relevantes</strong> en el momento adecuado.</p>"
+      "saber_mas": "<p>La elección de la <u>estrategia de posicionamiento</u> debe ser <strong>estratégica y deliberada</strong>, basada en un análisis profundo del mercado y de la empresa.</p><p>Factores clave a considerar:</p><p>1. <strong>Fortalezas internas</strong>:<br>   – ¿En qué es la empresa mejor que la competencia?<br>   – Ejemplo: si tiene una cadena de suministro eficiente, puede posicionarse en <strong>precio bajo</strong>.</p><p>2. <strong>Necesidades del mercado meta</strong>:<br>   – ¿Qué beneficio valoran más los consumidores?<br>   – Ejemplo: en productos de salud, priorizan <strong>calidad y confianza</strong>.</p><p>3. <strong>Posicionamiento de la competencia</strong>:<br>   – ¿Qué espacios están ocupados? ¿Dónde hay oportunidades?<br>   – Evitar competir directamente en un espacio saturado.</p><p>4. <strong>Coherencia con la misión y valores</strong>:<br>   – El posicionamiento debe ser auténtico, no forzado.</p><p>5. <strong>Sostenibilidad</strong>:<br>   – ¿Puede mantenerse en el tiempo?<br>   – Ejemplo: posicionarse en innovación requiere I+D constante.</p><p>Una estrategia de posicionamiento bien elegida se convierte en el <strong>corazón de la identidad de marca</strong> y guía todas las decisiones de marketing, desde el producto hasta la publicidad.</p>"
     }
   ]
 }
