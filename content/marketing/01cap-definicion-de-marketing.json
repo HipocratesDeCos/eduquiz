@@ -1,186 +1,186 @@
 {
   "title": "La Definición de Marketing",
-  "description": "Quiz sobre los fundamentos del marketing, su evolución, funciones, y el papel del marketing en la dirección estratégica de una empresa.",
+  "description": "Quiz sobre los conceptos fundamentales del marketing, su evolución y su papel en la creación de valor para los clientes y la empresa.",
   "questions": [
     {
-      "intro": "El marketing es una función empresarial esencial que va más allá de la simple venta o publicidad. Según la American Marketing Association, es el conjunto de actividades, instituciones y procesos para crear, comunicar, entregar e intercambiar ofertas que tienen valor para los clientes, socios y la sociedad en general. El enfoque moderno del marketing se centra en satisfacer las necesidades y deseos de los consumidores de manera rentable, estableciendo relaciones duraderas.",
-      "question": "1. ¿Qué es el marketing según la American Marketing Association?",
+      "intro": "El marketing es mucho más que publicidad o ventas. Es un proceso social y administrativo mediante el cual individuos y grupos obtienen lo que necesitan y desean a través de la creación, oferta e intercambio de productos de valor. En su esencia, el marketing comienza con la identificación de las necesidades, deseos y demandas del mercado. Luego, la empresa diseña ofertas que crean valor, establece relaciones con los clientes y captura valor a cambio. Este enfoque centrado en el cliente es fundamental para el éxito sostenible en cualquier mercado.",
+      "question": "1. ¿Qué es el marketing según su definición fundamental?",
       "options": [
-        "El arte de vender productos",
-        "La creación de publicidad efectiva",
-        "El conjunto de actividades para crear, comunicar, entregar e intercambiar ofertas de valor",
-        "La gestión de campañas digitales"
-      ],
-      "correct": [2],
-      "saber_mas": "<p>Según la <u>American Marketing Association</u>, el <strong>marketing</strong> es el conjunto de <strong>actividades, instituciones y procesos</strong> para <strong>crear, comunicar, entregar e intercambiar</strong> ofertas que tienen <strong>valor</strong> para los clientes, socios y la sociedad.</p><p>Este enfoque moderno va más allá de la venta o la publicidad; es una <strong>filosofía de gestión</strong> centrada en el cliente.</p><p>Implica entender las <strong>necesidades y deseos</strong> del mercado, diseñar ofertas atractivas, establecer <strong>precios competitivos</strong>, distribuirlas eficientemente y <strong>comunicar su valor</strong>.</p><p>El objetivo final es <strong>generar valor para el cliente</strong> y, a su vez, <strong>valor para la empresa</strong> mediante relaciones rentables y duraderas.</p>"
-    },
-    {
-      "intro": "El marketing no es solo una función de ventas o publicidad, sino una filosofía empresarial que debe impregnar toda la organización. Una empresa orientada al mercado pone al cliente en el centro de todas sus decisiones, desde el desarrollo de productos hasta la atención postventa. Esta orientación requiere una coordinación interfuncional entre marketing, producción, finanzas y recursos humanos para crear valor superior al competidor.",
-      "question": "2. ¿Por qué el marketing debe ser una filosofía empresarial y no solo una función?",
-      "options": [
-        "Porque solo los departamentos de ventas deben aplicarlo",
-        "Porque debe guiar todas las decisiones de la empresa centradas en el cliente",
-        "Porque solo es importante en campañas publicitarias",
-        "Porque no afecta a la producción"
+        "Solo vender productos",
+        "Un proceso de creación, oferta e intercambio de productos de valor",
+        "Solo hacer publicidad",
+        "Ignorar al cliente"
       ],
       "correct": [1],
-      "saber_mas": "<p>El <u>marketing</u> debe ser una <strong>filosofía empresarial</strong> porque su enfoque centrado en el cliente debe <strong>impregnar todas las funciones</strong> de la organización, no solo el departamento de ventas o publicidad.</p><p>Una empresa <strong>orientada al mercado</strong> toma decisiones estratégicas basadas en lo que el cliente valora, desde el <strong>desarrollo de productos</strong> hasta la <strong>atención postventa</strong>.</p><p>Requiere <strong>coordinación interfuncional</strong>:<br>• <strong>Producción</strong>: debe fabricar productos que satisfagan necesidades.<br>• <strong>Finanzas</strong>: debe invertir en iniciativas que generen valor para el cliente.<br>• <strong>Recursos humanos</strong>: debe capacitar al personal en servicio al cliente.</p><p>Esta orientación permite crear <strong>valor superior</strong> al competidor y construir <strong>relaciones duraderas</strong> con los clientes.</p>"
+      "saber_mas": "<p>El <u>marketing</u> es un <strong>proceso social y administrativo</strong> mediante el cual individuos y grupos <strong>obtienen lo que necesitan y desean</strong> a través de la <strong>creación, oferta e intercambio</strong> de productos de valor.</p><p>Es un concepto mucho más amplio que la mera <strong>venta</strong> o la <strong>publicidad</strong>. El marketing comienza mucho antes de que un producto exista, con la <strong>identificación de necesidades, deseos y demandas</strong> en el mercado.</p><p>• <strong>Necesidades</strong>: estados de privación sentidos del cuerpo o del espíritu (ej. alimentación, pertenencia).<br>• <strong>Deseos</strong>: formas específicas de satisfacer una necesidad, moldeadas por la cultura y la personalidad (ej. necesidad de alimentación → deseo de una hamburguesa).<br>• <strong>Demandas</strong>: deseos respaldados por la capacidad y disposición a pagar.</p><p>El proceso de marketing implica:<br>1. <strong>Entender al mercado y las necesidades del cliente</strong>.<br>2. <strong>Diseñar una estrategia de marketing</strong> para crear valor.<br>3. <strong>Construir una oferta de marketing</strong> (producto, precio, distribución, promoción).<br>4. <strong>Crear relaciones con los clientes</strong>.<br>5. <strong>Capturar valor</strong> a cambio (beneficios, lealtad).</p><p>En esencia, el marketing es la <strong>ciencia y el arte de explorar, crear y entregar valor</strong> para satisfacer a un público objetivo y generar beneficios para la empresa. Es la <strong>columna vertebral de la conexión entre la empresa y sus clientes</strong>.</p>"
     },
     {
-      "intro": "El proceso de marketing consta de cinco etapas clave: entender el mercado y las necesidades del cliente, diseñar una estrategia de valor, construir una relación rentable, crear la oferta de valor y comunicarla. Este proceso es cíclico y requiere una comprensión profunda del entorno competitivo, el comportamiento del consumidor y las capacidades internas de la empresa.",
-      "question": "3. ¿Cuál es la primera etapa del proceso de marketing?",
+      "intro": "Las necesidades humanas son estados de privación sentidos, como la necesidad de alimento, aire, agua, vivienda, pertenencia, estima y autorrealización. Los deseos son las formas específicas en que las culturas y las personalidades individuales buscan satisfacer esas necesidades. Las demandas son deseos respaldados por la capacidad y la disposición a pagar. Comprender esta distinción es crucial para diseñar ofertas de marketing efectivas.",
+      "question": "2. ¿Cuál es la diferencia entre una necesidad y un deseo?",
       "options": [
-        "Crear publicidad",
-        "Entender el mercado y las necesidades del cliente",
-        "Fijar precios",
-        "Distribuir el producto"
+        "Son lo mismo",
+        "Una necesidad es una privación sentida, un deseo es una forma específica de satisfacerla",
+        "Solo los deseos son importantes",
+        "Ignorar al cliente"
       ],
       "correct": [1],
-      "saber_mas": "<p>La <u>primera etapa del proceso de marketing</u> es <strong>entender el mercado y las necesidades del cliente</strong>.</p><p>Antes de diseñar productos o campañas, la empresa debe realizar una <strong>investigación de mercados</strong> para identificar:<br>• <strong>Necesidades insatisfechas</strong><br>• <strong>Comportamiento de compra</strong><br>• <strong>Segmentos de mercado</strong><br>• <strong>Tendencias del entorno</strong></p><p>Este conocimiento permite <strong>diseñar una estrategia de valor</strong> diferenciada que responda a lo que los clientes realmente valoran.</p><p>Sin esta comprensión, cualquier esfuerzo de marketing será ineficaz o mal dirigido.</p><p>Es la base para todas las decisiones posteriores: qué producto lanzar, cómo comunicarlo y a qué precio.</p>"
+      "saber_mas": "<p>Comprender la distinción entre <u>necesidad</u>, <u>deseo</u> y <u>demanda</u> es fundamental para el marketing.</p><p>• <strong>Necesidad</strong>: es un <strong>estado de privación sentida</strong> del cuerpo o del espíritu. Son condiciones básicas de la vida humana. Ejemplos: necesidad de alimento, aire, agua, vivienda, vestido, seguridad, pertenencia, estima, autorrealización (según la jerarquía de Maslow).<br>• <strong>Deseo</strong>: es la <strong>forma específica</strong> en que una persona o una cultura buscan satisfacer una necesidad. Está fuertemente influenciado por la <strong>cultura</strong> y la <strong>personalidad individual</strong>. Por ejemplo, la necesidad de alimentación puede manifestarse como el deseo de una hamburguesa, sushi, un plato tradicional o comida orgánica.<br>• <strong>Demanda</strong>: es un <strong>deseo respaldado por la capacidad y la disposición a pagar</strong>. Muchas personas pueden desear un automóvil de lujo, pero solo aquellos que tienen el dinero y están dispuestos a gastarlo representan una demanda real para ese producto.</p><p>Para el marketero, el reto es:<br>• <strong>Identificar las necesidades subyacentes</strong> del mercado.<br>• <strong>Ofrecer productos y servicios</strong> que satisfagan esos deseos de forma superior a la competencia.<br>• <strong>Transformar deseos en demandas</strong> mediante precios asequibles, financiamiento y campañas de marketing que generen valor percibido.</p><p>Las necesidades son <strong>limitadas</strong>, pero los deseos son <strong>ilimitados</strong> y cambian con el tiempo y la cultura. El marketing no crea necesidades, pero sí <strong>influye poderosamente</strong> en los deseos y ayuda a convertirlos en demandas.</p>"
     },
     {
-      "intro": "La orientación al mercado se opone a la orientación a la producción o al producto. En lugar de enfocarse en la eficiencia interna o en las características del producto, se centra en ofrecer soluciones que satisfagan las necesidades del cliente mejor que la competencia. Las empresas con esta orientación son más innovadoras, adaptativas y rentables a largo plazo.",
-      "question": "4. ¿En qué se basa la orientación al mercado?",
+      "intro": "Una oferta de marketing es cualquier combinación de productos, servicios, personas, lugares, ideas o experiencias que una parte ofrece a otra para satisfacer una necesidad o deseo. No se limita a bienes físicos; también incluye servicios, marcas, eventos, organizaciones e información. El valor de una oferta se determina por la relación entre los beneficios que proporciona y los costos que implica para el cliente.",
+      "question": "3. ¿Qué puede ser una oferta de marketing?",
       "options": [
-        "En la eficiencia de producción",
-        "En las características técnicas del producto",
-        "En satisfacer las necesidades del cliente mejor que la competencia",
-        "En reducir costos"
-      ],
-      "correct": [2],
-      "saber_mas": "<p>La <u>orientación al mercado</u> se basa en <strong>entender y satisfacer las necesidades del cliente</strong> de manera más efectiva que la competencia.</p><p>Contrasta con:<br>• <strong>Orientación a la producción</strong>: enfocarse en la eficiencia y reducción de costos.<br>• <strong>Orientación al producto</strong>: creer que un producto de alta calidad se venderá solo.</p><p>Las empresas orientadas al mercado:<br>• Escuchan activamente a los clientes.<br>• Adaptan sus ofertas a los cambios en el entorno.<br>• Innovan para crear valor superior.<br>• Coordinan todas las funciones hacia el cliente.</p><p>Este enfoque conduce a una <strong>ventaja competitiva sostenible</strong> y a una <strong>mayor rentabilidad a largo plazo</strong>.</p><p>Es esencial en mercados dinámicos y altamente competitivos.</p>"
-    },
-    {
-      "intro": "El valor del cliente es la relación entre los beneficios que recibe un cliente y el costo de obtenerlos. No se trata solo del precio, sino de todo el conjunto de beneficios funcionales, emocionales y sociales que ofrece el producto o servicio. Las empresas deben gestionar este valor para fidelizar al cliente y diferenciarse de la competencia.",
-      "question": "5. ¿Qué es el valor del cliente?",
-      "options": [
-        "El precio más bajo del mercado",
-        "La calidad del producto",
-        "La relación entre beneficios percibidos y costo de obtenerlos",
-        "La publicidad de la marca"
-      ],
-      "correct": [2],
-      "saber_mas": "<p>El <u>valor del cliente</u> es la <strong>relación entre los beneficios percibidos</strong> por el cliente y el <strong>costo de obtenerlos</strong> (monetario, temporal, esfuerzo).</p><p>No se reduce al <strong>precio</strong>, sino que incluye:<br>• <strong>Beneficios funcionales</strong>: rendimiento, calidad, fiabilidad.<br>• <strong>Beneficios emocionales</strong>: placer, seguridad, estatus.<br>• <strong>Beneficios sociales</strong>: aceptación social, pertenencia.</p><p>Una empresa crea valor cuando ofrece <strong>más beneficios</strong> por el mismo costo, o el <strong>mismo beneficio</strong> a menor costo que la competencia.</p><p>Gestionar el valor del cliente es clave para:<br>• <strong>Fidelizar</strong> al cliente.<br>• <strong>Diferenciarse</strong> de la competencia.<br>• <strong>Justificar precios superiores</strong>.</p><p>El marketing debe comunicar este valor de forma clara y creíble.</p>"
-    },
-    {
-      "intro": "La propuesta de valor es la promesa de valor que una empresa hace a sus clientes. Explica por qué un cliente debería elegir su producto o servicio frente a otras opciones. Una buena propuesta de valor es clara, diferenciada y relevante, y se basa en una comprensión profunda de las necesidades del cliente y las capacidades de la empresa.",
-      "question": "6. ¿Qué es una propuesta de valor?",
-      "options": [
-        "Un descuento temporal",
-        "La promesa de valor que explica por qué un cliente debería elegir un producto",
-        "Una campaña publicitaria",
-        "El precio de lista"
+        "Solo productos físicos",
+        "Productos, servicios, personas, lugares, ideas",
+        "Solo servicios",
+        "Ignorar al cliente"
       ],
       "correct": [1],
-      "saber_mas": "<p>La <u>propuesta de valor</u> es la <strong>promesa clara y convincente</strong> que una empresa hace a sus clientes sobre el valor que recibirán al elegir su producto o servicio.</p><p>Responde a la pregunta: <strong>¿Por qué debería elegirnos?</strong></p><p>Debe ser:<br>• <strong>Clara</strong>: fácil de entender.<br>• <strong>Diferenciada</strong>: que destaque frente a la competencia.<br>• <strong>Relevante</strong>: que responda a necesidades reales del cliente.</p><p>Se basa en una <strong>comprensión profunda</strong> del cliente y en las <strong>capacidades únicas</strong> de la empresa.</p><p>Ejemplos:<br>• Uber: <strong>“Viajes en minutos, sin dinero en efectivo”</strong>.<br>• Spotify: <strong>“Acceso a millones de canciones, sin anuncios”</strong>.</p><p>Es el núcleo de la estrategia de marketing y guía todas las decisiones de producto, precio y comunicación.</p>"
+      "saber_mas": "<p>Una <u>oferta de marketing</u> es cualquier combinación de <strong>productos, servicios, personas, lugares, ideas o experiencias</strong> que una parte ofrece a otra para satisfacer una necesidad o deseo.</p><p>Es un concepto mucho más amplio que un simple producto físico. Ejemplos incluyen:<br>• <strong>Productos</strong>: bienes físicos (un automóvil, un libro) o servicios (un vuelo, una consulta médica).<br>• <strong>Personas</strong>: el marketing de celebridades, políticos o atletas.<br>• <strong>Lugares</strong>: el marketing de ciudades, regiones o países para atraer turistas, inversores o residentes.<br>• <strong>Ideas</strong>: campañas de concienciación social (ej. no fumar, reciclar).<br>• <strong>Eventos</strong>: conciertos, festivales, olimpiadas.<br>• <strong>Organizaciones</strong>: el marketing de universidades, hospitales o ONGs para mejorar su imagen.<br>• <strong>Información</strong>: revistas, sitios web de noticias, cursos en línea.</p><p>El valor de una oferta se determina por la <strong>relación entre los beneficios que proporciona</strong> (utilidad, satisfacción, emociones) <strong>y los costos que implica para el cliente</strong> (precio monetario, tiempo, esfuerzo, riesgo psicológico).</p><p>Las empresas compiten no solo por vender productos, sino por <strong>crear ofertas de valor superiores</strong> que resuelvan problemas o mejoren la vida de los clientes. Una oferta bien diseñada responde a una necesidad específica del mercado y se diferencia claramente de la competencia.</p><p>El marketing moderno se centra en <strong>construir ofertas integrales</strong> que combinen varios elementos (producto + servicio + experiencia) para maximizar el valor percibido.</p>"
     },
     {
-      "intro": "El marketing relacional busca construir relaciones duraderas con los clientes, proveedores y socios, más allá de una sola transacción. Se basa en la confianza, el compromiso y el valor mutuo. En lugar de maximizar cada venta, se enfoca en maximizar el valor del cliente a lo largo del tiempo (CLV), lo que conduce a una mayor rentabilidad y lealtad.",
-      "question": "7. ¿Cuál es el objetivo del marketing relacional?",
+      "intro": "El valor para el cliente es la diferencia entre los beneficios totales que recibe de una oferta y los costos totales que asume para adquirirla. Los beneficios incluyen la calidad, el servicio y la imagen de la marca, mientras que los costos van más allá del precio, incluyendo tiempo, esfuerzo y riesgo. Las empresas deben gestionar el valor de forma estratégica para crear ofertas superiores a las de la competencia.",
+      "question": "4. ¿Qué determina el valor para el cliente?",
       "options": [
-        "Maximizar cada venta individual",
-        "Construir relaciones duraderas con los clientes",
-        "Reducir los costos de producción",
-        "Aumentar la publicidad"
+        "Solo el precio de venta",
+        "Los beneficios totales menos los costos totales",
+        "Solo la calidad del producto",
+        "Ignorar al cliente"
       ],
       "correct": [1],
-      "saber_mas": "<p>El <u>marketing relacional</u> busca <strong>construir relaciones duraderas</strong> con clientes, proveedores y socios, más allá de una simple transacción.</p><p>Se basa en:<br>• <strong>Confianza</strong><br>• <strong>Compromiso</strong><br>• <strong>Valor mutuo</strong></p><p>En lugar de <strong>maximizar cada venta</strong>, se enfoca en <strong>maximizar el valor del cliente a lo largo del tiempo</strong> (Customer Lifetime Value, CLV).</p><p>Beneficios:<br>• <strong>Mayor lealtad</strong> y retención de clientes.<br>• <strong>Reducción de costos</strong> de adquisición.<br>• <strong>Clientes más rentables</strong> a largo plazo.<br>• <strong>Marketing de boca en boca</strong>.</p><p>Se aplica mediante programas de fidelización, atención personalizada, comunicación constante y resolución eficaz de problemas.</p><p>Es esencial en mercados donde la diferenciación es difícil y la competencia por precios es intensa.</p>"
+      "saber_mas": "<p>El <u>valor para el cliente</u> es la <strong>percepción del cliente</strong> sobre si una oferta cumple o supera sus expectativas. Se define como la <strong>diferencia entre los beneficios totales que recibe</strong> de una oferta <strong>y los costos totales que asume</strong> para adquirirla.</p><p>• <strong>Beneficios totales</strong>:<br>  – <strong>Beneficios funcionales</strong>: calidad del producto, rendimiento, fiabilidad.<br>  – <strong>Beneficios emocionales</strong>: sentimientos de placer, seguridad, estatus, pertenencia.<br>  – <strong>Beneficios sociales</strong>: aceptación por parte de los pares, reconocimiento.<br>  – <strong>Imagen de la marca</strong>: la reputación y los valores asociados a la marca.<br>  – <strong>Servicio al cliente</strong>: atención antes, durante y después de la compra.</p><p>• <strong>Costos totales</strong>:<br>  – <strong>Costo monetario</strong>: el precio de compra.<br>  – <strong>Costo de tiempo</strong>: el tiempo invertido en buscar, comprar y usar el producto.<br>  – <strong>Costo de esfuerzo</strong>: la energía física o mental requerida.<br>  – <strong>Costo psicológico</strong>: el riesgo percibido (¿funcionará? ¿será bien recibido?).<br>  – <strong>Costo físico</strong>: el esfuerzo para transportar o instalar el producto.</p><p>El marketing estratégico busca <strong>maximizar el valor</strong> aumentando los beneficios percibidos, reduciendo los costos percibidos, o ambos. Un cliente elegirá la oferta que perciba como de <strong>máximo valor</strong>. Las empresas deben gestionar cuidadosamente todas las fuentes de beneficio y costo para crear una <strong>ventaja competitiva sostenible</strong>.</p>"
     },
     {
-      "intro": "El comportamiento del consumidor es el estudio de cómo los individuos, grupos y organizaciones seleccionan, compran, usan y desechan bienes, servicios, ideas o experiencias para satisfacer necesidades y deseos. Incluye factores culturales, sociales, personales y psicológicos que influyen en la decisión de compra. Comprender este comportamiento es clave para diseñar estrategias de marketing efectivas.",
-      "question": "8. ¿Qué factores influyen en el comportamiento del consumidor?",
+      "intro": "Las relaciones con los clientes son esenciales para el éxito a largo plazo. El marketing no termina con la primera venta; comienza con ella. Las empresas deben esforzarse por retener a los clientes y profundizar la relación a través de la entrega de valor superior, el servicio excepcional y la comunicación personalizada. Una relación fuerte conduce a la lealtad, el aumento del valor de por vida del cliente y recomendaciones positivas.",
+      "question": "5. ¿Por qué son importantes las relaciones con los clientes?",
       "options": [
-        "Solo el precio",
-        "Cultura, sociedad, factores personales y psicológicos",
-        "Solo la publicidad",
-        "La producción interna"
+        "Solo para la primera venta",
+        "Para retenerlos, aumentar su valor y fomentar la lealtad",
+        "Solo para productos de lujo",
+        "Ignorar al cliente"
       ],
       "correct": [1],
-      "saber_mas": "<p>El <u>comportamiento del consumidor</u> es el estudio de cómo los individuos, grupos y organizaciones <strong>seleccionan, compran, usan y desechan</strong> productos y servicios para satisfacer necesidades.</p><p>Está influenciado por cuatro tipos de factores:<br>• <strong>Culturales</strong>: cultura, subcultura, clase social.<br>• <strong>Sociales</strong>: grupos de referencia, familia, roles y estatus.<br>• <strong>Personales</strong>: edad, ciclo de vida, ocupación, situación económica, estilo de vida.<br>• <strong>Psicológicos</strong>: motivación, percepción, aprendizaje, creencias y actitudes.</p><p>Comprender estos factores permite a las empresas:<br>• <strong>Segmentar</strong> el mercado.<br>• <strong>Diseñar productos</strong> que resuenen con el cliente.<br>• <strong>Comunicar</strong> mensajes relevantes.<br>• <strong>Pronosticar</strong> cambios en el comportamiento.</p><p>Es fundamental para una <strong>estrategia de marketing centrada en el cliente</strong>.</p>"
+      "saber_mas": "<p>Las <u>relaciones con los clientes</u> son el <strong>corazón del marketing moderno</strong> y son esenciales para el <strong>crecimiento rentable a largo plazo</strong>.</p><p>El marketing ya no se centra solo en <strong>hacer una transacción</strong>, sino en <strong>construir una relación duradera</strong>. La primera venta es solo el comienzo de un viaje.</p><p>Importancia de las relaciones:<br>• <strong>Retención de clientes</strong>: es mucho más <strong>barato retener</strong> a un cliente existente que <strong>adquirir uno nuevo</strong>. Los clientes leales compran repetidamente.<br>• <strong>Mayor valor de por vida del cliente</strong> (CLV): los clientes leales compran más productos, más frecuentemente y a lo largo de muchos años, generando ingresos recurrentes.<br>• <strong>Lealtad de marca</strong>: los clientes satisfechos se convierten en <strong>defensores de la marca</strong> y <strong>recomiendan</strong> a amigos y familiares (boca a boca positivo).<br>• <strong>Menor sensibilidad al precio</strong>: los clientes leales están más dispuestos a pagar un precio premium.<br>• <strong>Feedback valioso</strong>: los clientes leales están más dispuestos a dar su opinión para ayudar a mejorar productos y servicios.<br>• <strong>Reducción de costos operativos</strong>: los clientes leales requieren menos esfuerzo de marketing y servicio.</p><p>Para construir relaciones fuertes, las empresas deben:<br>• <strong>Entregar valor superior</strong> consistentemente.<br>• <strong>Proporcionar un servicio al cliente excepcional</strong>.<br>• <strong>Personalizar</strong> la comunicación y las ofertas.<br>• <strong>Reconocer y recompensar</strong> la lealtad (programas de fidelización).<br>• <strong>Escuchar activamente</strong> al cliente.</p><p>Las relaciones de calidad son un <strong>activo estratégico</strong> que no puede ser copiado fácilmente por la competencia.</p>"
     },
     {
-      "intro": "La gestión de marcas (branding) es el proceso de crear un nombre, símbolo, diseño o conjunto de elementos que identifiquen y diferencien un producto o servicio. Una marca fuerte transmite confianza, calidad y valor, y genera lealtad. La marca no es solo un logo, sino la suma de todas las experiencias que el cliente tiene con la empresa.",
-      "question": "9. ¿Qué es una marca?",
+      "intro": "El mercado es el conjunto de todos los compradores reales y potenciales de un producto o servicio. Puede definirse geográficamente, demográficamente, por comportamiento o por necesidades. Comprender la dinámica del mercado, incluyendo a los clientes, competidores y otros actores, es esencial para diseñar una estrategia de marketing efectiva y posicionarse de forma competitiva.",
+      "question": "6. ¿Cómo se puede definir un mercado?",
       "options": [
-        "Solo un logo",
-        "El nombre del producto",
-        "La suma de todas las experiencias del cliente con la empresa",
-        "El precio de venta"
-      ],
-      "correct": [2],
-      "saber_mas": "<p>Una <u>marca</u> no es solo un <strong>nombre, logo o eslogan</strong>, sino la <strong>suma de todas las experiencias</strong> que un cliente tiene con una empresa, producto o servicio.</p><p>Incluye:<br>• <strong>Calidad percibida</strong><br>• <strong>Confianza</strong><br>• <strong>Emociones</strong> asociadas<br>• <strong>Reputación</strong><br>• <strong>Interacciones</strong> con empleados, servicio al cliente, etc.</p><p>Una <strong>marca fuerte</strong>:<br>• <strong>Diferencia</strong> del competidor.<br>• <strong>Justifica precios superiores</strong>.<br>• <strong>Genera lealtad</strong> y recomendaciones.<br>• <strong>Reduce el riesgo percibido</strong> en la compra.</p><p>La <strong>gestión de marcas</strong> (branding) implica crear una identidad clara, coherente y valiosa que resuene con el público objetivo.</p><p>Es un <strong>activo intangible</strong> crucial para la ventaja competitiva sostenible.</p>"
-    },
-    {
-      "intro": "El marketing digital ha transformado la forma en que las empresas se comunican con los consumidores. A través de canales como redes sociales, email, SEO y publicidad online, permite una comunicación más personalizada, segmentada y medible. El marketing digital también facilita la interacción bidireccional y la construcción de comunidades en torno a la marca.",
-      "question": "10. ¿Qué ventaja ofrece el marketing digital frente al tradicional?",
-      "options": [
-        "Menor alcance",
-        "Comunicación masiva sin segmentación",
-        "Personalización, segmentación y medición precisa",
-        "Mayor costo por contacto"
-      ],
-      "correct": [2],
-      "saber_mas": "<p>El <u>marketing digital</u> ofrece ventajas significativas frente al marketing tradicional:</p><p>• <strong>Personalización</strong>: se pueden adaptar mensajes a intereses, comportamientos y demografía específicos.<br>• <strong>Segmentación avanzada</strong>: se pueden dirigir campañas a audiencias muy específicas (por ubicación, edad, intereses, etc.).<br>• <strong>Medición precisa</strong>: se puede rastrear en tiempo real el rendimiento de cada campaña (clics, conversiones, ROI).<br>• <strong>Interacción bidireccional</strong>: permite el diálogo con los clientes a través de comentarios, mensajes y redes sociales.<br>• <strong>Construcción de comunidades</strong>: se pueden crear grupos de fans y defensores de la marca.</p><p>Canaliza: redes sociales, email marketing, SEO, SEM, marketing de contenidos.</p><p>Permite una <strong>gestión más eficiente</strong> del presupuesto y una <strong>mayor rentabilidad</strong> de las inversiones en marketing.</p>"
-    },
-    {
-      "intro": "El marketing estratégico se enfoca en el largo plazo, definiendo la dirección de la empresa, sus objetivos y cómo competirá en el mercado. Incluye el análisis del entorno, la segmentación, el posicionamiento y la definición de la propuesta de valor. El marketing táctico, en cambio, se ocupa de las acciones concretas (como campañas publicitarias) para implementar la estrategia.",
-      "question": "11. ¿Cuál es la diferencia entre marketing estratégico y táctico?",
-      "options": [
-        "El estratégico se ocupa de campañas diarias",
-        "El estratégico define la dirección a largo plazo; el táctico implementa acciones concretas",
-        "El táctico define la misión de la empresa",
-        "No hay diferencia"
+        "Solo como un lugar físico",
+        "Como el conjunto de compradores reales y potenciales de un producto",
+        "Solo como un grupo de competidores",
+        "Ignorar al cliente"
       ],
       "correct": [1],
-      "saber_mas": "<p>El <u>marketing estratégico</u> y el <u>táctico</u> son complementarios pero distintos:</p><p>• <strong>Marketing estratégico</strong>:<br>– Se enfoca en el <strong>largo plazo</strong>.<br>– Define la <strong>dirección</strong> de la empresa.<br>– Incluye: análisis del entorno (SWOT), <strong>segmentación</strong>, <strong>posicionamiento</strong>, <strong>propuesta de valor</strong> y <strong>objetivos</strong>.<br>– Responde a: <em>¿Dónde competimos? ¿Cómo ganamos?</em></p><p>• <strong>Marketing táctico</strong>:<br>– Se enfoca en el <strong>corto plazo</strong>.<br>– Implementa <strong>acciones concretas</strong> para ejecutar la estrategia.<br>– Incluye: campañas publicitarias, promociones, precios temporales, eventos.<br>– Responde a: <em>¿Cómo implementamos la estrategia?</em></p><p>Una buena estrategia sin tácticas efectivas no se materializa; tácticas sin estrategia son esfuerzos dispersos.</p>"
+      "saber_mas": "<p>Un <u>mercado</u> es el <strong>conjunto de todos los compradores reales y potenciales</strong> de un producto o servicio que comparten una necesidad o deseo específico y que están dispuestos y son capaces de participar en un intercambio para satisfacerlo.</p><p>No es solo un <strong>lugar físico</strong> (como un mercado al aire libre), sino un <strong>concepto más amplio</strong> que puede definirse de varias maneras:</p><p>• <strong>Por producto</strong>: el mercado de automóviles, el mercado de smartphones.<br>• <strong>Geográficamente</strong>: el mercado europeo, el mercado de América Latina.<br>• <strong>Demográficamente</strong>: el mercado de jóvenes, el mercado de adultos mayores.<br>• <strong>Por comportamiento</strong>: el mercado de consumidores ecológicos, el mercado de usuarios intensivos de tecnología.<br>• <strong>Por necesidades</strong>: el mercado de soluciones de transporte, el mercado de entretenimiento en el hogar.</p><p>Comprender el mercado implica analizar:<br>• <strong>El tamaño y el crecimiento</strong> del mercado.<br>• <strong>Las necesidades, deseos y comportamientos</strong> de los compradores.<br>• <strong>La estructura del mercado</strong> (número de compradores y vendedores).<br>• <strong>Los competidores</strong> y sus estrategias.<br>• <strong>Otros actores</strong> (proveedores, intermediarios, públicos, gobierno).</p><p>Una empresa debe <strong>segmentar el mercado</strong> (dividirlo en grupos más pequeños y homogéneos) para poder <strong>enfocar sus esfuerzos</strong> de marketing en los segmentos más atractivos (mercados meta).<br>El conocimiento profundo del mercado es la <strong>base de cualquier estrategia de marketing</strong> exitosa.</p>"
     },
     {
-      "intro": "La segmentación de mercados consiste en dividir un mercado heterogéneo en subgrupos más pequeños y homogéneos de consumidores con necesidades, comportamientos o características similares. Permite a las empresas diseñar ofertas y mensajes más relevantes para cada segmento. Los criterios comunes de segmentación incluyen geográficos, demográficos, psicográficos y conductuales.",
-      "question": "12. ¿Para qué sirve la segmentación de mercados?",
+      "intro": "El marketing mix, también conocido como las 4P, es el conjunto de herramientas tácticas que una empresa utiliza para producir la respuesta deseada en el mercado objetivo. Las 4P son Producto, Precio, Plaza (distribución) y Promoción. Este marco proporciona una estructura para planificar y ejecutar la oferta de marketing de manera coherente y eficaz.",
+      "question": "7. ¿Cuáles son las 4P del marketing mix?",
       "options": [
-        "Para vender a todos los consumidores igual",
-        "Para dividir el mercado en grupos homogéneos y diseñar ofertas más relevantes",
-        "Para reducir el número de productos",
-        "Para aumentar el precio"
+        "Precio, Publicidad, Producción, Promoción",
+        "Producto, Precio, Plaza, Promoción",
+        "Producto, Precio, Personal, Promoción",
+        "Ignorar al cliente"
       ],
       "correct": [1],
-      "saber_mas": "<p>La <u>segmentación de mercados</u> consiste en <strong>dividir un mercado amplio y heterogéneo</strong> en subgrupos más pequeños y <strong>homogéneos</strong> de consumidores que comparten necesidades, comportamientos o características similares.</p><p>Sirve para:<br>• <strong>Diseñar productos y servicios</strong> más relevantes para cada grupo.<br>• <strong>Personalizar mensajes de comunicación</strong> que resuenen con cada segmento.<br>• <strong>Asignar eficientemente</strong> recursos de marketing.<br>• <strong>Diferenciarse</strong> de la competencia que sigue una estrategia de masa.</p><p>Criterios comunes:<br>• <strong>Geográficos</strong>: país, región, ciudad.<br>• <strong>Demográficos</strong>: edad, género, ingresos, educación.<br>• <strong>Psicográficos</strong>: estilo de vida, valores, personalidad.<br>• <strong>Conductuales</strong>: uso del producto, lealtad, beneficios buscados.</p><p>Permite una <strong>estrategia de marketing más eficaz y rentable</strong>.</p>"
+      "saber_mas": "<p>El <u>marketing mix</u> es el conjunto de <strong>herramientas tácticas</strong> que una empresa combina para producir la respuesta deseada en su <strong>mercado objetivo</strong>. Es un marco fundamental para planificar y ejecutar la oferta de marketing.</p><p>Las <strong>4P clásicas</strong> son:</p><p>1. <strong>Producto</strong>:<br>   – El bien o servicio que se ofrece.<br>   – Incluye características, calidad, diseño, marca, servicios, garantías y empaque.<br>   – ¿Qué valor crea para el cliente?</p><p>2. <strong>Precio</strong>:<br>   – La cantidad de dinero que los clientes deben pagar.<br>   – Incluye lista de precios, descuentos, condiciones de pago, crédito.<br>   – ¿Qué valor perciben los clientes y cuánto están dispuestos a pagar?</p><p>3. <strong>Plaza</strong> (Distribución):<br>   – Las actividades que hacen que el producto esté disponible para los consumidores.<br>   – Incluye canales de distribución (mayoristas, minoristas, online), cobertura, logística, gestión de inventarios.<br>   – ¿Cómo llega el producto al cliente?</p><p>4. <strong>Promoción</strong>:<br>   – Las actividades para comunicar el valor del producto y persuadir a los compradores.<br>   – Incluye publicidad, promociones de ventas, relaciones públicas, ventas personales y marketing directo.<br>   – ¿Cómo se comunica el valor?</p><p>Las 4P deben estar <strong>alineadas y coordinadas</strong> para ofrecer un valor coherente. El marketero debe decidir un <strong>mix de marketing</strong> óptimo que satisfaga las necesidades del mercado objetivo mejor que la competencia.</p><p>Este marco ha sido ampliado a 7P para servicios (añadiendo Personas, Procesos y Evidencia Física), pero las 4P siguen siendo la base.</p>"
     },
     {
-      "intro": "El posicionamiento es el proceso de diseñar la oferta y la imagen de la marca para ocupar un lugar claro, distinto y atractivo en la mente del consumidor objetivo. No es lo que la empresa hace al producto, sino lo que hace en la mente del cliente. Un buen posicionamiento responde a la pregunta: ¿Cómo queremos que nos perciban frente a la competencia?",
-      "question": "13. ¿Qué es el posicionamiento de marca?",
+      "intro": "El proceso de marketing consta de cinco pasos clave: entender al mercado y las necesidades del cliente, diseñar una estrategia de marketing, construir una oferta de marketing que cree valor, crear relaciones rentables con los clientes y capturar valor a cambio. Este proceso es dinámico y cíclico, requiriendo una gestión continua.",
+      "question": "8. ¿Cuál es el primer paso del proceso de marketing?",
       "options": [
-        "El lugar físico donde se vende el producto",
-        "El precio del producto",
-        "El lugar que ocupa la marca en la mente del consumidor frente a la competencia",
-        "La cantidad de publicidad"
-      ],
-      "correct": [2],
-      "saber_mas": "<p>El <u>posicionamiento de marca</u> es el proceso de <strong>diseñar la oferta y la imagen</strong> de una marca para que ocupe un <strong>lugar claro, distinto y atractivo</strong> en la mente del consumidor objetivo.</p><p>Como dijo Al Ries y Jack Trout: <em>“El posicionamiento no es lo que haces al producto. Es lo que haces en la mente del cliente”</em>.</p><p>Responde a la pregunta: <strong>¿Cómo queremos que nos perciban frente a la competencia?</strong></p><p>Ejemplos:<br>• Volvo: <strong>“Seguridad”</strong><br>• Apple: <strong>“Innovación y diseño”</strong><br>• Walmart: <strong>“Precios bajos todos los días”</strong></p><p>Un buen posicionamiento:<br>• Es <strong>diferenciado</strong>.<br>• Es <strong>relevante</strong> para el cliente.<br>• Es <strong>creíble</strong>.<br>• Es <strong>sostenible</strong> en el tiempo.</p><p>Guía todas las decisiones de marketing: producto, precio, comunicación.</p>"
-    },
-    {
-      "intro": "El marketing de contenidos consiste en crear y distribuir información valiosa, relevante y consistente para atraer y retener a un público objetivo, con el fin de impulsar acciones rentables del cliente. A diferencia de la publicidad tradicional, no vende directamente, sino que educa, entretiene o ayuda al consumidor, construyendo confianza y autoridad.",
-      "question": "14. ¿Cuál es el objetivo del marketing de contenidos?",
-      "options": [
-        "Vender productos de forma directa",
-        "Crear publicidad intrusiva",
-        "Atraer y retener a un público mediante contenido valioso",
-        "Reducir costos de producción"
-      ],
-      "correct": [2],
-      "saber_mas": "<p>El <u>marketing de contenidos</u> consiste en <strong>crear y distribuir información valiosa, relevante y consistente</strong> para atraer, retener y convertir a un público objetivo.</p><p>Su objetivo no es <strong>vender directamente</strong>, sino <strong>construir relaciones</strong> mediante la entrega de valor.</p><p>Tipos de contenido:<br>• Blog posts<br>• Videos<br>• Podcasts<br>• Infografías<br>• eBooks<br>• Webinars</p><p>Beneficios:<br>• <strong>Atrae tráfico orgánico</strong> (especialmente mediante SEO).<br>• <strong>Establece autoridad</strong> y confianza en el mercado.<br>• <strong>Educa al cliente</strong> en su proceso de compra.<br>• <strong>Fomenta la lealtad</strong> y el engagement.<br>• <strong>Genera leads</strong> cualificados.</p><p>Es una estrategia de <strong>marketing de atracción</strong> (inbound marketing) que funciona a largo plazo.</p>"
-    },
-    {
-      "intro": "El marketing experiencial se centra en crear experiencias memorables para el cliente que vayan más allá del producto o servicio. Busca conectar emocionalmente con el consumidor a través de eventos, interacciones sensoriales o servicios personalizados. Estas experiencias generan recuerdos positivos, fortalecen la relación con la marca y fomentan la lealtad.",
-      "question": "15. ¿Qué busca el marketing experiencial?",
-      "options": [
-        "Vender más productos",
-        "Crear experiencias memorables que conecten emocionalmente con el cliente",
-        "Reducir el precio",
-        "Aumentar la producción"
+        "Hacer publicidad",
+        "Entender al mercado y las necesidades del cliente",
+        "Fijar el precio",
+        "Ignorar al cliente"
       ],
       "correct": [1],
-      "saber_mas": "<p>El <u>marketing experiencial</u> busca <strong>crear experiencias memorables</strong> para el cliente que vayan más allá del producto o servicio.</p><p>Se centra en <strong>conectar emocionalmente</strong> con el consumidor a través de:<br>• <strong>Eventos interactivos</strong><br>• <strong>Interacciones sensoriales</strong> (vista, sonido, tacto, olfato)<br>• <strong>Servicios personalizados</strong><br>• <strong>Entornos inmersivos</strong></p><p>Busca que el cliente no solo compre, sino que <strong>viva una experiencia</strong> que recuerde positivamente.</p><p>Ejemplos:<br>• Pop-up stores interactivas.<br>• Eventos de lanzamiento con demostraciones.<br>• Programas de fidelización con beneficios exclusivos.</p><p>Estas experiencias:<br>• <strong>Fortalecen la relación</strong> con la marca.<br>• <strong>Generan engagement</strong> y contenido compartido.<br>• <strong>Fomentan la lealtad</strong> y el boca en boca.<br>• <strong>Diferencian</strong> en mercados saturados.</p><p>Es clave en un entorno donde los productos son cada vez más intercambiables.</p>"
+      "saber_mas": "<p>El <u>proceso de marketing</u> es un <strong>enfoque estructurado y dinámico</strong> que las empresas siguen para crear, entregar y capturar valor. Consta de cinco pasos interrelacionados:</p><p>1. <strong>Entender al mercado y las necesidades del cliente</strong>:<br>   – Investigar el entorno, identificar segmentos de mercado, analizar a los compradores y a la competencia.<br>   – Es el <strong>primer y más crítico paso</strong>, ya que toda la estrategia se basa en este conocimiento.</p><p>2. <strong>Diseñar una estrategia de marketing</strong>:<br>   – Seleccionar los <strong>mercados meta</strong> (segmentación y selección).<br>   – Desarrollar una propuesta de <strong>posicionamiento</strong> (cómo la oferta se diferencia en la mente del cliente).</p><p>3. <strong>Construir una oferta de marketing</strong>:<br>   – Diseñar el <strong>marketing mix</strong> (4P: Producto, Precio, Plaza, Promoción) para crear valor superior.</p><p>4. <strong>Crear relaciones rentables con los clientes</strong>:<br>   – Implementar programas de <strong>fidelización</strong>.<br>   – Proporcionar <strong>servicio al cliente excepcional</strong>.<br>   – Utilizar <strong>marketing relacional</strong> y <strong>CRM</strong> (gestión de relaciones con el cliente).</p><p>5. <strong>Capturar valor a cambio</strong>:<br>   – Obtener <strong>beneficios</strong> financieros.<br>   – Aumentar la <strong>cuota de mercado</strong> y el <strong>valor de por vida del cliente</strong> (CLV).</p><p>Este proceso no es lineal, sino <strong>cíclico y continuo</strong>. El éxito en el paso 5 (capturar valor) depende de un buen desempeño en los pasos 1 a 4. Las empresas deben <strong>monitorear constantemente</strong> el entorno y <strong>ajustar su estrategia</strong> para mantener su competitividad.</p>"
+    },
+    {
+      "intro": "La gestión de marketing es el proceso de planificación, implementación y control de programas diseñados para crear, entregar y comunicar valor a los clientes. Implica la toma de decisiones estratégicas y tácticas, la asignación de recursos y la coordinación entre diferentes departamentos. Un buen management de marketing es esencial para el éxito de la empresa.",
+      "question": "9. ¿Qué implica la gestión de marketing?",
+      "options": [
+        "Solo planificar campañas publicitarias",
+        "Planificar, implementar y controlar programas para crear y entregar valor",
+        "Solo vender productos",
+        "Ignorar al cliente"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>gestión de marketing</u> es el proceso estratégico de <strong>planificar, implementar y controlar</strong> programas diseñados para crear, entregar y comunicar valor a los clientes, con el objetivo de alcanzar metas organizacionales.</p><p>Es una <strong>función de alto nivel</strong> que va mucho más allá de simplemente ejecutar campañas publicitarias. Involucra:</p><p>• <strong>Planificación estratégica</strong>:<br>  – Definir la <strong>misión</strong> y <strong>objetivos</strong> de marketing.<br>  – Analizar el <strong>entorno</strong> (oportunidades y amenazas).<br>  – Desarrollar <strong>estrategias de crecimiento</strong> (segmentación, posicionamiento).<br>  – Asignar <strong>recursos</strong> (presupuesto) a diferentes productos, mercados y actividades.</p><p>• <strong>Implementación</strong>:<br>  – Llevar a cabo las actividades de marketing (lanzamientos, promociones, ventas).<br>  – Coordinar con otros departamentos (ventas, producción, finanzas, logística).<br>  – Gestionar el <strong>marketing mix</strong> (4P).</p><p>• <strong>Control</strong>:<br>  – Medir el <strong>desempeño</strong> de las actividades de marketing (ventas, participación de mercado, satisfacción del cliente).<br>  – Comparar los resultados con los <strong>objetivos</strong> establecidos.<br>  – <strong>Diagnosticar</strong> desviaciones y <strong>tomar acciones correctivas</strong>.</p><p>La gestión de marketing requiere <strong>habilidades analíticas, creativas y de liderazgo</strong>. Debe estar <strong>alineada con la estrategia general de la empresa</strong> y ser <strong>centrada en el cliente</strong>. Un buen management de marketing es esencial para que la empresa <strong>superviva y prospere</strong> en un entorno competitivo.</p>"
+    },
+    {
+      "intro": "El concepto de marketing es la filosofía de negocio que afirma que el logro de los objetivos de la empresa depende de conocer las necesidades y deseos del mercado objetivo y entregar satisfacción superior a la competencia. Es un enfoque centrado en el cliente que contrasta con enfoques más tradicionales como la producción o las ventas.",
+      "question": "10. ¿Qué afirma el concepto de marketing?",
+      "options": [
+        "Que el éxito depende de producir más barato",
+        "Que el éxito depende de conocer las necesidades del mercado y entregar satisfacción superior",
+        "Solo vender lo que se produce",
+        "Ignorar al cliente"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>concepto de marketing</u> es la <strong>filosofía de negocio fundamental</strong> que guía a las empresas modernas. Afirma que el logro de los <strong>objetivos organizacionales</strong> depende de <strong>identificar las necesidades y deseos</strong> del mercado objetivo y de <strong>entregar satisfacción superior</strong> a la competencia.</p><p>Este concepto se basa en cuatro pilares:<br>1. <strong>El mercado objetivo</strong>: centrarse en un grupo específico de clientes, no en todos.<br>2. <strong>Las necesidades del cliente</strong>: entender profundamente lo que los clientes necesitan y desean.<br>3. <strong>La integración de marketing</strong>: coordinar todas las actividades de marketing (4P) para crear un valor coherente.<br>4. <strong>La rentabilidad</strong>: satisfacer al cliente de forma rentable para la empresa.</p><p>Contrasta con otras filosofías:<br>• <strong>Concepto de producción</strong>: se centra en la eficiencia y el bajo costo, asumiendo que los consumidores preferirán productos disponibles y asequibles.<br>• <strong>Concepto de producto</strong>: se centra en mejorar el producto, asumiendo que los consumidores preferirán productos de alta calidad y con muchas características.<br>• <strong>Concepto de ventas</strong>: se centra en vender lo que se produce, utilizando agresivas técnicas de promoción y ventas.<br>• <strong>Concepto de marketing social</strong>: una evolución del concepto de marketing que considera también el bienestar a largo plazo del consumidor y la sociedad.</p><p>El concepto de marketing es <strong>proactivo</strong>: busca entender al cliente para <strong>diseñar ofertas que lo satisfagan</strong>, en lugar de tratar de vender lo que ya se ha fabricado.</p>"
+    },
+    {
+      "intro": "El concepto de marketing social amplía el concepto de marketing tradicional al afirmar que la empresa debe determinar las necesidades, deseos y intereses de los mercados objetivo y entregar satisfacción de forma que preserve o mejore el bienestar del consumidor y de la sociedad. Este enfoque busca equilibrar las necesidades del cliente, las de la empresa y las de la sociedad a largo plazo.",
+      "question": "11. ¿Qué añade el concepto de marketing social al concepto de marketing tradicional?",
+      "options": [
+        "Solo maximizar beneficios",
+        "Considerar el bienestar del consumidor y de la sociedad a largo plazo",
+        "Solo mejorar el producto",
+        "Ignorar al cliente"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>concepto de marketing social</u> es una <strong>evolución y ampliación</strong> del concepto de marketing tradicional. Afirma que la empresa debe determinar las <strong>neceidades, deseos e intereses</strong> de los mercados objetivo y <strong>entregar satisfacción</strong> de forma que <strong>preserve o mejore el bienestar del consumidor y de la sociedad</strong> a largo plazo.</p><p>Busca un <strong>equilibrio</strong> entre tres elementos:<br>1. <strong>Las necesidades y deseos del consumidor</strong>.<br>2. <strong>Los intereses de la empresa</strong> (beneficios, crecimiento).<br>3. <strong>El bienestar a largo plazo de la sociedad</strong> (salud, medio ambiente, ética).</p><p>Argumenta que las empresas que ignoran el bienestar social a largo plazo eventualmente <strong>dañarán su propia reputación</strong> y <strong>perjudicarán sus intereses</strong>. Por ejemplo, vender productos que son adictivos o perjudiciales para la salud puede generar beneficios a corto plazo, pero a largo plazo puede llevar a regulaciones, campañas de desprestigio y pérdida de confianza.</p><p>Ejemplos de marketing social:<br>• Una empresa de alimentos que reduce el azúcar y la sal en sus productos para combatir la obesidad.<br>• Una empresa de automóviles que invierte en vehículos eléctricos para reducir la contaminación.<br>• Una empresa que utiliza materiales sostenibles y comercio justo.</p><p>Este enfoque no significa <strong>sacrificar la rentabilidad</strong>, sino <strong>integrar la responsabilidad social en el modelo de negocio</strong>. Las empresas que practican el marketing social a menudo <strong>mejoran su reputación</strong>, <strong>atraen a consumidores y empleados</strong> que valoran la ética, y <strong>obtienen una ventaja competitiva sostenible</strong>. Es la base del <strong>marketing sostenible</strong> y la <strong>responsabilidad social empresarial</strong> (RSE).</p>"
+    },
+    {
+      "intro": "La satisfacción del cliente se determina por la comparación entre las expectativas del cliente y el desempeño percibido del producto o servicio. Si el desempeño es igual a las expectativas, el cliente está satisfecho. Si es superior, está muy satisfecho. Si es inferior, está insatisfecho. Las empresas deben gestionar cuidadosamente las expectativas y superarlas consistentemente.",
+      "question": "12. ¿Cómo se determina la satisfacción del cliente?",
+      "options": [
+        "Solo por el precio",
+        "Por la comparación entre expectativas y desempeño percibido",
+        "Solo por la calidad del producto",
+        "Ignorar al cliente"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>satisfacción del cliente</u> es un <strong>juicio post-compra</strong> que el cliente hace sobre un producto o servicio. Se determina por la <strong>comparación entre sus expectativas previas</strong> y el <strong>desempeño percibido</strong> después de la experiencia.</p><p>• Si el <strong>desempeño percibido es igual a las expectativas</strong>, el cliente está <strong>satisfecho</strong>.<br>• Si el <strong>desempeño percibido es superior a las expectativas</strong>, el cliente está <strong>muy satisfecho</strong> o <strong>encantado</strong>.<br>• Si el <strong>desempeño percibido es inferior a las expectativas</strong>, el cliente está <strong>insatisfecho</strong>.</p><p>Las expectativas del cliente se forman a partir de:<br>• <strong>Experiencias previas</strong> con la marca o producto.<br>• <strong>Palabras de boca a boca</strong> de amigos y familiares.<br>• <strong>Publicidad</strong> y <strong>promesas de la marca</strong>.<br>• <strong>Opiniones en línea</strong> y reseñas.<br>• <strong>Marca y reputación</strong> del vendedor.</p><p>Para lograr la satisfacción, las empresas deben:<br>• <strong>Gestionar cuidadosamente las expectativas</strong>: no hacer promesas que no puedan cumplir.<br>• <strong>Entregar un desempeño consistente y de alta calidad</strong>.<br>• <strong>Superar las expectativas</strong> cuando sea posible (delight the customer).<br>• <strong>Resolver eficazmente las quejas</strong> (una queja resuelta puede fortalecer la relación).</p><p>La satisfacción del cliente es crucial porque:<br>• <strong>Conduce a la lealtad</strong> y al <strong>valor de por vida del cliente</strong> (CLV).<br>• <strong>Genera recomendaciones positivas</strong> (boca a boca).<br>• <strong>Reduce el costo de servicio</strong> (los clientes satisfechos tienen menos problemas).<br>• <strong>Protege contra la competencia</strong>.</p><p>Las empresas deben <strong>medir regularmente</strong> la satisfacción del cliente mediante encuestas (CSAT, NPS) para identificar oportunidades de mejora.</p>"
+    },
+    {
+      "intro": "El valor de por vida del cliente (CLV) es el beneficio total que una empresa espera obtener de una relación con un cliente a lo largo del tiempo. Es una métrica clave porque enfatiza la importancia de retener a los clientes y profundizar la relación, en lugar de enfocarse solo en la ganancia de la primera venta. Un CLV alto indica una relación rentable y sostenible.",
+      "question": "13. ¿Qué mide el valor de por vida del cliente (CLV)?",
+      "options": [
+        "Solo el beneficio de la primera compra",
+        "El beneficio total esperado de la relación con el cliente a lo largo del tiempo",
+        "Solo el número de compras",
+        "Ignorar al cliente"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>Valor de por Vida del Cliente</u> (Customer Lifetime Value, CLV) es una <strong>métrica estratégica</strong> que estima el <strong>beneficio total neto</strong> que una empresa espera obtener de toda la relación futura con un cliente.</p><p>Es mucho más que el margen de la primera venta. Considera:<br>• <strong>El valor de las compras futuras</strong> (frecuencia y valor promedio del pedido).<br>• <strong>La duración de la relación</strong> (cuánto tiempo el cliente permanece leal).<br>• <strong>El costo de adquisición y retención</strong> del cliente.<br>• <strong>El costo de servicio</strong> asociado.</p><p>El CLV es crucial porque:<br>• <strong>Enfatiza la importancia de la retención</strong>: es mucho más rentable retener a un cliente que adquirir uno nuevo.<br>• <strong>Guía la inversión en marketing</strong>: permite a la empresa saber cuánto puede gastar razonablemente para adquirir o retener a un cliente.<br>• <strong>Identifica clientes de alto valor</strong>: permite segmentar y priorizar recursos hacia los clientes más rentables.<br>• <strong>Evalúa la efectividad de las estrategias de fidelización</strong>.<br>• <strong>Contribuye a la valoración de la empresa</strong>.</p><p>Una empresa con un <strong>CLV alto</strong> indica que tiene relaciones fuertes y rentables con sus clientes. Para aumentar el CLV, las empresas deben:<br>• <strong>Mejorar la satisfacción del cliente</strong>.<br>• <strong>Ofrecer programas de fidelización</strong> atractivos.<br>• <strong>Practicar el marketing cruzado y ascendente</strong> (vender productos complementarios o de mayor valor).<br>• <strong>Reducir la tasa de abandono</strong> (churn).</p><p>El CLV transforma la visión del cliente de una <strong>transacción</strong> a una <strong>relación de inversión</strong>.</p>"
+    },
+    {
+      "intro": "La lealtad del cliente es un estado de compromiso en el que el cliente compra repetidamente de la misma marca a pesar de las influencias del mercado y los esfuerzos de marketing de la competencia. Es el resultado de una satisfacción consistente y de relaciones fuertes. Los clientes leales son menos sensibles al precio y actúan como defensores de la marca.",
+      "question": "14. ¿Qué caracteriza a un cliente leal?",
+      "options": [
+        "Solo compra por el precio más bajo",
+        "Compra repetidamente de la misma marca a pesar de la competencia",
+        "Solo compra una vez",
+        "Ignorar al cliente"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>lealtad del cliente</u> es un <strong>estado de compromiso profundo</strong> en el que el cliente <strong>compra repetidamente</strong> de la misma marca a lo largo del tiempo, <strong>a pesar de las influencias del mercado</strong> y los <strong>esfuerzos de marketing de la competencia</strong>.</p><p>Es más que una <strong>compra repetida</strong> por conveniencia o precio. Es un <strong>comportamiento basado en una actitud positiva</strong> hacia la marca.</p><p>Características de un cliente leal:<br>• <strong>Compras repetidas</strong> y <strong>preferencia por la marca</strong>.<br>• <strong>Menor sensibilidad al precio</strong>: está dispuesto a pagar más por la marca que valora.<br>• <strong>Resistencia a la competencia</strong>: no cambia fácilmente de marca por una oferta promocional.<br>• <strong>Recomendaciones activas</strong>: habla positivamente de la marca y la recomienda a otros (brand advocacy).<br>• <strong>Mayor tolerancia a errores ocasionales</strong>: más dispuesto a perdonar un problema si la relación general es buena.<br>• <strong>Mayor valor de por vida</strong> (CLV).</p><p>La lealtad se construye a través de:<br>• <strong>Satisfacción consistente</strong> con el producto y el servicio.<br>• <strong>Experiencias de marca positivas</strong> en todos los puntos de contacto.<br>• <strong>Programas de fidelización</strong> que recompensan la lealtad.<br>• <strong>Comunicación personalizada</strong> y relevante.<br>• <strong>Relaciones emocionales</strong> con la marca (valores compartidos).</p><p>Para las empresas, la lealtad del cliente es un <strong>activo estratégico</strong> invaluable porque:<br>• <strong>Reduce los costos</strong> de adquisición y servicio.<br>• <strong>Genera ingresos recurrentes</strong>.<br>• <strong>Actúa como una barrera contra la competencia</strong>.<br>• <strong>Proporciona un canal de marketing gratuito</strong> a través del boca a boca.</p><p>Medir la lealtad (por ejemplo, con el Net Promoter Score) es esencial para el crecimiento sostenible.</p>"
+    },
+    {
+      "intro": "La dirección de marketing es la función de la empresa responsable de gestionar el proceso de marketing. Implica la planificación, ejecución y control de actividades diseñadas para establecer, fortalecer y mantener relaciones rentables con los clientes. Es una función estratégica que debe estar alineada con la dirección general de la empresa y centrada en el cliente.",
+      "question": "15. ¿Cuál es el objetivo de la dirección de marketing?",
+      "options": [
+        "Solo vender más productos",
+        "Establecer, fortalecer y mantener relaciones rentables con los clientes",
+        "Solo hacer publicidad",
+        "Ignorar al cliente"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>dirección de marketing</u> es la <strong>función administrativa</strong> dentro de la empresa que es responsable de <strong>gestionar todo el proceso de marketing</strong>.</p><p>Su objetivo principal no es simplemente <strong>vender más</strong> o <strong>hacer publicidad</strong>, sino <strong>establecer, fortalecer y mantener relaciones rentables</strong> con los clientes.</p><p>Responsabilidades clave de la dirección de marketing:<br>• <strong>Analizar</strong> el entorno de marketing (oportunidades y amenazas).<br>• <strong>Seleccionar</strong> los mercados meta.<br>• <strong>Diseñar</strong> la estrategia de marketing (posicionamiento).<br>• <strong>Desarrollar</strong> el marketing mix (4P) para crear valor.<br>• <strong>Implementar</strong> y <strong>controlar</strong> los planes de marketing.<br>• <strong>Medir</strong> el desempeño y <strong>ajustar</strong> las estrategias.<br>• <strong>Coordinar</strong> con otros departamentos (ventas, producción, finanzas) para asegurar una ejecución coherente.<br>• <strong>Definir</strong> la <strong>misión</strong> y <strong>objetivos</strong> de marketing.</p><p>La dirección de marketing debe ser:<br>• <strong>Centrada en el cliente</strong>: toda la estrategia debe girar en torno a satisfacer al cliente.<br>• <strong>Stratégica</strong>: tomar decisiones a largo plazo que afecten la posición competitiva de la empresa.<br>• <strong>Integrada</strong>: asegurar que todas las herramientas de marketing trabajen juntas de forma coherente.<br>• <strong>Orientada a resultados</strong>: enfocada en alcanzar objetivos de rentabilidad y crecimiento.</p><p>Una dirección de marketing efectiva es esencial para que la empresa <strong>superviva y prospere</strong> en un entorno competitivo. Actúa como el <strong>puente entre la empresa y sus mercados</strong>, asegurando que la empresa cree valor para sus clientes y capture valor a cambio.</p>"
     }
   ]
 }
