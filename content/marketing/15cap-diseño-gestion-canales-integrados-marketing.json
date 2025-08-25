@@ -1,186 +1,185 @@
 {
-  "title": "Diseño y Gestión de Canales Integrados de Marketing",
-  "description": "Quiz sobre la selección, gestión y evaluación de canales de distribución, la logística y la entrega de valor al cliente.",
+  "title": "Capítulo 15: Dirección de marketing – Canales de marketing",
   "questions": [
     {
-      "intro": "Los canales de marketing son las rutas a través de las cuales los productos y servicios llegan desde el productor hasta el consumidor final. Un canal puede incluir intermediarios como mayoristas, minoristas, distribuidores o agentes. La elección del canal es una decisión estratégica que afecta la cobertura del mercado, el control sobre la marca, los costos y la experiencia del cliente. Un canal bien diseñado asegura que el producto esté disponible en el momento y lugar adecuados, maximizando la satisfacción del cliente.",
-      "question": "1. ¿Qué es un canal de marketing?",
+      "intro": "Los canales de marketing son las rutas a través de las cuales los productos y servicios llegan al consumidor final. Incluyen desde el fabricante hasta el minorista, el mayorista y, finalmente, el cliente. Estos canales no solo distribuyen el producto, sino que también agregan valor mediante servicios como almacenamiento, promoción, financiamiento y entrega. Una elección adecuada del canal es crucial, ya que afecta la cobertura del mercado, el costo y la experiencia del cliente. Las empresas deben decidir si venden directamente o a través de intermediarios, y cómo gestionar las relaciones con ellos para maximizar la eficiencia y la satisfacción del cliente.",
+      "question": "1. ¿Qué función agregan los canales de marketing además de la distribución física?",
       "options": [
-        "Solo la tienda física del producto",
-        "La ruta que sigue un producto desde el productor hasta el consumidor",
-        "Solo el transporte del producto",
-        "Solo el precio del producto"
+        "Solo transporte",
+        "Almacenamiento, promoción, financiamiento y entrega",
+        "Reducción del número de empleados",
+        "Eliminación de la competencia"
       ],
       "correct": [1],
-      "saber_mas": "<p>Un <u>canal de marketing</u> es la <strong>red de organizaciones interdependientes</strong> que participan en el proceso de poner un producto o servicio a disposición del <strong>consumidor final</strong> o del <strong>usuario industrial</strong>.</p><p>No es solo un medio de transporte, sino un <strong>sistema de valor</strong> que incluye todas las actividades necesarias para la <strong>transferencia de propiedad</strong> y la <strong>entrega física</strong> del producto.</p><p>Componentes comunes:<br>• <strong>Productor</strong>: la empresa que crea el producto.<br>• <strong>Intermediarios</strong>: mayoristas, distribuidores, minoristas, agentes, brokers.<br>• <strong>Consumidor final</strong>: el cliente que compra para uso personal.<br>• <strong>Usuario industrial</strong>: otra empresa que compra para uso en su producción.</p><p>El canal realiza funciones clave:<br>• <strong>Negociación</strong> (precios, términos).<br>• <strong>Financiamiento</strong> del flujo de productos.<br>• <strong>Riesgo</strong> (inventario, crédito).<br>• <strong>Información</strong> (mercado, retroalimentación).<br>• <strong>Promoción</strong>.<br>• <strong>Física</strong> (almacenamiento, transporte).</p><p>La elección del canal afecta <strong>directamente</strong> la <strong>estrategia de marketing</strong>, la <strong>rentabilidad</strong> y la <strong>experiencia del cliente</strong>.</p>"
+      "saber_mas": "<p>Los <u>canales de marketing</u> agregan valor al realizar funciones como <u>almacenamiento</u>, <u>promoción</u>, <u>financiamiento</u>, <u>entrega</u> y <u>transferencia de riesgos</u>.</p><p>No solo mueven el producto, sino que facilitan su acceso, financian su compra y promueven su uso.</p><p>Un canal bien diseñado mejora la eficiencia, reduce costos y optimiza la experiencia del cliente, siendo un activo estratégico clave en la entrega de valor.</p>"
     },
     {
-      "intro": "La selección del canal de distribución depende de múltiples factores, incluyendo las características del producto (tamaño, perecedero, complejidad), del mercado (tamaño, geografía, hábitos de compra), del consumidor (sensibilidad al precio, necesidad de servicio) y de la empresa (recursos, experiencia, estrategia). Una elección incorrecta puede limitar el acceso al mercado o aumentar innecesariamente los costos.",
-      "question": "2. ¿Qué factor debe considerar una empresa al seleccionar un canal de distribución?",
+      "intro": "La elección entre un canal directo e indirecto depende de varios factores, como el tipo de producto, el mercado objetivo y los recursos de la empresa. Un canal directo (fabricante → cliente) permite mayor control y margen, pero requiere más inversión. Un canal indirecto (con mayoristas o minoristas) amplía la cobertura con menos recursos, pero reduce el control y el margen. Empresas como Dell han utilizado canales directos para personalizar ofertas, mientras que otras, como Coca-Cola, dependen de redes extensas de distribución para alcanzar masivamente al consumidor.",
+      "question": "2. ¿Qué ventaja ofrece un canal directo de distribución?",
       "options": [
-        "Solo el color del producto",
-        "Las características del producto, del mercado y de la empresa",
-        "Solo el precio de venta",
-        "Ignorar al cliente"
-      ],
-      "correct": [1],
-      "saber_mas": "<p>La <u>selección del canal de distribución</u> es una <strong>decisión estratégica</strong> que debe basarse en un análisis cuidadoso de múltiples factores.</p><p>Factores clave:<br>• <strong>Producto</strong>:<br>  – Productos <strong>perecederos</strong> (alimentos) requieren canales <strong>cortos y rápidos</strong>.<br>  – Productos <strong>complejos</strong> (equipos industriales) requieren canales con <strong>servicio técnico</strong> y <strong>asesoramiento</strong>.<br>  – Productos <strong>de lujo</strong> requieren canales <strong>exclusivos</strong> (minoristas premium).<br>• <strong>Mercado</strong>:<br>  – Mercados <strong>grandes y dispersos</strong> pueden requerir <strong>mayoristas</strong> para ampliar la cobertura.<br>  – Mercados <strong>pequeños y concentrados</strong> permiten canales <strong>directos</strong>.<br>• <strong>Consumidor</strong>:<br>  – Clientes que valoran el <strong>servicio y la experiencia</strong> prefieren canales con <strong>interacción personal</strong>.<br>  – Clientes <strong>sensibles al precio</strong> pueden preferir canales <strong>de bajo costo</strong> (online, autoservicio).<br>• <strong>Empresa</strong>:<br>  – Recursos <strong>financieros y humanos</strong> para gestionar un canal directo.<br>  – <strong>Experiencia</strong> en la gestión de relaciones con intermediarios.<br>  – <strong>Estrategia de marca</strong> (control vs. cobertura).</p><p>Una elección incorrecta puede <strong>limitar el crecimiento</strong> o <strong>reducir la rentabilidad</strong>.</p>"
-    },
-    {
-      "intro": "Los canales directos permiten a la empresa vender directamente al consumidor sin intermediarios, como a través de su tienda online, catálogos o fuerza de ventas. Esto ofrece mayor control sobre la marca, el precio y la relación con el cliente, pero requiere mayores inversiones en logística y atención al cliente. Es ideal para productos personalizados, de alto valor o con necesidad de servicio postventa.",
-      "question": "3. ¿Qué ventaja ofrece un canal de distribución directo?",
-      "options": [
+        "Menor cobertura del mercado",
+        "Mayor control y margen sobre el producto",
         "Mayor dependencia de intermediarios",
-        "Mayor control sobre la marca y la relación con el cliente",
-        "Solo reduce costos",
-        "Ignorar al cliente"
+        "Reducción de la calidad del producto"
       ],
       "correct": [1],
-      "saber_mas": "<p>Un <u>canal de distribución directo</u> es aquel en el que la empresa <strong>vende directamente</strong> al consumidor final, <strong>sin intermediarios</strong>.</p><p>Formas comunes:<br>• Tiendas propias (físicas o online).<br>• Venta directa (fuerza de ventas, catálogos).<br>• Televenta.<br>• Venta en eventos o ferias.</p><p>Ventajas:<br>• <strong>Mayor control</strong> sobre la <strong>marca</strong>, el <strong>precio</strong>, la <strong>presentación</strong> y la <strong>experiencia del cliente</strong>.<br>• <strong>Relación directa</strong> con el cliente: acceso a datos, retroalimentación y fidelización.<br>• <strong>Mayor margen de beneficio</strong>: no hay que compartirlo con intermediarios.<br>• <strong>Flexibilidad</strong> para personalizar ofertas y servicios.<br>• <strong>Protección de la propiedad intelectual</strong> y prevención de la competencia desleal.</p><p>Desventajas:<br>• <strong>Altos costos</strong> de inversión y operación (logística, tecnología, personal).<br>• <strong>Alcance limitado</strong>: difícil alcanzar mercados grandes o dispersos sin apoyo.<br>• <strong>Mayor carga operativa</strong>: la empresa debe gestionar todas las funciones del canal.</p><p>Es ideal para productos <strong>personalizados</strong>, <strong>de alto valor</strong> o con <strong>necesidad de servicio postventa</strong> (ej. Tesla, Dell, marcas de lujo).</p>"
+      "saber_mas": "<p>Un <u>canal directo</u> (fabricante → cliente) ofrece <u>mayor control</u> sobre la marca, el precio y la experiencia del cliente, así como <u>margen más alto</u> al eliminar intermediarios.</p><p>Empresas como <u>Dell</u> o <u>Amazon</u> han utilizado este modelo para personalizar ofertas y construir relaciones directas.</p><p>Su desventaja es la mayor inversión necesaria en logística, servicio y promoción.</p>"
     },
     {
-      "intro": "Los canales indirectos utilizan uno o más intermediarios, como mayoristas o minoristas, para llegar al consumidor final. Esto permite una mayor cobertura del mercado con menores inversiones por parte del productor. Sin embargo, reduce el control sobre la marca, el precio y la experiencia del cliente. Es común en productos de consumo masivo, como alimentos, bebidas o artículos de limpieza.",
-      "question": "4. ¿Qué desventaja tiene un canal de distribución indirecto?",
+      "intro": "Los conflictos en los canales de marketing son inevitables, especialmente cuando diferentes niveles (fabricante, mayorista, minorista) tienen objetivos o incentivos distintos. Por ejemplo, un fabricante puede querer precios altos para proteger la marca, mientras que un minorista busca precios bajos para aumentar ventas. Estos conflictos pueden ser verticales (entre niveles) u horizontales (entre miembros del mismo nivel). La clave no es eliminarlos, sino gestionarlos mediante alineación de objetivos, comunicación y mecanismos de cooperación.",
+      "question": "3. ¿Qué tipo de conflicto ocurre entre un fabricante y un minorista por diferencias en precios?",
       "options": [
-        "Mayor control sobre el precio",
-        "Reducción del control sobre la marca y la experiencia del cliente",
-        "Solo aumenta los costos",
-        "Ignorar al cliente"
-      ],
-      "correct": [1],
-      "saber_mas": "<p>Un <u>canal de distribución indirecto</u> utiliza uno o más <strong>intermediarios</strong> (mayoristas, distribuidores, minoristas) para llevar el producto del productor al consumidor final.</p><p>Ventajas:<br>• <strong>Mayor cobertura del mercado</strong>: los intermediarios ya tienen acceso a una red de puntos de venta.<br>• <strong>Menor inversión</strong> por parte del productor en logística, ventas y atención al cliente.<br>• <strong>Acceso a conocimientos locales</strong> y relaciones con minoristas.<br>• <strong>Escalabilidad</strong>: más fácil expandirse a nuevos mercados.</p><p>Desventajas:<br>• <strong>Reducción del control</strong> sobre la <strong>marca</strong>, el <strong>precio</strong>, la <strong>presentación</strong> y la <strong>experiencia del cliente</strong>.<br>• <strong>Menor margen de beneficio</strong>: hay que compartirlo con los intermediarios.<br>• <strong>Riesgo de malentendidos</strong> o conflictos con los intermediarios.<br>• <strong>Información limitada</strong> sobre el consumidor final.<br>• <strong>Potencial de competencia</strong> si el intermediario promueve marcas rivales.</p><p>Es la opción <strong>más común</strong> para productos de <strong>consumo masivo</strong> (FMCG), como alimentos, bebidas, productos de limpieza, donde la <strong>cobertura</strong> es más importante que el <strong>control</strong>.</p><p>El productor debe <strong>gestionar activamente</strong> la relación con los intermediarios para alinear objetivos.</p>"
-    },
-    {
-      "intro": "La intensidad de la distribución se refiere al número de puntos de venta que se utilizan en un mercado. Puede ser intensiva (máxima cobertura), selectiva (puntos de venta cuidadosamente elegidos) o exclusiva (un solo punto de venta por área). La elección depende del posicionamiento de la marca: los productos de lujo suelen usar distribución exclusiva, mientras que los de consumo masivo usan intensiva.",
-      "question": "5. ¿Qué tipo de distribución usaría una marca de lujo?",
-      "options": [
-        "Intensiva",
-        "Selectiva",
-        "Exclusiva",
-        "Solo online"
+        "Conflicto horizontal",
+        "Conflicto de producto",
+        "Conflicto vertical",
+        "Conflicto de marca"
       ],
       "correct": [2],
-      "saber_mas": "<p>La <u>intensidad de la distribución</u> se refiere al <strong>número de puntos de venta</strong> que una empresa utiliza para vender su producto en un mercado geográfico determinado.</p><p>Tres enfoques principales:<br>• <strong>Distribución intensiva</strong>: el producto se vende en el <strong>máximo número posible</strong> de puntos de venta. Es ideal para productos de <strong>consumo masivo</strong> de bajo precio y compra frecuente, donde la <strong>conveniencia</strong> es clave (ej. chicles, refrescos, productos de limpieza).<br>• <strong>Distribución selectiva</strong>: el producto se vende en un <strong>número limitado</strong> de puntos de venta cuidadosamente <strong>seleccionados</strong>. Permite un mejor control de la presentación y el servicio. Es común en productos de <strong>gama media</strong> (electrodomésticos, ropa, automóviles).<br>• <strong>Distribución exclusiva</strong>: se otorga a un <strong>solo minorista</strong> el derecho de vender el producto en un área geográfica específica. Ofrece el <strong>máximo control</strong> sobre la marca y la experiencia del cliente. Es típica de productos de <strong>lujo</strong> o <strong>alta gama</strong> (relojes Rolex, coches Ferrari, marcas de moda exclusivas).</p><p>La elección depende del <strong>posicionamiento de la marca</strong>:<br>• <strong>Lujo y exclusividad</strong> → Distribución exclusiva.<br>• <strong>Calidad y servicio</strong> → Distribución selectiva.<br>• <strong>Conveniencia y acceso</strong> → Distribución intensiva.</p><p>Una mala elección puede <strong>diluir</strong> la marca o <strong>limitar</strong> su crecimiento.</p>"
+      "saber_mas": "<p>El <u>conflicto vertical</u> ocurre entre niveles diferentes del canal, como entre un <u>fabricante</u> y un <u>minorista</u>, por desacuerdos en precios, márgenes o políticas de venta.</p><p>Por ejemplo, Goodyear enfureció a sus distribuidores independientes al vender a grandes minoristas, lo que generó conflictos por competencia desleal.</p><p>La clave no es eliminar los conflictos, sino <u>gestionarlos</u> mediante acuerdos claros, incentivos alineados y comunicación efectiva.</p>"
     },
     {
-      "intro": "La gestión de los canales de marketing implica seleccionar, motivar, evaluar y coordinar a los intermediarios. Una buena gestión asegura que los objetivos del productor y del canal estén alineados. Las empresas utilizan incentivos como descuentos, programas de formación, apoyo en marketing y tecnología para motivar a los intermediarios y fortalecer la relación.",
-      "question": "6. ¿Qué herramienta puede usar una empresa para motivar a sus intermediarios?",
+      "intro": "La integración de canales es cada vez más importante en la era digital. Los consumidores investigan en línea, compran en tienda o viceversa, por lo que las empresas deben ofrecer una experiencia omnicanal coherente. Esto implica alinear precios, inventarios, promociones y servicio en todos los puntos de contacto. Marcas como Apple o Nike logran esto integrando sus tiendas físicas, sitios web y apps móviles. La falta de integración genera frustración y pérdida de ventas, mientras que una buena integración fortalece la lealtad y el valor del cliente.",
+      "question": "4. ¿Qué tipo de experiencia busca ofrecer la integración de canales?",
       "options": [
-        "Ignorarlos",
-        "Descuentos, formación y apoyo en marketing",
-        "Solo reducir precios",
-        "Cambiarlos frecuentemente"
+        "Experiencia fragmentada",
+        "Experiencia omnicanal coherente",
+        "Experiencia solo digital",
+        "Experiencia solo física"
       ],
       "correct": [1],
-      "saber_mas": "<p>La <u>gestión de los canales de marketing</u> es el proceso de <strong>seleccionar, motivar, evaluar y coordinar</strong> a los intermediarios (distribuidores, mayoristas, minoristas) para que trabajen juntos de forma eficaz y eficiente.</p><p>El objetivo es <strong>alinear los objetivos</strong> del productor y del canal, creando una <strong>relación de colaboración</strong> en lugar de una transacción aislada.</p><p>Herramientas de motivación:<br>• <strong>Incentivos económicos</strong>: descuentos por volumen, márgenes de beneficio atractivos, bonificaciones por cumplimiento de objetivos.<br>• <strong>Apoyo en marketing</strong>: programas de publicidad conjunta, materiales promocionales, campañas de lanzamiento.<br>• <strong>Formación</strong>: capacitación en productos, técnicas de venta, servicio al cliente.<br>• <strong>Apoyo operativo</strong>: tecnología (sistemas de pedidos online), logística, gestión de inventario.<br>• <strong>Reconocimiento</strong>: premios, certificados, eventos.<br>• <strong>Comunicación regular</strong>: reuniones, newsletters, foros.</p><p>Una gestión activa del canal ayuda a:<br>• <strong>Maximizar las ventas</strong> y la participación en el mercado.<br>• <strong>Garantizar una presentación consistente</strong> de la marca.<br>• <strong>Obtener retroalimentación</strong> valiosa del mercado.<br>• <strong>Prevenir conflictos</strong> dentro del canal.</p><p>Los intermediarios bien motivados son <strong>defensores activos</strong> de la marca, no solo vendedores pasivos.</p>"
+      "saber_mas": "<p>La <u>integración de canales</u> busca ofrecer una <u>experiencia omnicanal coherente</u>, donde el cliente pueda investigar, comprar y devolver en cualquier canal sin fricciones.</p><p>Apple, Nike o Amazon logran que precios, inventarios y servicio sean consistentes en línea y en tienda.</p><p>Esta integración mejora la conveniencia, reduce la frustración y aumenta el valor de por vida del cliente.</p>"
     },
     {
-      "intro": "Los conflictos en los canales de marketing ocurren cuando los miembros del canal tienen objetivos, percepciones o intereses diferentes. Pueden ser verticales (entre niveles del canal, como fabricante y minorista) u horizontales (entre miembros del mismo nivel, como dos minoristas). Estos conflictos pueden afectar negativamente las ventas y la imagen de la marca si no se gestionan adecuadamente.",
-      "question": "7. ¿Qué tipo de conflicto ocurre entre un fabricante y un minorista?",
+      "intro": "Las franquicias son un modelo de canal en el que un franquiciador otorga a un franquiciado el derecho a operar bajo su marca y sistema. Este modelo permite una expansión rápida con menor inversión por parte del franquiciador. Ejemplos incluyen McDonald’s, Subway o 7-Eleven. A cambio, el franquiciado paga una tarifa inicial y regalías. Este sistema requiere una gestión cuidadosa para mantener la calidad y la coherencia de la marca en todos los puntos de venta, ya que cada local representa la marca ante el consumidor.",
+      "question": "5. ¿Qué empresa se menciona como ejemplo de franquicia global?",
       "options": [
-        "Concurrente",
-        "Horizontal",
-        "Vertical",
-        "Temporal"
+        "Apple",
+        "Subway",
+        "Tesla",
+        "Dell"
+      ],
+      "correct": [1],
+      "saber_mas": "<p><u>Subway</u> es un ejemplo de empresa con <u>franquicias en todo el mundo</u>, un modelo que permite expansión rápida con menor inversión directa.</p><p>El franquiciado opera bajo el sistema y marca del franquiciador, pagando una tarifa inicial y regalías por ventas.</p><p>Este modelo requiere control de calidad y capacitación constante para asegurar coherencia en la experiencia del cliente en todos los puntos de venta.</p>"
+    },
+    {
+      "intro": "La selección de intermediarios debe basarse en criterios como cobertura, reputación, capacidad financiera y alineación con la marca. No todos los distribuidores son adecuados para todas las marcas. Un distribuidor de lujo no será el mejor canal para un producto económico, y viceversa. Las empresas deben evaluar cuidadosamente a sus socios de canal para asegurar que refuercen, no debiliten, la propuesta de valor. Además, deben establecer acuerdos claros sobre márgenes, promoción y servicio postventa.",
+      "question": "6. ¿Qué criterio es clave al seleccionar un intermediario de canal?",
+      "options": [
+        "Color del uniforme",
+        "Cobertura, reputación y alineación con la marca",
+        "Número de empleados",
+        "Ubicación del almacén central"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Al seleccionar un <u>intermediario de canal</u>, es clave evaluar su <u>cobertura</u>, <u>reputación</u>, <u>capacidad financiera</u> y <u>alineación con la marca</u>.</p><p>Un distribuidor debe reforzar la propuesta de valor, no contradecirla. Por ejemplo, una marca de lujo no debe venderse en tiendas de descuento.</p><p>Acuerdos claros sobre márgenes, promoción y servicio postventa aseguran una relación efectiva y duradera.</p>"
+    },
+    {
+      "intro": "La eficiencia del canal se mide por su capacidad para entregar valor al cliente con el menor costo posible. Esto implica optimizar la logística, reducir inventarios innecesarios y minimizar intermediarios. Algunas empresas recurren a la desintermediación (eliminar intermediarios) o a la reintermediación (usar nuevos tipos de intermediarios, como Amazon). La elección del canal debe basarse en un análisis de costos y ventas, como se muestra en la figura 15.5, donde se compara el costo de una agencia de ventas versus una sucursal propia.",
+      "question": "7. ¿Qué modelo de canal es más eficiente para volúmenes de venta bajos?",
+      "options": [
+        "Sucursal de ventas de la empresa",
+        "Agencia de ventas externa",
+        "Tienda propia en cada ciudad",
+        "Venta directa puerta a puerta"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Según la figura 15.5, la <u>agencia de ventas</u> es más eficiente para <u>volumen bajo</u>, mientras que la <u>sucursal de ventas propia</u> es mejor para <u>volumen alto</u>.</p><p>Para empresas pequeñas o en mercados reducidos, la agencia reduce costos fijos y permite acceso a fuerza de ventas experimentada.</p><p>Este análisis de <u>costos vs. ventas</u> ayuda a elegir el canal más rentable según el contexto del mercado.</p>"
+    },
+    {
+      "intro": "La desintermediación implica eliminar uno o más niveles del canal tradicional, como cuando un fabricante vende directamente al consumidor. Esto puede reducir costos y precios, pero también puede generar conflictos con intermediarios existentes. Por ejemplo, cuando Dell vendía directamente, los minoristas se sintieron amenazados. La clave es gestionar la transición con cuidado, ofreciendo nuevos roles a los intermediarios o enfocándose en mercados distintos para minimizar el impacto negativo.",
+      "question": "8. ¿Qué significa desintermediación en el contexto de canales de marketing?",
+      "options": [
+        "Agregar más intermediarios",
+        "Eliminar uno o más niveles del canal",
+        "Reducir el número de productos",
+        "Aumentar los precios"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>desintermediación</u> implica <u>eliminar uno o más niveles</u> del canal tradicional, como cuando un fabricante vende <u>directamente al consumidor</u>.</p><p>Esto puede reducir costos y precios, pero también genera <u>conflictos con intermediarios</u> que pierden su rol.</p><p>Empresas como <u>Dell</u> o <u>Warby Parker</u> lo han hecho con éxito, pero deben gestionar la transición cuidadosamente para no alienar a socios clave.</p>"
+    },
+    {
+      "intro": "La reintermediación ocurre cuando nuevos tipos de intermediarios emergen en el canal, a menudo gracias a la tecnología. Ejemplos incluyen Amazon, eBay o plataformas de entrega como Rappi. Estos nuevos intermediarios ofrecen eficiencia, conveniencia y acceso a grandes audiencias. Aunque pueden competir con canales tradicionales, también representan oportunidades para expandir la cobertura. Las empresas deben decidir si colaborar con ellos, competir o integrarlos en su estrategia omnicanal.",
+      "question": "9. ¿Qué tipo de intermediario ha surgido con la digitalización de los canales?",
+      "options": [
+        "Mayoristas tradicionales",
+        "Plataformas digitales como Amazon o Rappi",
+        "Tiendas de barrio",
+        "Vendedores ambulantes"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>reintermediación</u> ha dado lugar a nuevos <u>intermediarios digitales</u> como <u>Amazon</u>, <u>eBay</u>, <u>Rappi</u> o <u>Uber Eats</u>.</p><p>Estos actores ofrecen <u>eficiencia</u>, <u>conveniencia</u> y <u>acceso a grandes audiencias</u>, transformando la forma en que los productos llegan al consumidor.</p><p>Las empresas deben decidir si colaborar con ellos, competir o integrarlos en su estrategia omnicanal para aprovechar su alcance.</p>"
+    },
+    {
+      "intro": "El conflicto horizontal ocurre entre empresas del mismo nivel del canal, como entre dos minoristas que venden la misma marca. Pueden competir por precios, promociones o atención del fabricante. Este tipo de conflicto puede ser beneficioso si fomenta la eficiencia, pero perjudicial si lleva a guerras de precios o malas prácticas. El fabricante debe gestionar estos conflictos estableciendo zonas de exclusividad, acuerdos de precios mínimos o programas de incentivos diferenciados.",
+      "question": "10. ¿Qué tipo de conflicto ocurre entre dos minoristas que venden la misma marca?",
+      "options": [
+        "Conflicto vertical",
+        "Conflicto horizontal",
+        "Conflicto de producto",
+        "Conflicto de marca"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>El <u>conflicto horizontal</u> ocurre entre miembros del <u>mismo nivel</u> del canal, como dos <u>minoristas</u> que venden la misma marca.</p><p>Pueden competir por precios, promociones o atención del fabricante, lo que puede llevar a guerras de precios.</p><p>El fabricante puede gestionarlo con <u>zonas de exclusividad</u>, <u>acuerdos de precios mínimos</u> o <u>incentivos diferenciados</u> para mantener la armonía.</p>"
+    },
+    {
+      "intro": "La logística es un componente esencial de los canales de marketing. Incluye el transporte, almacenamiento, manejo de inventarios y entrega del producto. Una logística eficiente reduce costos, mejora la velocidad de entrega y aumenta la satisfacción del cliente. Empresas como Amazon han convertido la logística en una ventaja competitiva con entregas rápidas y precisas. Invertir en tecnología, como sistemas de gestión de inventarios o rastreo en tiempo real, permite optimizar todo el proceso de distribución.",
+      "question": "11. ¿Qué componente del canal incluye transporte, almacenamiento y entrega?",
+      "options": [
+        "Publicidad",
+        "Logística",
+        "Recursos humanos",
+        "Finanzas"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>logística</u> incluye todas las actividades relacionadas con el <u>transporte</u>, <u>almacenamiento</u>, <u>manejo de inventarios</u> y <u>entrega</u> del producto.</p><p>Una logística eficiente reduce costos, mejora la velocidad y aumenta la satisfacción del cliente.</p><p>Empresas como <u>Amazon</u> o <u>UPS</u> han convertido la logística en una <u>ventaja competitiva</u> clave mediante tecnología y redes optimizadas.</p>"
+    },
+    {
+      "intro": "La gestión de relaciones con los canales (CRM para canales) es tan importante como la gestión con clientes finales. Implica comunicarse, capacitar, incentivar y alinear a los intermediarios con los objetivos de la marca. Programas de capacitación, incentivos por desempeño y herramientas de apoyo comercial fortalecen estas relaciones. Un canal motivado y bien informado será más efectivo en la promoción y venta del producto, actuando como un verdadero socio estratégico.",
+      "question": "12. ¿Qué práctica fortalece la relación con los intermediarios del canal?",
+      "options": [
+        "Ignorar sus necesidades",
+        "Capacitación, incentivos y alineación de objetivos",
+        "Reducir sus márgenes",
+        "Cambiar de canal frecuentemente"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>Fortalecer la relación con los <u>intermediarios</u> requiere <u>capacitación</u>, <u>incentivos por desempeño</u> y <u>alineación de objetivos</u>.</p><p>Programas de <u>gestión de relaciones con canales</u> permiten que los distribuidores se sientan parte del éxito de la marca.</p><p>Un canal bien motivado y apoyado será más efectivo en la promoción, venta y servicio postventa del producto.</p>"
+    },
+    {
+      "intro": "La exclusividad de canal se refiere a acuerdos en los que un intermediario tiene derecho a vender una marca en una zona específica, o que una marca solo se vende a través de ciertos canales. Esto evita la competencia interna y protege la inversión del distribuidor. Sin embargo, puede limitar la cobertura del mercado. Las empresas deben equilibrar la exclusividad con la necesidad de acceso amplio, especialmente en mercados digitales donde la exclusividad es más difícil de mantener.",
+      "question": "13. ¿Qué beneficio ofrece la exclusividad de canal a un distribuidor?",
+      "options": [
+        "Mayor competencia interna",
+        "Protección contra la competencia de otros distribuidores de la misma marca",
+        "Reducción de su margen",
+        "Obligación de vender más productos"
+      ],
+      "correct": [1],
+      "saber_mas": "<p>La <u>exclusividad de canal</u> otorga a un distribuidor el derecho de vender una marca en una <u>zona específica</u>, protegiéndolo de la <u>competencia interna</u> (otros distribuidores de la misma marca).</p><p>Esto incentiva al distribuidor a invertir en promoción y servicio, ya que no compite directamente con otros del mismo canal.</p><p>Sin embargo, puede limitar la cobertura del mercado, por lo que debe usarse con criterio.</p>"
+    },
+    {
+      "intro": "La tecnología ha transformado los canales de marketing, permitiendo la integración de lo físico y lo digital. Los consumidores ahora esperan poder comprar online y recoger en tienda, o devolver en cualquier canal. Las empresas deben invertir en sistemas que unifiquen inventarios, precios y datos del cliente. Esta integración no es solo técnica, sino cultural: requiere que todos los niveles del canal trabajen hacia el mismo objetivo. El futuro pertenece a las marcas que logren una verdadera experiencia omnicanal.",
+      "question": "14. ¿Qué expectativa tienen los consumidores en la era digital respecto a los canales?",
+      "options": [
+        "Comprar solo en tienda",
+        "Comprar solo en línea",
+        "Experiencia integrada entre canales (omnicanal)",
+        "No tener opción de devolución"
       ],
       "correct": [2],
-      "saber_mas": "<p>Los <u>conflictos en los canales de marketing</u> son desacuerdos o tensiones entre los miembros del canal (fabricantes, distribuidores, minoristas) debido a <strong>objetivos, percepciones, roles o intereses diferentes</strong>.</p><p>Tipos de conflicto:<br>• <strong>Vertical</strong>: ocurre entre <strong>niveles diferentes</strong> del canal. Ejemplo: un fabricante que quiere precios altos para mantener la imagen de lujo, mientras que un minorista quiere precios bajos para aumentar las ventas y su margen.<br>• <strong>Horizontal</strong>: ocurre entre miembros del <strong>mismo nivel</strong>. Ejemplo: dos minoristas de la misma marca compitiendo agresivamente en el mismo área geográfica, lo que reduce los precios y los beneficios para todos.<br>• <strong>Multicanal</strong>: ocurre cuando una empresa utiliza múltiples canales (directo, minorista) y estos canales compiten entre sí (ej. la tienda online vs. la tienda física).</p><p>Causas comunes:<br>• <strong>Objetivos divergentes</strong> (ventas vs. margen).<br>• <strong>Falta de comunicación</strong>.<br>• <strong>Percepciones de injusticia</strong> (márgenes, apoyo).<br>• <strong>Competencia excesiva</strong> entre miembros del canal.</p><p>Estos conflictos pueden <strong>afectar negativamente</strong> las ventas, la imagen de la marca y la satisfacción del cliente.</p><p>Para gestionarlos, se requiere <strong>comunicación abierta</strong>, <strong>contratos claros</strong>, <strong>programas de incentivos</strong> y, en algunos casos, <strong>mediación</strong>.</p>"
+      "saber_mas": "<p>Los consumidores esperan una <u>experiencia omnicanal</u>: poder <u>investigar online y comprar en tienda</u>, <u>recoger en tienda un producto comprado online</u>, o <u>devolver en cualquier canal</u>.</p><p>Esto requiere integración de <u>inventarios</u>, <u>precios</u> y <u>datos del cliente</u> en todos los puntos de contacto.</p><p>Las marcas que logran esto, como <u>Apple</u> o <u>Nike</u>, fortalecen la lealtad y el valor del cliente.</p>"
     },
     {
-      "intro": "La integración del canal se refiere al grado de coordinación y cooperación entre los miembros del canal. Un canal integrado funciona como un sistema unificado, con flujo de información, logística y estrategia alineados. Esto mejora la eficiencia, reduce costos y permite una mejor respuesta a las necesidades del cliente. La tecnología, como los sistemas de planificación de recursos (ERP), facilita esta integración.",
-      "question": "8. ¿Qué beneficio aporta un canal de marketing integrado?",
+      "intro": "Finalmente, el diseño de canales debe ser dinámico y adaptable. Los mercados cambian, la tecnología avanza y las preferencias del consumidor evolucionan. Lo que funcionó ayer puede no funcionar hoy. Las empresas deben monitorear constantemente el desempeño de sus canales, escuchar a los intermediarios y estar dispuestas a innovar. Ya sea mediante la adopción de nuevos canales digitales, la reestructuración de acuerdos o la mejora de la logística, la flexibilidad es clave para mantener la competitividad a largo plazo.",
+      "question": "15. ¿Por qué debe ser dinámico el diseño de canales de marketing?",
       "options": [
-        "Mayor conflicto entre miembros",
-        "Mejora la eficiencia y la respuesta al cliente",
-        "Solo reduce costos",
-        "Ignorar al cliente"
+        "Porque los consumidores nunca cambian",
+        "Porque los mercados, la tecnología y las preferencias evolucionan",
+        "Porque los costos siempre bajan",
+        "Porque los canales tradicionales nunca fallan"
       ],
       "correct": [1],
-      "saber_mas": "<p>La <u>integración del canal</u> se refiere al <strong>grado de coordinación, cooperación y alineación estratégica</strong> entre los diferentes miembros del canal de distribución (fabricante, distribuidor, minorista).</p><p>Un canal integrado funciona como un <strong>sistema unificado</strong>, no como una serie de entidades independientes.</p><p>Beneficios:<br>• <strong>Mayor eficiencia</strong>: reducción de duplicaciones, errores y tiempos de espera.<br>• <strong>Mejor flujo de información</strong>: los datos de ventas, inventario y demanda se comparten en tiempo real, permitiendo una <strong>planificación más precisa</strong> (ej. gestión de inventario basada en la demanda real).<br>• <strong>Reducción de costos</strong>: en logística, almacenamiento y gestión de inventario.<br>• <strong>Mejor respuesta al cliente</strong>: capacidad para satisfacer pedidos más rápido y con mayor precisión.<br>• <strong>Mejor toma de decisiones</strong>: basada en datos compartidos y visión conjunta del mercado.<br>• <strong>Fortalecimiento de la relación</strong> entre los miembros del canal.</p><p>La integración se logra mediante:<br>• <strong>Tecnología</strong>: sistemas ERP, EDI (Intercambio Electrónico de Datos), plataformas de colaboración.<br>• <strong>Contratos y acuerdos</strong> de colaboración.<br>• <strong>Comunicación constante</strong> y reuniones estratégicas.<br>• <strong>Objetivos y métricas compartidas</strong>.</p><p>Es esencial en entornos competitivos y de alta velocidad, donde la <strong>agilidad del canal</strong> es una ventaja competitiva.</p>"
-    },
-    {
-      "intro": "La logística es el conjunto de actividades que planifican, implementan y controlan el flujo eficiente y efectivo de productos, servicios e información desde el punto de origen hasta el punto de consumo. Incluye transporte, almacenamiento, gestión de inventarios, procesamiento de pedidos y manejo de devoluciones. Una logística eficiente es clave para cumplir con las promesas de entrega y mantener la satisfacción del cliente.",
-      "question": "9. ¿Qué función cumple la logística en un canal de marketing?",
-      "options": [
-        "Solo el transporte",
-        "Planificar e implementar el flujo eficiente de productos e información",
-        "Solo el almacenamiento",
-        "Ignorar al cliente"
-      ],
-      "correct": [1],
-      "saber_mas": "<p>La <u>logística</u> es el conjunto de actividades que <strong>planifican, implementan y controlan</strong> el <strong>flujo eficiente y efectivo</strong> de <strong>bienes, servicios e información</strong> desde el <strong>punto de origen</strong> hasta el <strong>punto de consumo</strong>, con el objetivo de cumplir con los requisitos del cliente.</p><p>Funciones clave:<br>• <strong>Gestión del transporte</strong>: selección de modos (camión, barco, avión), rutas, proveedores.<br>• <strong>Almacenamiento</strong>: gestión de centros de distribución y almacenes.<br>• <strong>Gestión de inventarios</strong>: mantener niveles óptimos para evitar faltantes o excesos.<br>• <strong>Procesamiento de pedidos</strong>: desde la recepción hasta la facturación y entrega.<br>• <strong>Manejo de devoluciones</strong> (reverse logistics): gestión de productos devueltos por defectos, garantías o fin de vida.<br>• <strong>Embalaje</strong> y <strong>etiquetado</strong> para protección y cumplimiento normativo.<br>• <strong>Flujo de información</strong>: coordinación entre todos los actores del canal.</p><p>Una logística eficiente es <strong>clave</strong> para:<br>• <strong>Cumplir con las promesas de entrega</strong> (tiempo, lugar, condición).<br>• <strong>Mantener la satisfacción del cliente</strong>.<br>• <strong>Reducir costos operativos</strong>.<br>• <strong>Competir en velocidad</strong> (ej. entrega en el mismo día).<br>• <strong>Responder rápidamente</strong> a cambios en la demanda.</p><p>En la era digital, la logística se ha convertido en un <strong>factor diferenciador</strong> crítico.</p>"
-    },
-    {
-      "intro": "La gestión de la cadena de suministro (SCM) va más allá de la logística, abarcando la planificación y gestión de todas las actividades involucradas en la obtención, producción y entrega de productos y servicios. Incluye la colaboración con proveedores, fabricación, logística y gestión de relaciones con el cliente. Un SCM eficaz mejora la eficiencia, reduce costos y aumenta la competitividad.",
-      "question": "10. ¿Qué diferencia hay entre logística y gestión de la cadena de suministro?",
-      "options": [
-        "Son sinónimos",
-        "La SCM es más amplia y abarca la logística",
-        "Solo la SCM incluye el transporte",
-        "La logística incluye la producción"
-      ],
-      "correct": [1],
-      "saber_mas": "<p>La <u>gestión de la cadena de suministro</u> (Supply Chain Management, SCM) es un concepto <strong>más amplio</strong> que la logística.</p><p>Mientras que la <strong>logística</strong> se enfoca principalmente en el <strong>movimiento y almacenamiento</strong> de productos dentro de la empresa y hacia el cliente, la <strong>SCM</strong> abarca <strong>toda la red</strong> de organizaciones, personas, actividades, información y recursos involucrados en la creación y entrega de un producto o servicio.</p><p>La SCM incluye:<br>• <strong>Adquisición de materiales</strong> y gestión de <strong>proveedores</strong>.<br>• <strong>Planificación de la producción</strong> y <strong>manufactura</strong>.<br>• <strong>Logística</strong> (transporte, almacenamiento, distribución).<br>• <strong>Gestión de pedidos</strong> y <strong>atención al cliente</strong>.<br>• <strong>Flujo de información</strong> y <strong>tecnología</strong> (ERP, sistemas de planificación).<br>• <strong>Colaboración estratégica</strong> con socios de la cadena.</p><p>Objetivos de la SCM:<br>• <strong>Mejorar la eficiencia</strong> y <strong>reducir costos</strong> en toda la cadena.<br>• <strong>Aumentar la velocidad</strong> de respuesta al mercado.<br>• <strong>Mejorar la calidad</strong> y <strong>consistencia</strong> del producto.<br>• <strong>Fortalecer las relaciones</strong> con proveedores y clientes.<br>• <strong>Crear una ventaja competitiva sostenible</strong>.</p><p>Una SCM eficaz transforma la cadena de suministro de un <strong>costo</strong> en una <strong>fuente de valor</strong> y diferenciación.</p>"
-    },
-    {
-      "intro": "La entrega de valor al cliente es el objetivo final de cualquier canal de marketing. Implica no solo entregar el producto correcto en el momento y lugar adecuados, sino también cumplir con las expectativas de calidad, servicio y experiencia. Un canal que entrega valor de forma consistente genera lealtad, recomendaciones y una ventaja competitiva sostenible.",
-      "question": "11. ¿Qué es la entrega de valor en un canal de marketing?",
-      "options": [
-        "Solo enviar el producto",
-        "Cumplir con las expectativas del cliente sobre calidad, tiempo y servicio",
-        "Solo reducir costos",
-        "Ignorar al cliente"
-      ],
-      "correct": [1],
-      "saber_mas": "<p>La <u>entrega de valor</u> en un canal de marketing es el <strong>resultado final</strong> de todas las actividades del canal, y se define como la <strong>experiencia total</strong> que el cliente tiene al recibir el producto o servicio.</p><p>No se limita a la <strong>entrega física</strong> del producto, sino que incluye:<br>• <strong>Disponibilidad</strong>: que el producto esté disponible cuando el cliente lo quiere.<br>• <strong>Tiempo de entrega</strong>: cumplir con los plazos prometidos (rápido, puntual).<br>• <strong>Condición del producto</strong>: que llegue en perfectas condiciones, sin daños.<br>• <strong>Calidad del servicio</strong>: atención durante el proceso de compra y entrega.<br>• <strong>Facilidad de la experiencia</strong>: proceso de pedido simple, seguimiento transparente, devoluciones fáciles.<br>• <strong>Comunicación clara</strong>: información precisa sobre el estado del pedido.</p><p>Un canal que <strong>entrega valor de forma consistente</strong>:<br>• <strong>Genera satisfacción</strong> y <strong>lealtad</strong> del cliente.<br>• <strong>Recibe recomendaciones</strong> (boca en boca positivo).<br>• <strong>Diferencia</strong> la marca de la competencia.<br>• <strong>Justifica precios premium</strong>.<br>• <strong>Reduce el costo de adquisición</strong> de nuevos clientes.</p><p>La entrega de valor es el <strong>momento de la verdad</strong> en la relación con el cliente. Un fallo en la entrega puede <strong>arruinar</strong> una experiencia de marca positiva previa.</p><p>Por eso, la <strong>coordinación entre marketing, logística y servicio al cliente</strong> es esencial.</p>"
-    },
-    {
-      "intro": "La evaluación del desempeño del canal implica medir cómo los intermediarios cumplen con sus objetivos, como ventas, participación de mercado, rotación de inventario y satisfacción del cliente. Se utilizan métricas clave (KPIs) para identificar fortalezas, debilidades y oportunidades de mejora. Esta evaluación permite tomar decisiones informadas sobre incentivos, formación o la terminación de relaciones con intermediarios.",
-      "question": "12. ¿Qué métrica puede usarse para evaluar a un minorista en el canal?",
-      "options": [
-        "Solo el número de empleados",
-        "Ventas, rotación de inventario y satisfacción del cliente",
-        "Solo el color de la tienda",
-        "Ignorar al cliente"
-      ],
-      "correct": [1],
-      "saber_mas": "<p>La <u>evaluación del desempeño del canal</u> es el proceso de <strong>medir y analizar</strong> cómo los miembros del canal (especialmente intermediarios) están cumpliendo con sus <strong>objetivos y responsabilidades</strong>.</p><p>Se utiliza para:<br>• <strong>Identificar</strong> los mejores y peores performers.<br>• <strong>Tomar decisiones</strong> sobre incentivos, formación o terminación de relaciones.<br>• <strong>Diagnostica</strong>r problemas en el canal.<br>• <strong>Mejorar la eficiencia</strong> y la rentabilidad del canal.<br>• <strong>Fortalecer la relación</strong> con los intermediarios clave.</p><p>Métricas clave (KPIs):<br>• <strong>Ventas</strong>: volumen y valor de ventas del producto.<br>• <strong>Participación en el mercado</strong>: cuota de mercado en el punto de venta.<br>• <strong>Rotación de inventario</strong>: cuánto tiempo tarda el producto en venderse.<br>• <strong>Rotación de estantes</strong>: cuántas veces se repone el producto en la tienda.<br>• <strong>Satisfacción del cliente</strong>: encuestas, quejas, devoluciones.<br>• <strong>Adherencia a la promoción</strong>: participación en campañas promocionales.<br>• <strong>Presentación en el punto de venta</strong>: cumplimiento de normas de exhibición.</p><p>La evaluación debe ser <strong>regular, objetiva y basada en datos</strong>.<br>Los resultados deben <strong>compartirse con el intermediario</strong> para fomentar la mejora continua.<br>Una evaluación justa y constructiva fortalece la <strong>relación de confianza</strong> en el canal.</p>"
-    },
-    {
-      "intro": "La tecnología desempeña un papel fundamental en la gestión moderna de canales. Herramientas como los sistemas de planificación de recursos (ERP), el intercambio electrónico de datos (EDI), las plataformas de comercio electrónico y los sistemas de gestión de relaciones con clientes (CRM) mejoran la comunicación, la eficiencia y la visibilidad en toda la cadena. Facilitan la integración del canal y permiten una toma de decisiones más rápida y precisa.",
-      "question": "13. ¿Cómo ayuda la tecnología a la gestión de canales?",
-      "options": [
-        "Aumenta los conflictos",
-        "Mejora la comunicación, eficiencia y visibilidad",
-        "Solo reduce costos",
-        "Ignorar al cliente"
-      ],
-      "correct": [1],
-      "saber_mas": "<p>La <u>tecnología</u> es un <strong>habilitador clave</strong> en la gestión moderna de canales de marketing, transformando la forma en que los productores y los intermediarios colaboran.</p><p>Herramientas y beneficios:<br>• <strong>Sistemas ERP</strong> (Enterprise Resource Planning): integran todas las funciones de la empresa (finanzas, producción, logística, ventas), proporcionando una <strong>visión unificada</strong> del negocio.<br>• <strong>EDI</strong> (Intercambio Electrónico de Datos): permite la <strong>comunicación automática</strong> de órdenes, facturas y confirmaciones entre socios del canal, reduciendo errores y tiempos.<br>• <strong>Plataformas de comercio electrónico</strong>: facilitan la venta directa y la gestión de pedidos online.<br>• <strong>Sistemas CRM</strong> (Customer Relationship Management): centralizan la información del cliente y mejoran la personalización del servicio.<br>• <strong>Plataformas de colaboración</strong>: permiten compartir pronósticos, planes de marketing y datos de ventas en tiempo real.<br>• <strong>Analítica de datos</strong>: permite predecir la demanda, optimizar inventarios y personalizar ofertas.</p><p>Impacto:<br>• <strong>Mejora la comunicación</strong> y <strong>transparencia</strong> entre los miembros del canal.<br>• <strong>Aumenta la eficiencia</strong> operativa (menos errores, menos tiempo).<br>• <strong>Proporciona visibilidad en tiempo real</strong> del inventario y las ventas.<br>• <strong>Facilita la integración del canal</strong>.<br>• <strong>Permite una toma de decisiones más rápida y precisa</strong>.</p><p>Las empresas que <strong>adoptan tecnología avanzada</strong> en sus canales obtienen una <strong>ventaja competitiva significativa</strong> en agilidad y servicio al cliente.</p>"
-    },
-    {
-      "intro": "El comercio electrónico ha transformado los canales de distribución, permitiendo a las empresas vender directamente a los consumidores a través de internet. Esto ha dado lugar a modelos multicanal y omnicanal, donde los clientes pueden interactuar con la marca a través de múltiples canales (online, móvil, tienda física) de forma integrada. El éxito en este entorno requiere una experiencia de cliente coherente en todos los puntos de contacto.",
-      "question": "14. ¿Qué caracteriza a un enfoque omnicanal?",
-      "options": [
-        "Canales aislados",
-        "Experiencia de cliente coherente en todos los canales",
-        "Solo venta online",
-        "Ignorar al cliente"
-      ],
-      "correct": [1],
-      "saber_mas": "<p>El <u>comercio electrónico</u> ha <strong>transformado radicalmente</strong> los canales de distribución, desafiando los modelos tradicionales y creando nuevas oportunidades.</p><p>Ha permitido:<br>• <strong>Venta directa al consumidor</strong> (D2C) a escala global.<br>• <strong>Reducción de intermediarios</strong> y aumento de los márgenes.<br>• <strong>Acceso a datos del cliente</strong> en tiempo real.<br>• <strong>Personalización</strong> de ofertas y comunicaciones.<br>• <strong>Nuevos modelos de negocio</strong> (suscripciones, plataformas).</p><p>Este cambio ha llevado a:<br>• <strong>Modelos multicanal</strong>: la empresa utiliza múltiples canales (tienda física, online, móvil), pero estos funcionan de forma <strong>aislada</strong>.<br>• <strong>Modelos omnicanal</strong>: todos los canales están <strong>integrados</strong> y ofrecen una <strong>experiencia de cliente coherente y fluida</strong>. El cliente puede, por ejemplo, investigar online, comprar en la tienda y devolver por correo, con información compartida en todos los puntos.</p><p>Características del enfoque <strong>omnicanal</strong>:<br>• <strong>Cliente en el centro</strong>: la experiencia es unificada, no fragmentada.<br>• <strong>Integración de datos</strong>: información del cliente y del inventario compartida en tiempo real.<br>• <strong>Flexibilidad</strong>: el cliente elige cómo interactuar con la marca.<br>• <strong>Consistencia</strong>: el mensaje, la marca y el servicio son los mismos en todos los canales.</p><p>El éxito en el entorno digital requiere <strong>invertir en tecnología</strong>, <strong>integrar los canales</strong> y <strong>poner al cliente en el centro</strong> de la estrategia.</p>"
-    },
-    {
-      "intro": "La sostenibilidad en los canales de marketing implica gestionar las actividades de distribución de forma que se minimice el impacto ambiental y se promueva la responsabilidad social. Esto incluye el uso de vehículos de bajo emisiones, embalajes reciclables, optimización de rutas de entrega y relaciones éticas con los proveedores. Los consumidores cada vez más conscientes valoran las prácticas sostenibles y pueden preferir marcas que las adopten.",
-      "question": "15. ¿Por qué es importante la sostenibilidad en los canales de distribución?",
-      "options": [
-        "Solo para reducir costos",
-        "Porque los consumidores valoran las prácticas responsables y reduce el impacto ambiental",
-        "Solo para productos orgánicos",
-        "Ignorar al cliente"
-      ],
-      "correct": [1],
-      "saber_mas": "<p>La <u>sostenibilidad en los canales de marketing</u> implica <strong>gestionar todas las actividades de distribución</strong> (transporte, almacenamiento, logística, relaciones con proveedores) de forma que se <strong>minimice el impacto ambiental</strong> y se <strong>promueva la responsabilidad social y económica</strong>.</p><p>Prácticas comunes:<br>• <strong>Transporte sostenible</strong>: uso de vehículos eléctricos, híbridos o de bajo consumo; optimización de rutas para reducir emisiones.<br>• <strong>Embalajes</strong>: uso de materiales <strong>reciclados, reciclables o biodegradables</strong>; reducción del exceso de embalaje.<br>• <strong>Almacenamiento eficiente</strong>: centros de distribución con energía renovable, iluminación LED, gestión eficiente del agua.<br>• <strong>Logística inversa</strong>: gestión responsable de productos devueltos, reciclaje, reacondicionamiento.<br>• <strong>Relaciones éticas con proveedores</strong>: asegurar condiciones laborales justas, comercio justo, cadenas de suministro transparentes.<br>• <strong>Reducción del desperdicio</strong>: gestión precisa del inventario para evitar productos caducados o obsoletos.</p><p>Importancia:<br>• <strong>Presión de los consumidores</strong>: los consumidores, especialmente los más jóvenes, <strong>valoran y prefieren</strong> marcas con prácticas sostenibles.<br>• <strong>Reputación y marca</strong>: fortalece la imagen de la marca y genera <strong>lealtad</strong>.<br>• <strong>Requisitos regulatorios</strong>: cumplimiento con leyes cada vez más estrictas sobre emisiones y residuos.<br>• <strong>Reducción de costos a largo plazo</strong>: eficiencia energética, menos desperdicio.<br>• <strong>Acceso a nuevos mercados</strong> y <strong>inversiones</strong> (fondos ESG).</p><p>La sostenibilidad ya no es un <strong>gasto</strong>, sino una <strong>estrategia de negocio</strong> esencial para la competitividad y el crecimiento a largo plazo.</p>"
+      "saber_mas": "<p>El <u>diseño de canales</u> debe ser <u>dinámico</u> porque <u>los mercados</u>, <u>la tecnología</u> y las <u>preferencias del consumidor</u> evolucionan constantemente.</p><p>Lo que funcionó ayer puede no funcionar hoy. Las empresas deben adaptarse, innovar y estar dispuestas a cambiar.</p><p>La <u>flexibilidad</u> y la <u>capacidad de respuesta</u> son clave para mantener la competitividad en un entorno en constante transformación.</p>"
     }
   ]
 }
