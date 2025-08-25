@@ -1,186 +1,185 @@
 {
-  "title": "Creación de Brand Equity",
-  "description": "Quiz sobre el concepto de brand equity, sus componentes, cómo se construye y su impacto en el valor de la marca.",
+  "title": "Capítulo 9: Creación de brand equity",
   "questions": [
     {
-      "intro": "El brand equity, o valor de marca, es el conjunto de activos y pasivos vinculados a una marca, su nombre y símbolo, que añaden o restan valor a un producto o servicio. Este valor se genera a través de la percepción del consumidor y se traduce en una mayor lealtad, capacidad para cobrar precios premium y ventaja competitiva sostenible. El brand equity es un activo intangible crucial para el éxito a largo plazo de una empresa.",
-      "question": "1. ¿Qué es el brand equity?",
+      "intro": "El brand equity, o valor de marca, es uno de los activos intangibles más valiosos que puede poseer una empresa. Representa el valor añadido que la marca aporta a un producto o servicio, más allá de sus características funcionales. Este valor se construye a través del tiempo mediante experiencias consistentes, campañas publicitarias efectivas y una promesa de marca clara. Un alto brand equity permite a las empresas cobrar precios premium, generar lealtad del cliente y resistir mejor las crisis. Marcas como Coca-Cola, Apple o Nike son ejemplos de cómo una fuerte identidad de marca puede trascender el producto en sí. Comprender cómo se crea y se mide este valor es esencial para cualquier estrategia de marketing a largo plazo.",
+      "question": "1. ¿Qué representa el brand equity desde la perspectiva del consumidor?",
       "options": [
-        "El precio de lista de un producto",
-        "El valor que una marca añade a un producto o servicio en la mente del consumidor",
-        "Solo la publicidad de la marca",
-        "El número de empleados"
+        "La cantidad de productos vendidos bajo una marca",
+        "La percepción del valor y la diferenciación que la marca aporta",
+        "El número de empleados que trabajan en la empresa",
+        "El costo de producción de los productos de la marca"
       ],
       "correct": [1],
-      "saber_mas": "<p>El <u>brand equity</u> (valor de marca) es el <strong>conjunto de activos y pasivos</strong> vinculados a una marca, su nombre y símbolo, que añaden o restan <strong>valor</strong> a un producto o servicio.</p><p>Este valor no reside en el producto físico, sino en la <strong>percepción del consumidor</strong>.</p><p>El brand equity se manifiesta en:<br>• <strong>Mayor lealtad</strong> del cliente.<br>• <strong>Capacidad para cobrar precios premium</strong>.<br>• <strong>Mayor participación en el punto de venta</strong>.<br>• <strong>Mayor rentabilidad</strong>.<br>• <strong>Fortaleza frente a la competencia</strong>.<br>• <strong>Facilidad para lanzar nuevos productos</strong> (efecto halo).</p><p>Es un <strong>activo intangible</strong> que puede representar una parte significativa del valor total de una empresa (ej. Coca-Cola, Apple).</p><p>Se construye a largo plazo a través de una <strong>gestión consistente</strong> de todos los puntos de contacto con el cliente.</p><p>Una marca con alto brand equity es más <strong>valiosa</strong> que una marca desconocida, incluso si el producto es idéntico.</p>"
+      "saber_mas": "<p>El <u>brand equity</u> desde la perspectiva del consumidor se refiere a las <u>percepciones, actitudes y comportamientos</u> que los clientes tienen hacia una marca, resultado de años de experiencias y actividades de marketing.</p><p>Incluso si los competidores imitan el diseño o el proceso de fabricación, difícilmente podrán replicar la <u>impresión mental</u> que una marca ha construido en la mente del consumidor.</p><p>Este valor intangible permite a la marca diferenciarse, cobrar precios más altos y generar lealtad, constituyendo una ventaja competitiva sostenible.</p>"
     },
     {
-      "intro": "El brand equity se compone de varios elementos clave: reconocimiento de marca, calidad percibida, asociaciones de marca y lealtad del cliente. El reconocimiento de marca es la capacidad del consumidor para identificar o recordar la marca. La calidad percibida es la evaluación del consumidor sobre la excelencia del producto. Las asociaciones son las conexiones mentales que el consumidor hace con la marca.",
-      "question": "2. ¿Cuál de los siguientes es un componente del brand equity?",
+      "intro": "Una marca fuerte no se construye de la noche a la mañana. Requiere una estrategia coherente que incluya coherencia en el mensaje, calidad del producto, experiencia del cliente y presencia en múltiples puntos de contacto. A lo largo del tiempo, estas acciones generan reconocimiento, asociaciones positivas y confianza. El brand equity se manifiesta cuando el consumidor elige una marca no por funcionalidad, sino por lo que simboliza: prestigio, pertenencia, innovación o confiabilidad. Esta conexión emocional es lo que permite a marcas como Rolex o Tesla mantener precios elevados y una base de clientes leal.",
+      "question": "2. ¿Por qué las marcas constituyen un mecanismo poderoso para garantizar ventaja competitiva?",
       "options": [
-        "Precio de producción",
-        "Reconocimiento de marca",
-        "Costo de distribución",
-        "Número de fábricas"
+        "Porque son fáciles de copiar por la competencia",
+        "Porque los consumidores no les prestan atención",
+        "Porque es difícil replicar la impresión creada en la mente del consumidor",
+        "Porque todas las marcas tienen el mismo valor"
       ],
-      "correct": [1],
-      "saber_mas": "<p>El <u>brand equity</u> se compone de varios <strong>elementos clave</strong> que interactúan para crear valor en la mente del consumidor.</p><p>Los componentes principales son:<br>• <strong>Reconocimiento de marca</strong>: la capacidad del consumidor para <strong>identificar</strong> o <strong>recordar</strong> la marca cuando se le presenta. Es el primer paso en la construcción del brand equity.<br>• <strong>Calidad percibida</strong>: la evaluación subjetiva del consumidor sobre la <strong>excelencia</strong> general del producto o servicio de la marca. No es la calidad real, sino cómo el consumidor la percibe.<br>• <strong>Asociaciones de marca</strong>: las <strong>conexiones mentales</strong> que el consumidor hace con la marca (ej. innovación, lujo, confiabilidad, diversión, sostenibilidad).<br>• <strong>Lealtad del cliente</strong>: el grado de compromiso del consumidor con la marca, que se traduce en compras repetidas y resistencia a la competencia.</p><p>Estos componentes se construyen a través de:<br>• <strong>Productos</strong> consistentes y de calidad.<br>• <strong>Comunicación</strong> clara y coherente.<br>• <strong>Experiencias del cliente</strong> positivas.<br>• <strong>Interacciones</strong> en todos los puntos de contacto.</p><p>Un fuerte brand equity permite a la empresa <strong>diferenciarse</strong> y <strong>generar valor económico</strong>.</p>"
+      "correct": [2],
+      "saber_mas": "<p>Las marcas generan <u>ventaja competitiva</u> porque, aunque los competidores puedan imitar productos físicos, es extremadamente difícil que reproduzcan la <u>imagen mental</u> y las <u>asociaciones emocionales</u> que una marca ha construido a través del tiempo.</p><p>Esta impresión en la mente del consumidor —resultado de campañas, experiencias y consistencia— es única e intangible, y constituye el núcleo del brand equity.</p><p>Por eso, marcas fuertes pueden mantener su liderazgo incluso en mercados altamente competitivos.</p>"
     },
     {
-      "intro": "El reconocimiento de marca es la capacidad del consumidor para identificar o recordar una marca. Puede ser de reconocimiento (cuando se muestra el nombre) o de recuerdo (cuando se recuerda sin estímulo). Un alto reconocimiento de marca facilita la elección del consumidor y reduce la percepción de riesgo, lo que puede aumentar las ventas y la cuota de mercado.",
-      "question": "3. ¿Qué es el reconocimiento de marca?",
+      "intro": "La lealtad a la marca es un indicador clave del brand equity. Cuando los consumidores repiten la compra sin considerar alternativas, se demuestra un alto nivel de compromiso. Sin embargo, esta lealtad no siempre es evidente hasta que se produce un cambio en la marca, como una reformulación del producto o un cambio de diseño. La reacción del público ante estos cambios revela el verdadero valor emocional que la marca tiene para ellos. Casos como el de New Coke o el rediseño de Tropicana muestran cómo alterar elementos clave puede generar una respuesta negativa masiva, evidenciando que la lealtad era más profunda de lo que se pensaba.",
+      "question": "3. ¿Cuándo suelen darse cuenta los especialistas en marketing del verdadero valor de la lealtad a la marca?",
       "options": [
-        "El precio de la marca",
-        "La capacidad del consumidor para identificar o recordar la marca",
-        "Solo la publicidad",
-        "El número de productos"
+        "Cuando lanzan una nueva campaña publicitaria",
+        "Cuando cambian un elemento crucial de la marca",
+        "Cuando aumentan el precio del producto",
+        "Cuando introducen un nuevo distribuidor"
       ],
       "correct": [1],
-      "saber_mas": "<p>El <u>reconocimiento de marca</u> es la <strong>capacidad del consumidor</strong> para <strong>identificar</strong> o <strong>recordar</strong> una marca cuando se le presenta.</p><p>Existen dos niveles:<br>• <strong>Reconocimiento</strong>: el consumidor reconoce la marca cuando ve su nombre o logotipo (respuesta a un estímulo).<br>• <strong>Recuerdo</strong>: el consumidor recuerda el nombre de la marca sin que se le muestre (respuesta sin estímulo, más difícil).</p><p>Un alto reconocimiento de marca es fundamental porque:<br>• <strong>Facilita la elección del consumidor</strong> en entornos de alta competencia.<br>• <strong>Reduce la percepción de riesgo</strong> (una marca conocida parece más segura).<br>• <strong>Aumenta la probabilidad de ser considerada</strong> en el proceso de compra (forma parte del conjunto de consideración).<br>• <strong>Puede aumentar las ventas y la cuota de mercado</strong>, incluso sin cambios en el producto.</p><p>Se construye principalmente a través de:<br>• <strong>Publicidad</strong> masiva y repetida.<br>• <strong>Presencia en el punto de venta</strong>.<br>• <strong>Patrocinios</strong> y eventos.<br>• <strong>Marketing digital</strong> y redes sociales.</p><p>Es el <strong>cimiento</strong> sobre el cual se construyen los otros componentes del brand equity.</p>"
+      "saber_mas": "<p>Los especialistas en marketing muchas veces <u>sólo perciben la importancia de la lealtad a la marca</u> cuando se realiza un cambio significativo, como una reformulación del producto o un rediseño del empaque.</p><p>La historia clásica de <u>New Coke</u> ilustra esto: al intentar cambiar la fórmula, Coca-Cola enfrentó una reacción negativa masiva, demostrando que los consumidores tenían una conexión emocional profunda con la marca original.</p><p>Esto revela que el brand equity va más allá de lo funcional y reside en las asociaciones afectivas del consumidor.</p>"
     },
     {
-      "intro": "La calidad percibida es la evaluación subjetiva del consumidor sobre la excelencia general del producto o servicio de una marca. No es la calidad real medida por ingenieros, sino cómo el consumidor la percibe. Esta percepción influye directamente en el precio que el consumidor está dispuesto a pagar y en su lealtad hacia la marca.",
-      "question": "4. ¿Qué es la calidad percibida?",
+      "intro": "Las extensiones de marca permiten a las empresas aprovechar el valor existente de una marca para lanzar nuevos productos en categorías diferentes. Esto puede acelerar la aceptación del mercado y reducir los costos de lanzamiento. Sin embargo, no todas las extensiones tienen éxito. Una extensión inadecuada puede debilitar la marca original si los consumidores perciben una falta de coherencia. El riesgo es mayor cuando la nueva categoría está muy alejada del núcleo de la marca. Por eso, es crucial evaluar la compatibilidad entre la marca madre y el nuevo producto antes del lanzamiento.",
+      "question": "4. ¿Qué riesgo principal enfrenta una marca al lanzar una extensión inadecuada?",
       "options": [
-        "La calidad medida por ingenieros",
-        "La evaluación subjetiva del consumidor sobre la excelencia de un producto",
-        "Solo el precio",
-        "La producción interna"
+        "Aumento inmediato de las ventas",
+        "Confusión o debilitamiento de la marca madre",
+        "Mayor reconocimiento global",
+        "Reducción de costos operativos"
       ],
       "correct": [1],
-      "saber_mas": "<p>La <u>calidad percibida</u> es la <strong>evaluación subjetiva</strong> que el consumidor hace sobre la <strong>excelencia</strong> general del producto o servicio de una marca.</p><p>No es la <strong>calidad real</strong> medida por especificaciones técnicas o ingenieros, sino cómo el consumidor <strong>percibe</strong> esa calidad.</p><p>Factores que influyen en la calidad percibida:<br>• <strong>Desempeño</strong> del producto (cumple con las expectativas).<br>• <strong>Características</strong> y funcionalidades.<br>• <strong>Confiabilidad</strong> y durabilidad.<br>• <strong>Estética</strong> y diseño.<br>• <strong>Servicio postventa</strong>.<br>• <strong>Reputación</strong> de la marca.<br>• <strong>Precio</strong> (a veces se asocia con mayor calidad).<br>• <strong>Comunicación</strong> de la marca.</p><p>La calidad percibida es <strong>crucial</strong> porque:<br>• <strong>Influye directamente</strong> en el precio que el consumidor está dispuesto a pagar.<br>• <strong>Aumenta la lealtad</strong> del cliente.<br>• <strong>Reduce la sensibilidad al precio</strong>.<br>• <strong>Fortalece el brand equity</strong> y la ventaja competitiva.</p><p>Una marca puede tener una <strong>calidad real alta</strong>, pero si no se comunica bien, la <strong>calidad percibida</strong> será baja.</p><p>El marketing debe <strong>gestionar activamente</strong> esta percepción a través de todos los puntos de contacto.</p>"
+      "saber_mas": "<p>Una <u>extensión de marca fallida</u> puede <u>confundir al consumidor</u> o <u>debilitar la imagen de la marca madre</u>, especialmente si el nuevo producto no es coherente con las asociaciones existentes.</p><p>Por ejemplo, si una marca de lujo lanza un producto de baja calidad, puede erosionar su percepción de exclusividad.</p><p>El riesgo es mayor cuando existe una <u>gran base de ajuste</u> entre la marca y la extensión, ya que los consumidores esperan coherencia. Aunque se pueda revertir, el daño reputacional puede ser duradero.</p>"
     },
     {
-      "intro": "Las asociaciones de marca son las conexiones mentales que el consumidor hace con una marca, como atributos, beneficios, actitudes, personalidad o valores. Estas asociaciones forman la identidad de la marca y la diferencian de la competencia. Una buena asociación (como 'innovación' para Apple) puede ser un poderoso activo de marketing.",
-      "question": "5. ¿Qué son las asociaciones de marca?",
+      "intro": "No todas las extensiones de marca son iguales. Algunas se realizan dentro de la misma categoría (extensiones de línea), mientras que otras entran en categorías completamente nuevas (extensiones de marca). Las primeras suelen ser menos arriesgadas, ya que mantienen la esencia de la marca. Un ejemplo es Tide, que ha lanzado múltiples versiones de su detergente (en polvo, líquido, perfumado) sin salir de la categoría de limpieza. Estas extensiones permiten capturar más segmentos del mercado y satisfacer necesidades específicas, fortaleciendo el brand equity en lugar de diluirlo.",
+      "question": "5. ¿Qué ejemplo se menciona de una marca que ha mantenido su participación de mercado gracias a extensiones de línea?",
       "options": [
-        "Solo el logotipo",
-        "Las conexiones mentales que el consumidor hace con la marca",
-        "Solo el precio",
-        "La producción"
+        "Pepsi",
+        "Tide",
+        "Samsung",
+        "Zippo"
       ],
       "correct": [1],
-      "saber_mas": "<p>Las <u>asociaciones de marca</u> son las <strong>conexiones mentales</strong> que el consumidor establece con una marca en su mente.</p><p>Pueden ser:<br>• <strong>Atributos</strong>: características del producto (rápido, duradero, ecológico).<br>• <strong>Beneficios</strong>: lo que el producto hace por el consumidor (ahorro de tiempo, prestigio, seguridad).<br>• <strong>Actitudes</strong>: sentimientos hacia la marca (confianza, alegría, tranquilidad).<br>• <strong>Personalidad de la marca</strong>: rasgos humanos atribuidos a la marca (amigable, sofisticado, aventurero).<br>• <strong>Valores</strong>: creencias fundamentales (sostenibilidad, innovación, tradición).<br>• <strong>Usuarios típicos</strong>: tipo de persona que usa la marca.<br>• <strong>Uso o situación</strong>: cuándo y dónde se usa el producto.</p><p>Estas asociaciones forman la <strong>identidad de la marca</strong> y son clave para <strong>diferenciarla</strong> de la competencia.</p><p>Ejemplos:<br>• Apple: <strong>innovación, diseño, simplicidad</strong>.<br>• Nike: <strong>rendimiento, inspiración, superación</strong>.<br>• Volvo: <strong>seguridad</strong>.<br>• Patagonia: <strong>sostenibilidad, aventura</strong>.</p><p>Una <strong>buena asociación</strong> es <strong>diferenciada, relevante, creíble y sostenible</strong>.<br>El marketing debe <strong>crear, reforzar y proteger</strong> estas asociaciones a través de una comunicación coherente.</p>"
+      "saber_mas": "<p><u>Tide</u> ha mantenido la misma <u>participación de mercado durante 50 años</u> gracias a sus múltiples <u>extensiones de línea</u>, como detergentes en polvo, líquidos, perfumados y en pastillas.</p><p>Estas variantes permiten atender diferentes preferencias de los consumidores sin salir de la categoría principal, lo que fortalece la marca en lugar de diluirla.</p><p>Además, evita que los consumidores cambien a competidores, actuando como un <u>canibalismo preventivo</u> saludable.</p>"
     },
     {
-      "intro": "La lealtad del cliente es el grado de compromiso del consumidor con una marca, que se traduce en compras repetidas y resistencia a la competencia. Es el componente más valioso del brand equity, ya que los clientes leales son más rentables, menos sensibles al precio y actúan como defensores de la marca. La lealtad se construye a través de la confianza, el valor y las experiencias positivas.",
-      "question": "6. ¿Por qué es valiosa la lealtad del cliente?",
+      "intro": "El canibalismo de marca ocurre cuando un nuevo producto de la misma marca compite con uno existente, reduciendo sus ventas. Aunque suene negativo, no siempre es perjudicial. Si los consumidores hubieran cambiado a una marca de la competencia, el canibalismo interno puede ser una estrategia inteligente para retenerlos. Este 'canibalismo preventivo' protege la cuota de mercado y fortalece la lealtad a la marca. Lo importante es que la marca global gane, aunque un producto específico pierda participación.",
+      "question": "6. ¿Cuándo puede considerarse deseable el canibalismo de una marca?",
       "options": [
-        "Porque los clientes leales compran menos",
-        "Porque son más rentables, menos sensibles al precio y recomiendan la marca",
-        "Solo para reducir la publicidad",
-        "Porque cambian de marca frecuentemente"
+        "Cuando se reduce el número de empleados",
+        "Cuando los consumidores hubieran cambiado a una marca competidora",
+        "Cuando se elimina un producto sin sustituto",
+        "Cuando se aumenta el precio de todos los productos"
       ],
       "correct": [1],
-      "saber_mas": "<p>La <u>lealtad del cliente</u> es el <strong>grado de compromiso</strong> del consumidor con una marca, que se traduce en <strong>compras repetidas</strong> y <strong>resistencia a la competencia</strong>.</p><p>Es el <strong>componente más valioso</strong> del brand equity porque:<br>• <strong>Los clientes leales son más rentables</strong>: tienen un mayor valor de por vida (CLV) y generan ingresos recurrentes.<br>• <strong>Son menos sensibles al precio</strong>: están dispuestos a pagar más por la marca que valoran.<br>• <strong>Recomiendan la marca</strong>: actúan como <strong>defensores</strong> (boca en boca positivo), lo que reduce los costos de adquisición.<br>• <strong>Proporcionan retroalimentación valiosa</strong> para mejorar productos y servicios.<br>• <strong>Estabilizan las ventas</strong> en tiempos de crisis.</p><p>La lealtad no es solo <strong>frecuencia de compra</strong>, sino un <strong>compromiso emocional</strong> con la marca.</p><p>Se construye a través de:<br>• <strong>Valor superior</strong> (producto, servicio, experiencia).<br>• <strong>Confianza</strong> en la marca.<br>• <strong>Relaciones personalizadas</strong>.<br>• <strong>Programas de fidelización</strong> efectivos.<br>• <strong>Resolución de problemas</strong> de forma excelente.</p><p>Invertir en la lealtad es <strong>más rentable</strong> que invertir solo en adquisición de nuevos clientes.</p>"
+      "saber_mas": "<p>El <u>canibalismo de marca</u> puede ser deseable cuando se entiende como <u>canibalismo preventivo</u>: los consumidores podrían haber cambiado a una marca de la competencia si la extensión no existiera.</p><p>En ese caso, aunque un producto interno pierda ventas, la marca en su conjunto las retiene, protegiendo su participación de mercado.</p><p>Este enfoque estratégico permite a la empresa controlar la migración del consumidor y mantener la lealtad dentro de su portafolio.</p>"
     },
     {
-      "intro": "El brand equity se construye a través de una gestión consistente de todos los puntos de contacto con el cliente. Cada interacción, desde la publicidad hasta el servicio postventa, contribuye a la percepción de la marca. Una estrategia de marca clara, una promesa de valor cumplida y una comunicación coherente son esenciales para crear un brand equity fuerte y sostenible.",
-      "question": "7. ¿Cómo se construye el brand equity?",
+      "intro": "Algunas marcas deciden expandir su significado más allá de su producto original. Este proceso, conocido como extensión de significado, busca que la marca represente un concepto más amplio. Un ejemplo es Zippo, que ha pasado de ser un encendedor a simbolizar 'todos los productos relacionados con el fuego'. Esta estrategia permite diversificar el portafolio sin perder coherencia, siempre que el nuevo significado tenga sentido para el consumidor. La clave está en mantener la esencia de la marca mientras se amplía su alcance funcional y emocional.",
+      "question": "7. ¿Qué marca se menciona como ejemplo de extensión del significado de la marca hacia 'todos los productos relacionados con el fuego'?",
       "options": [
-        "Solo con publicidad masiva",
-        "Con una gestión consistente de todos los puntos de contacto con el cliente",
-        "Solo con el precio",
-        "Ignorando al cliente"
+        "Bic",
+        "Dominator",
+        "Zippo",
+        "Arm & Hammer"
       ],
-      "correct": [1],
-      "saber_mas": "<p>El <u>brand equity</u> no se construye de la noche a la mañana, sino a través de una <strong>gestión consistente</strong> de <strong>todos los puntos de contacto</strong> con el cliente a lo largo del tiempo.</p><p>Cada interacción contribuye a la percepción de la marca:<br>• <strong>Publicidad</strong> y <strong>comunicación</strong> (mensajes, tono, imagen).<br>• <strong>Producto</strong> (calidad, diseño, funcionalidad).<br>• <strong>Precio</strong> (refleja la posición de la marca).<br>• <strong>Distribución</strong> (disponibilidad, canales).<br>• <strong>Servicio al cliente</strong> (antes, durante y después de la compra).<br>• <strong>Experiencia en la tienda</strong> (física o digital).<br>• <strong>Interacción en redes sociales</strong>.</p><p>Elementos esenciales:<br>• <strong>Estrategia de marca clara</strong>: misión, visión, valores, personalidad.<br>• <strong>Promesa de valor</strong> clara y diferenciada.<br>• <strong>Cumplimiento de la promesa</strong> en cada interacción.<br>• <strong>Comunicación coherente</strong> en todos los canales.<br>• <strong>Experiencias del cliente</strong> positivas y memorables.</p><p>Una <strong>inconsistencia</strong> en cualquier punto de contacto puede <strong>dañar</strong> gravemente el brand equity.</p><p>El brand equity es un <strong>activo acumulativo</strong> que requiere inversión continua y paciencia.</p>"
+      "correct": [2],
+      "saber_mas": "<p><u>Zippo</u> ha decidido extender su marca más allá del encendedor tradicional hacia <u>todos los productos relacionados con el fuego</u>, como encendedores para chimeneas, asadores y velas.</p><p>Además, ha adquirido marcas como <u>W.R. Case & Sons Cutlery</u> (cuchillos) y <u>DDM Italia</u> (artículos de piel), planeando vender productos para uso exterior.</p><p>Esta estrategia amplía su alcance sin abandonar su identidad central, transformando la marca en un estilo de vida asociado a la aventura y lo rústico.</p>"
     },
     {
-      "intro": "Una marca fuerte puede cobrar precios premium porque los consumidores perciben un mayor valor. Este valor no solo proviene del producto, sino de la marca en sí: confianza, calidad percibida, estatus, lealtad. El brand equity justifica el precio superior y protege a la marca de la competencia basada en precios.",
-      "question": "8. ¿Por qué una marca fuerte puede cobrar precios premium?",
+      "intro": "Otra forma de extensión es cuando una marca se asocia con otros productos en puntos de venta populares, esperando que la credibilidad de estos canales se 'contagie' a la marca. Este enfoque, aunque arriesgado, puede acelerar el reconocimiento. Por ejemplo, una marca de surf podría intentar vender sus tablas en tiendas populares de moda, confiando en que la reputación de la tienda impulse la percepción de calidad. Sin embargo, si la asociación no es coherente, puede generar desconfianza o confusión en el consumidor.",
+      "question": "8. ¿Qué estrategia utiliza una empresa al intentar vender sus productos a través de tiendas populares con la esperanza de que la credibilidad se 'contagie'?",
       "options": [
-        "Porque los consumidores no entienden los precios",
-        "Porque los consumidores perciben un mayor valor asociado a la marca",
-        "Solo por la publicidad",
-        "Porque reduce la calidad"
+        "Estrategia de precios bajos",
+        "Estrategia de canal de distribución exclusivo",
+        "Estrategia de contagio de credibilidad",
+        "Estrategia de publicidad masiva"
       ],
-      "correct": [1],
-      "saber_mas": "<p>Una <u>marca fuerte</u> puede <strong>colegir precios premium</strong> porque los consumidores <strong>perciben un mayor valor</strong> en su oferta, que va más allá del producto físico.</p><p>Este valor adicional proviene de:<br>• <strong>Confianza</strong>: el consumidor confía en que la marca cumplirá con sus promesas.<br>• <strong>Calidad percibida</strong>: se asocia con excelencia y fiabilidad.<br>• <strong>Estatus y prestigio</strong>: poseer la marca otorga reconocimiento social.<br>• <strong>Lealtad emocional</strong>: el consumidor tiene una conexión emocional con la marca.<br>• <strong>Reducción del riesgo percibido</strong>: elegir una marca conocida es una decisión más segura.<br>• <strong>Experiencias positivas</strong> acumuladas con la marca.</p><p>Este <strong>valor percibido</strong> justifica el precio superior en la mente del consumidor.</p><p>Beneficios para la empresa:<br>• <strong>Mayor margen de beneficio</strong>.<br>• <strong>Mayor rentabilidad</strong>.<br>• <strong>Protección frente a la competencia</strong> que compite solo por precios.<br>• <strong>Mayor flexibilidad</strong> para gestionar el precio.</p><p>El brand equity es la <strong>base</strong> que permite esta estrategia de precios, ya que sin una percepción de valor superior, el precio premium no sería sostenible.</p>"
+      "correct": [2],
+      "saber_mas": "<p>Algunas empresas intentan vender sus productos a través de <u>tiendas populares o canales prestigiosos</u> con la esperanza de que la <u>credibilidad de esos canales se 'contagie'</u> a su marca.</p><p>Por ejemplo, una marca como <u>Dominator</u> podría intentar vender sus tablas de surf en tiendas de moda urbana para asociarse con un estilo de vida joven y dinámico.</p><p>Sin embargo, esta estrategia sólo funciona si existe coherencia entre la marca y el canal; de lo contrario, puede parecer forzada o poco auténtica.</p>"
     },
     {
-      "intro": "El efecto halo es un fenómeno psicológico donde una percepción positiva de una marca en un producto influye en la percepción de otros productos de la misma marca. Por ejemplo, el éxito de un smartphone puede mejorar la imagen de otros productos electrónicos de la marca. Este efecto facilita el lanzamiento de nuevos productos.",
-      "question": "9. ¿Qué es el efecto halo en el brand equity?",
+      "intro": "Las alianzas estratégicas entre marcas pueden potenciar el brand equity de ambas partes. Al asociarse con una marca complementaria, cada una puede beneficiarse de las fortalezas de la otra, ya sea en tecnología, distribución o imagen. Estas colaboraciones permiten acceder a nuevos mercados, innovar más rápido y crear experiencias únicas para el consumidor. Un ejemplo es la alianza entre Samsung y Microsoft para crear dispositivos energéticamente eficientes. Estas sinergias, bien gestionadas, refuerzan la percepción de innovación y confiabilidad.",
+      "question": "9. ¿Qué tipo de asociación estableció Samsung con Microsoft en el ámbito de la eficiencia energética?",
       "options": [
-        "Cuando una marca tiene mala reputación",
-        "Cuando una percepción positiva de una marca influye en la percepción de sus otros productos",
-        "Solo un tipo de publicidad",
-        "Un descuento temporal"
+        "Alianza de precios",
+        "Alianza ecológica",
+        "Alianza de distribución exclusiva",
+        "Alianza publicitaria conjunta"
       ],
       "correct": [1],
-      "saber_mas": "<p>El <u>efecto halo</u> es un <strong>fenómeno psicológico</strong> donde una <strong>percepción positiva</strong> de una marca en un producto o atributo <strong>influye</strong> en la percepción de <strong>otros productos o atributos</strong> de la misma marca.</p><p>Por ejemplo:<br>• El éxito de un <strong>smartphone</strong> de Apple mejora la imagen de sus <strong>ordenadores</strong> y <strong>relojes</strong>.<br>• La reputación de <strong>seguridad</strong> de Volvo influye en la percepción de sus <strong>camiones</strong>.<br>• La innovación de Tesla en coches eléctricos afecta positivamente a sus <strong>baterías</strong> y <strong>paneles solares</strong>.</p><p>Este efecto es un <strong>beneficio clave</strong> del brand equity fuerte, ya que:<br>• <strong>Facilita el lanzamiento de nuevos productos</strong> (los consumidores los ven con mejores ojos).<br>• <strong>Reduce el riesgo percibido</strong> en productos desconocidos de la marca.<br>• <strong>Aumenta la probabilidad de compra</strong> del nuevo producto.<br>• <strong>Reduce los costos de marketing</strong> para el nuevo lanzamiento.</p><p>El efecto halo se fortalece cuando la marca tiene una <strong>identidad clara y coherente</strong> y cuando los nuevos productos están <strong>alineados</strong> con las asociaciones de marca existentes.</p><p>Es un <strong>activo estratégico</strong> que las marcas fuertes explotan para crecer.</p>"
+      "saber_mas": "<p>Samsung formó una <u>alianza ecológica</u> con Microsoft para contribuir en la creación de <u>equipos informáticos energéticamente eficientes</u>.</p><p>Esta colaboración combina la experiencia de Samsung en hardware con la tecnología de software de Microsoft, buscando soluciones sostenibles.</p><p>Además de beneficios técnicos, esta alianza refuerza la imagen de ambas marcas como innovadoras y responsables con el medio ambiente, fortaleciendo su brand equity.</p>"
     },
     {
-      "intro": "La personalidad de la marca es el conjunto de rasgos humanos que los consumidores atribuyen a una marca. Puede ser amigable, sofisticada, aventurera, responsable, etc. Una personalidad clara y coherente ayuda a la marca a conectar emocionalmente con su público objetivo y a diferenciarse de la competencia.",
-      "question": "10. ¿Qué es la personalidad de la marca?",
+      "intro": "El país de origen de una marca puede influir significativamente en su percepción. Los consumidores asocian ciertos países con calidad, lujo, innovación o tradición. Por ejemplo, los productos alemanes suelen percibirse como precisos y duraderos, mientras que los italianos se asocian con diseño y moda. Esta 'imagen país' puede ser un activo valioso para el posicionamiento de marca. Las empresas pueden destacar su origen para reforzar ciertas asociaciones o, en algunos casos, minimizarlo si la percepción es negativa.",
+      "question": "10. ¿Qué elemento puede influir en la percepción de calidad y diseño de una marca según su procedencia?",
       "options": [
-        "El nombre del CEO",
-        "El conjunto de rasgos humanos que los consumidores atribuyen a una marca",
-        "Solo el logotipo",
-        "El precio promedio"
+        "Precio de lanzamiento",
+        "País de origen",
+        "Número de empleados",
+        "Tamaño del empaque"
       ],
       "correct": [1],
-      "saber_mas": "<p>La <u>personalidad de la marca</u> es el <strong>conjunto de rasgos humanos</strong> que los consumidores <strong>atribuyen</strong> a una marca.</p><p>Es una forma de <strong>humanizar</strong> la marca y hacerla más relatable.</p><p>Dimensiones comunes (Jennifer Aaker):<br>• <strong>Ingenuidad</strong>: amigable, sentimental, divertido.<br>• <strong>Excitación</strong>: audaz, moderno, aventurero.<br>• <strong>Competencia</strong>: confiable, inteligente, triunfador.<br>• <strong>Elegancia</strong>: sofisticado, elegante, de lujo.<br>• <strong>Corazón</strong>: auténtico, honesto, responsable.</p><p>Ejemplos:<br>• Dove: <strong>auténtico, honesto, responsable</strong>.<br>• Red Bull: <strong>audaz, aventurero, moderno</strong>.<br>• Rolex: <strong>sofisticado, de lujo, triunfador</strong>.<br>• Innocent (zumos): <strong>amigable, divertido, sentimental</strong>.</p><p>Una personalidad de marca <strong>clara y coherente</strong>:<br>• <strong>Ayuda a diferenciarse</strong> de la competencia.<br>• <strong>Facilita la conexión emocional</strong> con el público objetivo.<br>• <strong>Guía la comunicación</strong> y el tono de voz de la marca.<br>• <strong>Refuerza las asociaciones de marca</strong>.</p><p>Debe ser <strong>auténtica</strong> y estar alineada con la promesa de valor y el comportamiento real de la empresa.</p>"
+      "saber_mas": "<p>El <u>país de origen</u> de una marca influye fuertemente en la percepción del consumidor sobre su calidad, diseño y prestigio.</p><p>Por ejemplo, los productos suizos se asocian con precisión, los italianos con estilo, y los japoneses con tecnología avanzada.</p><p>Esta <u>imagen país</u> forma parte del brand equity y puede ser aprovechada estratégicamente en el posicionamiento, publicidad y diseño del producto para reforzar asociaciones positivas.</p>"
     },
     {
-      "intro": "La consistencia de marca es crucial para construir brand equity. Implica que todos los elementos de la marca (nombre, logotipo, colores, mensajes, tono de voz) sean coherentes en todos los canales y puntos de contacto. La inconsistencia confunde al consumidor y debilita la identidad de la marca.",
-      "question": "11. ¿Por qué es importante la consistencia de marca?",
+      "intro": "Los empleados son embajadores clave de la marca. Su comportamiento, actitud y conocimiento impactan directamente en la experiencia del cliente. Una marca con alto brand equity invierte en la formación y motivación de su personal para asegurar que todos los puntos de contacto refuercen la promesa de marca. Desde el servicio al cliente hasta la atención en tienda, los empleados transmiten la cultura de la marca. Empresas como Disney o Ritz-Carlton son ejemplos de cómo el capital humano se convierte en un pilar del valor de marca.",
+      "question": "11. ¿Qué papel desempeñan los empleados en la construcción del brand equity?",
       "options": [
-        "Para confundir al consumidor",
-        "Para fortalecer la identidad de la marca y construir confianza",
-        "Solo para el logotipo",
-        "Para cambiar la estrategia frecuentemente"
+        "Solo gestionan inventarios",
+        "Son embajadores de la marca y refuerzan la experiencia del cliente",
+        "No tienen impacto en la percepción de la marca",
+        "Se encargan únicamente de la contabilidad"
       ],
       "correct": [1],
-      "saber_mas": "<p>La <u>consistencia de marca</u> es <strong>crucial</strong> para construir un brand equity fuerte y duradero.</p><p>Implica que todos los elementos de la marca sean <strong>coherentes</strong> en todos los canales y puntos de contacto:<br>• <strong>Nombre</strong> y <strong>logotipo</strong>.<br>• <strong>Colores</strong> y <strong>tipografía</strong>.<br>• <strong>Mensajes</strong> clave y <strong>promesa de valor</strong>.<br>• <strong>Tono de voz</strong> y <strong>personalidad</strong>.<br>• <strong>Experiencias del cliente</strong>.</p><p>La consistencia es importante porque:<br>• <strong>Fortalece la identidad de la marca</strong> y la hace más reconocible.<br>• <strong>Construye confianza</strong> en el consumidor (sabe qué esperar).<br>• <strong>Facilita el reconocimiento</strong> y el recuerdo de la marca.<br>• <strong>Refuerza las asociaciones de marca</strong>.<br>• <strong>Evita la confusión</strong> en el mercado.</p><p>Una <strong>inconsistencia</strong> (por ejemplo, un tono de voz diferente en redes sociales que en la publicidad) <strong>debilita</strong> la marca y puede <strong>dañar</strong> la percepción del consumidor.</p><p>La consistencia no significa <strong>monotonía</strong>; permite variaciones creativas siempre que se mantengan los elementos centrales de la identidad de marca.</p><p>Es un compromiso a largo plazo que requiere coordinación entre todos los departamentos de la empresa.</p>"
+      "saber_mas": "<p>Los <u>empleados</u> son <u>embajadores de la marca</u> y juegan un papel crucial en la construcción del brand equity.</p><p>Su comportamiento, actitud y conocimiento influyen directamente en la <u>experiencia del cliente</u>, reforzando o debilitando la promesa de marca.</p><p>Empresas como Disney o Ritz-Carlton invierten fuertemente en la formación de su personal, asegurando que cada interacción con el cliente refuerce valores como excelencia, servicio y calidez.</p>"
     },
     {
-      "intro": "El brand equity puede medirse a través de métodos directos e indirectos. Los métodos directos incluyen encuestas para evaluar reconocimiento, calidad percibida y lealtad. Los métodos indirectos analizan el comportamiento del consumidor, como la cuota de mercado, la sensibilidad al precio y el valor de la marca en transacciones corporativas.",
-      "question": "12. ¿Cómo se puede medir el brand equity?",
+      "intro": "Los ingredientes de marca son elementos clave que contribuyen al brand equity. Pueden ser tecnologías patentadas, fórmulas únicas o componentes que se destacan en la comunicación. Un ejemplo es el bicarbonato de sodio en los productos de Arm & Hammer, que no solo es un ingrediente, sino un símbolo de pureza y versatilidad. Al destacar estos componentes, la marca crea asociaciones fuertes y diferenciadas que los competidores no pueden copiar fácilmente, reforzando así su posición en el mercado.",
+      "question": "12. ¿Qué ingrediente se destaca en los productos de Arm & Hammer como símbolo de pureza y versatilidad?",
       "options": [
-        "Solo con el número de empleados",
-        "Con encuestas y análisis del comportamiento del consumidor",
-        "Solo con el precio de venta",
-        "Ignorando al cliente"
+        "Ácido cítrico",
+        "Cloro",
+        "Bicarbonato de sodio",
+        "Aceite de coco"
       ],
-      "correct": [1],
-      "saber_mas": "<p>El <u>brand equity</u> puede medirse a través de <strong>métodos directos</strong> e <strong>indirectos</strong>.</p><p><strong>Métodos directos</strong> (evalúan las percepciones del consumidor):<br>• <strong>Encuestas</strong> para medir:<br>  – <strong>Reconocimiento y recuerdo</strong> de marca.<br>  – <strong>Calidad percibida</strong>.<br>  – <strong>Asociaciones de marca</strong>.<br>  – <strong>Lealtad</strong> (intención de compra repetida, recomendación).<br>  – <strong>Valor percibido</strong>.<br>• <strong>Pruebas de percepción</strong> en comparación con la competencia.</p><p><strong>Métodos indirectos</strong> (analizan el comportamiento y el valor económico):<br>• <strong>Cuota de mercado</strong> y su evolución.<br>• <strong>Sensibilidad al precio</strong> (cómo cambian las ventas con el precio).<br>• <strong>Valor de la marca en transacciones</strong> (cuánto se paga por una marca en una adquisición).<br>• <strong>Premio de precio</strong> (diferencia de precio que puede cobrar la marca frente a una genérica).<br>• <strong>Costo de adquisición de clientes</strong> (más bajo para marcas fuertes).<br>• <strong>Customer Lifetime Value</strong> (CLV) de los clientes de la marca.</p><p>Las empresas utilizan una <strong>combinación de métodos</strong> para obtener una visión completa del brand equity.</p><p>Medirlo permite <strong>evaluar el éxito</strong> de las estrategias de marketing y <strong>tomar decisiones informadas</strong> sobre inversión en marca.</p>"
+      "correct": [2],
+      "saber_mas": "<p>El <u>bicarbonato de sodio</u> es el <u>ingrediente estrella</u> en los productos de Arm & Hammer, presentado como símbolo de <u>pureza, limpieza y versatilidad</u>.</p><p>La marca ha expandido su línea para incluir usos innovadores: desodorante de refrigeradores, limpiadores para mascotas, productos para el cuidado bucal y más.</p><p>Este enfoque convierte un ingrediente común en un <u>activo de marca</u>, generando asociaciones positivas difíciles de imitar por la competencia.</p>"
     },
     {
-      "intro": "El brand equity permite a las empresas lanzar nuevos productos con mayor facilidad. Los consumidores confían en la marca y están más dispuestos a probar nuevos productos bajo su paraguas. Esto se conoce como el efecto de extensión de marca, que puede ahorrar costos de marketing y acelerar la aceptación del mercado.",
-      "question": "13. ¿Cómo ayuda el brand equity al lanzamiento de nuevos productos?",
+      "intro": "La estrategia publicitaria para una extensión de marca debe ser cuidadosamente planeada. Aunque es tentador destacar la marca madre, en muchos casos es más efectivo centrarse en la extensión misma, especialmente si el producto es nuevo o está en una categoría diferente. El consumidor necesita entender qué hace única la extensión, no solo que proviene de una marca conocida. Una publicidad que solo recuerda la marca de origen puede no comunicar suficientemente los beneficios del nuevo producto, limitando su potencial de éxito.",
+      "question": "13. ¿Qué debe enfatizar principalmente la estrategia publicitaria para una extensión de marca?",
       "options": [
-        "Haciendo que los consumidores ignoren la marca",
-        "Facilitando la aceptación del mercado por la confianza en la marca",
-        "Solo aumentando el precio",
-        "Reduciendo la calidad del nuevo producto"
+        "Recordatorios constantes sobre la marca de origen",
+        "Las características y beneficios de la extensión",
+        "El precio más bajo del mercado",
+        "La cantidad de productos en el portafolio"
       ],
       "correct": [1],
-      "saber_mas": "<p>El <u>brand equity</u> fuerte <strong>facilita significativamente</strong> el lanzamiento de nuevos productos.</p><p>Este fenómeno se conoce como <strong>extensión de marca</strong> o <strong>efecto de paraguas</strong>.</p><p>Cómo ayuda:<br>• <strong>Transfiere la confianza</strong> que los consumidores tienen en la marca madre al nuevo producto.<br>• <strong>Reduce el riesgo percibido</strong> para el consumidor (es más seguro probar un producto de una marca conocida).<br>• <strong>Aumenta la probabilidad de prueba</strong> y compra.<br>• <strong>Acorta el tiempo de aceptación</strong> en el mercado.<br>• <strong>Reduce los costos de marketing</strong> (no se necesita construir reconocimiento desde cero).<br>• <strong>Facilita la distribución</strong> (los minoristas están más dispuestos a incluir productos de marcas fuertes).</p><p>Ejemplos:<br>• Apple lanzó el iPhone con éxito gracias al brand equity de sus ordenadores.<br>• Dove extendió su línea de productos desde jabón a champús, desodorantes y cremas.<br>• Amazon lanzó el Kindle y los servicios AWS con éxito.</p><p>Para que la extensión tenga éxito, el nuevo producto debe estar <strong>alineado</strong> con las <strong>asociaciones de marca</strong> existentes y ofrecer <strong>calidad</strong>. Una extensión inapropiada puede <strong>diluir</strong> el brand equity.</p>"
+      "saber_mas": "<p>La <u>estrategia publicitaria más eficaz</u> para una extensión de marca debe <u>centrarse en la extensión misma</u>, destacando sus características, beneficios y diferencias.</p><p>Aunque la marca de origen aporta credibilidad, los consumidores necesitan entender <u>por qué este nuevo producto es valioso</u>.</p><p>Insistir solo en el recordatorio de la marca madre puede no ser suficiente para generar adopción, especialmente si la categoría es nueva o competitiva.</p>"
     },
     {
-      "intro": "El brand equity es un activo intangible que puede tener un valor financiero significativo. En adquisiciones corporativas, una parte importante del precio pagado por una empresa puede corresponder al valor de su marca. Marca como Coca-Cola o Apple tienen un brand equity que representa una fracción importante de su valor de mercado.",
-      "question": "14. ¿Qué papel juega el brand equity en una adquisición corporativa?",
+      "intro": "Las extensiones verticales implican lanzar productos en la misma categoría pero con diferentes niveles de calidad o precio, como una versión premium o económica. Estas extensiones permiten atender múltiples segmentos, pero requieren estrategias cuidadosas para no confundir al consumidor. A menudo, se utilizan submarcas para diferenciar claramente los niveles. Por ejemplo, Toyota usa Lexus para su línea premium. Sin esta diferenciación, los consumidores pueden percibir una pérdida de estatus en la marca original o dudar de la calidad de la versión económica.",
+      "question": "14. ¿Por qué las extensiones verticales suelen requerir estrategias de submarca?",
       "options": [
-        "No tiene ningún valor",
-        "Puede representar una parte significativa del precio pagado",
-        "Solo afecta al nombre",
-        "Reduce el valor de la empresa"
+        "Para reducir los costos de producción",
+        "Para evitar la confusión entre niveles de calidad y precio",
+        "Para aumentar el número de empleados",
+        "Para eliminar la competencia directa"
       ],
       "correct": [1],
-      "saber_mas": "<p>El <u>brand equity</u> es un <strong>activo intangible</strong> que puede tener un <strong>valor financiero significativo</strong>, especialmente en adquisiciones corporativas.</p><p>En una fusión o adquisición, el precio pagado por una empresa a menudo supera su <strong>valor contable</strong> (activos tangibles menos pasivos). La diferencia, conocida como <strong>goodwill</strong> (fondo de comercio), incluye principalmente el valor de la marca, la cartera de clientes, la reputación y otras ventajas competitivas.</p><p>Una marca fuerte puede representar una <strong>parte significativa</strong> de este goodwill.</p><p>Ejemplos:<br>• En la adquisición de una marca de lujo, una gran parte del precio se justifica por el <strong>prestigio</strong> y la <strong>lealtad</strong> de la marca.<br>• Al comprar una empresa de consumo masivo, el comprador valora el <strong>reconocimiento</strong> de marca y la <strong>cuota de mercado</strong>.<br>• En tecnología, el valor de la marca (ej. Apple, Google) es un activo clave.</p><p>Empresas especializadas (como Interbrand, Kantar) realizan <strong>valuaciones de marca</strong> para estimar su valor económico.</p><p>Este valor se basa en factores como:<br>• <strong>Fuerza de la marca</strong> (lealtad, diferenciación).<br>• <strong>Rol de la marca</strong> en la decisión de compra.<br>• <strong>Soporte de marketing</strong>.<br>• <strong>Desempeño financiero</strong> de la marca.</p><p>El brand equity es, por tanto, un <strong>activo estratégico</strong> que contribuye directamente al valor de la empresa.</p>"
+      "saber_mas": "<p>Las <u>extensiones verticales</u> (premium o económicas) suelen requerir <u>estrategias de submarca</u> para <u>evitar la confusión</u> y proteger la imagen de la marca principal.</p><p>Por ejemplo, <u>Toyota</u> utiliza <u>Lexus</u> para su línea premium, evitando que los clientes perciban una pérdida de estatus en la marca Toyota.</p><p>Esto permite atender diferentes segmentos sin comprometer la percepción de calidad o exclusividad de ninguna de las líneas.</p>"
     },
     {
-      "intro": "La gestión del brand equity implica monitorear constantemente la percepción de la marca, protegerla de amenazas y reforzar sus puntos fuertes. Requiere una visión a largo plazo, inversión continua y coordinación entre todos los departamentos de la empresa. Una crisis de marca puede dañar el brand equity rápidamente, por lo que es esencial tener planes de gestión de crisis.",
-      "question": "15. ¿Qué implica la gestión del brand equity?",
+      "intro": "Finalmente, el éxito de una extensión de marca depende de la compatibilidad entre la marca madre y el nuevo producto. Si los consumidores perciben una conexión lógica, la aceptación será más rápida. Por ejemplo, una marca de deportes que lanza ropa técnica tiene más sentido que si lanzara productos financieros. La coherencia fortalece la credibilidad. Sin embargo, si la extensión falla, no necesariamente arruina la marca, especialmente si la conexión no era fuerte. Además, la empresa puede corregir el rumbo con una nueva extensión mejor diseñada.",
+      "question": "15. ¿Qué factor determina en gran medida el éxito de una extensión de marca?",
       "options": [
-        "Ignorar la percepción del cliente",
-        "Monitorear, proteger y reforzar la percepción de la marca",
-        "Cambiar la marca frecuentemente",
-        "Reducir la inversión en marketing"
+        "El número de colores en el empaque",
+        "La compatibilidad entre la marca madre y el nuevo producto",
+        "La cantidad de publicidad en redes sociales",
+        "El tamaño del mercado objetivo"
       ],
       "correct": [1],
-      "saber_mas": "<p>La <u>gestión del brand equity</u> es un proceso <strong>activo, continuo y estratégico</strong> que implica <strong>monitorear, proteger y reforzar</strong> la percepción de la marca en la mente del consumidor.</p><p>Actividades clave:<br>• <strong>Monitoreo constante</strong>: medir regularmente el reconocimiento, calidad percibida, asociaciones y lealtad (encuestas, análisis de redes sociales).<br>• <strong>Protección de la marca</strong>: defenderla contra imitaciones, usos inapropiados y crisis (gestión de crisis).<br>• <strong>Reforzamiento</strong>: comunicar consistentemente la promesa de valor y las asociaciones clave.<br>• <strong>Inversión continua</strong>: en marketing, innovación y calidad del producto.<br>• <strong>Coordinación interdepartamental</strong>: marketing, ventas, producto, servicio al cliente deben actuar de forma alineada.</p><p>Desafíos:<br>• <strong>Cambios en el entorno</strong> (nuevos competidores, tecnologías).<br>• <strong>Crisis de marca</strong> (problemas de calidad, escándalos) que pueden <strong>dañar rápidamente</strong> el brand equity.<br>• <strong>Dilución de la marca</strong> por extensiones inapropiadas.<br>• <strong>Complacencia</strong> en el éxito pasado.</p><p>Requiere una <strong>visión a largo plazo</strong> y el compromiso de la alta dirección.</p><p>Una marca bien gestionada se convierte en un <strong>activo sostenible</strong> que genera valor económico y competitivo durante décadas.</p>"
+      "saber_mas": "<p>El éxito de una <u>extensión de marca</u> depende principalmente de la <u>compatibilidad</u> o <u>ajuste percibido</u> entre la marca madre y el nuevo producto.</p><p>Si los consumidores ven una conexión lógica (por ejemplo, una marca de deportes que lanza calzado), la aceptación será más rápida.</p><p>Una mala compatibilidad genera escepticismo, confusión o rechazo, incluso si el producto es de buena calidad. Por eso, la evaluación estratégica previa es crucial.</p>"
     }
   ]
 }
